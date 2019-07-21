@@ -11,8 +11,8 @@ title: "Organization"
 
 ## Senior program chairs
 
-* Marleen de Bruijne
-* Tal Arbel
+* [Marleen de Bruijne](http://bigr.nl/people/MarleendeBruijne/), Erasmus Medical Center, The Netherlands
+* [Tal Arbel](http://www.cim.mcgill.ca/~arbel/), McGill University, Canada
 
 ## Program chairs
 
