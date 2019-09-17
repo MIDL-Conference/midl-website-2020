@@ -6,7 +6,7 @@ title: "Organization"
 
 ## Conference chairs
 
-* [Christopher Pal](http://www.professeurs.polymtl.ca/christopher.pal/), École Polytechnique de Montréal, Canada
+* [Christopher Pal](http://www.professeurs.polymtl.ca/christopher.pal/), Mila, École Polytechnique de Montréal, Canada
 * [Maxime Descoteaux](https://www.usherbrooke.ca/sciences/personnel/informatique/professeurs/professeurs/maxime-descoteaux/), Université de Sherbrooke, Canada
 
 ## Senior program chairs
@@ -16,19 +16,19 @@ title: "Organization"
 
 ## Program chairs
 
-* Ismail Ben Ayed
-* Hervé Lombaert
+* Ismail Ben Ayed, ÉTS Montréal, Canada
+* Hervé Lombaert, ÉTS Montréal, Canada
 
 ## Scientific advisor
 
-* Yoshua Bengio
+* Yoshua Bengio, Mila, Université de Montréal, Canada
 
 ## Clinical advisor
 
-* Ronald Summers
+* Ronald Summers, NIH
 
 ## Local arrangements chairs
 
-* Joseph Paul Cohen
+* Joseph Paul Cohen, Mila, Université de Montréal, Canada
 * Tess Berthier
 * Margaux Luck
