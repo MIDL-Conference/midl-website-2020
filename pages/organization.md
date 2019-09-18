@@ -17,7 +17,7 @@ title: "Organization"
 ## Program chairs
 
 * [Ismail Ben Ayed](https://profs.etsmtl.ca/ibenayed/), ÉTS Montréal, Canada
-* Hervé Lombaert, ÉTS Montréal, Canada
+* [Hervé Lombaert](https://profs.etsmtl.ca/hlombaert/), ÉTS Montréal, Canada
 
 ## Scientific advisor
 
