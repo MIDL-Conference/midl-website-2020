@@ -17,6 +17,7 @@ show_platform_icons: yes
 
 opengraph:
   description: "International Conference on Medical Imaging with Deep Learning, Montreal 2020"
+  image: "/images/montreal-at-night.jpg"
 
 nav:
   - title: "Home"
