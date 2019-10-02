@@ -4,13 +4,6 @@ title: "Call for papers"
 
 # Call for papers
 
-## Important dates
-* **2020/01/24:** Paper registration deadline
-* **2020/01/30:** Paper submission deadline
-* **2020/03/20:** Paper reviews available to authors
-* **2020/04/10:** Final decisions announced for full paper
-* **To be announced:** Extended abstract deadline and decisions
-
 ## Aim and Scope
 
 We welcome submissions, as full papers or abstracts, for the 2nd International Conference on Medical Imaging with Deep Learning. This conference is a forum for deep learning researchers, clinicians and health-care companies working at the intersection of medical image analysis and machine learning for disease detection, diagnosis, prognosis, intervention, treatment selection and monitoring of disease progression.
