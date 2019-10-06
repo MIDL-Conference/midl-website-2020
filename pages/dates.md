@@ -10,6 +10,7 @@ title: "Important dates and schedule"
 * **2020/03/20:** Paper reviews available to authors
 * **2020/04/10:** Final decisions announced for full paper
 * **To be announced:** Extended abstract deadline and decisions
+* **2020/07/06-08:** Conference
 
 
 ## iCalendar
