@@ -3,5 +3,5 @@
 <h2 class="centered">Montréal, 6 ‑ 8 July 2020</h2>
 
 <p class="primary-photo centered">
-    <img alt="Montreal at Night" src="/images/montreal-at-night.jpg">
+    <img alt="Montréal at Night" src="/images/montreal-at-night.jpg">
 </p>
