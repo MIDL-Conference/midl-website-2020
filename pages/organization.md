@@ -30,5 +30,5 @@ title: "Organization"
 ## Local arrangements chairs
 
 * Joseph Paul Cohen, Mila, Université de Montréal, Canada
-* Tess Berthier
-* Margaux Luck
+* Tess Berthier, Imagia
+* Margaux Luck, Mila, Université de Montréal, Canada
