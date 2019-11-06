@@ -3,13 +3,13 @@ title: "Important dates and schedule"
 ---
 
 # Important dates and schedule
+**Important** This year, both the full and short papers have the same deadline.
 
 ## Important dates
 * **2020/01/24:** Paper registration deadline
 * **2020/01/30:** Paper submission deadline
 * **2020/03/20:** Paper reviews available to authors
-* **2020/04/10:** Final decisions announced for full paper
-* **To be announced:** Extended abstract deadline and decisions
+* **2020/04/10:** Final decisions announced papers
 * **2020/07/06-08:** Conference
 
 
