@@ -22,9 +22,9 @@ title: "Visa & travel"
 ## Visa
 > Most people need a visa **or** an Electronic Travel Authorization to travel to Canada – not both. Some people may only need their valid passport.
 
-[List of visa-exempt countries](https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/entry-requirements-country.html). You can find out if you require a visa [here](http://www.cic.gc.ca/english/visit/visas.asp.).
+[List of visa-exempt countries](https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/entry-requirements-country.html). You can find out if you need a visa [here](http://www.cic.gc.ca/english/visit/visas.asp.).
 
-For those who require a visa, more information can be found on the [Canada immigration website](https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/about-visitor-visa.html).
+For those who need a visa, more information can be found on the [Canada immigration website](https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/about-visitor-visa.html).
 
 ## Traveling to Montréal
 The Montréal–Trudeau International Airport (IATA: YUL, ICAO: CYUL) is located on the Montréal island. Getting downtown can either be done with the [747 bus line](http://www.stm.info/en/info/networks/bus/shuttle/line-747-east) (runs every 15 minutes), or by taxi. The 747 bus line connects to both orange and green metro line at métro Lionel-Groulx, and has many other stops downtown.
@@ -34,13 +34,13 @@ The Montréal–Trudeau International Airport (IATA: YUL, ICAO: CYUL) is located
 </div>
 
 ## Accommodations
-Partnership with hotels to be announced in the near future.
+Partnership with hotels will be announced in the near future.
 
 The venue is conveniently located on top of the Place d'armes métro station (orange line), and 10 minutes walk away from the Place des arts station (green line). Hotels and accommodations along those lines will guarantee a short commute to the conference.
 
 ## Getting around
-Public transportations in Montréal are a convenient way to get around. [3-days and weekly fares](http://www.stm.info/en/info/fares) include the 747 to the airport.
+Public transportations in Montréal are a convenient way to get around. [1-day, 3-days and weekly pass](http://www.stm.info/en/info/fares) include the 747 bus to the airport.
 
-> **Important:** weekly pass always start on Monday.
+> **Important:** weekly pass always starts on Monday. You will need a 1-day or 3-day pass if you arrive on Saturday/Sunday.
 
 [![Metro map](/visa/a-plan_metro_blanc.png)](/visa/a-plan_metro_blanc.pdf)
