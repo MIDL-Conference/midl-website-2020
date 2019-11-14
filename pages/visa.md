@@ -1,26 +1,11 @@
 ---
 title: "Visa & travel"
 ---
-<style>
-    .google-maps {
-        position: relative;
-        padding-bottom: 75%; // This is the aspect ratio
-        height: 0;
-        overflow: hidden;
-    }
-    .google-maps iframe {
-        position: absolute;
-        top: 0;
-        left: 0;
-        width: 100% !important;
-        height: 100% !important;
-    }
-</style>
 
-# Visa & travel informations
+# Visa & travel information
 
 ## Visa
-> Most people need a visa **or** an Electronic Travel Authorization to travel to Canada – not both. Some people may only need their valid passport.
+Most people need a visa **or** an Electronic Travel Authorization to travel to Canada – not both. Some people may only need their valid passport.
 
 [List of visa-exempt countries](https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/entry-requirements-country.html). You can find out if you need a visa [here](http://www.cic.gc.ca/english/visit/visas.asp.).
 
@@ -41,6 +26,6 @@ The venue is conveniently located on top of the Place d'armes métro station (or
 ## Getting around
 Public transportations in Montréal are a convenient way to get around. [1-day, 3-days and weekly pass](http://www.stm.info/en/info/fares) include the 747 bus to the airport.
 
-> **Important:** weekly pass always starts on Monday. You will need a 1-day or 3-day pass if you arrive on Saturday/Sunday.
+**Important:** weekly pass always starts on Monday. You will need a 1-day or 3-day pass if you arrive on Saturday/Sunday.
 
 [![Metro map](/visa/a-plan_metro_blanc.png)](/visa/a-plan_metro_blanc.pdf)
