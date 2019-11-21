@@ -9,6 +9,7 @@ title: "Organization"
 * [Christopher Pal](http://www.professeurs.polymtl.ca/christopher.pal/), Mila, École Polytechnique de Montréal, Canada
 * [Maxime Descoteaux](https://www.usherbrooke.ca/sciences/personnel/informatique/professeurs/professeurs/maxime-descoteaux/), Université de Sherbrooke, Canada
 
+
 ## Senior program chairs
 
 * [Marleen de Bruijne](http://bigr.nl/people/MarleendeBruijne/), Erasmus Medical Center, The Netherlands
@@ -19,6 +20,18 @@ title: "Organization"
 * [Ismail Ben Ayed](https://profs.etsmtl.ca/ibenayed/), ÉTS Montréal, Canada
 * [Hervé Lombaert](https://profs.etsmtl.ca/hlombaert/), ÉTS Montréal, Canada
 
+
+## Challenge chair
+
+* Pierre-Marc Jodoin, Université de Sherbrooke, Canada
+
+#### Challenge co-chairs
+
+* Annika Reinke, German Cancer Research Center, Heidelberg, Germany
+* Joseph Paul Cohen, Mila, Université de Montréal, Canada
+
+
+
 ## Scientific advisor
 
 * Yoshua Bengio, Mila, Université de Montréal, Canada
@@ -26,6 +39,7 @@ title: "Organization"
 ## Clinical advisor
 
 * Ronald Summers, NIH
+
 
 ## Local arrangements chairs
 
