@@ -9,7 +9,7 @@ title: "Important dates and schedule"
 * **2020/01/24:** Paper registration deadline
 * **2020/01/30:** Paper submission deadline
 * **2020/03/20:** Paper reviews available to authors
-* **2020/03/27:** Author discussion ends
+* **2020/03/20 - 2020/04/03:** Rebuttal / discussion period
 * **2020/04/10:** Final decisions announced
 * **2020/07/06-08:** Conference
 
