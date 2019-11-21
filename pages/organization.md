@@ -24,9 +24,6 @@ title: "Organization"
 ## Challenge chair
 
 * Pierre-Marc Jodoin, Université de Sherbrooke, Canada
-
-#### Challenge co-chairs
-
 * Annika Reinke, German Cancer Research Center, Heidelberg, Germany
 * Joseph Paul Cohen, Mila, Université de Montréal, Canada
 
@@ -41,8 +38,13 @@ title: "Organization"
 * Ronald Summers, NIH
 
 
-## Local arrangements chairs
+## Local arrangements
 
 * Joseph Paul Cohen, Mila, Université de Montréal, Canada
 * Tess Berthier, Imagia
 * Margaux Luck, Mila, Université de Montréal, Canada
+
+
+## Web & social media
+
+* Hoel Kervadec, ÉTS Montréal, Canada
