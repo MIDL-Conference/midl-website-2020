@@ -21,7 +21,7 @@ title: "Organization"
 * [Hervé Lombaert](https://profs.etsmtl.ca/hlombaert/), ÉTS Montréal, Canada
 
 
-## Challenge chair
+## Challenge chairs
 
 * Pierre-Marc Jodoin, Université de Sherbrooke, Canada
 * Annika Reinke, German Cancer Research Center, Heidelberg, Germany

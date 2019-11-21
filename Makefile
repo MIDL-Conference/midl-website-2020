@@ -1,4 +1,4 @@
-CC = python3.7
+CC = python3
 CFLAGS= -m mwb
 
 TARGET = output
