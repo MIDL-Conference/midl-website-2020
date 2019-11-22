@@ -1,6 +1,6 @@
 ---
 title: "Keynotes"
-page_class: "keynotes"
+page_class: "keynotes-without-details"
 ---
 
 # Keynote speakers
