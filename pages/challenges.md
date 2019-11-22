@@ -2,6 +2,8 @@
 title: "Challenges"
 ---
 
+{% from "_macros.html" import button %}
+
 # Call for challenges
 
 For the first time, MIDL invites the community to propose challenges involving **both medical imaging and machine learning** topics.  Challenges oriented towards segmentation, classification, registration, diagnostics, localization, tractography, signal restoration, image reconstruction, privacy protection, adversarial attacks on medical data, to name a few, are welcome.
@@ -12,9 +14,7 @@ According to a recent study on common practice in biomedical image analysis ([Ma
 
 The challenge submission site will start accepting submissions on **December 1st, 2019**. Proposal submissions are due on **January 15 2020**.
 
-[% .centered %]
-[Submit a challenge proposal](https://www.biomedical-challenges.org/midl2020/){: class="button" }
-[% / %]
+{{ button("Submit a challenge proposal", "https://www.biomedical-challenges.org/midl2020/") }}
 
 Details on the challenge registration/submission procedure as well as the selection criteria are available on the submission site.
 
