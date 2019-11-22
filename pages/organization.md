@@ -23,7 +23,7 @@ title: "Organization"
 
 ## Challenge chairs
 
-* Pierre-Marc Jodoin, Université de Sherbrooke, Canada
+* [Pierre-Marc Jodoin](http://info.usherbrooke.ca/pmjodoin/), Université de Sherbrooke, Canada
 * Annika Reinke, German Cancer Research Center, Heidelberg, Germany
 * Joseph Paul Cohen, Mila, Université de Montréal, Canada
 
@@ -48,3 +48,4 @@ title: "Organization"
 ## Web & social media
 
 * Hoel Kervadec, ÉTS Montréal, Canada
+* Nikolas Lessmann, Radboud University Medical Center, The Netherlands
