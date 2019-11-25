@@ -53,3 +53,5 @@ nav:
   - title: "Organization"
     path: "/organization.html"
     icon: "users"
+
+cdn: "https://static.midl.io"
