@@ -20,14 +20,16 @@ title: "Organization"
 * [Ismail Ben Ayed](https://profs.etsmtl.ca/ibenayed/), ÉTS Montréal, Canada
 * [Hervé Lombaert](https://profs.etsmtl.ca/hlombaert/), ÉTS Montréal, Canada
 
+## Local arrangements
+
+* Joseph Paul Cohen, Mila, Université de Montréal, Canada
+* Tess Berthier, Imagia
+* Margaux Luck, Mila, Université de Montréal, Canada
 
 ## Challenge chairs
 
 * [Pierre-Marc Jodoin](http://info.usherbrooke.ca/pmjodoin/), Université de Sherbrooke, Canada
 * Annika Reinke, German Cancer Research Center, Heidelberg, Germany
-* Joseph Paul Cohen, Mila, Université de Montréal, Canada
-
-
 
 ## Scientific advisor
 
@@ -36,13 +38,6 @@ title: "Organization"
 ## Clinical advisor
 
 * Ronald Summers, NIH
-
-
-## Local arrangements
-
-* Joseph Paul Cohen, Mila, Université de Montréal, Canada
-* Tess Berthier, Imagia
-* Margaux Luck, Mila, Université de Montréal, Canada
 
 
 ## Web & social media
