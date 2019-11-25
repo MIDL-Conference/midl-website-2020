@@ -12,7 +12,6 @@ The conference has a broad scope including all areas of medical image analysis a
 
 Topics of interest include but are not limited to:
 
-* Topics of interest include but are not limited to:
 * Semantic segmentation of medical images
 * Learning based image registration
 * Computer-aided detection and diagnosis
