@@ -10,7 +10,7 @@ title: "Important dates and schedule"
 * **Reviews available to authors** 20 March 2020
 * **Rebuttal / discussion period** 20 March to 3 April 2020
 * **Notification of acceptance** 10 April 2020
-* **Conference dates** 4-6 July 2020
+* **Conference dates** 6-8 July 2020
 [% / %]
 
 ## Full and short papers
