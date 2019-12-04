@@ -26,4 +26,4 @@ Pierre-Marc Jodoin, Annika Reinke, Joseph Paul Cohen
 Tess Berthier, Margaux Luck
 
 ## Web & social media
-Hoel Kervadec Nikolas Lessmann
+Hoel Kervadec, Nikolas Lessmann
