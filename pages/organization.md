@@ -20,10 +20,12 @@ title: "Organization"
 * Ronald Summers, NIH
 
 ## Challenges
-Pierre-Marc Jodoin, Annika Reinke, Joseph Paul Cohen
+Pierre-Marc Jodoin, Annika Reinke, [Joseph Paul Cohen](https://josephpcohen.com/)
 
 ## Local arrangements
-Tess Berthier, Margaux Luck
+* [Joseph Paul Cohen](https://josephpcohen.com/), Mila, Université de Montréal, Canada
+* Tess Berthier, Imagia Cybernetics 
+* Margaux Luck, Mila, Université de Montréal, Canada
 
 ## Web & social media
 Hoel Kervadec, Nikolas Lessmann
