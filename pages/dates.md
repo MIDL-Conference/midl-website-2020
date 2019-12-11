@@ -14,7 +14,7 @@ title: "Important dates and schedule"
 [% / %]
 
 ## Full and short papers
-This year, both the full and short papers have the same deadline.
+Full and short papers have the same deadline, but the short papers won't go through a rebuttal period. All other dates are common.
 
 ## iCalendar
 An [online iCalendar](/midl.ics) with all dates and schedule is available.
