@@ -5,9 +5,14 @@ title: "Important dates and schedule"
 # Important dates and schedule
 
 [% .deadlines %]
+* **<s>Challenge submission open</s>** <s>1 December 2019</s>
+* **Challenge proposal deadline** 13 January 2020
 * **Paper registration deadline** 24 January 2020
 * **Paper submission deadline** 30 January 2020
-* **Reviews available to authors** 20 March 2020
+* **Challenges reviews available** 3 February 2020
+* **Revised proposal deadline** 14 February 2020
+* **Notification of acceptance** 21 February 2020
+* **Paper reviews available** 20 March 2020
 * **Rebuttal / discussion period** 20 March to 3 April 2020
 * **Notification of acceptance** 10 April 2020
 * **Conference dates** 6-8 July 2020
