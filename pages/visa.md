@@ -12,6 +12,7 @@ Most people need a visa **or** an Electronic Travel Authorization to travel to C
 [List of visa-exempt countries](https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/entry-requirements-country.html). You can find out if you need a visa [here](http://www.cic.gc.ca/english/visit/visas.asp.).
 
 For those who need a visa, more information can be found on the [Canada immigration website](https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/about-visitor-visa.html).
+Enquiries about invitation letters or other documents can be sent to [visa@2020.midl.io](mailto:visa@2020.midl.io).
 
 ## Traveling to Montréal
 The Montréal–Trudeau International Airport (IATA: YUL, ICAO: CYUL) is located on the Montréal island. Getting downtown can either be done with the [747 bus line](http://www.stm.info/en/info/networks/bus/shuttle/line-747-east) (runs every 15 minutes), or by taxi. The 747 bus line connects to both orange and green metro line at métro Lionel-Groulx, and has many other stops downtown.
