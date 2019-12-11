@@ -3,6 +3,7 @@ title: "Important dates and schedule"
 ---
 
 # Important dates and schedule
+Deadlines are at 23:59, [UTC -12](https://www.timeanddate.com/time/map/) ([AoE](https://en.wikipedia.org/wiki/Anywhere_on_Earth) timezone).
 
 [% .deadlines %]
 * **<s>Challenge submission open</s>** <s>1 December 2019</s>
