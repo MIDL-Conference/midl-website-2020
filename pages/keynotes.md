@@ -12,3 +12,8 @@ page_class: "keynotes-without-details"
 
 ## Prof. Nikos Paragios ![Portrait of Nikos Paragios](/images/keynotes/nikos.jpg){: width="180" }
 ### CentraleSupélec
+
+---
+
+## Dr. Elsa Angelini ![Portrait of Elsa Angelini](/images/keynotes/elsa.jpg){: width="180" }
+### Institute for Translational Medicine and Therapeutics (ITMAT), Imperial College London
