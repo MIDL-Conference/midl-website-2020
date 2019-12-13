@@ -4,12 +4,12 @@ title: "Author instructions"
 
 # Author instructions
 
-<!-- Conference submissions follow two tracks: *full conference papers* and *extended abstracts*.
+<!-- Conference submissions follow two tracks: *full conference papers* and *short papers*.
 All accepted full papers will be published as a volume in the [Proceedings of Machine Learning Research](http://proceedings.mlr.press/).
 
-## Extended abstracts
+## Short papers
 
-Extended abstracts are up to 3 pages (excluding references and acknowledgements) and can, for example, focus on preliminary novel methodological ideas without extensive validation. We also specifically accept extended abstracts of recently published or submitted journal contributions to give authors the opportunity to present their work and obtain feedback from the community. Selection of abstracts is performed via a lightweight double-blind review process via OpenReview. All accepted abstracts will be presented as posters at the conference.
+Short papers are up to 3 pages (excluding references and acknowledgements) and can, for example, focus on preliminary novel methodological ideas without extensive validation. We also specifically accept short papers of recently published or submitted journal contributions to give authors the opportunity to present their work and obtain feedback from the community. Selection is performed via a lightweight double-blind review process via OpenReview. All accepted short papers will be presented as posters at the conference.
 
 **Submission deadline:** 30 January 2020, 23:59 UTC-12
 
@@ -24,7 +24,7 @@ Full papers contain well-validated applications or methodological contributions 
 
 ## Latex template
 
-To prepare your submission to MIDL 2020 either as a full paper or an extended abstract, please use the LaTeX style files provided at:
+To prepare your submission to MIDL 2020 either as a full or short paper, please use the LaTeX style files provided at:
 [https://github.com/MIDL-Conference/MIDLLatexTemplate](https://github.com/MIDL-Conference/MIDLLatexTemplate)
 
 <!-- ## Dual submission policy
@@ -33,7 +33,7 @@ To prepare your submission to MIDL 2020 either as a full paper or an extended ab
 
 Submissions that are substantially similar or identical to versions that have been previously published, or accepted for publication, or that have been submitted in parallel to other conferences with proceedings or journals, are not allowed.
 
-### Extended abstracts
+### Short papers
 
 In addition to original work, authors can choose to submit a shortened version of a recently (within the year 2018 or 2019) published, or submitted, journal publication to foster dissemination of high-quality work. Submissions that are substantially similar or identical to versions that have been accepted or submitted in parallel to other conferences with proceedings are not allowed.
 
@@ -49,9 +49,9 @@ Authors have the right to withdraw papers from consideration at any time until t
 
 ## Reviewing process
 
-1. Submissions to MIDL can be made either as a full paper or as an extended abstract.
+1. Submissions to MIDL can be made either as a full or a short paper.
 2. Submissions to MIDL are uploaded on OpenReview, which enables public discussion. Official reviews are anonymous and publicly visible. However, reviews from the Public (=anybody who is logged in can post comments) will only be released after the decisions are announced. The author of a comment can decide to post anonymously or not. Login is required before posting any comment.
-3. Extended abstract submissions will undergo a lighter review.
+3. Short paper submissions will undergo a lighter review.
 4. By March 19, 2019, reviewers need to post their full review. Official reviews are anonymous by default and publicly visible in Open Review
 5. The rebuttal and discussion period will be from March 20, 2020 until April 3, 2020, where authors can address reviewer comments.
 6. On April 10, 2020, authors will be notified about the acceptance or rejection of their paper.
