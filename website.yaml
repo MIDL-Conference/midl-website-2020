@@ -53,8 +53,8 @@ nav:
   - title: "Organization"
     path: "/organization.html"
     icon: "users"
-  - title: "Sponsorship"
-    path: "/sponsorship-packages.html"
-    icon: "star"
+  # - title: "Sponsorship"
+  #   path: "/sponsorship-packages.html"
+  #   icon: "star"
 
 cdn: "https://static.midl.io"
