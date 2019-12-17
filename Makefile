@@ -1,5 +1,7 @@
 CC = python3
-CFLAGS= -m mwb
+CFLAGS = -m mwb
+
+DEBUG = --prettify
 
 TARGET = output
 
@@ -10,7 +12,7 @@ all: $(TARGET)
 # output: website.yaml pages/ placeholder/ static/ themes/
 output: FORCE
 	rm -rf $@
-	$(CC) $(CFLAGS) . $@
+	$(CC) $(CFLAGS) . $@ $(DEBUG)
 # 	chmod -R +x $@
 
 clean:
