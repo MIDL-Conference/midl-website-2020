@@ -5,19 +5,19 @@ title: "Organization"
 # Organization
 
 ## Conference chairs
-* [Christopher Pal](http://www.professeurs.polymtl.ca/christopher.pal/), Mila, École Polytechnique de Montréal, Canada
-* [Maxime Descoteaux](https://www.usherbrooke.ca/sciences/personnel/informatique/professeurs/professeurs/maxime-descoteaux/), Université de Sherbrooke, Canada
+* Christopher Pal (Mila, École Polytechnique de Montréal, Canada)
+* Maxime Descoteaux (Université de Sherbrooke, Canada)
 
 
 ## Program chairs
-* [Marleen de Bruijne](http://bigr.nl/people/MarleendeBruijne/), Erasmus Medical Center, The Netherlands
-* [Tal Arbel](http://www.cim.mcgill.ca/~arbel/), McGill University, Canada
-* [Ismail Ben Ayed](https://profs.etsmtl.ca/ibenayed/), ÉTS Montréal, Canada
-* [Hervé Lombaert](https://profs.etsmtl.ca/hlombaert/), ÉTS Montréal, Canada
+* Marleen de Bruijne (Erasmus Medical Center, The Netherlands)
+* Tal Arbel (McGill University, Canada)
+* Ismail Ben Ayed (ÉTS Montréal, Canada)
+* Hervé Lombaert (ÉTS Montréal, Canada)
 
 ## Advisors
-* Yoshua Bengio, Mila, Université de Montréal, Canada
-* Ronald Summers, NIH
+* Yoshua Bengio (Mila, Université de Montréal, Canada)
+* Ronald Summers (NIH)
 
 ## Challenges
 Pierre-Marc Jodoin (Université de Sherbrooke), Annika Reinke (German Cancer Research Center, Heidelberg), Joseph Paul Cohen (Mila, Université de Montréal)
