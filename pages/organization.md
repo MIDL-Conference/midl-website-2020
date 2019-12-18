@@ -20,13 +20,19 @@ title: "Organization"
 * Ronald Summers (NIH)
 
 ## Challenges
-Pierre-Marc Jodoin (Université de Sherbrooke), Annika Reinke (German Cancer Research Center, Heidelberg), Joseph Paul Cohen (Mila, Université de Montréal)
+* Pierre-Marc Jodoin (Université de Sherbrooke)
+* Annika Reinke (German Cancer Research Center, Heidelberg)
+* Joseph Paul Cohen (Mila, Université de Montréal)
 
 ## Local arrangements
-Joseph Paul Cohen (Mila, Université de Montréal), Tess Berthier (Imagia), Margaux Luck (Mila, Université de Montréal)
+* Joseph Paul Cohen (Mila, Université de Montréal)
+* Tess Berthier (Imagia)
+* Margaux Luck (Mila, Université de Montréal)
 
 ## Industry liaison
-Alexandre Le Bouthillier (Imagia)
+* Alexandre Le Bouthillier (Imagia)
 
 ## Web & social media
-Hoel Kervadec (ÉTS Montréal), Nikolas Lessmann (Radboud University Medical Center)
+* Hoel Kervadec (ÉTS Montréal)
+* Nikolas Lessmann (Radboud University Medical Center)
+* Tess Berthier (Imagia)
