@@ -10,7 +10,7 @@ MIDL attracts about 600 world leading researchers and engineers from academia, i
 Inquiries about sponsorship can be made to [sponsor@2020.midl.io](mailto:sponsor@2020.midl.io).
 
 ## <span class="diamond">Diamond (1 only)</span>
-### <span class="amount">25,000 C$ (excl. VAT)</span>
+### <span class="amount">25,000 CA$ (excl. VAT)</span>
 * Company name and logo on the conference website, banners and in the conference book
 * Acknowledgment during the opening and closing address
 * Company flyer or documentation included in attendee welcome package
@@ -24,7 +24,7 @@ Inquiries about sponsorship can be made to [sponsor@2020.midl.io](mailto:sponsor
 ---
 
 ## <span class="platinum">Platinum</span>
-### <span class="amount">15,000 C$ (excl. VAT)</span>
+### <span class="amount">15,000 CA$ (excl. VAT)</span>
 
 * Company name and logo on the conference website, banners and in the conference book
 * Acknowledgment during the opening and closing address
@@ -38,7 +38,7 @@ Inquiries about sponsorship can be made to [sponsor@2020.midl.io](mailto:sponsor
 ---
 
 ## <span class="gold">Gold</span>
-### <span class="amount">7,500 C$ (excl. VAT)</span>
+### <span class="amount">7,500 CA$ (excl. VAT)</span>
 
 * Company name and logo on the conference website, banners and in the conference book
 * **Acknowledgment during the opening and closing address**
@@ -50,7 +50,7 @@ Inquiries about sponsorship can be made to [sponsor@2020.midl.io](mailto:sponsor
 ---
 
 ## <span class="silver">Silver</span>
-### <span class="amount">3,000 C$ (excl. VAT)</span>
+### <span class="amount">3,000 CA$ (excl. VAT)</span>
 
 * Company name and logo on the conference website, **banners and in the conference book**
 * **One registration for the entire conference**
@@ -58,6 +58,6 @@ Inquiries about sponsorship can be made to [sponsor@2020.midl.io](mailto:sponsor
 ---
 
 ## <span class="bronze">Bronze</span>
-### <span class="amount">500 C$ (excl. VAT)</span>
+### <span class="amount">500 CA$ (excl. VAT)</span>
 
 * Company name and logo on the conference website
