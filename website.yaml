@@ -7,8 +7,10 @@ content: "pages"
 www: "https://2020.midl.io"
 email: "2020@midl.io"
 twitter: "midl_conference"
+openreview: "MIDL.io/2020/Conference"
 youtube: "channel/UCd87UPUTt-oqTeGi8fQw-_w"
 github: "MIDL-Conference/midl-website-2020"
+
 
 show_twitter_button: no
 show_twitter_feed: no
