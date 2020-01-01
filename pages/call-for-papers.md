@@ -2,6 +2,8 @@
 title: "Call for papers"
 ---
 
+{% from "_macros.html" import button %}
+
 # Call for papers
 
 ## Aim and Scope
@@ -27,6 +29,8 @@ Topics of interest include but are not limited to:
 * Interpretability and explainable deep learning
 * Integration of imaging and clinical data
 * Validation studies and deep learning applications in radiology, pathology, endoscopy, dermatology, ophthalmology, and beyond
+
+{{ button("Register a short or full paper", "https://openreview.net/group?id=MIDL.io/2020/Conference") }}
 
 ## Two-Track Submissions
 

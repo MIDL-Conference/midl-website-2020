@@ -2,9 +2,14 @@
 title: "Author instructions"
 ---
 
+{% from "_macros.html" import button %}
+
+
 # Author instructions
 
 MIDL 2020 submissions follow two tracks: *full* and *short* papers. All accepted full papers will be published as a volume in the [Proceedings of Machine Learning Research](http://proceedings.mlr.press/). We will be using [openreview.net](https://openreview.net) as a submission and reviewing platform, with a two-week period for author rebuttal and discussion for full-paper submissions. To submit a paper, authors need to have an updated OpenReview account. Visit [http://openreview.net/profile](http://openreview.net/profile) after logging in.
+
+{{ button("Register a short or full paper", "https://openreview.net/group?id=MIDL.io/2020/Conference") }}
 
 ## Full papers
 
