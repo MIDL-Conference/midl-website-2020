@@ -48,3 +48,7 @@ Short papers are up to 3 pages and can, for example, focus on novel methodologic
 We also specifically accept short papers discussing recently published or submitted journal contributions to give authors the opportunity to present their work and obtain feedback from conference attendees.
 Selection of short papers is based on a light double-blind review process via OpenReview, without a discussion period.
 All accepted short papers will be presented as posters at the conference.
+
+
+## Full author instructions
+Full author instructions can be found on [the dedicated page](author-instructions.html).
