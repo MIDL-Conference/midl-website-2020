@@ -17,3 +17,8 @@ page_class: "keynotes-without-details"
 
 ## Dr. Elsa Angelini ![Portrait of Elsa Angelini](/images/keynotes/elsa.jpg){: width="180" }
 ### Institute for Translational Medicine and Therapeutics (ITMAT), Imperial College London
+
+---
+
+## Prof. Daphne Koller ![Portrait of Daphne Koller](/images/keynotes/daphne.jpg){: width="180" }
+### Stanford University
