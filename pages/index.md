@@ -17,3 +17,5 @@
 **Paper registration is open until January 24th 2020. Final submission should be made by January 30th:**
 {{ button("Register a short or full paper", "https://openreview.net/group?id=MIDL.io/2020/Conference") }}
 
+After the registration period is over the Submission button will be inactive. To upload your pdf, select your paper and press “Revision”.
+
