@@ -11,14 +11,22 @@ Deadlines are at 23:59, [UTC -12](https://www.timeanddate.com/time/map/) ([AoE](
 * **<s>Challenge proposal deadline</s>** <s>13 January 2020</s>
 * **Paper registration deadline** 24 January 2020
 * **Paper submission deadline** 30 January 2020
-* **Challenges reviews available** 3 February 2020
+
+### Challenge decisions 
+* **Reviews available** 3 February 2020
 * **Revised proposal deadline** 14 February 2020
 * **Notification of acceptance** 21 February 2020
-* **Paper reviews available** 20 March 2020
+
+### Paper decisions
+* **Reviews available** 20 March 2020
 * **Rebuttal / discussion period** 20 March to 3 April 2020
 * **Notification of acceptance** 10 April 2020
-* **Conference dates** 6-8 July 2020
+
+### Conference dates
+* **MIDL 2020 in Montréal** 6-8 July 2020
 [% / %]
+
+---
 
 ## Full and short papers
 Full and short papers have the same deadline, but the short papers won't go through a rebuttal period. All other dates are common.
