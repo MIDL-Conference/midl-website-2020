@@ -52,5 +52,11 @@ Selection of short papers is based on a light **double-blind** review process vi
 All accepted short papers will be presented as posters at the conference.
 
 
+## Special issue
+
+A selection of the best full papers will be invited to submit an extension of their work for a special issue in MELBA (Journal of Machine Learning for Biomedical Imaging), a new, web-based open-access journal.
+
+More details to come.
+
 ## Full author instructions
 Full author instructions can be found on [the dedicated page](author-instructions.html).

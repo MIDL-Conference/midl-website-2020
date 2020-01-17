@@ -9,8 +9,9 @@
     <img alt="Montréal at Night" src="/images/montreal-at-night.jpg">
 </p>
 
+**MIDL 2020 will have a special issue in MELBA** (The Journal of Machine Learning for Biomedical Imaging), a new, web-based, open-access journal for medical imaging.
 
-**Challenge proposal are now closed. Instructions will be sent to organizers before February 3rd.**
+The best papers of the conference will be invited to submit an extended version of their work there.
 
 ---
 
@@ -19,3 +20,6 @@
 
 After the registration period is over the Submission button will be inactive. To upload your pdf, select your paper and press “Revision”.
 
+---
+
+**Challenge proposal are now closed. Instructions will be sent to organizers before February 3rd.**
