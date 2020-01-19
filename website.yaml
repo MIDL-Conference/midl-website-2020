@@ -61,5 +61,8 @@ nav:
   - title: "Sponsorship"
     path: "/sponsorship-packages.html"
     icon: "donate"
+  - title: "Other events"
+    path: "/other-events.html"
+    icon: "city"
 
 cdn: "https://static.midl.io"
