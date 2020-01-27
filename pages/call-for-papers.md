@@ -30,6 +30,10 @@ Topics of interest include but are not limited to:
 * Integration of imaging and clinical data
 * Validation studies and deep learning applications in radiology, pathology, endoscopy, dermatology, ophthalmology, and beyond
 
+**Inquiries to the program chairs can be addressed directly to [pcs@2020.midl.io](mailto:pcs@2020.midl.io).**
+
+---
+
 {{ button("Register a short or full paper", "https://openreview.net/group?id=MIDL.io/2020/Conference") }}
 
 After the registration period is over the Submission button will be inactive. To upload your pdf, select your paper and press “Revision”.
