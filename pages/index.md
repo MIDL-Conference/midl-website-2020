@@ -15,11 +15,12 @@ The best papers of the conference will be invited to submit an extended version 
 
 ---
 
-**Paper registration is open until January 24th 2020. Final submission should be made by January 30th:**
+Due to many requests, and to accommodate religious and national holidays that came to our attention, **we are re-opening the MIDL 2020 paper registration until Tuesday January 28th, 23:59, AoE time.** Final submission should be made by January 30th:
+
 {{ button("Register a short or full paper", "https://openreview.net/group?id=MIDL.io/2020/Conference") }}
 
 After the registration period is over the Submission button will be inactive. To upload your pdf, select your paper and press “Revision”.
 
 ---
 
-**Challenge proposal are now closed. Instructions will be sent to organizers before February 3rd.**
+Challenge proposal are now closed. Instructions will be sent to organizers before February 3rd.

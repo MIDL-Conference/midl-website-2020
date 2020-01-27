@@ -10,10 +10,10 @@ Deadlines are at 23:59, [UTC -12](https://www.timeanddate.com/time/map/) ([AoE](
 * **<s>Challenge submission open</s>** <s>1 December 2019</s>
 * **<s>Paper registration open</s>** <s>1 January 2020</s>
 * **<s>Challenge proposal deadline</s>** <s>13 January 2020</s>
-* **Paper registration deadline** 24 January 2020
+* **Paper registration deadline** <s>24 January 2020</s> **Extended 28 January 2020**
 * **Paper submission deadline** 30 January 2020
 
-### Challenge decisions 
+### Challenge decisions
 * **Reviews available** 3 February 2020
 * **Revised proposal deadline** 14 February 2020
 * **Notification of acceptance** 21 February 2020
