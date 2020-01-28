@@ -26,7 +26,7 @@ Challenge organizers will assign to the MIDL organizers the right to distribute 
 [% .deadlines %]
 * **<s>Challenge submission open</s>** <s>1 December 2019</s>
 * **<s>Challenge proposal deadline</s>** <s>13 January 2020</s>
-* **Reviews available** 3 February 2020
+* **<s>Reviews available</s>** <s>28 January 2020</s>
 * **Revised proposal deadline** 14 February 2020
 * **Notification of acceptance** 21 February 2020
 * **Conference dates** 6-8 July 2020
