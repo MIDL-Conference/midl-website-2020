@@ -7,11 +7,12 @@ title: "Author instructions"
 
 # Author instructions
 
-MIDL 2020 submissions follow two tracks: *full* and *short* papers. All accepted full papers will be published as a volume in the [Proceedings of Machine Learning Research](http://proceedings.mlr.press/). We will be using [openreview.net](https://openreview.net) as a submission and reviewing platform, with a two-week period for author rebuttal and discussion for full-paper submissions. To submit a paper, authors need to have an updated OpenReview account. Visit [http://openreview.net/profile](http://openreview.net/profile) after logging in.
+MIDL 2020 submissions follow two tracks: *full* and *short* papers. All accepted full papers will be published as a volume in the [Proceedings of Machine Learning Research](http://proceedings.mlr.press/). We will be using [openreview.net](https://openreview.net) as a submission and reviewing platform, with a two-week period for author rebuttal and discussion for full-paper submissions.
+<!-- To submit a paper, authors need to have an updated OpenReview account. Visit [http://openreview.net/profile](http://openreview.net/profile) after logging in. -->
 
-{{ button("Register a short or full paper", "https://openreview.net/group?id=MIDL.io/2020/Conference") }}
+{{ button("OpenReview conference website", "https://openreview.net/group?id=MIDL.io/2020/Conference") }}
 
-After the registration period is over the Submission button will be inactive. To upload your pdf, select your paper and press “Revision”.
+<!-- After the registration period is over the Submission button will be inactive. To upload your pdf, select your paper and press “Revision”. -->
 
 **Inquiries to the program chairs can be addressed directly to [pcs@2020.midl.io](mailto:pcs@2020.midl.io).**
 
@@ -20,9 +21,9 @@ After the registration period is over the Submission button will be inactive. To
 Full papers contain well-validated applications or methodological contributions of deep learning algorithms in medical imaging. There is no strict limit on paper length. However, we strongly recommend keeping full papers at 8 pages (excluding references and acknowledgements). An appendix section can be added if needed with additional details but must be compiled into a single PDF. The appropriateness of using pages over the recommended page length will be judged by reviewers. Full papers will go through a **double-blind** peer-reviewing process via OpenReview, with a two-week period for author rebuttal and discussion. All accepted papers will be presented as posters with a selection of these papers will also be invited for oral presentation.
 
 [% .deadlines %]
-* **Full-paper registration deadline** <s>24 January</s> 28 January 2020, 23:59, [UTC -12](https://www.timeanddate.com/time/map/) ([AoE](https://en.wikipedia.org/wiki/Anywhere_on_Earth) timezone)
-* **Full-paper submission deadline** 30 January 2020, 23:59, [UTC -12](https://www.timeanddate.com/time/map/) ([AoE](https://en.wikipedia.org/wiki/Anywhere_on_Earth) timezone)
-* **Full-paper registration open** 1 January 2020, 23:59, [UTC -12](https://www.timeanddate.com/time/map/) ([AoE](https://en.wikipedia.org/wiki/Anywhere_on_Earth) timezone)
+* **<s>Full-paper registration deadline</s>** <s>24 January 2020, 23:59, [UTC -12](https://www.timeanddate.com/time/map/) ([AoE](https://en.wikipedia.org/wiki/Anywhere_on_Earth) timezone)</s>
+* **<s>Full-paper submission deadline</s>** <s>30 January 2020, 23:59, [UTC -12](https://www.timeanddate.com/time/map/) ([AoE](https://en.wikipedia.org/wiki/Anywhere_on_Earth) timezone)</s>
+* **<s>Full-paper registration open</s>** <s>1 January 2020, 23:59, [UTC -12](https://www.timeanddate.com/time/map/) ([AoE](https://en.wikipedia.org/wiki/Anywhere_on_Earth) timezone)</s>
 * **Reviews made available to authors and rebuttal period** From March 20th to March 27th 2020
 * **Author/reviewers open discussion period** From March 27th to April 3rd 2020
 * **Full-paper decisions released to authors** April 10th 2020
@@ -34,9 +35,9 @@ Full papers contain well-validated applications or methodological contributions 
 Short papers are up to 3 pages (excluding references and acknowledgements) and can, for example, focus on preliminary novel methodological ideas without extensive validation. We also specifically accept short papers of recently published or submitted journal contributions to give authors the opportunity to present their work and obtain feedback from the community. Selection of short papers is based on a light **double-blind** review process via OpenReview, without a discussion period. All accepted abstracts will be presented as posters at the conference.
 
 [% .deadlines %]
-* **Short-paper registration deadline** <s>24 January</s> 28 January 2020, 23:59, [UTC -12](https://www.timeanddate.com/time/map/) ([AoE](https://en.wikipedia.org/wiki/Anywhere_on_Earth) timezone)
-* **Short-paper submission deadline** 30 January 2020, 23:59, [UTC -12](https://www.timeanddate.com/time/map/) ([AoE](https://en.wikipedia.org/wiki/Anywhere_on_Earth) timezone)
-* **Short-paper registration open** 1 January 2020, 23:59 [UTC -12](https://www.timeanddate.com/time/map/) ([AoE](https://en.wikipedia.org/wiki/Anywhere_on_Earth) timezone)
+* **<s>Short-paper registration deadline</s>** <s>24 January 2020, 23:59, [UTC -12](https://www.timeanddate.com/time/map/) ([AoE](https://en.wikipedia.org/wiki/Anywhere_on_Earth) timezone)</s>
+* **<s>Short-paper submission deadline</s>** <s>30 January 2020, 23:59, [UTC -12](https://www.timeanddate.com/time/map/) ([AoE](https://en.wikipedia.org/wiki/Anywhere_on_Earth) timezone)</s>
+* **<s>Short-paper registration open</s>** <s>1 January 2020, 23:59 [UTC -12](https://www.timeanddate.com/time/map/) ([AoE](https://en.wikipedia.org/wiki/Anywhere_on_Earth) timezone)</s>
 * **Short-paper decisions released to authors** April 10th 2020
 [% / %]
 
