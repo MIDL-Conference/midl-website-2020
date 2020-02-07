@@ -8,7 +8,7 @@ title: "Call for papers"
 
 ## Aim and Scope
 
-We welcome submissions, as full or short papers, for the 3rd International Conference on Medical Imaging with Deep Learning.
+We welcome submissions, as full or short papers, for the 3rd edition of Medical Imaging with Deep Learning.
 The conference is a forum for deep learning researchers, clinicians and health-care companies working at the intersection of medical image analysis and machine learning for healthcare and medicine, including disease detection, diagnosis, staging, prognosis, intervention, treatment selection and monitoring of disease progression.
 
 Imaging is a cornerstone of medicine, and deep learning has shown its potential to leverage the rapidly growing numbers of medical imaging studies.
