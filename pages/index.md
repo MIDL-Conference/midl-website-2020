@@ -1,5 +1,5 @@
 <h1 class="midl">Medical&nbsp;Imaging with Deep&nbsp;Learning</h1>
-<h2 class="centered">Montréal, 6 ‑ 8 July 2020</h2>
+<h2 class="midl">Montréal, 6 ‑ 8 July 2020</h2>
 
 {% from "_macros.html" import button %}
 
