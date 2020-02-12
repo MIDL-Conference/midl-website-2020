@@ -8,15 +8,15 @@
     <img alt="Montréal at Night" src="/images/montreal-at-night.jpg">
 </p>
 
-**MIDL 2020 will have a special issue in MELBA** (The Journal of Machine Learning for Biomedical Imaging), a new, web-based, open-access journal for medical imaging.
+**Paper submission is now closed.** All submitted papers are publicly available.
 
-The best papers of the conference will be invited to submit an extended version of their work there.
+{{ button("MIDL 2020 submissions", "https://openreview.net/group?id=MIDL.io/2020/Conference") }}
 
 ---
 
-**Paper submission is now closed.** All submitted abstracts are publicly visible, and the PDFs will be made public shortly.
+**MIDL 2020 will have a special issue in MELBA** (The Journal of Machine Learning for Biomedical Imaging), a new, web-based, open-access journal for medical imaging.
 
-{{ button("OpenReview conference website", "https://openreview.net/group?id=MIDL.io/2020/Conference") }}
+The best papers of the conference will be invited to submit an extended version of their work there.
 
 ---
 
