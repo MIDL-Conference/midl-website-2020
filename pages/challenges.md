@@ -21,6 +21,18 @@ More info: [Challenge website](https://jfhealthcare.github.io/object-CXR/)
 
 ---
 
+## MC-MRRec
+### Multi-channel MR Image Reconstruction Challenge
+
+The challenge has two separate tracks, and teams are free to decide whether to submit to just one track or both; we encourage teams to submit to both tracks. Each track will have a separate ranking.
+
+In these two tracks, we will assess MR reconstruction quality and noticeable loss of high resolution detail, especially at the higher acceleration rates. By having two separate tracks, we hope to determine whether a generic reconstruction model applicable to various multi-channel coils will have a decreased performance (if any) compared to more coil-specific reconstruction models.
+
+
+More info: [Challenge website](https://sites.google.com/view/calgary-campinas-dataset/home/mr-reconstruction-challenge)
+
+---
+
 More challenges to come.
 
 The [call for challenges](call-for-challenges.html) is still available.
