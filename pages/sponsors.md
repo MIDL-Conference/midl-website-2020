@@ -14,7 +14,7 @@ page_class: "sponsors"
 ## <span class="platinum">Platinum</span>
 
 [% .logos %]
-[![CIFAR](/sponsors/cifar.png){: width="160"}](https://www.cifar.ca/)
+[![CIFAR](/sponsors/cifar.png){: height="80"}](https://www.cifar.ca/)
 [% / %]
 
 ---
@@ -25,7 +25,8 @@ page_class: "sponsors"
 
 ## <span class="silver">Silver</span>
 [% .logos %]
-[![Imagia](/sponsors/imagia.png){: width="140"}](https://www.imagia.com/)
+[![Imagia](/sponsors/imagia.png){: height="80"}](https://www.imagia.com/)
+[![Heartflow](/sponsors/heartflow.png){: height="50"}](https://www.heartflow.com/)
 [% / %]
 
 ---
