@@ -13,7 +13,7 @@ For the first time, MIDL invites the community to propose challenges involving *
 ---
 
 ## object-CXR
-### Automatic detection of foreign objects on chest X-rays
+#### Automatic detection of foreign objects on chest X-rays
 
 We provide a large dataset of chest X-rays with strong annotations of foreign objects, and the competition for automatic detection of foreign objects. Specifically, 5000 frontal chest X-ray images with foreign objects (all manually annotated) as well as 5000 frontal chest X-ray images without foreign objects are provided.
 
@@ -22,7 +22,7 @@ More info: [Challenge website](https://jfhealthcare.github.io/object-CXR/)
 ---
 
 ## MC-MRRec
-### Multi-channel MR Image Reconstruction Challenge
+#### Multi-channel MR Image Reconstruction Challenge
 
 The challenge has two separate tracks, and teams are free to decide whether to submit to just one track or both; we encourage teams to submit to both tracks. Each track will have a separate ranking.
 
