@@ -14,8 +14,8 @@ page_class: "sponsors"
 ## <span class="platinum">Platinum</span>
 
 [% .logos %]
-[![CIFAR](/sponsors/cifar.png){: height="80"}](https://www.cifar.ca/)
-[![Microsoft](/sponsors/microsoft.png){: height="80"}](https://www.microsoft.com/)
+[![CIFAR](/sponsors/cifar.png){: width="200"}](https://www.cifar.ca/)
+[![Microsoft](/sponsors/microsoft.png){: width="450"}](https://www.microsoft.com/)
 [% / %]
 
 ---
