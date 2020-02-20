@@ -50,7 +50,7 @@ title: "Organization"
 * Qi Dou (The Chinese University of Hong Kong)
 * Mattias P Heinrich (Universität zu Lübeck, Germany)
 * Juan Eugenio Iglesias (University College London)
-* Ivana Isgum (University Medical Center Utrecht, The Netherlands)
+* Ivana Isgum (Amsterdam University Medical Center, The Netherlands)
 * Pierre-Marc Jodoin (Université de Sherbrooke, Canada)
 * Geert Litjens (Radboud University Medical Center, The Netherlands)
 * Bjoern H Menze (Technical University Munich, Germany)
