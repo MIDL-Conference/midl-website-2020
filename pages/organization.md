@@ -69,7 +69,7 @@ title: "Organization"
 * Maria Vakalopoulou (CentraleSupélec, France)
 * Shanshan Wang (Shenzhen Institutes of Advanced Technology, China)
 
----
+<!-----
 
 ## Reviewers
 * Arinbjörn Kolbeinsson (Imperial College London)
@@ -303,4 +303,4 @@ title: "Organization"
 * Ben Duffy (University of Southern California)
 * Hoda Sadat Hashemi (University of British Columbia)
 * Emma Robinson (King's College London)
-* Melanie Ganz (University of Copenhagen)
+* Melanie Ganz (University of Copenhagen) -->
