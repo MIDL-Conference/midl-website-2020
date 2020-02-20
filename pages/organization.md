@@ -21,7 +21,7 @@ title: "Organization"
 
 ## Challenges
 * Pierre-Marc Jodoin (Université de Sherbrooke, Canada)
-* Annika Reinke (German Cancer Research Center, Heidelberg, Canada)
+* Annika Reinke (German Cancer Research Center, Heidelberg, Germany)
 * Joseph Paul Cohen (Mila, Université de Montréal)
 
 ## Local arrangements
