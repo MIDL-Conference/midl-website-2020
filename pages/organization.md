@@ -50,7 +50,7 @@ title: "Organization"
 * Qi Dou (The Chinese University of Hong Kong)
 * Mattias P Heinrich (Universität zu Lübeck, Germany)
 * Juan Eugenio Iglesias (University College London)
-* Ivana Isgum (University Medical Center Utrecht, The Netherlands)
+* Ivana Isgum (Amsterdam University Medical Center, The Netherlands)
 * Pierre-Marc Jodoin (Université de Sherbrooke, Canada)
 * Geert Litjens (Radboud University Medical Center, The Netherlands)
 * Bjoern H Menze (Technical University Munich, Germany)
@@ -303,4 +303,5 @@ title: "Organization"
 * Ben Duffy (University of Southern California)
 * Hoda Sadat Hashemi (University of British Columbia)
 * Emma Robinson (King's College London)
+<<<<<<< HEAD
 * Melanie Ganz (University of Copenhagen) -->
