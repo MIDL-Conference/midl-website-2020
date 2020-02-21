@@ -1,5 +1,6 @@
 ---
 title: "Challenges"
+page_class: "events"
 ---
 
 {% from "_macros.html" import button %}
@@ -39,15 +40,19 @@ More info: [Challenge website](https://sites.google.com/view/calgary-campinas-da
 
 ---
 
-## SARAS endoscopic vision challenge for surgeon action detection
+## SARAS-ESAD
+### SARAS endoscopic vision challenge for surgeon action detection
 
-Minimally Invasive Surgery (MIS) is a very sensitive medical procedure, whose success depends on the competence of the human surgeons and the degree of effectiveness of their coordination. The [SARAS](https://www.saras-project.eu/) (Smart Autonomous Robotic Assistant Surgeon) EU consortium, is working towards replacing the assistant surgeon in MIS with two assistive robotic arms. To accomplish that, an artificial intelligence based system is required which not only can understand the complete surgical scene but also detect the actions being performed by the main surgeon.
+Minimally Invasive Surgery (MIS) is a very sensitive medical procedure, whose success depends on the competence of the human surgeons and the degree of effectiveness of their coordination. The SARAS (Smart Autonomous Robotic Assistant Surgeon) EU consortium, is working towards replacing the assistant surgeon in MIS with two assistive robotic arms. To accomplish that, an artificial intelligence based system is required which not only can understand the complete surgical scene but also detect the actions being performed by the main surgeon.
 
 This challenge has recorded four sessions of complete prostatectomy procedure performed by expert surgeons on real patients with prostate cancer. Later, expert AI and medical professions annotated these complete surgical procedures for the actions. Multiple action instances might be present at any point during the procedure . Hence, each frame is labeled for multiple actions and these actions can have overlapping bounding boxes.
 
 To the best of our knowledge, this challenge presents the first benchmark dataset for action detection in the surgical domain, and paves the way for the introduction, for the first time, of partial/full autonomy in surgical robotics. Within computer vision, other datasets for action detection exist, but are of limited size.
 
-More info: [Challenge website](https://saras-esad.grand-challenge.org/Dataset/)
+More info:
+
+* [Challenge website](https://saras-esad.grand-challenge.org/Dataset/)
+* [SARAS (Smart Autonomous Robotic Assistant Surgeon) EU consortium](https://www.saras-project.eu/)
 
 ---
 
