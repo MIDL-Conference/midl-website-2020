@@ -58,7 +58,7 @@ All accepted short papers will be presented as posters at the conference.
 
 ## Special issue
 
-A selection of the best full papers will be invited to submit an extension of their work for a special issue in MELBA (Journal of Machine Learning for Biomedical Imaging), a new, web-based open-access journal.
+A selection of the best full papers will be invited to submit an extension of their work for a special issue in [MELBA](https://www.melba-journal.org/) (Journal of Machine Learning for Biomedical Imaging), a new, web-based open-access journal.
 
 More details to come.
 

@@ -14,7 +14,7 @@
 
 ---
 
-**MIDL 2020 will have a special issue in MELBA** (The Journal of Machine Learning for Biomedical Imaging), a new, web-based, open-access journal for medical imaging.
+**MIDL 2020 will have a special issue in [MELBA](https://www.melba-journal.org/)** (The Journal of Machine Learning for Biomedical Imaging), a new, web-based, open-access journal for medical imaging.
 
 The best papers of the conference will be invited to submit an extended version of their work there.
 
