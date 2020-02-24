@@ -36,7 +36,10 @@ The challenge has two separate tracks, and teams are free to decide whether to s
 In these two tracks, we will assess MR reconstruction quality and noticeable loss of high resolution detail, especially at the higher acceleration rates. By having two separate tracks, we hope to determine whether a generic reconstruction model applicable to various multi-channel coils will have a decreased performance (if any) compared to more coil-specific reconstruction models.
 
 
-More info: [Challenge website](https://sites.google.com/view/calgary-campinas-dataset/home/mr-reconstruction-challenge)
+More info: [Challenge website](https://sites.google.com/view/calgary-campinas-dataset/home/mr-reconstruction-challenge).
+
+If having troubles accessing the website, please contact: [roberto.medeirosdeso@ucalgary.ca](mailto:roberto.medeirosdeso@ucalgary.ca)
+
 
 ---
 
