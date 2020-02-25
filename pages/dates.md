@@ -16,7 +16,7 @@ Deadlines are at 23:59, [UTC -12](https://www.timeanddate.com/time/map/) ([AoE](
 ### Challenge decisions
 * **<s>Reviews available</s>** <s>28 January 2020</s>
 * **<s>Revised proposal deadline</s>** <s>14 February 2020</s>
-* **Notification of acceptance** 21 February 2020
+* **<s>Notification of acceptance</s>** <s>21 February 2020</s>
 
 ### Paper decisions
 * **Reviews available** 20 March 2020

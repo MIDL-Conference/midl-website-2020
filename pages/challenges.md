@@ -59,6 +59,4 @@ More info:
 
 ---
 
-More challenges to come.
-
 The [call for challenges](call-for-challenges.html) is still available.

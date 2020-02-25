@@ -20,4 +20,4 @@ The best papers of the conference will be invited to submit an extended version 
 
 ---
 
-Challenge reviews have been sent. Updated proposals should be submitted by **February 14 2020**.
+The [**list of accepted challanges**](challenges.html) is now available!
