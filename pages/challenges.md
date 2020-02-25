@@ -54,7 +54,7 @@ To the best of our knowledge, this challenge presents the first benchmark datase
 
 More info:
 
-* [Challenge website](https://saras-esad.grand-challenge.org/Dataset/)
+* [Challenge website](https://saras-esad.grand-challenge.org)
 * [SARAS (Smart Autonomous Robotic Assistant Surgeon) EU consortium](https://www.saras-project.eu/)
 
 ---
