@@ -25,7 +25,7 @@ title: "Organization"
 * Joseph Paul Cohen (Mila, Université de Montréal)
 
 ## Diversity and inclusivity chair
-* Alejandro Frangi
+* Alejandro F Frangi (University of Leeds, UK)
 
 ## Local arrangements
 * Joseph Paul Cohen (Mila, Université de Montréal)
