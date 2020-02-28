@@ -24,6 +24,9 @@ title: "Organization"
 * Annika Reinke (German Cancer Research Center, Heidelberg, Germany)
 * Joseph Paul Cohen (Mila, Université de Montréal)
 
+## Diversity and inclusivity chair
+* Alejandro Frangi
+
 ## Local arrangements
 * Joseph Paul Cohen (Mila, Université de Montréal)
 * Tess Berthier (Imagia)
