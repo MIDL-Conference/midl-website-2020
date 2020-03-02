@@ -20,4 +20,4 @@ The best papers of the conference will be invited to submit an extended version 
 
 ---
 
-The [**list of accepted challanges**](challenges.html) is now available!
+The [**list of accepted challenges**](challenges.html) is now available!
