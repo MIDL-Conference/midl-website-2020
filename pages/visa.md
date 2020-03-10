@@ -20,7 +20,8 @@ The Montréal–Trudeau International Airport (IATA: YUL, ICAO: CYUL) is located
 {{ map('https://www.google.com/maps/embed?pb=!1m24!1m8!1m3!1d89511.97996852381!2d-73.7086546!3d45.4849228!3m2!1i1024!2i768!4f13.1!4m13!3e3!4m5!1s0x4cc93d7753d8c92b%3A0x1e30a8791014678d!2sA%C3%A9roport%20international%20Pierre-Elliott-Trudeau%20de%20Montr%C3%A9al%20(YUL)%2C%20Boulevard%20Rom%C3%A9o%20Vachon%20Nord%2C%20Dorval%2C%20QC!3m2!1d45.465685099999995!2d-73.7454814!4m5!1s0x4cc91a5a66841509%3A0x6434041e124a4c53!2sPalais%20des%20congr%C3%A8s%20de%20Montr%C3%A9al%2C%20Montr%C3%A9al%2C%20QC!3m2!1d45.503859999999996!2d-73.56096889999999!5e0!3m2!1sen!2sca!4v1573661925268!5m2!1sen!2sca') }}
 
 ## Accommodations
-Partnership with hotels will be announced in the near future.
+
+We have reserved rooms with preferential prices at [McGill New Residence Hall](https://www.mcgill.ca/accommodations/summer/nrh), within 20 minutes walk from the conference venue. They can be booked during the registration process. More details at are available on the [registration page](registration.html).
 
 The venue is conveniently located on top of the Place d'armes métro station (orange line), and 10 minutes walk away from the Place des arts station (green line). Hotels and accommodations along those lines will guarantee a short commute to the conference.
 
