@@ -8,7 +8,7 @@ title: "Registration"
 
 ## Accommodations
 
-We have reserved rooms with preferential prices at [McGill New Residence Hall](https://www.mcgill.ca/accommodations/summer/nrh), within 20 minutes walk from the conference venue. They can be booked during the registration process.
+We propose rooms with preferential prices at [McGill New Residence Hall](https://www.mcgill.ca/accommodations/summer/nrh), within 20 minutes walk from the conference venue. They can be booked during the registration process.
 
 ![mcgill_accomodations](https://www.mcgill.ca/accommodations/files/accommodations/styles/slide-focal__920x300_/public/nrh_accommodations2.jpg?itok=dVhjiwNb)
 
@@ -55,7 +55,7 @@ All amounts are in Canadian dollars (C$), net of taxes.
     </tr>
 </table>
 
-* **Early-bird:** The early-bird ticket sales will end at 23:59 UTC-4 on May 1st 2020.
+* **Early-bird:** The early-bird ticket sales will end at 00:01 UTC-4 on May 1st 2020.
 * **Students:** We offer student discounts. To proof student status please provide a signed letter from supervisor (or other official) or a copy of your student ID. You need to be a full-time student at the time of registration.
 
 

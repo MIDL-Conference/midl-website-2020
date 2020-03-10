@@ -8,9 +8,15 @@
     <img alt="Montréal at Night" src="/images/montreal-at-night.jpg">
 </p>
 
-**Paper submission is now closed.** All submitted papers are publicly available.
+**Conference registration is now open!** Early-bird prices will end on May 1st 2020.
 
-{{ button("MIDL 2020 submissions", "https://openreview.net/group?id=MIDL.io/2020/Conference") }}
+{{ button("Registration details", "registration.html") }}
+
+---
+
+**Paper submission is now closed.** All submitted papers are publicly available on [OpenReview](https://openreview.net/group?id=MIDL.io/2020/Conference).
+
+<!-- {{ button("MIDL 2020 submissions", "https://openreview.net/group?id=MIDL.io/2020/Conference") }} -->
 
 ---
 
