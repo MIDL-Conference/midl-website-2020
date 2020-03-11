@@ -6,33 +6,6 @@ title: "Registration"
 
 # Registration
 
-## Accommodations
-
-We propose rooms with preferential prices at [McGill New Residence Hall](https://www.mcgill.ca/accommodations/summer/nrh), within 20 minutes walk from the conference venue. They can be booked during the registration process.
-
-![mcgill_accomodations](https://www.mcgill.ca/accommodations/files/accommodations/styles/slide-focal__920x300_/public/nrh_accommodations2.jpg?itok=dVhjiwNb)
-
-<table class="grid offset centered">
-    <tr>
-        <td></td>
-        <th scope="col">Rate per night (total w/ taxes)</th>
-        <!-- <th scope="col">Normal</th> -->
-    </tr>
-    <tr>
-        <th scope="row">Single/double room</th>
-        <td>C$155</td>
-    </tr>
-    <tr>
-        <th scope="row">Triple room</th>
-        <td>C$180</td>
-    </tr>
-    <tr>
-        <th scope="row">Quad room</th>
-        <td>C$205</td>
-    </tr>
-</table>
-
-
 ## Registration fees
 
 All amounts are in Canadian dollars (C$), net of taxes.
@@ -70,9 +43,35 @@ All amounts are in Canadian dollars (C$), net of taxes.
 
 {{ button("Registration website", "https://www.fourwav.es/view/1315/registration") }}
 
+## Accommodations
+
+We propose rooms with preferential prices at [McGill New Residence Hall](https://www.mcgill.ca/accommodations/summer/nrh), within 20 minutes walk from the conference venue. They can be booked during the registration process.
+
+![mcgill_accomodations](https://www.mcgill.ca/accommodations/files/accommodations/styles/slide-focal__920x300_/public/nrh_accommodations2.jpg?itok=dVhjiwNb)
+
+<table class="grid offset centered">
+    <tr>
+        <td></td>
+        <th scope="col">Rate per night (total w/ taxes)</th>
+        <!-- <th scope="col">Normal</th> -->
+    </tr>
+    <tr>
+        <th scope="row">Single/double room</th>
+        <td>C$155</td>
+    </tr>
+    <tr>
+        <th scope="row">Triple room</th>
+        <td>C$180</td>
+    </tr>
+    <tr>
+        <th scope="row">Quad room</th>
+        <td>C$205</td>
+    </tr>
+</table>
+
 ## Cancellation policy
 
-Cancellations will be accepted in writing until May 1st. Please send an email to [2020@midl.io](mailto:2020@midl.io). Until that time a full refund, minus the processing fees, will be made. There will be no refunds for cancellations received after this date.
+Cancellations will be accepted in writing until May 1st. Please send an email to [registration@2020.midl.io](mailto:registration@2020.midl.io). Until that time a full refund, minus the processing fees, will be made. There will be no refunds for cancellations received after this date.
 
 ## Invitation letters
 
