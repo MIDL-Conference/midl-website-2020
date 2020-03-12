@@ -45,33 +45,16 @@ All amounts are in Canadian dollars (C$), net of taxes.
 
 ## Accommodations
 
-We propose rooms with preferential prices at [McGill New Residence Hall](https://www.mcgill.ca/accommodations/summer/nrh), within 20 minutes walk from the conference venue. They can be booked during the registration process.
+[Hotel Monville](https://www.hotelmonville.com) -- just across the street of the confererence venue -- offers a discounted price for MIDL participants. A discount code will be sent in the e-mail upon registration, offering a rate of 199$ (+ taxes) per night.
 
-![mcgill_accomodations](https://www.mcgill.ca/accommodations/files/accommodations/styles/slide-focal__920x300_/public/nrh_accommodations2.jpg?itok=dVhjiwNb)
+![Hotel Monville](https://www.hotelmonville.com/wp-content/uploads/2019/10/Cover-1-1.png)
 
-<table class="grid offset centered">
-    <tr>
-        <td></td>
-        <th scope="col">Rate per night (total w/ taxes)</th>
-        <!-- <th scope="col">Normal</th> -->
-    </tr>
-    <tr>
-        <th scope="row">Single/double room</th>
-        <td>C$155</td>
-    </tr>
-    <tr>
-        <th scope="row">Triple room</th>
-        <td>C$180</td>
-    </tr>
-    <tr>
-        <th scope="row">Quad room</th>
-        <td>C$205</td>
-    </tr>
-</table>
 
 ## Cancellation policy
 
-Cancellations will be accepted in writing until May 1st. Please send an email to [registration@2020.midl.io](mailto:registration@2020.midl.io). Until that time a full refund, minus the processing fees, will be made. There will be no refunds for cancellations received after this date.
+Cancellations will be accepted in writing until May 1st. Please send an email to [registration@2020.midl.io](mailto:registration@2020.midl.io). Until that time a full refund, minus the processing fees, will be made.
+
+There will be no refunds for cancellations received after this date.
 
 ## Invitation letters
 
