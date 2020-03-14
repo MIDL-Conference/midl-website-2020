@@ -29,19 +29,11 @@ All amounts are in Canadian dollars (C$), net of taxes.
 </table>
 
 * **Early-bird:** The early-bird ticket sales will end at 00:01 UTC-4 on May 1st 2020.
-* **Students:** We offer student discounts. To proof student status please provide a signed letter from supervisor (or other official) or a copy of your student ID. You need to be a full-time student at the time of registration.
+* **Students:** We offer student discounts. To prove student status please provide a signed letter from supervisor (or other official) or a copy of your student ID. You need to be a full-time student at the time of registration.
 
+{{ button("Registration website", "https://www.fourwav.es/MIDL2020") }}
 
-<!-- ## Register -->
-
-<!-- <iframe id="registration"
-    title="Fourwav.es registration website"
-    width="720"
-    height="1000"
-    src="https://www.fourwav.es/view/1315/registration/">
-</iframe> -->
-
-{{ button("Registration website", "https://www.fourwav.es/view/1315/registration") }}
+If you do not receive the confirmation e-mail, **please check your spam folder.** We are aware of the issue and working to fix this.
 
 ## Accommodations
 
@@ -58,6 +50,4 @@ There will be no refunds for cancellations received after this date.
 
 ## Invitation letters
 
-Invitation letters will be made available for participants upon registration to the conference.
-
-<!-- For authors of extended abstracts planning to register conditionally upon acceptance of their extended abstract submission, to help with visa processing times, an invitation letter can be made available in advance through an early submission of a valid extended abstract. Validity of the submission will be judged by the conference organisers. Early extended abstract submissions may be updated until the standard submission deadline and will follow the same review / decision process and timeline as any other extended abstract. Early submissions must be performed through the normal abstract submission procedure using OpenReview, additionally, an email linking to the submission and asking for an invitation letter should be made to [visa@2020.midl.io](mailto:visa@2020.midl.io). -->
+Invitation letters will be made available for participants upon registration to the conference. For other requests, please e-mail [visa@2020.midl.io](mailto:visa@2020.midl.io)
