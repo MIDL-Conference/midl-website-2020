@@ -37,7 +37,7 @@ If you do not receive the confirmation e-mail, **please check your spam folder.*
 
 ## Accommodations
 
-[Hotel Monville](https://www.hotelmonville.com) -- just across the street of the confererence venue -- offers a discounted price for MIDL participants. A discount code will be sent in the e-mail upon registration, offering a rate of 199$ (+ taxes) per night.
+[Hotel Monville](https://www.hotelmonville.com) -- just across the street of the confererence venue -- offers a discounted price for MIDL participants. A discount code will be sent by e-mail upon registration, offering a rate of 199$ (+ taxes) per night.
 
 ![Hotel Monville](https://www.hotelmonville.com/wp-content/uploads/2019/10/Cover-1-1.png)
 
