@@ -6,6 +6,8 @@ title: "Registration"
 
 # Registration
 
+Please read our [FAQ](covid-19.html) on the Covid-19 pandemic.
+
 ## Registration fees
 
 All amounts are in Canadian dollars (C$), net of taxes.

@@ -8,6 +8,10 @@
     <img alt="Montréal at Night" src="/images/montreal-at-night.jpg">
 </p>
 
+{{ button("Covid-19 FAQ", "covid-19.html") }}
+
+---
+
 **Conference registration is now open!** Early-bird prices will end on May 1st 2020.
 
 {{ button("Registration details", "registration.html") }}
