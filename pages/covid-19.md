@@ -26,8 +26,10 @@ We are also developing remote participation options that will be effective in ei
 
 
 ## What is the current situation in Québec, and Montréal ?
-The [Québec official website](https://www.quebec.ca/en/health/health-issues/a-z/2019-coronavirus/) is a good resource on the issue.
+[Québec official website](https://www.quebec.ca/en/health/health-issues/a-z/2019-coronavirus/) and [Canadian government website](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html) are good sources of information.
 
 As of March 22 2020, the situation is under control in Québec (219 total cases, and 4 death). The government of Quebec reacted quickly when the first cases were confirmed, and imposed expansive measures to limit the spread of the virus.
 
-<!-- While the borders are currently closed, it is not clear now for how long it'll be the case. Since MIDL 2020 is still few months away, it is impossible for now to say how it'll affect attending. -->
+On March 18, 2020, Canada implemented a ban on foreign nationals from all countries, except the United States from entering Canada, Canada-U.S. border closes to all non-essential travel.
+It is not clear for how long the ban will be in effect.
+Since MIDL 2020 is still few months away, it is unlikely that a clear decision is reached before May.
