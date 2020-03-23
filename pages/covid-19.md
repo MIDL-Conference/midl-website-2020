@@ -30,6 +30,6 @@ We are also developing remote participation options that will be effective in ei
 
 As of March 22 2020, the situation is under control in Québec (219 total cases, and 4 death). The government of Quebec reacted quickly when the first cases were confirmed, and imposed expansive measures to limit the spread of the virus.
 
-On March 18, 2020, Canada implemented a ban on foreign nationals from all countries, except the United States from entering Canada, Canada-U.S. border closes to all non-essential travel.
+On March 18, 2020, Canada implemented a ban on foreign nationals from all countries, except the United States from entering Canada ; Canada-U.S. border closes to all non-essential travel.
 It is not clear for how long the ban will be in effect.
 Since MIDL 2020 is still few months away, it is unlikely that a clear decision is reached before May.
