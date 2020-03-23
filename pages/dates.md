@@ -19,7 +19,7 @@ Deadlines are at 23:59, [UTC -12](https://www.timeanddate.com/time/map/) ([AoE](
 * **<s>Notification of acceptance</s>** <s>21 February 2020</s>
 
 ### Paper decisions
-* **Reviews available** 20 March 2020
+* **<s>Reviews available</s>** <s>20 March 2020</s>
 * **Rebuttal period** 20 March to 27 March 2020
 * **Discussion period** 20 March to 3 April 2020
 * **Notification of acceptance** 10 April 2020

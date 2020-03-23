@@ -71,18 +71,26 @@ The policy is enforced during the whole reviewing process period.
 
 
 ## Withdrawing policy and rejected papers
-Authors have the right to withdraw papers from consideration at any time until the paper submission deadline. After the submission deadline and during the paper review process, it will not be possible to withdraw a paper. After the decisions are announced, it will be possible for authors to withdraw a rejected paper. At any stage, if an author withdraws the paper, it will be deleted from the OpenReview hosting site.
+Authors have the right to withdraw papers from consideration at any time until the paper submission deadline.
+After the submission deadline and during the paper review/rebuttal/discussion process, it will not be possible to withdraw a paper.
+After the decisions are announced, it will be possible for authors to withdraw a rejected paper.
+At any stage, if an author withdraws the paper, it will be deleted from the OpenReview hosting site.
+
+<!-- ## Discussion period
+
+The discussion period is a time when reviewers, area chairs and authors can have an open discussion about the paper.
+We encourage all participants to ..................... -->
 
 ---
 
 ## Reviewing process
 1. Submissions can be made either as a full or short paper.
 1. Submissions are uploaded on OpenReview, which enables public discussion. However, the official reviews will be private during the review period, and will become publicly visible only after the reviews become available to authors. Comments that are posted by reviewers will remain anonymous.
-1. Authors can choose to delete their rejected submissions from the OpenReview hosting site.
 1. Reviews from the Public (=anybody who is logged in can post comments) will be released only after the reviews are made available to authors. The author of a comment can decide to post anonymously or not. Login is required before posting any comment.
 1. Submissions to MIDL will be **double-blind** (Reviewers cannot see author names when conducting reviews, and authors cannot see reviewer names).
 1. Short-paper submissions will undergo a lighter review, and do not have a period for rebuttal and author discussion.
-1. Reviews of full papers will be made available to authors on March 20th, and the authors have until March 27th to submit a rebuttal and update their papers on OpenReview.
+1. Reviews of full papers will be made available to authors on March 20th, and the authors have until March 27th to submit a rebuttal.
 1. The period from March 27th  to April 3rd will be for open discussion between the authors and reviewers (full paper only), with the Area Chair guiding the discussion towards essential points.
 1. On April 10th, authors will be notified about the acceptance or rejection of their paper (both full and short papers).
+1. Once the process is complete and a final decision is reached, the authors can choose to delete rejected submissions from the OpenReview hosting site.
 1. Papers that are not accepted will be considered non-archival, and may be submitted elsewhere at the discretion of the authors. We strongly encourage taking into account the reviewers comments before resubmitting. During submission, the authors will have the option to indicate whether to have their submissions, the reviews, and the comments to be deleted from the OpenReview site, in case their submission is rejected.
