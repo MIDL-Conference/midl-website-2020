@@ -74,7 +74,7 @@ The policy is enforced during the whole reviewing process period.
 Authors have the right to withdraw papers from consideration at any time until the paper submission deadline.
 After the submission deadline and during the paper review/rebuttal/discussion process, it will not be possible to withdraw a paper.
 After the decisions are announced, it will be possible for authors to withdraw a rejected paper.
-At any stage, if an author withdraws the paper, it will be deleted from the OpenReview hosting site.
+If an author withdraws the paper, it will be deleted from the OpenReview hosting site.
 
 <!-- ## Discussion period
 
