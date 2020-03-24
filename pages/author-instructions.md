@@ -32,7 +32,7 @@ Full papers contain well-validated applications or methodological contributions 
 
 ## Short papers
 
-Short papers are up to 3 pages (excluding references and acknowledgements) and can, for example, focus on preliminary novel methodological ideas without extensive validation. We also specifically accept short papers of recently published or submitted journal contributions to give authors the opportunity to present their work and obtain feedback from the community. Selection of short papers is based on a light **double-blind** review process via OpenReview, without a discussion period. All accepted abstracts will be presented as posters at the conference.
+Short papers are up to 3 pages (excluding references and acknowledgements) and can, for example, focus on preliminary novel methodological ideas without extensive validation. We also specifically accept short papers of recently published or submitted journal contributions to give authors the opportunity to present their work and obtain feedback from the community. Selection of short papers is based on a light **double-blind** review process via OpenReview, without a rebuttal/discussion period. All accepted abstracts will be presented as posters at the conference.
 
 [% .deadlines %]
 * **<s>Short-paper registration deadline</s>** <s>24 January 2020, 23:59, [UTC -12](https://www.timeanddate.com/time/map/) ([AoE](https://en.wikipedia.org/wiki/Anywhere_on_Earth) timezone)</s>
@@ -85,12 +85,13 @@ We encourage all participants to ..................... -->
 
 ## Reviewing process
 1. Submissions can be made either as a full or short paper.
-1. Submissions are uploaded on OpenReview, which enables public discussion. However, the official reviews will be private during the review period, and will become publicly visible only after the reviews become available to authors. Comments that are posted by reviewers will remain anonymous.
-1. Reviews from the Public (=anybody who is logged in can post comments) will be released only after the reviews are made available to authors. The author of a comment can decide to post anonymously or not. Login is required before posting any comment.
+1. Submissions are uploaded on OpenReview. The official reviews will be private during the review period, and will become publicly visible only after the reviews become available to authors. Comments that are posted by reviewers will remain anonymous.
+1. Public commenting (i.e. anybody who is logged in can post comments) becomes possible only after the decisions have been released reviews are made available to authors. The author of a public comment can decide to post anonymously or not. Login is required before posting any comment.
 1. Submissions to MIDL will be **double-blind** (Reviewers cannot see author names when conducting reviews, and authors cannot see reviewer names).
 1. Short-paper submissions will undergo a lighter review, and do not have a period for rebuttal and author discussion.
 1. Reviews of full papers will be made available to authors on March 20th, and the authors have until March 27th to submit a rebuttal.
 1. The period from March 27th  to April 3rd will be for open discussion between the authors and reviewers (full paper only), with the Area Chair guiding the discussion towards essential points.
+1. During the rebuttal/discussion period, authors cannot update the pdf of a paper. To submit your rebuttal and/or answer specific comments by the reviewers, please use the “official comments” button in OpenReview.
 1. On April 10th, authors will be notified about the acceptance or rejection of their paper (both full and short papers).
 1. Once the process is complete and a final decision is reached, the authors can choose to delete rejected submissions from the OpenReview hosting site.
 1. Papers that are not accepted will be considered non-archival, and may be submitted elsewhere at the discretion of the authors. We strongly encourage taking into account the reviewers comments before resubmitting. During submission, the authors will have the option to indicate whether to have their submissions, the reviews, and the comments to be deleted from the OpenReview site, in case their submission is rejected.
