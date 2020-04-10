@@ -8,22 +8,14 @@
     <img alt="Montréal at Night" src="/images/montreal-at-night.jpg">
 </p>
 
+
+**MIDL 2020 is going fully virtual:**
 {{ button("Covid-19 FAQ", "covid-19.html") }}
 
-
 ---
 
-**Rebuttal and discussion period has started.** Reviews are now available to authors on [OpenReview](https://openreview.net/group?id=MIDL.io/2020/Conference).
-<!-- **Paper submission is now closed.** All submitted papers are publicly available on [OpenReview](https://openreview.net/group?id=MIDL.io/2020/Conference). -->
-
+**Decisions have been sent to authors:**
 {{ button("MIDL 2020 submissions", "https://openreview.net/group?id=MIDL.io/2020/Conference") }}
-
----
-
-**[Conference registration](registration.html) is now open!** Early-bird prices will end on May 1st 2020.
-
-<!-- {{ button("Registration details", "registration.html") }} -->
-<!-- [Registration details](registration.html) -->
 
 ---
 
