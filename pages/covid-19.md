@@ -28,5 +28,5 @@ Yes, [as in the previous years](https://www.youtube.com/channel/UCd87UPUTt-oqTeG
 We are also developing remote participation options. Many other events have been impacted and we expect to learn from their experience.
 
 
-## Are challenges canceller ?
+## Are challenges canceled ?
 No. They will be 100% online.
