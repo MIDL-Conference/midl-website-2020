@@ -72,9 +72,10 @@ title: "Organization"
 * Maria Vakalopoulou (CentraleSupélec, France)
 * Shanshan Wang (Shenzhen Institutes of Advanced Technology, China)
 
----
+<!-- --- -->
 
-## Reviewers
+<!-- ## Reviewers -->
+<!--
 * Chenglong Wang (Nagoya University)
 * Kersten Petersen (University of Copenhagen)
 * kayhan Batmanghelich (University of Pittsburgh)
@@ -292,3 +293,4 @@ title: "Organization"
 * Hoda Sadat Hashemi (University of British Columbia)
 * Emma Robinson (King's College London)
 * Melanie Ganz (University of Copenhagen)
+-->
