@@ -16,6 +16,16 @@ MIDL 2020 submissions follow two tracks: *full* and *short* papers. All accepted
 
 **Inquiries to the program chairs can be addressed directly to [pcs@2020.midl.io](mailto:pcs@2020.midl.io).**
 
+## Camera ready instructions
+
+Further information on the process for submitting the camera-ready manuscript (only for full papers) for inclusion in the PMLR proceedings will be provided in due course.
+
+In the meantime, we encourage you to take into account the reviewers concerns and apply appropriate changes to your submission to improve its quality. If you need to go over the suggested page limit, you may do so while still aiming for conciseness. If you have not yet done so, please update your paper using the provided latex template.
+
+[% .deadlines %]
+* **Camera ready deadline** TBA
+[% / %]
+
 ## Full papers
 
 Full papers contain well-validated applications or methodological contributions of deep learning algorithms in medical imaging. There is no strict limit on paper length. However, we strongly recommend keeping full papers at 8 pages (excluding references and acknowledgements). An appendix section can be added if needed with additional details but must be compiled into a single PDF. The appropriateness of using pages over the recommended page length will be judged by reviewers. Full papers will go through a **double-blind** peer-reviewing process via OpenReview, with a two-week period for author rebuttal and discussion. All accepted papers will be presented as posters with a selection of these papers will also be invited for oral presentation.
@@ -24,9 +34,9 @@ Full papers contain well-validated applications or methodological contributions 
 * **<s>Full-paper registration deadline</s>** <s>24 January 2020, 23:59, [UTC -12](https://www.timeanddate.com/time/map/) ([AoE](https://en.wikipedia.org/wiki/Anywhere_on_Earth) timezone)</s>
 * **<s>Full-paper submission deadline</s>** <s>30 January 2020, 23:59, [UTC -12](https://www.timeanddate.com/time/map/) ([AoE](https://en.wikipedia.org/wiki/Anywhere_on_Earth) timezone)</s>
 * **<s>Full-paper registration open</s>** <s>1 January 2020, 23:59, [UTC -12](https://www.timeanddate.com/time/map/) ([AoE](https://en.wikipedia.org/wiki/Anywhere_on_Earth) timezone)</s>
-* **Reviews made available to authors and rebuttal period** From March 20th to March 27th 2020
-* **Author/reviewers open discussion period** From March 27th to April 3rd 2020
-* **Full-paper decisions released to authors** April 10th 2020
+* **<s>Reviews made available to authors and rebuttal period</s>** <s>From March 20th to March 27th 2020</s>
+* **<s>Author/reviewers open discussion period</s>** <s>From March 27th to April 3rd 2020</s>
+* **<s>Full-paper decisions released to authors</s>** <s>April 10th 2020</s>
 [% / %]
 
 
@@ -38,7 +48,7 @@ Short papers are up to 3 pages (excluding references and acknowledgements) and c
 * **<s>Short-paper registration deadline</s>** <s>24 January 2020, 23:59, [UTC -12](https://www.timeanddate.com/time/map/) ([AoE](https://en.wikipedia.org/wiki/Anywhere_on_Earth) timezone)</s>
 * **<s>Short-paper submission deadline</s>** <s>30 January 2020, 23:59, [UTC -12](https://www.timeanddate.com/time/map/) ([AoE](https://en.wikipedia.org/wiki/Anywhere_on_Earth) timezone)</s>
 * **<s>Short-paper registration open</s>** <s>1 January 2020, 23:59 [UTC -12](https://www.timeanddate.com/time/map/) ([AoE](https://en.wikipedia.org/wiki/Anywhere_on_Earth) timezone)</s>
-* **Short-paper decisions released to authors** April 10th 2020
+* **<s>Short-paper decisions released to authors</s>** <s>April 10th 2020</s>
 [% / %]
 
 ---
