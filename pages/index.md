@@ -12,6 +12,8 @@
 **MIDL 2020 is going fully virtual:**
 {{ button("Covid-19 FAQ", "covid-19.html") }}
 
+Registrations are closed for now, until details of the virtual event are announced.
+
 ---
 
 **Decisions have been sent to authors:**
