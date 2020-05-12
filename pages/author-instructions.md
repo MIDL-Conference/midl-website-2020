@@ -16,15 +16,53 @@ MIDL 2020 submissions follow two tracks: *full* and *short* papers. All accepted
 
 **Inquiries to the program chairs can be addressed directly to [pcs@2020.midl.io](mailto:pcs@2020.midl.io).**
 
+---
+
 ## Camera ready instructions
 
-Further information on the process for submitting the camera-ready manuscript (only for full papers) for inclusion in the PMLR proceedings will be provided in due course.
-
-In the meantime, we encourage you to take into account the reviewers concerns and apply appropriate changes to your submission to improve its quality. If you need to go over the suggested page limit, you may do so while still aiming for conciseness. If you have not yet done so, please update your paper using the provided latex template.
-
 [% .deadlines %]
-* **Camera ready deadline** TBA
+* **Camera ready deadline** 28 May 2020
 [% / %]
+
+We encourage authors to take into account the reviewers concerns and apply appropriate changes to your submission to improve its quality. If you need to go over the suggested page limit, you may do so while still aiming for conciseness.
+
+Please use the LaTeX style files provided at: [https://github.com/MIDL-Conference/MIDLLatexTemplate](https://github.com/MIDL-Conference/MIDLLatexTemplate) (`midl-fullpaper.tex` for full papers, `midl-shortpaper.tex` for short papers).
+
+**The final paper in PDF** format has to be uploaded on OpenReview by May 28th, using the "Revision" button and the “PDF” field.
+
+### Detailed instructions
+**Applies only to full papers.**
+
+Once your final material is prepared according to the detailed instructions below, please upload a single zip file containing all the items on OpenReview by May 28th. To do so, please **use the “Revision” button and the “Source Latex” field added to the revision form**.
+
+After making sure that your project compiles correctly with the standard `pdflatex` compiler, please include all the
+ following items in a single zip folder latex project:
+
+1. The main LaTex file, which should be named `"surname20.tex"`, where "surname" is replaced with the primary author's surname. The number 20 represents a 2-digit representation of the year of publication. This naming convention is necessary as per the PMLR format.
+
+2. The bibliography should be in a single `.bib` file and named `“surname20.bib”` with the same convention as above.
+
+3. Within the “surname20.tex” tex file, the document class should be:
+<pre><code>\documentclass{midl}</code></pre>
+
+4. You should also set the following variables before the \title command:
+<pre><code>\jmlryear{2020}
+\jmlrworkshop{Full Paper -- MIDL 2020}</code></pre>
+
+5. The bibliography should be included in the paper using the following command:
+<pre><code>\bibliography{surname20}</code></pre>
+
+6. Please do NOT use the `\begin{thebibliography}` environment.
+
+7. **Do not** use any `\vskip` or any other format/spacing altering commands. They will be removed during compilation.
+
+8. Include the main PDF and all the Figures in the zip folder
+
+9. Fill out and sign the [PMLR Publication Agreement](http://proceedings.mlr.press/pmlr-license-agreement.pdf) and add it in PDF format to the zip folder as part of your latex project.
+
+
+
+---
 
 ## Full papers
 
