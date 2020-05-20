@@ -4,7 +4,18 @@ title: "Video help"
 
 # Video help
 
-While we are unable to provide individualized technical support to help you create these videos, we provide on this page several examples on how to record a video of your presentation, and some instructions to convert the recording if needed
+While we are unable to provide individualized technical support to help you create these videos, we provide on this page several examples on how to record a video of your presentation, and some instructions to convert the recording if needed.
+
+This page is still under construction, as we add more methods to record your talk. If you find another, good method to do so, you can share it with us at [2020@midl.io](mailto:2020.midl.io).
+
+First, a quick reminder of the requirement:
+
+* `16/9` aspect ratio
+* Resolution at least `1920x1080p`
+* `25 frame per second` or more
+* Saved in `.mp4` format
+* Audio channel in `mono or stereo` (no 5.1 or any creative setup)
+* `Less than 1GB`
 
 ## Recording with zoom
 One possible approach to record a compatible video from content displayed on your computer screen and voice recorded via the computer microphone, is to record the presentation using Zoom, available to users on most platforms and in most countries:
@@ -14,34 +25,34 @@ One possible approach to record a compatible video from content displayed on you
 
 ## Converting formats
 [`ffmpeg`](https://ffmpeg.org/) (available on Linux, OSX and Windows) can be used to easily reencode a recording into `.mp4`:
+<pre><code>ffmpeg -i input.avi output.mp4</code></pre>
 
-```
-ffmpeg -i input.avi output.mp4
-```
+
+## Trim bits of the video
+You may end-up with some unwanted sequence, as you start and stop the recording process. It is possible to [cut those bits quite easily](https://superuser.com/questions/377343/cut-part-from-video-file-from-start-position-to-end-position-with-ffmpeg):
+<pre><code>ffmpeg -ss [start] -i in.mp4 -t [duration] -c copy out.mp4</code></pre>
+
+
 ## Advanced users
 Advanced users might want have more control on the recording process. While it is more complex, and will certainly require some tuning (with the encoder parameters), this might give them more options to get exatly what they want.
 
 ### Recording with ffmpeg
 [Recording a screen](https://trac.ffmpeg.org/wiki/Capture/Desktop) is possible with ffmpeg.
 
-For instance on Linux, with a screen with a resolution of `3840x2160`:
+For instance on Linux, with a screen of `3840x2160` resolution:
 
-```
-ffmpeg -video_size 3840x2160 -framerate 25 -f x11grab -i :0.0 -f pulse -ac 2 -i default -c:v libx264 -crf 0 -preset veryfast raw_output.mp4
-```
+<pre><code>ffmpeg -video_size 3840x2160 -framerate 25 -f x11grab -i :0.0 \
+	-f pulse -ac 2 -i default \
+	-c:v libx264 -crf 0 -preset veryfast raw_output.mp4</code></pre>
 
 And then downsample it to `1080p`:
 
-```
-ffmpeg -i raw_output.mp4 -vf scale=1920:1080 output_1080p.mp4
-```
+<pre><code>ffmpeg -i raw_output.mp4 -vf scale=1920:1080 output_1080p.mp4</code></pre>
 
 If you also want to [include your webcam](https://trac.ffmpeg.org/wiki/Capture/Webcam) on the [bottom right](https://superuser.com/questions/1432254/merge-x11grab-with-v4l2-into-single-output-file) corner of the video:
 
-```
-ffmpeg -video_size 1920x1080 -framerate 25 -f x11grab -i :0.0
-	-f v4l2 -framerate 25 -video_size 640x480 -i /dev/video0
-	-filter_complex "[0][1]overlay=x=W-w:y=H-h"
-	-f pulse -ac 2 -i default
-	-c:v libx264 -crf 0 -preset veryfast raw_output_webcam.mp4
-```
+<pre><code>ffmpeg -video_size 1920x1080 -framerate 25 -f x11grab -i :0.0 \
+	-f v4l2 -framerate 25 -video_size 640x480 -i /dev/video0 \
+	-filter_complex "[0][1]overlay=x=W-w:y=H-h" \
+	-f pulse -ac 2 -i default \
+	-c:v libx264 -crf 0 -preset veryfast raw_output_webcam.mp4</code></pre>
