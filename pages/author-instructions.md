@@ -79,17 +79,17 @@ We request authors to prepare and upload a video recording of their presentation
 * **  ** the PDF file of the slides,
 * **  ** an optional 1-minute video teaser.
 * **Full paper (“poster”)** 5-minute presentation video
-* **  ** the PDF file of the slides
-* **  ** a 1-minute video “teaser”
-* **Short paper** 1-minute video “teaser”
-* **  ** the PDF file of the presentation (max 5 slides)
+* **  ** the PDF file of the slides,
+* **  ** a 1-minute video “teaser”.
+* **Short paper** 1-minute video “teaser”,
+* **  ** the PDF file of the presentation (max 5 slides).
 [% / %]
 
 While voice only over slides will be OK, it will be great to also have the presenter face embedded within the slides in the video. While we are unable to provide individualized technical support to help you create these videos, we provide some examples on how to record videos on the [help page](video-help.html). The final recording has to meet the following requirements:
 
 * `16/9` aspect ratio
 * Resolution at least `1920x1080p`
-* `25 frame per second` or more
+* `20 frame per second` or more
 * Saved in `.mp4` format
 * Audio channel in `mono or stereo` (no 5.1 or any creative setup)
 * `Less than 1GB`

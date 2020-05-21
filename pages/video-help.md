@@ -12,7 +12,7 @@ First, a quick reminder of the requirement:
 
 * `16/9` aspect ratio
 * Resolution at least `1920x1080p`
-* `25 frame per second` or more
+* `20 frame per second` or more
 * Saved in `.mp4` format
 * Audio channel in `mono or stereo` (no 5.1 or any creative setup)
 * `Less than 1GB`
@@ -29,12 +29,12 @@ One possible approach to record a compatible video from content displayed on you
 
 
 ## Trim bits of the video
-You may end-up with some unwanted sequence, as you start and stop the recording process. It is possible to [cut those bits quite easily](https://superuser.com/questions/377343/cut-part-from-video-file-from-start-position-to-end-position-with-ffmpeg):
+You may end-up with some unwanted sequence, when you start and stop the recording process. It is possible to [cut those bits quite easily](https://superuser.com/questions/377343/cut-part-from-video-file-from-start-position-to-end-position-with-ffmpeg):
 <pre><code>ffmpeg -ss [start] -i in.mp4 -t [duration] -c copy out.mp4</code></pre>
 
 
 ## Advanced users
-Advanced users might want have more control on the recording process. While it is more complex, and will certainly require some tuning (with the encoder parameters), this might give them more options to get exatly what they want.
+Advanced users might want have more control on the recording. While it is more complex, and will certainly require some tuning (with the encoder parameters), this might give them more options to get exatly what they want.
 
 ### Recording with ffmpeg
 [Recording a screen](https://trac.ffmpeg.org/wiki/Capture/Desktop) is possible with ffmpeg.
