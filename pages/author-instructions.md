@@ -31,8 +31,8 @@ Please use the LaTeX style files provided at: [https://github.com/MIDL-Conferenc
 
 **The final paper in PDF** format has to be uploaded on OpenReview by May 28th, using the "Revision" button and the “PDF” field.
 
-### Detailed instructions
-**Applies only to full papers.**
+### Detailed instructions for Full Papers
+<!-- **Applies only to full papers.** -->
 
 Once your final material is prepared according to the detailed instructions below, please upload a single zip file containing all the items on OpenReview by May 28th. To do so, please **use the “Revision” button and the “Source Latex” field added to the revision form**.
 
@@ -60,6 +60,28 @@ After making sure that your project compiles correctly with the standard `pdflat
 8. Include the main PDF and all the Figures in the zip folder
 
 9. Fill out and sign the [PMLR Publication Agreement](http://proceedings.mlr.press/pmlr-license-agreement.pdf) and add it in PDF format to the zip folder as part of your latex project.
+
+
+###  Detailed instructions for Short Papers
+
+This year, all accepted short papers will be gathered in an arXiv compendium. In order for your short paper to be included, you will need to create an arXiv submission and provide us with your arXiv paper id once you have finished your camera-ready version **by May 28**.
+
+1. Start your submission at: [https://arxiv.org/](https://arxiv.org/)
+
+2. Your PDF must follow the same format of the camera-ready version used for OpenReview, above.
+
+3. Do not forget to update your latex headers with:
+<pre><code>\jmlrproceedings{MIDL 2020}{Medical Imaging with Deep Learning 2020}
+\jmlrvolume{}
+\jmlryear{}
+\jmlrworkshop{MIDL 2020 -- Short Paper}
+\editors{}</code></pre>
+
+4. Your “Report Number” must have the following format when creating your arXiv submission:
+<pre><code>MIDL/2020/ExtendedAbstract/XXX</code></pre>
+where `XXX` is your paper ID used by OpenReview (you can verify your paper ID in the [author console](https://openreview.net/group?id=MIDL.io/2020/Conference/Authors#your-submissions)).
+
+5. Once your arXiv submission is created, send the link to your arXiv paper to [pcs@2020.midl.io](mailto:pcs@2020.midl.io).
 
 
 ---
