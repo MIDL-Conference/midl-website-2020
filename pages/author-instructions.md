@@ -84,9 +84,9 @@ where `XXX` is your paper ID used by OpenReview (you can verify your paper ID in
 5. Once your arXiv submission is created, send the link to your arXiv paper to [pcs@2020.midl.io](mailto:pcs@2020.midl.io).
 
 
+<!--
 ---
 
-<!-- ## Video instructions -->
 <h2 id="video_instructions">Video instructions</h2>
 
 [% .deadlines %]
@@ -121,7 +121,7 @@ Except for the above duration and format requirements, the form of the presentat
 
 We hope to make MIDL 2020 a success, despite the difficult situation and the unusual conference format, and we thank you for your cooperation.
 
-
+ -->
 
 ---
 
