@@ -23,7 +23,8 @@ Deadlines are at 23:59, [UTC -12](https://www.timeanddate.com/time/map/) ([AoE](
 * **<s>Rebuttal period</s>** <s>20 March to 27 March 2020</s>
 * **<s>Discussion period</s>** <s>20 March to 3 April 2020</s>
 * **<s>Notification of acceptance</s>** <s>10 April 2020</s>
-* **Camera ready deadline** TBA
+* **Camera ready deadline** 28 May 2020
+* **Deadline to submit the recording** 22 June 2020
 
 ### Conference dates
 * **MIDL 2020 in Montréal** 6-8 July 2020
