@@ -84,13 +84,14 @@ where `XXX` is your paper ID used by OpenReview (**NOT the submission ID**). You
 
 5. Once your arXiv submission is created, send the link to your arXiv paper to [pcs@2020.midl.io](mailto:pcs@2020.midl.io).
 
-<!--
+
 ---
+
 
 <h2 id="video_instructions">Video instructions</h2>
 
 [% .deadlines %]
-* **Deadline to submit the recording** 15 June 2020
+* **Deadline to submit the recording** 22 June 2020
 [% / %]
 
 MIDL 2020 being a fully virtual conference, we have opted for a format where each paper (full and short) will take the form of a pre-recorded video, which we will make available to conference attendees. We will further offer the possibility to discuss the papers and presentations in Q&A (“oral”) and interactive (“poster”) sessions during the originally scheduled conference dates. All videos will be uploaded on the [MIDL Youtube channel](https://www.youtube.com/channel/UCd87UPUTt-oqTeGi8fQw-_w).
@@ -121,7 +122,7 @@ While voice only over slides will be OK, it will be great to also have the prese
 Except for the above duration and format requirements, the form of the presentation is left free. However, please make sure the video includes the title of the paper, the authors’ names and affiliations, and a mention to MIDL 2020.
 
 We hope to make MIDL 2020 a success, despite the difficult situation and the unusual conference format, and we thank you for your cooperation.
- -->
+
 
 ---
 
