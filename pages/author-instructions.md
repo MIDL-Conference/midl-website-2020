@@ -79,10 +79,10 @@ This year, all accepted short papers will be gathered in an arXiv compendium. In
 
 4. Your “Report Number” must have the following format when creating your arXiv submission:
 <pre><code>MIDL/2020/ExtendedAbstract/XXX</code></pre>
-where `XXX` is your paper ID used by OpenReview (you can verify your paper ID in the [author console](https://openreview.net/group?id=MIDL.io/2020/Conference/Authors#your-submissions)).
+where `XXX` is your paper ID used by OpenReview (**NOT the submission ID**). You can find it in the URL of your OpenReview submission:
+<pre><code>https://openreview.net/forum?id=XXX</code></pre>
 
 5. Once your arXiv submission is created, send the link to your arXiv paper to [pcs@2020.midl.io](mailto:pcs@2020.midl.io).
-
 
 <!--
 ---
@@ -99,12 +99,13 @@ We request authors to prepare and upload a video recording of their presentation
 [% .deadlines %]
 * **Full paper (“oral”)** 15-minute presentation video,
 * **  ** the PDF file of the slides,
-* **  ** an optional 1-minute video teaser.
-* **Full paper (“poster”)** 5-minute presentation video
+* **  ** and an optional 1-minute video teaser.
+* **Full paper (“poster”)** 5-minute presentation video,
 * **  ** the PDF file of the slides,
-* **  ** a 1-minute video “teaser”.
-* **Short paper** 1-minute video “teaser”,
-* **  ** the PDF file of the presentation (max 5 slides).
+* **  ** and a 1-minute video “teaser”.
+* **Short paper** 5-minute presentation video,
+* **  ** the PDF file of the presentation (a maximum of 5 slides),
+* **  ** and 1-minute video “teaser”.
 [% / %]
 
 While voice only over slides will be OK, it will be great to also have the presenter face embedded within the slides in the video. While we are unable to provide individualized technical support to help you create these videos, we provide some examples on how to record videos on the [help page](video-help.html). The final recording has to meet the following requirements:
@@ -120,7 +121,6 @@ While voice only over slides will be OK, it will be great to also have the prese
 Except for the above duration and format requirements, the form of the presentation is left free. However, please make sure the video includes the title of the paper, the authors’ names and affiliations, and a mention to MIDL 2020.
 
 We hope to make MIDL 2020 a success, despite the difficult situation and the unusual conference format, and we thank you for your cooperation.
-
  -->
 
 ---
