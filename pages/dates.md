@@ -27,7 +27,7 @@ Deadlines are at 23:59, [UTC -12](https://www.timeanddate.com/time/map/) ([AoE](
 * **Deadline to submit the recording** 22 June 2020
 
 ### Conference dates
-* **MIDL 2020 in Montréal** 6-8 July 2020
+* **MIDL 2020 (virtual)** 6-8 July 2020
 [% / %]
 
 ---
