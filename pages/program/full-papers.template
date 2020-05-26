@@ -1,0 +1,21 @@
+---
+title: "Full papers"
+---
+
+{% from "_macros.html" import paper %}
+
+# Full papers
+
+
+## Orals
+[% .papers %]
+ORALS
+[% / %]
+
+
+
+## Posters
+[% .papers %]
+POSTERS
+[% / %]
+

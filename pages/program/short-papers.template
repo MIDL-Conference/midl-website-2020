@@ -1,0 +1,11 @@
+---
+title: "Short papers"
+---
+
+{% from "_macros.html" import paper %}
+
+# Short papers
+
+[% .papers %]
+SHORTS
+[% / %]
