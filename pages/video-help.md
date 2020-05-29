@@ -1,8 +1,10 @@
 ---
-title: "Video help"
+title: "Recording help"
 ---
 
-# Video help
+# Recording help
+
+This page is to help authors to record their presentation. Rquirements of the said presentation are available in the [author instructions](author-instructions.html#video_instructions).
 
 While we are unable to provide individualized technical support to help you create these videos, we provide on this page several examples on how to record a video of your presentation, and some instructions to convert the recording if needed.
 
