@@ -22,7 +22,7 @@ MIDL 2020 submissions follow two tracks: *full* and *short* papers. All accepted
 <h2 id="camera_ready_instructions">Camera ready instructions</h2>
 
 [% .deadlines %]
-* **Camera ready deadline** 28 May 2020
+* **<s>Camera ready deadline</s>** <s>28 May 2020</s>
 [% / %]
 
 We encourage authors to take into account the reviewers concerns and apply appropriate changes to your submission to improve its quality. If you need to go over the suggested page limit, you may do so while still aiming for conciseness.
