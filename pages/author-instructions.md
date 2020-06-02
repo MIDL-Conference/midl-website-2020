@@ -16,6 +16,45 @@ MIDL 2020 submissions follow two tracks: *full* and *short* papers. All accepted
 
 **Inquiries to the program chairs can be addressed directly to [pcs@2020.midl.io](mailto:pcs@2020.midl.io).**
 
+
+---
+
+
+<h2 id="video_instructions">Video instructions</h2>
+
+[% .deadlines %]
+* **Deadline to submit the recording** 22 June 2020
+[% / %]
+
+MIDL 2020 being a fully virtual conference, we have opted for a format where each paper (full and short) will take the form of a pre-recorded video, which we will make available to conference attendees. We will further offer the possibility to discuss the papers and presentations in Q&A (“oral”) and interactive (“poster”) sessions during the originally scheduled conference dates. All videos will be uploaded on the [MIDL Youtube channel](https://www.youtube.com/channel/UCd87UPUTt-oqTeGi8fQw-_w).
+
+We request authors to prepare and upload a video recording of their presentation, **with the file of the slides as well** (instructions on where to upload the files will be communicated in due time).
+[% .deadlines %]
+* **Full paper (“oral”)** 15-minute presentation video,
+* **  ** the PDF file of the slides,
+* **  ** and an optional 1-minute video teaser.
+* **Full paper (“poster”)** 5-minute presentation video,
+* **  ** the PDF file of the slides,
+* **  ** and a 1-minute video “teaser”.
+* **Short paper** 5-minute presentation video,
+* **  ** the PDF file of the presentation (a maximum of 5 slides),
+* **  ** and 1-minute video “teaser”.
+[% / %]
+
+While voice only over slides will be OK, it will be great to also have the presenter face embedded within the slides in the video. While we are unable to provide individualized technical support to help you create these videos, we provide some examples on how to record videos on the [help page](video-help.html). The final recording has to meet the following requirements:
+
+* `16/9` aspect ratio
+* Resolution at least `1920x1080p`
+* `20 frame per second` or more
+* Saved in `.mp4` format
+* Audio channel in `mono or stereo` (no 5.1 or any creative setup)
+* `Less than 1GB`
+* Slides of the presentation should be in `.pdf`
+
+Except for the above duration and format requirements, the form of the presentation is left free. However, please make sure the video includes the title of the paper, the authors’ names and affiliations, and a mention to MIDL 2020.
+
+We hope to make MIDL 2020 a success, despite the difficult situation and the unusual conference format, and we thank you for your cooperation.
+
 ---
 
 <!-- ## Camera ready instructions -->
@@ -83,46 +122,6 @@ where `XXX` is your paper ID used by OpenReview (**NOT the submission ID**). You
 <pre><code>https://openreview.net/forum?id=XXX</code></pre>
 
 5. Once your arXiv submission is created, send the link to your arXiv paper to [pcs@2020.midl.io](mailto:pcs@2020.midl.io).
-
-
----
-
-
-<h2 id="video_instructions">Video instructions</h2>
-
-[% .deadlines %]
-* **Deadline to submit the recording** 22 June 2020
-[% / %]
-
-MIDL 2020 being a fully virtual conference, we have opted for a format where each paper (full and short) will take the form of a pre-recorded video, which we will make available to conference attendees. We will further offer the possibility to discuss the papers and presentations in Q&A (“oral”) and interactive (“poster”) sessions during the originally scheduled conference dates. All videos will be uploaded on the [MIDL Youtube channel](https://www.youtube.com/channel/UCd87UPUTt-oqTeGi8fQw-_w).
-
-We request authors to prepare and upload a video recording of their presentation, **with the file of the slides as well** (instructions on where to upload the files will be communicated in due time).
-[% .deadlines %]
-* **Full paper (“oral”)** 15-minute presentation video,
-* **  ** the PDF file of the slides,
-* **  ** and an optional 1-minute video teaser.
-* **Full paper (“poster”)** 5-minute presentation video,
-* **  ** the PDF file of the slides,
-* **  ** and a 1-minute video “teaser”.
-* **Short paper** 5-minute presentation video,
-* **  ** the PDF file of the presentation (a maximum of 5 slides),
-* **  ** and 1-minute video “teaser”.
-[% / %]
-
-While voice only over slides will be OK, it will be great to also have the presenter face embedded within the slides in the video. While we are unable to provide individualized technical support to help you create these videos, we provide some examples on how to record videos on the [help page](video-help.html). The final recording has to meet the following requirements:
-
-* `16/9` aspect ratio
-* Resolution at least `1920x1080p`
-* `20 frame per second` or more
-* Saved in `.mp4` format
-* Audio channel in `mono or stereo` (no 5.1 or any creative setup)
-* `Less than 1GB`
-* Slides of the presentation should be in `.pdf`
-
-Except for the above duration and format requirements, the form of the presentation is left free. However, please make sure the video includes the title of the paper, the authors’ names and affiliations, and a mention to MIDL 2020.
-
-We hope to make MIDL 2020 a success, despite the difficult situation and the unusual conference format, and we thank you for your cooperation.
-
 
 ---
 
