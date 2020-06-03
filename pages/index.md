@@ -13,15 +13,11 @@ page_class: "sponsors"
 </p>
 
 
-**MIDL 2020 is going fully virtual:**
-{{ button("Covid-19 FAQ", "covid-19.html") }}
+**MIDL 2020 is going fully virtual.**
 
-Registrations are closed for now, until details of the virtual event are announced.
+Thanks to our [partners and sponsors](sponsors.html), registration will be free.
 
----
-
-**Decisions have been sent to authors:**
-{{ button("MIDL 2020 submissions", "https://openreview.net/group?id=MIDL.io/2020/Conference") }}
+{{ button("Registration", "registration.html") }}
 
 ---
 
