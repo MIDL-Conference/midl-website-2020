@@ -42,6 +42,8 @@ class Paper():
         openreview=\'{f'https://openreview.net/forum?id={self.or_id}'}\',
         abstract={sanitized_abstract})
 }}}}'''
+        # paper='{self.url}',
+        # id='{self.conf_id}',
 
 
 class PaperEncoder(json.JSONEncoder):
@@ -89,7 +91,7 @@ if __name__ == "__main__":
         with_orals = template.replace("ORALS", "\n".join(map(str, orals)))
 
         posters: List[Paper] = [p for p in papers.values() if p.poster]
-        assert len(posters) == 48, len(posters)
+        assert len(posters) == 47, len(posters)
         with_both = with_orals.replace("POSTERS", "\n".join(map(str, posters)))
 
         with open(dest_path, 'w') as sink:

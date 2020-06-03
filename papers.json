@@ -879,16 +879,6 @@
         "title": "Image Translation by Latent Union of Subspaces for Cross-Domain Plaque Segmentation",
         "url": "papers/zhu20.html"
     },
-    "270": {
-        "abstract": "Deep metric learning is a compelling approach to learn an embedding space where the images from the same class are encouraged to be close and images from different classes are pushed away. Current deep metric learning approaches are inadequate to explain visually which regions contribute to the learning embedding space. Visual explanations of images are particularly of interest in medical imaging, since interpretation directly impacts the diagnosis, treatment planning and follow-up of many diseases. In this work, we propose a novel attention-based metric learning approach for medical images and seek to bridge the gap between visual interpretability and deep metric learning. Our method builds upon a divide-and-conquer strategy, where multiple learners refine subspaces of a global embedding. Furthermore, we integrated an attention module that provides visual insights of discriminative regions that contribute to the clustering of image sets and to the visualization of their embedding features.  We evaluate the benefits of using an attention-based approach for deep metric learning in the tasks of image clustering and image retrieval using a public benchmark on skin lesion detection. Our attentive deep metric learning improves the performance over recent state-of-the-art, while also providing visual interpretability of image similarities. ",
-        "authors": "Sukesh Adiga V, Jose Dolz, Herve Lombaert",
-        "id": "270",
-        "or_id": "InBpFcpQF",
-        "oral": "False",
-        "short": "False",
-        "title": "Adding Attention to Subspace Metric Learning",
-        "url": "papers/v20.html"
-    },
     "271": {
         "abstract": "Automatic segmentation of white matter hyperintensities (WMHs) in magnetic resonance imaging (MRI) remains highly sought after due to the potential to streamline and alleviate clinical workflows. WMHs are small relative to whole acquired volume, which leads to class imbalance issues, and instability during the training process of many deep learning based solutions. To address this, we propose a method which is robust to effects of class imbalance, through incorporating multi-scale information in the training process. Our method consists of training an encoder-decoder neural network utilizing a Siamese network as an auxiliary loss function. These Siamese networks take in pairs of image pairs, input images masked with ground truth labels, and input images masked with predictions, and computes multi-resolution feature vector representations and provides gradient feedback in the form of a L2 norm. We leverage transfer learning in our Siamese network, and present positive results without need to further train. It was found these methods are more robust for training segmentation neural networks and provide greater generalizability. Our method was cross-validated on multi-center data, yielding significant overall agreement with manual annotations. ",
         "authors": "Brandon Mac, Alan R. Moody, April Khademi",
