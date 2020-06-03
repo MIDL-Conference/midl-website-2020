@@ -6,6 +6,8 @@ title: "Full papers"
 
 # Full papers
 
+All accepted full papers will be published as a volume in the [Proceedings of Machine Learning Research](http://proceedings.mlr.press/).
+<!-- Papers are sorted by alphabetial order. -->
 
 ## Orals
 [% .papers %]

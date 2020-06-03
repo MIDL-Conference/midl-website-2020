@@ -4,6 +4,7 @@ import json
 from sys import argv
 from pathlib import Path
 from typing import Dict, List
+from operator import attrgetter
 
 
 class Paper():
@@ -86,11 +87,11 @@ if __name__ == "__main__":
         with open(template_path, 'r') as f:
             template = f.read()
 
-        orals: List[Paper] = [p for p in papers.values() if p.oral]
+        orals: List[Paper] = sorted([p for p in papers.values() if p.oral], key=attrgetter('title'))
         assert len(orals) == 18, len(orals)
         with_orals = template.replace("ORALS", "\n".join(map(str, orals)))
 
-        posters: List[Paper] = [p for p in papers.values() if p.poster]
+        posters: List[Paper] = sorted([p for p in papers.values() if p.poster], key=attrgetter('title'))
         assert len(posters) == 47, len(posters)
         with_both = with_orals.replace("POSTERS", "\n".join(map(str, posters)))
 
@@ -100,7 +101,7 @@ if __name__ == "__main__":
         with open(template_path, 'r') as f:
             template = f.read()
 
-        shorts: List[Paper] = [p for p in papers.values() if p.short]
+        shorts: List[Paper] = sorted([p for p in papers.values() if p.short], key=attrgetter('title'))
         assert len(shorts) == 41, len(shorts)
         with_shorts = template.replace("SHORTS", "\n".join(map(str, shorts)))
 
