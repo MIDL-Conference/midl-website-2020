@@ -19,6 +19,12 @@ First, a quick reminder of the requirement:
 * Audio channel in `mono or stereo` (no 5.1 or any creative setup)
 * `Less than 1GB`
 
+## Recording on MacOS
+Quicktime (available on all MacOS installations) allows to easily record and edit your entire screen:
+
+* [Record your screen](https://support.apple.com/en-us/HT208721)
+* [Trim the resulting video](https://support.apple.com/guide/quicktime-player/trim-a-movie-or-clip-qtpf2115f6fd/mac)
+
 ## Recording with zoom
 One possible approach to record a compatible video from content displayed on your computer screen and voice recorded via the computer microphone, is to record the presentation using Zoom, available to users on most platforms and in most countries:
 
