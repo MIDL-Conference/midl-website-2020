@@ -10,6 +10,8 @@ page_class: "events"
 
 For the first time, MIDL invites the community to propose challenges involving **both medical imaging and machine learning** topics.
 
+**Challenges will be held on July 9 2020.**
+
 ---
 
 ## object-CXR
