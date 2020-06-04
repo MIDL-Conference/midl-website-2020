@@ -3,6 +3,9 @@ title: "Important dates and schedule"
 ---
 
 # Important dates and schedule
+
+An [online iCalendar](/midl.ics) with all dates and schedule is available.
+
 Deadlines are at 23:59, [UTC -12](https://www.timeanddate.com/time/map/) ([AoE](https://en.wikipedia.org/wiki/Anywhere_on_Earth) timezone).
 
 [% .deadlines %]
@@ -34,9 +37,6 @@ Deadlines are at 23:59, [UTC -12](https://www.timeanddate.com/time/map/) ([AoE](
 
 ---
 
-## Full and short papers
-Full and short papers have the same deadline, but the short papers won't go through a rebuttal/discussion period. All other dates are common.
-
 ## iCalendar
 An [online iCalendar](/midl.ics) with all dates and schedule is available.
 It can conveniently be subscribed to and integrated in many calendar applications:
@@ -44,3 +44,6 @@ It can conveniently be subscribed to and integrated in many calendar application
 * [Google Calendar](https://support.google.com/calendar/answer/37100?hl=en&co=GENIE.Platform=Desktop)
 * [Thunderbird](https://support.mozilla.org/en-US/kb/creating-new-calendars#w_icalendar-ics)
 * [Calendar](https://support.apple.com/guide/calendar/subscribe-to-calendars-icl1022/mac)
+
+## Full and short papers
+Full and short papers have the same deadline, but the short papers won't go through a rebuttal/discussion period. All other dates are common.
