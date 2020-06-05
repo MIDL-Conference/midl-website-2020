@@ -5,11 +5,11 @@ page_class: "sponsors"
 
 # Sponsors
 
-[Sponsorship packages are still available](/sponsorship-packages.html).
+[**Sponsorship packages are still available.**](/sponsorship-packages.html)
 
-## <span class="diamond">Diamond</span>
+<!-- ## <span class="diamond">Diamond</span> -->
 
----
+<!-- ---  -->
 
 ## <span class="platinum">Platinum</span>
 
@@ -20,9 +20,9 @@ page_class: "sponsors"
 
 ---
 
-## <span class="gold">Gold</span>
+<!-- ## <span class="gold">Gold</span> -->
 
----
+<!-- --- -->
 
 ## <span class="silver">Silver</span>
 [% .logos %]
@@ -32,9 +32,9 @@ page_class: "sponsors"
 
 ---
 
-## <span class="bronze">Bronze</span>
+<!-- ## <span class="bronze">Bronze</span> -->
 
----
+<!-- --- -->
 
 <p class="small">
     All logos are trademarks and property of their respective owners.
