@@ -5,9 +5,13 @@ DEBUG = --prettify
 
 TARGET = output
 
-.PHONY: clean FORCE
+.PHONY: clean generate FORCE
 
-all: $(TARGET)
+all: generate $(TARGET)
+
+
+generate: pages/program/papers/paper.template papers.json
+	$(CC) generate_papers.py $^ pages/program/
 
 pages/program/full-papers.md: pages/program/full-papers.template papers.json
 	$(CC) fill_template.py $^ full $@
