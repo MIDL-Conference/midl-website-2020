@@ -41,10 +41,10 @@ class Paper():
         return f'''{{{{ paper(\'{self.title}\',
         \'{f'{", ".join(self.authors)}'}\',
         openreview=\'{f'https://openreview.net/forum?id={self.or_id}'}\',
+        id='{self.conf_id}',
+        paper='{self.url}',
         abstract={sanitized_abstract})
 }}}}'''
-        # paper='{self.url}',
-        # id='{self.conf_id}',
 
 
 class PaperEncoder(json.JSONEncoder):
