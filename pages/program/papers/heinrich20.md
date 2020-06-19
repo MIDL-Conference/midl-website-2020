@@ -36,19 +36,19 @@ title: "Unsupervised learning of multimodal image registration using domain adap
 }
 </style>
 
-# [Unsupervised learning of multimodal image registration using domain adaptation with projected Earth Mover’s discrepancies](https://chat.midl.io/channel/S131)
+{% from "_macros.html" import button %}
 
-##### Mattias P Heinrich,Lasse Hansen
-###### Keywords: KEYWORDS
+# S131 - Unsupervised learning of multimodal image registration using domain adaptation with projected Earth Mover’s discrepancies
 
-<!-- ### Abstract -->
+
+##### Mattias P Heinrich, Lasse Hansen
+
 <center><a class="toggle_visibility" data-selector=".paper_abstract" data-level="3">Abstract</a>
         - <a href="https://openreview.net/forum?id=wbZM-DcJB9">Reviews</a>
         - <a class="toggle_visibility" data-selector=".paper_qa" data-level="3">Schedule</a>
 
 <span class="paper_abstract">
-        Multimodal image registration is a very challenging problem for deep learning approaches. Most current work focuses on either supervised learning that requires labelled training scans and may yield models that bias towards annotated structures or unsupervised approaches that are based on hand-crafted similarity metrics and may therefore not outperform their classical non-trained counterparts. We believe that unsupervised domain adaptation can be beneficial in overcoming the current limitations for multimodal registration, where good metrics are hard to define.
-      Domain adaptation has so far been mainly limited to classification problems. We propose the first use of unsupervised domain adaptation for discrete multimodal registration. Based on a source domain for which quantised displacement labels are available as supervision, we transfer the output distribution of the network to better resemble the target domain (other modality) using classifier discrepancies. To improve upon the sliced Wasserstein metric for 2D histograms, we present a novel approximation that projects predictions into 1D and computes the L1 distance of their cumulative sums. Our proof-of-concept demonstrates the applicability of domain transfer from mono- to multimodal 2D registration of canine MRI scans and improves the registration accuracy from 33% (using sliced Wasserstein) to 44%.
+        'Multimodal image registration is a very challenging problem for deep learning approaches. Most current work focuses on either supervised learning that requires labelled training scans and may yield models that bias towards annotated structures or unsupervised approaches that are based on hand-crafted similarity metrics and may therefore not outperform their classical non-trained counterparts. We believe that unsupervised domain adaptation can be beneficial in overcoming the current limitations for multimodal registration, where good metrics are hard to define.      Domain adaptation has so far been mainly limited to classification problems. We propose the first use of unsupervised domain adaptation for discrete multimodal registration. Based on a source domain for which quantised displacement labels are available as supervision, we transfer the output distribution of the network to better resemble the target domain (other modality) using classifier discrepancies. To improve upon the sliced Wasserstein metric for 2D histograms, we present a novel approximation that projects predictions into 1D and computes the L1 distance of their cumulative sums. Our proof-of-concept demonstrates the applicability of domain transfer from mono- to multimodal 2D registration of canine MRI scans and improves the registration accuracy from 33% (using sliced Wasserstein) to 44%.'
         <span class="actions">
   <br/>
   <a class="toggle_visibility" data-level="2">Hide abstract</a></span>
@@ -59,6 +59,8 @@ title: "Unsupervised learning of multimodal image registration using domain adap
         <br/>
         <span class="actions"><a class="toggle_visibility" data-level="2">Hide schedule</a></span>
 </span>
+
+{{ button("Access paper channel", "https://chat.midl.io/channel/S131") }}
 
 ---
 

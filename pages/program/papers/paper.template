@@ -36,12 +36,13 @@ title: "TITLE"
 }
 </style>
 
-# [TITLE](https://chat.midl.io/channel/CONF_ID)
+{% from "_macros.html" import button %}
+
+# CONF_ID - TITLE
+
 
 ##### AUTHORS
-###### Keywords: KEYWORDS
 
-<!-- ### Abstract -->
 <center><a class="toggle_visibility" data-selector=".paper_abstract" data-level="3">Abstract</a>
         - <a href="https://openreview.net/forum?id=ORID">Reviews</a>
         - <a class="toggle_visibility" data-selector=".paper_qa" data-level="3">Schedule</a>
@@ -58,6 +59,8 @@ title: "TITLE"
         <br/>
         <span class="actions"><a class="toggle_visibility" data-level="2">Hide schedule</a></span>
 </span>
+
+{{ button("Access paper channel", "https://chat.midl.io/channel/CONF_ID") }}
 
 ---
 

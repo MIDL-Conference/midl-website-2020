@@ -28,6 +28,12 @@ class Paper():
 
         self.conf_id: str = f"{self.conf_sign}{self.id:03d}"
 
+        sanitized_abstract: str = self.abstract.replace("'", "\\'")
+        sanitized_abstract = sanitized_abstract.replace('"', '\\"')
+        sanitized_abstract = sanitized_abstract.replace('\n', '')
+        sanitized_abstract = sanitized_abstract.replace('`', '')
+        self.sanitized_abstract = repr(sanitized_abstract)
+
         # self.__class__.__name__: str = "Paper"
 
     def __str__(self) -> str:
@@ -88,9 +94,9 @@ if __name__ == "__main__":
 
         result = result.replace("CONF_ID", paper.conf_id)
         result = result.replace("TITLE", paper.title)
-        result = result.replace("AUTHORS", ",".join(paper.authors))
+        result = result.replace("AUTHORS", ", ".join(paper.authors))
         result = result.replace("ORID", paper.or_id)
-        result = result.replace("ABSTRACT", paper.abstract)
+        result = result.replace("ABSTRACT", paper.sanitized_abstract)
 
         oral_text: str
         if paper.oral:

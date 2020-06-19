@@ -38,17 +38,18 @@ title: "Boundary loss for highly unbalanced segmentation"
 
 {% from "_macros.html" import youtube %}
 {% from "_macros.html" import presentation %}
+{% from "_macros.html" import button %}
 
-# [Boundary loss for highly unbalanced segmentation](https://chat.midl.io/channel/t001)
+# T001 - Boundary loss for highly unbalanced segmentation
 
-##### [Hoel Kervadec](https://chat.midl.io/direct/hkervadec), Jihene Bouchtiba, Christian Desrosiers, Éric Granger, Jose Dolz, [Ismail Ben Ayed](https://chat.midl.io/direct/ibenayed)
-###### Keywords: Boundary loss, unbalanced data, semantic segmentation, deep learning, CNN
+
+##### [Hoel Kervadec](https://chat.midl.io/direct/hkervadec), Jihene Bouchtiba, Christian Desrosiers, Éric Granger, Jose Dolz, [Ismail Ben Ayed](https://chat.midl.io/direct/ismail.ben.ayed)
 
 <!-- ### Abstract -->
-<center><a class="toggle_visibility" data-selector=".paper_abstract" data-level="3">Abstract</a>
+<center><a class="toggle_visibility" data-selector=".paper_abstract" data-level="3">Show abstract</a>
 		- <a href="http://proceedings.mlr.press/v102/kervadec19a.html">Paper</a>
     - <a href="https://openreview.net/forum?id=S1gTA5VggE">Reviews</a>
-		- <a class="toggle_visibility" data-selector=".paper_qa" data-level="3">Schedule</a>
+		- <a class="toggle_visibility" data-selector=".paper_qa" data-level="3">Show schedule</a>
 
 <span class="paper_abstract">
 	Widely used loss functions for convolutional neural network (CNN) segmentation, e.g., Dice or cross-entropy, are based on integrals (summations) over the segmentation regions. Unfortunately, forhighly unbalanced segmentations, such regional losses have values that differ considerably -- typically of several orders of magnitude -- across segmentation classes, which may affect training performance and stability. We propose a {\em boundary} loss, which takes the form of a distance metric on the space of contours (or shapes), not regions. This can mitigate the difficulties of regional losses in the context of highly unbalanced segmentation problems because it uses integrals over the boundary (interface) between regions instead of unbalanced integrals over regions. Furthermore, a boundary loss provides information that is complimentary to regional losses. Unfortunately, it is not straightforward to represent the boundary points corresponding to the regional softmax outputs of a CNN. Our boundary loss is inspired by discrete (graph-based) optimization techniques for computing gradient flows of curve evolution. Following an integral approach for computing boundary variations, we express a non-symmetric $L_2$ distance on the space of shapes as a regional integral, which avoids completely local differential computations involving contour points. This yields a boundary loss expressed with the regional softmax probability outputs of the network, which can be easily combined with standard regional losses and implemented with any existing deep network architecture for N-D segmentation.  We report comprehensive evaluations on two benchmark datasets corresponding to difficult, highly unbalanced problems: the ischemic stroke lesion (ISLES) and white matter hyperintensities (WMH). Used in conjunction with the region-based generalized Dice loss (GDL), our boundary loss improves performance significantly compared to GDL alone, reaching up to $8\%$ improvement in Dice score and $10\%$  improvement in Hausdorff score. It also yielded a more stable learning process. Our code is publicly available at [https://github.com/LIVIAETS/surface-loss](https://github.com/LIVIAETS/surface-loss).
@@ -64,6 +65,8 @@ title: "Boundary loss for highly unbalanced segmentation"
 	<br/>
 	<span class="actions"><a class="toggle_visibility" data-level="2">Hide schedule</a></span>
 </span>
+
+{{ button("Access paper channel", "https://chat.midl.io/channel/t001") }}
 
 ---
 
