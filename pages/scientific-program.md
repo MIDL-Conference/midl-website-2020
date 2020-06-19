@@ -62,36 +62,36 @@ Jing Zhang, Caroline Petitjean, Pierre Lopez, Samia Ainouz
 
 * **[Short Poster 41]** A CNN-LSTM Architecture for Detection of Intracranial Hemorrhage on CT scans
 Nhan T. Nguyen, Dat Q. Tran, Nghia T. Nguyen, Ha Q. Nguyen
-https://arxiv.org/abs/2005.10992
-https://openreview.net/forum?id=1IoPbyuPFT
+<!-- https://hbr.org/2014/06/why-women-dont-negotiate-their-job-offers -->
+<!-- https://hbr.org/2014/06/why-women-dont-negotiate-their-job-offers -->
 * **[Short Poster 73]** DeepRetinotopy: Predicting the Functional Organization of Human Visual Cortex from Structural MRI Data using Geometric Deep Learning
 Fernanda L. Ribeiro, Steffen Bollmann, Alexander M. Puckett
-https://arxiv.org/abs/2005.12513
-https://openreview.net/forum?id=Nw_trRFjPE
+<!-- https://hbr.org/2014/06/why-women-dont-negotiate-their-job-offers -->
+<!-- https://hbr.org/2014/06/why-women-dont-negotiate-their-job-offers -->
 * **[Short Poster 94]** Pulmonary Nodule Malignancy Classification Using its Temporal Evolution with Two-Stream 3D Convolutional Neural Networks
 Xavier Rafael-Palou, Anton Aubanell, Ilaria Bonavita, Mario Ceresa, Gemma Piella, Vicent Ribas, Miguel A. González Ballester
-https://arxiv.org/abs/2005.11341
-https://openreview.net/forum?id=D1jTt_FOPY
+<!-- https://hbr.org/2014/06/why-women-dont-negotiate-their-job-offers -->
+<!-- https://hbr.org/2014/06/why-women-dont-negotiate-their-job-offers -->
 * **[Short Poster 116]** Automated MRI based pipeline for glioma segmentation and prediction of grade, IDH mutation and 1p19q co-deletion
 Milan Decuyper, Stijn Bonte, Karel Deblaere, Roel Van Holen
-https://arxiv.org/abs/2005.11965
-https://openreview.net/forum?id=J5iep2t90F
+<!-- https://hbr.org/2014/06/why-women-dont-negotiate-their-job-offers -->
+<!-- https://hbr.org/2014/06/why-women-dont-negotiate-their-job-offers -->
 * **[Short Poster 118]** On the effectiveness of GAN generated cardiac MRIs for segmentation
 Youssef Skandarani, Nathan Painchaud, Pierre-Marc Jodoin, Alain Lalande
-https://arxiv.org/abs/2005.09026
-https://openreview.net/forum?id=f9Pl3Qj3_Q
+<!-- https://hbr.org/2014/06/why-women-dont-negotiate-their-job-offers -->
+<!-- https://hbr.org/2014/06/why-women-dont-negotiate-their-job-offers -->
 * **[Short Poster 126]** Data-Driven Prediction of Embryo Implantation Probability Using IVF Time-lapse Imaging
 David H. Silver, Martin Feder, Yael Gold-Zamir, Avital L. Polsky, Shahar Rosentraub, Efrat Shachor, Adi Weinberger, Pavlo Mazur, Valery D. Zukin, Alex M. Bronstein
-https://arxiv.org/abs/2006.01035
-https://openreview.net/forum?id=TujK1uTkTP
+<!-- https://hbr.org/2014/06/why-women-dont-negotiate-their-job-offers -->
+<!-- https://hbr.org/2014/06/why-women-dont-negotiate-their-job-offers -->
 * **[Short Poster 131]** Unsupervised learning of multimodal image registration using domain adaptation with projected Earth Move's discrepancies
 Mattias P Heinrich, Lasse Hansen
-https://arxiv.org/abs/2005.14107
-https://openreview.net/forum?id=wbZM-DcJB9
+<!-- https://hbr.org/2014/06/why-women-dont-negotiate-their-job-offers -->
+<!-- https://hbr.org/2014/06/why-women-dont-negotiate-their-job-offers -->
 * **[Short Poster 310]** Functional Space Variational Inference for Uncertainty Estimation in Computer Aided Diagnosis
 Pranav Poduval, Hrushikesh Loya, Amit Sethi
-https://arxiv.org/abs/2005.11797
-https://openreview.net/forum?id=eLL-c_Xc0B
+<!-- https://hbr.org/2014/06/why-women-dont-negotiate-their-job-offers -->
+<!-- https://hbr.org/2014/06/why-women-dont-negotiate-their-job-offers -->
 
 ---
 
@@ -144,32 +144,32 @@ Nan Wu, Stanisław Jastrzębski, Jungkyu Park, Linda Moy, Kyunghyun Cho, Krzyszt
 
 * **[Short Poster 38]** Medical Image Segmentation via Unsupervised Convolutional Neural Network
 Junyu Chen, Eric C. Frey
-https://arxiv.org/abs/2001.10155
-https://openreview.net/forum?id=XrbnSCv4LU
+<!-- https://hbr.org/2014/06/why-women-dont-negotiate-their-job-offers -->
+<!-- https://hbr.org/2014/06/why-women-dont-negotiate-their-job-offers -->
 * **[Short Poster 47]** Deblurring for Spiral Real-Time MRI Using Convolutional Neural Networks
 Yongwan Lim, Shrikanth S Narayanan, Krishna S Nayak
-https://arxiv.org/abs/2001.09427
-https://openreview.net/forum?id=zYareJYs8Z
+<!-- https://hbr.org/2014/06/why-women-dont-negotiate-their-job-offers -->
+<!-- https://hbr.org/2014/06/why-women-dont-negotiate-their-job-offers -->
 * **[Short Poster 57]** Spatiotemporal motion prediction in free-breathing liver scans via a recurrent multi-scale encoder decoder
 Liset Vazquez Romaguera, Rosalie Plantefeve, Samuel Kadoury
-https://arxiv.org/abs/2005.13071
-https://openreview.net/forum?id=901HZmWDHH
+<!-- https://hbr.org/2014/06/why-women-dont-negotiate-their-job-offers -->
+<!-- https://hbr.org/2014/06/why-women-dont-negotiate-their-job-offers -->
 * **[Short Poster 59]** Low-dose CT Enhancement Network with a Perceptual Loss Function in the Spatial Frequency and Image Domains
 Kevin J. Chung, Roberto Souza, Richard Frayne, Ting-Yim Lee
-https://arxiv.org/abs/2005.11852
-https://openreview.net/forum?id=rw5BswbvMB
+<!-- https://hbr.org/2014/06/why-women-dont-negotiate-their-job-offers -->
+<!-- https://hbr.org/2014/06/why-women-dont-negotiate-their-job-offers -->
 * **[Short Poster 93]** Robust Image Segmentation Quality Assessment
 Leixin Zhou, Wenxiang Deng, Xiaodong Wu
-https://arxiv.org/abs/1903.08773
-https://openreview.net/forum?id=nyhZXiaotm
+<!-- https://hbr.org/2014/06/why-women-dont-negotiate-their-job-offers -->
+<!-- https://hbr.org/2014/06/why-women-dont-negotiate-their-job-offers -->
 * **[Short Poster 107]** Assessing the validity of saliency maps for abnormality localization in medical imaging
 Nishanth Thumbavanam Arun, Nathan Gaw, Praveer Singh, Ken Chang, Katharina Viktoria Hoebel, Jay Patel, Mishka Gidwani, Jayashree Kalpathy-Cramer
-https://arxiv.org/abs/2006.00063
-https://openreview.net/forum?id=02X3kfP6W4
+<!-- https://hbr.org/2014/06/why-women-dont-negotiate-their-job-offers -->
+<!-- https://hbr.org/2014/06/why-women-dont-negotiate-their-job-offers -->
 * **[Short Poster 256]** Bayesian Generative Models for Knowledge Transfer in MRI Semantic Segmentation Problems
 Anna Kuzina, Evgenii Egorov, Evgeny Burnaev
-https://arxiv.org/abs/2005.12639
-https://openreview.net/forum?id=3i6X1618wi
+<!-- https://hbr.org/2014/06/why-women-dont-negotiate-their-job-offers -->
+<!-- https://hbr.org/2014/06/why-women-dont-negotiate-their-job-offers -->
 
 
 ---
@@ -230,32 +230,32 @@ Ahmed E. Fetit, Amir Alansary, Lucilio Cordero-Grande, John Cupitt, Alice B. Dav
 
 * **[Short Poster 14]** Automatic segmentation of the pulmonary lobes with a 3D u-net and optimized loss function
 Bianca Lassen-Schmidt, Alessa Hering, Stefan Krass, Hans Meine
-https://arxiv.org/abs/2006.00083
-https://openreview.net/forum?id=AkziGgmwl
+<!-- https://hbr.org/2014/06/why-women-dont-negotiate-their-job-offers -->
+<!-- https://hbr.org/2014/06/why-women-dont-negotiate-their-job-offers -->
 * **[Short Poster 23]** Interpreting Chest X-rays via CNNs that Exploit Hierarchical Disease Dependencies and Uncertainty Labels
 Hieu H. Pham, Tung T. Le, Dat T. Ngo, Dat Q. Tran, Ha Q. Nguyen
-https://arxiv.org/abs/2005.12734
-https://openreview.net/forum?id=4o1GLIIHlh
+<!-- https://hbr.org/2014/06/why-women-dont-negotiate-their-job-offers -->
+<!-- https://hbr.org/2014/06/why-women-dont-negotiate-their-job-offers -->
 * **[Short Poster 27]** Tractometry-based Anomaly Detection for Single-subject White Matter Analysis
 Maxime Chamberland, Sila Genc, Erika P. Raven, Greg D. Parker, Adam Cunningham, Joanne Doherty, Marianne van den Bree, Chantal M. W. Tax, Derek K. Jones
-https://arxiv.org/abs/2005.11082
-https://openreview.net/forum?id=heX-Rk0TE0
+<!-- https://hbr.org/2014/06/why-women-dont-negotiate-their-job-offers -->
+<!-- https://hbr.org/2014/06/why-women-dont-negotiate-their-job-offers -->
 * **[Short Poster 33]** A Deep Learning based Fast Signed Distance Map Generation
 Zihao Wang, Clair Vandersteen, Thomas Demarcy, Dan Gnansia, Charles Raffaelli, Nicolas Guevara, Hervé Delingette
-https://arxiv.org/abs/2005.12662
-https://openreview.net/forum?id=b2N5ZuEouu
+<!-- https://hbr.org/2014/06/why-women-dont-negotiate-their-job-offers -->
+<!-- https://hbr.org/2014/06/why-women-dont-negotiate-their-job-offers -->
 * **[Short Poster 53]** Deep learning approach to describe and classify fungi microscopic images
 Bartosz Zieliński, Agnieszka Sroka-Oleksiak, Dawid Rymarczyk, Adam Piekarczyk, Monika Brzychczy-Włoch
-https://arxiv.org/abs/2005.11772
-https://openreview.net/forum?id=AEhp_Cqq-h
+<!-- https://hbr.org/2014/06/why-women-dont-negotiate-their-job-offers -->
+<!-- https://hbr.org/2014/06/why-women-dont-negotiate-their-job-offers -->
 * **[Short Poster 92]** 4D Deep Learning for Multiple Sclerosis Lesion Activity Segmentation
 Nils Gessert, Marcel Bengs, Julia Krüger, Roland Opfer, Ann-Christin Ostwaldt, Praveena Manogaran, Sven Schippling, Alexander Schlaefer
-https://arxiv.org/abs/2004.09216
-https://openreview.net/forum?id=238UzYB1d9
+<!-- https://hbr.org/2014/06/why-women-dont-negotiate-their-job-offers -->
+<!-- https://hbr.org/2014/06/why-women-dont-negotiate-their-job-offers -->
 * **[Short Poster 256]** Bayesian Generative Models for Knowledge Transfer in MRI Semantic Segmentation Problems
 Anna Kuzina, Evgenii Egorov, Evgeny Burnaev
-https://arxiv.org/abs/2005.12639
-https://openreview.net/forum?id=3i6X1618wi
+<!-- https://hbr.org/2014/06/why-women-dont-negotiate-their-job-offers -->
+<!-- https://hbr.org/2014/06/why-women-dont-negotiate-their-job-offers -->
 
 ---
 
@@ -311,36 +311,36 @@ Vishwa S. Parekh*, Alex E. Bocchieri*, Michael A. Jacobs
 
 * **[Short Poster 104]** Classification of Epithelial Ovarian Carcinoma Whole-Slide Pathology Images Using Deep Transfer Learning
 Yiping Wang, David Farnell, Hossein Farahani, Mitchell Nursey, Basile Tessier-Cloutier, Steven J.M. Jones, David G. Huntsman, C. Blake Gilks, Ali Bashashati
-https://arxiv.org/abs/2005.10957
-https://openreview.net/forum?id=VXdQD8B307
+<!-- https://hbr.org/2014/06/why-women-dont-negotiate-their-job-offers -->
+<!-- https://hbr.org/2014/06/why-women-dont-negotiate-their-job-offers -->
 * **[Short Poster 145]** A Fully Convolutional Normalization Approach of Head and Neck Cancer Outcome Prediction
 William Le, Francisco Perdigón Romero
-https://arxiv.org/abs/2005.14017
-https://openreview.net/forum?id=JojEzQ3E5n
+<!-- https://hbr.org/2014/06/why-women-dont-negotiate-their-job-offers -->
+<!-- https://hbr.org/2014/06/why-women-dont-negotiate-their-job-offers -->
 * **[Short Poster 161]** incomplete Automatic segmentation of stroke lesions in non-contrast computed tomography with convolutional neural networks
 Anup Tuladhar, Serena Schimert, Deepthi Rajashekar, Helge C. Kniep, Jens Fiehler, Nils D. Forkert
 no arxiv
-https://openreview.net/forum?id=ehpiBRHu07
+<!-- https://hbr.org/2014/06/why-women-dont-negotiate-their-job-offers -->
 * **[Short Poster 239]** Anatomical Predictions using Subject-Specific Medical Data
 Marianne Rakic, John Guttag, Adrian V. Dalca
-https://arxiv.org/abs/2006.00090
-https://openreview.net/forum?id=apwZYLKTCo
+<!-- https://hbr.org/2014/06/why-women-dont-negotiate-their-job-offers -->
+<!-- https://hbr.org/2014/06/why-women-dont-negotiate-their-job-offers -->
 * **[Short Poster 278]** Enhancing Foreground Boundaries for Medical Image Segmentation
 Dong Yang, Holger Roth, Xiaosong Wang, Ziyue Xu, Andriy Myronenko, Daguang Xu
-https://arxiv.org/abs/2005.14355
-https://openreview.net/forum?id=PAlQnIVKLY
+<!-- https://hbr.org/2014/06/why-women-dont-negotiate-their-job-offers -->
+<!-- https://hbr.org/2014/06/why-women-dont-negotiate-their-job-offers -->
 * **[Short Poster 288]** Overview of Scanner Invariant Representations
 Daniel Moyer, Greg Ver Steeg, Paul M. Thompson
-https://arxiv.org/abs/2006.00115
-https://openreview.net/forum?id=yqm9RD_XHT
+<!-- https://hbr.org/2014/06/why-women-dont-negotiate-their-job-offers -->
+<!-- https://hbr.org/2014/06/why-women-dont-negotiate-their-job-offers -->
 * **[Short Poster 310]** Functional Space Variational Inference for Uncertainty Estimation in Computer Aided Diagnosis
 Pranav Poduval, Hrushikesh Loya, Amit Sethi
-https://arxiv.org/abs/2005.11797
-https://openreview.net/forum?id=eLL-c_Xc0B
+<!-- https://hbr.org/2014/06/why-women-dont-negotiate-their-job-offers -->
+<!-- https://hbr.org/2014/06/why-women-dont-negotiate-their-job-offers -->
 * **[Short Poster 322]** Joint Liver Lesion Segmentation and Classification via Transfer Learning
 Michal Heker, Hayit Greenspan
-https://arxiv.org/abs/2004.12352
-https://openreview.net/forum?id=8gSjgXg5U
+<!-- https://hbr.org/2014/06/why-women-dont-negotiate-their-job-offers -->
+<!-- https://hbr.org/2014/06/why-women-dont-negotiate-their-job-offers -->
 
 
 ---
@@ -397,40 +397,40 @@ Jing Wang, Yiwei Chen, Wanyue Li, Wen Kong, Yi He, Chunhui Jiang, Guohua Shi
 
 * **[Short Poster 133]** Learning to map between ferns with differentiable binary embedding networks
 Max Blendowski, Mattias P. Heinrich
-https://arxiv.org/abs/2005.12563
-https://openreview.net/forum?id=EiT7GQAj-T
+<!-- https://hbr.org/2014/06/why-women-dont-negotiate-their-job-offers -->
+<!-- https://hbr.org/2014/06/why-women-dont-negotiate-their-job-offers -->
 * **[Short Poster 135]** Segmentation of the Myocardium on Late-Gadolinium Enhanced MRI based on 2.5 D Residual Squeeze and Excitation Deep Learning Model
 Abdul Qayyum, Alain Lalande, Thomas Decourselle, Thibaut Pommier, Alexandre Cochet, Fabrice Meriaudeau
-https://arxiv.org/abs/2005.13643
-https://openreview.net/forum?id=4v2lR3Zvsw
+<!-- https://hbr.org/2014/06/why-women-dont-negotiate-their-job-offers -->
+<!-- https://hbr.org/2014/06/why-women-dont-negotiate-their-job-offers -->
 * **[Short Poster 137]** Improving Mammography Malignancy Segmentation by Designing the Training Process
 Mickael Tardy, Diana Mateus
-https://arxiv.org/abs/2006.00060
-https://openreview.net/forum?id=vVsWe9-s0G
+<!-- https://hbr.org/2014/06/why-women-dont-negotiate-their-job-offers -->
+<!-- https://hbr.org/2014/06/why-women-dont-negotiate-their-job-offers -->
 * **[Short Poster 155]** Tackling the Problem of Large Deformations in Deep Learning Based Medical Image Registration Using Displacement Embeddings
 Lasse Hansen, Mattias P. Heinrich
-https://arxiv.org/abs/2005.13338
-https://openreview.net/forum?id=kPBUZluVq
+<!-- https://hbr.org/2014/06/why-women-dont-negotiate-their-job-offers -->
+<!-- https://hbr.org/2014/06/why-women-dont-negotiate-their-job-offers -->
 * **[Short Poster 156]** A Deep Learning Approach for Motion Forecasting Using 4D OCT Data
 Marcel Bengs, Nils Gessert, Alexander Schlaefer
-https://arxiv.org/abs/2004.10121
-https://openreview.net/forum?id=WVd56kgRV
+<!-- https://hbr.org/2014/06/why-women-dont-negotiate-their-job-offers -->
+<!-- https://hbr.org/2014/06/why-women-dont-negotiate-their-job-offers -->
 * **[Short Poster 188]** An interpretable automated detection system for FISH-based HER2 oncogene amplification testing in histo-pathological routine images of breast and gastric cancer diagnostics
 Sarah Schmell, Falk Zakrzewski, Walter de Back, Martin Weigert, Uwe Schmidt, Torsten Wenke, Silke Zeugner, Robert Mantey, Christian Sperling, Ingo Roeder, Pia Hoenscheid, Daniela Aust, Gustavo Baretton
-https://arxiv.org/abs/2005.12066
-https://openreview.net/forum?id=qDEYfzeK7k
+<!-- https://hbr.org/2014/06/why-women-dont-negotiate-their-job-offers -->
+<!-- https://hbr.org/2014/06/why-women-dont-negotiate-their-job-offers -->
 * **[Short Poster 198]** A deep learning-based pipeline for error detection and quality control of brain MRI segmentation results
 Irene Brusini, Daniel Ferreira Padilla, José Barroso, Ingmar Skoog, Örjan Smedby, Eric Westman, Chunliang Wang
-https://arxiv.org/abs/2005.13987
-https://openreview.net/forum?id=sqbpwcNetg
+<!-- https://hbr.org/2014/06/why-women-dont-negotiate-their-job-offers -->
+<!-- https://hbr.org/2014/06/why-women-dont-negotiate-their-job-offers -->
 * **[Short Poster 211]** An ENAS Based Approach for Constructing Deep Learning Models for Breast Cancer Recognition from Ultrasound Images
 Mohammed Ahmed, Hongbo Du, Alaa AlZoubi
-https://arxiv.org/abs/2005.13695
-https://openreview.net/forum?id=GxYt8XnZHM
+<!-- https://hbr.org/2014/06/why-women-dont-negotiate-their-job-offers -->
+<!-- https://hbr.org/2014/06/why-women-dont-negotiate-their-job-offers -->
 * **[Short Poster 322]** Joint Liver Lesion Segmentation and Classification via Transfer Learning
 Michal Heker, Hayit Greenspan
-https://arxiv.org/abs/2004.12352
-https://openreview.net/forum?id=8gSjgXg5U
+<!-- https://hbr.org/2014/06/why-women-dont-negotiate-their-job-offers -->
+<!-- https://hbr.org/2014/06/why-women-dont-negotiate-their-job-offers -->
 
 
 ---
@@ -482,28 +482,28 @@ Mohammad Minhazul Haq, Junzhou Huang
 
 * **[Short Poster 266]** Image Translation by Latent Union of Subspaces for Cross-Domain Plaque Detection
 Yingying Zhu, Daniel C. Elton, Sungwon Lee, Perry J. Pickhardt, Ronald M. Summers
-https://arxiv.org/abs/2005.11384
-https://openreview.net/forum?id=qJxBTPyVYA
+<!-- https://hbr.org/2014/06/why-women-dont-negotiate-their-job-offers -->
+<!-- https://hbr.org/2014/06/why-women-dont-negotiate-their-job-offers -->
 * **[Short Poster 276]** Vispi: Automatic Visual Perception and Interpretation of Chest X-rays
 Xin Li, Rui Cao, Dongxiao Zhu
-https://arxiv.org/abs/1906.05190
-https://openreview.net/forum?id=otswIbmgYA
+<!-- https://hbr.org/2014/06/why-women-dont-negotiate-their-job-offers -->
+<!-- https://hbr.org/2014/06/why-women-dont-negotiate-their-job-offers -->
 * **[Short Poster 282]** Uncertainty Evaluation Metric for Brain Tumour Segmentation
 Raghav Mehta, Angelos Filos, Yarin Gal, Tal Arbel
-https://arxiv.org/abs/2005.14262
-https://openreview.net/forum?id=H-PvDNIex
+<!-- https://hbr.org/2014/06/why-women-dont-negotiate-their-job-offers -->
+<!-- https://hbr.org/2014/06/why-women-dont-negotiate-their-job-offers -->
 * **[Short Poster 308]** Multiple resolution residual network for automatic thoracic organs-at-risk segmentation from CT
 Hyemin Um, Jue Jiang, Maria Thor, Andreas Rimner, Leo Luo, Joseph O. Deasy, Harini Veeraraghavan
-https://arxiv.org/abs/2005.13690
-https://openreview.net/forum?id=h3Miqa_jqN
+<!-- https://hbr.org/2014/06/why-women-dont-negotiate-their-job-offers -->
+<!-- https://hbr.org/2014/06/why-women-dont-negotiate-their-job-offers -->
 * **[Short Poster 312]** Using Generative Models for Pediatric wbMRI
 Alex Chang, Vinith M. Suriyakumar, Abhishek Moturu, Nipaporn Tewattanarat, Andrea Doria, Anna Goldenberg
-https://arxiv.org/abs/2006.00727
-https://openreview.net/forum?id=BXC_fpbLe
+<!-- https://hbr.org/2014/06/why-women-dont-negotiate-their-job-offers -->
+<!-- https://hbr.org/2014/06/why-women-dont-negotiate-their-job-offers -->
 * **[Short Poster 322]** Joint Liver Lesion Segmentation and Classification via Transfer Learning
 Michal Heker, Hayit Greenspan
-https://arxiv.org/abs/2004.12352
-https://openreview.net/forum?id=8gSjgXg5U
+<!-- https://hbr.org/2014/06/why-women-dont-negotiate-their-job-offers -->
+<!-- https://hbr.org/2014/06/why-women-dont-negotiate-their-job-offers -->
 
 ---
 
