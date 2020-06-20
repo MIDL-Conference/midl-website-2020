@@ -3,9 +3,12 @@ CFLAGS = -m mwb
 
 DEBUG = --prettify
 
-TARGET = output
+TARGET = /usr/share/nginx/midl
 
-.PHONY: clean generate FORCE
+HOST = beta.2020.midl.io:
+PORT = 484
+
+.PHONY: clean generate deploy FORCE
 
 all: generate $(TARGET)
 
@@ -22,6 +25,9 @@ $(TARGET): FORCE pages/program/full-papers.md pages/program/short-papers.md
 	rm -rf $@
 	$(CC) $(CFLAGS) . $@ $(DEBUG)
 # 	chmod -R +x $@
+
+deploy:
+	scp -r -P $(PORT) $(TARGET) $(HOST)
 
 clean:
 	rm -rf $(TARGET)
