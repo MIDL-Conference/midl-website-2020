@@ -17,7 +17,7 @@ First, a quick reminder of the requirement:
 * `20 frame per second` or more
 * Saved in `.mp4` format
 * Audio channel in `mono or stereo` (no 5.1 or any creative setup)
-* `Less than 1GB`
+* Less than `200MB` in total
 
 ## Recording on MacOS
 Quicktime (available on all MacOS installations) allows to easily record and edit your entire screen:
@@ -34,6 +34,12 @@ One possible approach to record a compatible video from content displayed on you
 ## Converting formats
 [`ffmpeg`](https://ffmpeg.org/) (available on Linux, OSX and Windows) can be used to easily reencode a recording into `.mp4`:
 <pre><code>ffmpeg -i input.avi output.mp4</code></pre>
+
+
+## Reducing the video size
+If you are a bit above the size limit of OpenReview, you can always recompress the recording. [For instance](https://unix.stackexchange.com/questions/28803/how-can-i-reduce-a-videos-size-with-ffmpeg):
+<pre><code> ffmpeg -i input.mp4 -vcodec libx265 -crf 28 output.mp4</code></pre>
+You can increase the compression level by pushing the `-crf` value a bit.
 
 
 ## Trim bits of the video
