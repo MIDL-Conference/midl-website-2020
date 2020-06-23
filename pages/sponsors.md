@@ -32,9 +32,12 @@ page_class: "sponsors"
 
 ---
 
-<!-- ## <span class="bronze">Bronze</span> -->
+## <span class="bronze">Bronze</span>
+[% .logos %]
+[![Imeka](/sponsors/imeka.png){: height="80"}](https://www.imeka.ca/)
+[% / %]
 
-<!-- --- -->
+---
 
 <p class="small">
     All logos are trademarks and property of their respective owners.

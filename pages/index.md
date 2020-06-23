@@ -45,3 +45,8 @@ The [**list of accepted challenges**](challenges.html) is now available!
 [![Imagia](/sponsors/imagia.png){: height="80"}](https://www.imagia.com/)
 [![Heartflow](/sponsors/heartflow.png){: height="50"}](https://www.heartflow.com/)
 [% / %]
+
+#### Bronze sponsors
+[% .logos %]
+[![Imeka](/sponsors/imeka.png){: height="80"}](https://www.imeka.ca/)
+[% / %]
