@@ -41,7 +41,7 @@ title: "Multitask radiological modality invariant landmark localization using de
 # P273 - Multitask radiological modality invariant landmark localization using deep reinforcement learning
 
 
-##### Vishwa S. Parekh*, Alex E. Bocchieri*, Michael A. Jacobs
+##### Vishwa S. Parekh, Alex E. Bocchieri, Michael A. Jacobs
 
 <center><a class="toggle_visibility" data-selector=".paper_abstract" data-level="3">Abstract</a>
         - <a href="https://openreview.net/forum?id=XvBdNAyPCk">Reviews</a>
