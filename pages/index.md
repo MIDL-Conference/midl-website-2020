@@ -48,5 +48,6 @@ The [**list of accepted challenges**](challenges.html) is now available!
 
 #### Bronze sponsors
 [% .logos %]
-[![Imeka](/sponsors/imeka.png){: height="80"}](https://www.imeka.ca/)
+[![Imeka](/sponsors/imeka.png){: height="85"}](https://www.imeka.ca/)
+[![Kitware](/sponsors/kitware.png){: height="60"}](https://www.kitware.com/)
 [% / %]

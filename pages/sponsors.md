@@ -34,7 +34,8 @@ page_class: "sponsors"
 
 ## <span class="bronze">Bronze</span>
 [% .logos %]
-[![Imeka](/sponsors/imeka.png){: height="80"}](https://www.imeka.ca/)
+[![Imeka](/sponsors/imeka.png){: height="85"}](https://www.imeka.ca/)
+[![Kitware](/sponsors/kitware.png){: height="60"}](https://www.kitware.com/)
 [% / %]
 
 ---
