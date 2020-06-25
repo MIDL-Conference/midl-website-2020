@@ -1,47 +1,14 @@
 ---
 title: "Domain adaptation model for retinopathy detection from cross-domain OCT images"
+page_class: "paper-page"
 ---
-<style>
-.paper_abstract {
-  display: none;
-  font-size: 90%;
-  line-height: 1.35;
-  text-align: justify;
-  margin-top: 4px;
-  padding-left: 20px;
-  padding-right: 20px;
-  padding-bottom: 4px;
-
-  .actions {
-    display: block;
-    text-align: center;
-    margin-top: 4px;
-  }
-}
-
-.paper_qa {
-  display: none;
-  line-height: 1.35;
-  text-align: center;
-  margin-top: 4px;
-  padding-left: 20px;
-  padding-right: 20px;
-  padding-bottom: 4px;
-
-  .actions {
-    display: block;
-    text-align: center;
-    margin-top: 4px;
-  }
-}
-</style>
 
 {% from "_macros.html" import button %}
 
 # P334 - Domain adaptation model for retinopathy detection from cross-domain OCT images
 
 
-##### Jing Wang, Yiwei Chen, Wanyue Li, Wen Kong, Yi He, Chunhui Jiang, Guohua Shi
+### Jing Wang, Yiwei Chen, Wanyue Li, Wen Kong, Yi He, Chunhui Jiang, Guohua Shi
 
 <center><a class="toggle_visibility" data-selector=".paper_abstract" data-level="3">Abstract</a>
         - <a href="https://openreview.net/forum?id=h5z-R09QRm">Reviews</a>

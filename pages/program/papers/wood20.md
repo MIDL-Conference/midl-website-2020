@@ -1,47 +1,14 @@
 ---
 title: "Automated Labelling using an Attention model for Radiology reports of MRI scans (ALARM)"
+page_class: "paper-page"
 ---
-<style>
-.paper_abstract {
-  display: none;
-  font-size: 90%;
-  line-height: 1.35;
-  text-align: justify;
-  margin-top: 4px;
-  padding-left: 20px;
-  padding-right: 20px;
-  padding-bottom: 4px;
-
-  .actions {
-    display: block;
-    text-align: center;
-    margin-top: 4px;
-  }
-}
-
-.paper_qa {
-  display: none;
-  line-height: 1.35;
-  text-align: center;
-  margin-top: 4px;
-  padding-left: 20px;
-  padding-right: 20px;
-  padding-bottom: 4px;
-
-  .actions {
-    display: block;
-    text-align: center;
-    margin-top: 4px;
-  }
-}
-</style>
 
 {% from "_macros.html" import button %}
 
 # O089 - Automated Labelling using an Attention model for Radiology reports of MRI scans (ALARM)
 
 
-##### David Wood, Emily Guilhem, Antanas Montvila, Thomas Varsavsky, Martin Kiik, Juveria Siddiqui, Sina Kafiabadi, Naveen Gadapa, Aisha Al Busaidi, Matt Townend, Keena Patel, Gareth Barker, Sebastian Ourselin, Jeremy Lynch, James Cole, Tom Booth
+### David Wood, Emily Guilhem, Antanas Montvila, Thomas Varsavsky, Martin Kiik, Juveria Siddiqui, Sina Kafiabadi, Naveen Gadapa, Aisha Al Busaidi, Matt Townend, Keena Patel, Gareth Barker, Sebastian Ourselin, Jeremy Lynch, James Cole, Tom Booth
 
 <center><a class="toggle_visibility" data-selector=".paper_abstract" data-level="3">Abstract</a>
         - <a href="https://openreview.net/forum?id=9exoP7PDD3">Reviews</a>

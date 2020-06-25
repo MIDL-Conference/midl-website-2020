@@ -1,47 +1,14 @@
 ---
 title: "Deep Reinforcement Learning for Organ Localization in CT"
+page_class: "paper-page"
 ---
-<style>
-.paper_abstract {
-  display: none;
-  font-size: 90%;
-  line-height: 1.35;
-  text-align: justify;
-  margin-top: 4px;
-  padding-left: 20px;
-  padding-right: 20px;
-  padding-bottom: 4px;
-
-  .actions {
-    display: block;
-    text-align: center;
-    margin-top: 4px;
-  }
-}
-
-.paper_qa {
-  display: none;
-  line-height: 1.35;
-  text-align: center;
-  margin-top: 4px;
-  padding-left: 20px;
-  padding-right: 20px;
-  padding-bottom: 4px;
-
-  .actions {
-    display: block;
-    text-align: center;
-    margin-top: 4px;
-  }
-}
-</style>
 
 {% from "_macros.html" import button %}
 
 # P128 - Deep Reinforcement Learning for Organ Localization in CT
 
 
-##### Fernando Navarro, Anjany Sekuboyina, Diana Waldmannstetter, Jan C. Peeken, Stephanie E. Combs, Bjoern H. Menze
+### Fernando Navarro, Anjany Sekuboyina, Diana Waldmannstetter, Jan C. Peeken, Stephanie E. Combs, Bjoern H. Menze
 
 <center><a class="toggle_visibility" data-selector=".paper_abstract" data-level="3">Abstract</a>
         - <a href="https://openreview.net/forum?id=0vDeD2UD0S">Reviews</a>

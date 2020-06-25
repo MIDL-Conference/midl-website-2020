@@ -1,47 +1,14 @@
 ---
 title: "Deep learning-based parameter mapping for joint relaxation and diffusion tensor MR Fingerprinting"
+page_class: "paper-page"
 ---
-<style>
-.paper_abstract {
-  display: none;
-  font-size: 90%;
-  line-height: 1.35;
-  text-align: justify;
-  margin-top: 4px;
-  padding-left: 20px;
-  padding-right: 20px;
-  padding-bottom: 4px;
-
-  .actions {
-    display: block;
-    text-align: center;
-    margin-top: 4px;
-  }
-}
-
-.paper_qa {
-  display: none;
-  line-height: 1.35;
-  text-align: center;
-  margin-top: 4px;
-  padding-left: 20px;
-  padding-right: 20px;
-  padding-bottom: 4px;
-
-  .actions {
-    display: block;
-    text-align: center;
-    margin-top: 4px;
-  }
-}
-</style>
 
 {% from "_macros.html" import button %}
 
 # P182 - Deep learning-based parameter mapping for joint relaxation and diffusion tensor MR Fingerprinting
 
 
-##### Carolin M. Pirkl, Pedro A. Gómez, Ilona Lipp, Guido Buonincontri, Miguel Molina-Romero, Anjany Sekuboyina, Diana Waldmannstetter, Jonathan Dannenberg, Sebastian Endt, Alberto Merola, Joseph R. Whittaker, Valentina Tomassini, Michela Tosetti, Derek K. Jones, Bjoern H. Menze, Marion I. Menzel
+### Carolin M. Pirkl, Pedro A. Gómez, Ilona Lipp, Guido Buonincontri, Miguel Molina-Romero, Anjany Sekuboyina, Diana Waldmannstetter, Jonathan Dannenberg, Sebastian Endt, Alberto Merola, Joseph R. Whittaker, Valentina Tomassini, Michela Tosetti, Derek K. Jones, Bjoern H. Menze, Marion I. Menzel
 
 <center><a class="toggle_visibility" data-selector=".paper_abstract" data-level="3">Abstract</a>
         - <a href="https://openreview.net/forum?id=wthvY6Y9e">Reviews</a>

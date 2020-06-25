@@ -1,47 +1,14 @@
 ---
 title: "A Cross-Stitch Architecture for Joint Registration and Segmentation in Adaptive Radiotherapy"
+page_class: "paper-page"
 ---
-<style>
-.paper_abstract {
-  display: none;
-  font-size: 90%;
-  line-height: 1.35;
-  text-align: justify;
-  margin-top: 4px;
-  padding-left: 20px;
-  padding-right: 20px;
-  padding-bottom: 4px;
-
-  .actions {
-    display: block;
-    text-align: center;
-    margin-top: 4px;
-  }
-}
-
-.paper_qa {
-  display: none;
-  line-height: 1.35;
-  text-align: center;
-  margin-top: 4px;
-  padding-left: 20px;
-  padding-right: 20px;
-  padding-bottom: 4px;
-
-  .actions {
-    display: block;
-    text-align: center;
-    margin-top: 4px;
-  }
-}
-</style>
 
 {% from "_macros.html" import button %}
 
 # P197 - A Cross-Stitch Architecture for Joint Registration and Segmentation in Adaptive Radiotherapy
 
 
-##### Laurens Beljaards, Mohamed S. Elmahdy, Fons Verbeek, Marius Staring
+### Laurens Beljaards, Mohamed S. Elmahdy, Fons Verbeek, Marius Staring
 
 <center><a class="toggle_visibility" data-selector=".paper_abstract" data-level="3">Abstract</a>
         - <a href="https://openreview.net/forum?id=oFXY64JJQ8">Reviews</a>

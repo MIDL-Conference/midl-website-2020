@@ -1,47 +1,14 @@
 ---
 title: "Uncertainty-based Graph Convolutional Networks for Organ Segmentation Refinement"
+page_class: "paper-page"
 ---
-<style>
-.paper_abstract {
-  display: none;
-  font-size: 90%;
-  line-height: 1.35;
-  text-align: justify;
-  margin-top: 4px;
-  padding-left: 20px;
-  padding-right: 20px;
-  padding-bottom: 4px;
-
-  .actions {
-    display: block;
-    text-align: center;
-    margin-top: 4px;
-  }
-}
-
-.paper_qa {
-  display: none;
-  line-height: 1.35;
-  text-align: center;
-  margin-top: 4px;
-  padding-left: 20px;
-  padding-right: 20px;
-  padding-bottom: 4px;
-
-  .actions {
-    display: block;
-    text-align: center;
-    margin-top: 4px;
-  }
-}
-</style>
 
 {% from "_macros.html" import button %}
 
 # O146 - Uncertainty-based Graph Convolutional Networks for Organ Segmentation Refinement
 
 
-##### Roger D. Soberanis-Mukul, Nassir Navab, Shadi Albarqouni
+### Roger D. Soberanis-Mukul, Nassir Navab, Shadi Albarqouni
 
 <center><a class="toggle_visibility" data-selector=".paper_abstract" data-level="3">Abstract</a>
         - <a href="https://openreview.net/forum?id=UUie86nf5B">Reviews</a>

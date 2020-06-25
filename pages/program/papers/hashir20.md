@@ -1,47 +1,14 @@
 ---
 title: "Quantifying the Value of Lateral Views in Deep Learning for Chest X-rays"
+page_class: "paper-page"
 ---
-<style>
-.paper_abstract {
-  display: none;
-  font-size: 90%;
-  line-height: 1.35;
-  text-align: justify;
-  margin-top: 4px;
-  padding-left: 20px;
-  padding-right: 20px;
-  padding-bottom: 4px;
-
-  .actions {
-    display: block;
-    text-align: center;
-    margin-top: 4px;
-  }
-}
-
-.paper_qa {
-  display: none;
-  line-height: 1.35;
-  text-align: center;
-  margin-top: 4px;
-  padding-left: 20px;
-  padding-right: 20px;
-  padding-bottom: 4px;
-
-  .actions {
-    display: block;
-    text-align: center;
-    margin-top: 4px;
-  }
-}
-</style>
 
 {% from "_macros.html" import button %}
 
 # P035 - Quantifying the Value of Lateral Views in Deep Learning for Chest X-rays
 
 
-##### Mohammad Hashir, Hadrien Bertrand, Joseph Paul Cohen
+### Mohammad Hashir, Hadrien Bertrand, Joseph Paul Cohen
 
 <center><a class="toggle_visibility" data-selector=".paper_abstract" data-level="3">Abstract</a>
         - <a href="https://openreview.net/forum?id=rY3bgRRHnD">Reviews</a>
