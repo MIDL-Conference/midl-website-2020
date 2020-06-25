@@ -27,7 +27,7 @@ _Max-Heinrich Laves, Sontje Ihler, Jacob F. Fast, Lüder A. Kahrs, Tobias Ortmai
 ---
 
 ### MON 9:30-11:00 ET - Poster Session #1
-#### MON 9:30-11:00 ET - Full Papers #1: #102,146,212; 114,150,157,163,174,182,183,197,200,205,222
+#### MON 9:30-11:00 ET - Full Papers #1: #102,146,212; 114,150,157,163,174,182,183,197,205,222
 #### MON 9:30-11:00 ET - Short Papers #1: #41,73,94,116,118,126,131,310
 
 
@@ -65,9 +65,6 @@ _Devanshu Arya, Richard Olij, Deepak K. Gupta, Ahmed El Gazzar, Guido van Wingen
 
 * **[Poster 197]** A Cross-Stitch Architecture for Joint Registration and Segmentation in Adaptive Radiotherapy
 _Laurens Beljaards, Mohamed S. Elmahdy, Fons Verbeek, Marius Staring_
-
-* **[Poster 200]** 4D Semantic Cardiac Magnetic Resonance Image Synthesis on XCAT Anatomical Model
-_Samaneh Abbasi-Sureshjani, Sina Amirrajab, Cristian Lorenz, Juergen Weese, Josien Pluim, Marcel Breeuwer_
 
 * **[Poster 205]** Automatic Segmentation of Head and Neck Tumors and Nodal Metastases in PET-CT scans
 _Vincent Andrearczyk, Valentin Oreiller, Martin Vallières, Joel Castelli, Hesham Elhalawani, Sarah Boughdad, Mario Jreige, John O. Prior and Adrien Depeursinge_
@@ -130,8 +127,8 @@ _Benjamin Billot, Douglas N. Greve, Koen Van Leemput, Bruce Fischl, Juan Eugenio
 ### MON 13:30-15:00 ET - Poster Session #2
 
 
-#### MON 13:30 - 15:00 ET - Full Papers #2: #1,43,72; 35,36,99,103,158
-#### MON 13:30 - 15:00 ET - Short Papers #2: #38,47,57,59,93,107,256
+#### MON 13:30 - 15:00 ET - Full Papers #2: #1,43,72; 35,36,99,103,158,200
+#### MON 13:30 - 15:00 ET - Short Papers #2: #38,57,59,93,107,256
 
 
 * **[Oral 1]** Bounding boxes for weakly supervised segmentation: Global constraints get close to full supervision
@@ -160,13 +157,13 @@ _Evan M. Yu, Juan Eugenio Iglesias, Adrian V. Dalca, Mert R. Sabuncu_
 * **[Poster 158]** Improving the Ability of Deep Networks to Use Information From Multiple Views in Breast Cancer Screening
 _Nan Wu, Stanisław Jastrzębski, Jungkyu Park, Linda Moy, Kyunghyun Cho, Krzysztof J. Geras_
 
+* **[Poster 200]** 4D Semantic Cardiac Magnetic Resonance Image Synthesis on XCAT Anatomical Model
+_Samaneh Abbasi-Sureshjani, Sina Amirrajab, Cristian Lorenz, Juergen Weese, Josien Pluim, Marcel Breeuwer_
+
 
 
 * **[Short Poster 38]** Medical Image Segmentation via Unsupervised Convolutional Neural Network
 _Junyu Chen, Eric C. Frey_
-
-* **[Short Poster 47]** Deblurring for Spiral Real-Time MRI Using Convolutional Neural Networks
-_Yongwan Lim, Shrikanth S Narayanan, Krishna S Nayak_
 
 * **[Short Poster 57]** Spatiotemporal motion prediction in free-breathing liver scans via a recurrent multi-scale encoder decoder
 _Liset Vazquez Romaguera, Rosalie Plantefeve, Samuel Kadoury_
@@ -209,7 +206,7 @@ _Chensu Xie, Hassan Muhammad, Chad M. Vanderbilt, Raul Caso, Dig Vijay Kumar Yar
 
 ### TUE 9:30-11:00 ET - Poster Session #3
 #### TUE 9:30-11:00 ET - Full Papers #3: #95,96,305; 2,9,17,37,45,54,71,109,117,128,136
-#### TUE 9:30-11:00 ET - Short Papers #3: #14,23,27,33,53,92,256
+#### TUE 9:30-11:00 ET - Short Papers #3: #14,23,27,33,47,53,92,256
 
 
 * **[Oral 95]** Tensor Networks for Medical Image Classification
@@ -269,6 +266,9 @@ _Maxime Chamberland, Sila Genc, Erika P. Raven, Greg D. Parker, Adam Cunningham,
 
 * **[Short Poster 33]** A Deep Learning based Fast Signed Distance Map Generation
 _Zihao Wang, Clair Vandersteen, Thomas Demarcy, Dan Gnansia, Charles Raffaelli, Nicolas Guevara, Hervé Delingette_
+
+* **[Short Poster 47]** Deblurring for Spiral Real-Time MRI Using Convolutional Neural Networks
+_Yongwan Lim, Shrikanth S Narayanan, Krishna S Nayak_
 
 * **[Short Poster 53]** Deep learning approach to describe and classify fungi microscopic images
 _Bartosz Zieliński, Agnieszka Sroka-Oleksiak, Dawid Rymarczyk, Adam Piekarczyk, Monika Brzychczy-Włoch_
