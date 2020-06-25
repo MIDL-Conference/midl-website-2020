@@ -13,21 +13,13 @@ page_class: "sponsors"
 </p>
 
 
-**MIDL 2020 is going fully virtual.**
+The list of accepted papers are available there:
 
-Thanks to our [partners and sponsors](sponsors.html), registration will be free.
+* [Full papers](program/full-papers.html)
+* [Short papers](program/full-papers.html)
 
-{{ button("Registration", "registration.html") }}
 
----
-
-**MIDL 2020 will have a special issue in [MELBA](https://www.melba-journal.org/)** (The Journal of Machine Learning for Biomedical Imaging), a new, web-based, open-access journal for medical imaging.
-
-The best papers of the conference will be invited to submit an extended version of their work there.
-
----
-
-The [**list of accepted challenges**](challenges.html) is now available!
+[Demonstration page for a paper](program/papers/demo20.html)
 
 
 ---
