@@ -1,9 +1,10 @@
 #!/usr/bin/env python3.8
 
 import json
+import re
 from sys import argv
 from pathlib import Path
-from typing import Dict, List
+from typing import Dict, List, Match, Pattern
 from operator import attrgetter
 
 
@@ -63,7 +64,7 @@ class PaperEncoder(json.JSONEncoder):
 
 
 if __name__ == "__main__":
-    assert len(argv) == 5
+    assert len(argv) == 4
 
     template_path: Path = Path(argv[1])
     assert template_path.exists()
@@ -71,10 +72,10 @@ if __name__ == "__main__":
     papers_path: Path = Path(argv[2])
     assert papers_path.exists()
 
-    mode: str = argv[3]
-    assert mode in ["short", "full"]
+    # mode: str = argv[3]
+    # assert mode in ["short", "full"]
 
-    dest_path: Path = Path(argv[4])
+    dest_path: Path = Path(argv[3])
 
     raw_papers: Dict[str, Dict]
     with open(papers_path, 'r') as pf:
@@ -83,27 +84,44 @@ if __name__ == "__main__":
     papers: Dict[int, Paper] = {int(k): Paper(**v) for (k, v) in raw_papers.items()}
 
     template: str
-    if mode == "full":
-        with open(template_path, 'r') as f:
-            template = f.read()
+    with open(template_path, 'r') as f:
+        template = f.read()
+    filled = template[:]
 
-        orals: List[Paper] = sorted([p for p in papers.values() if p.oral], key=attrgetter('title'))
-        assert len(orals) == 18, len(orals)
-        with_orals = template.replace("ORALS", "\n".join(map(str, orals)))
+    regexp: Pattern = re.compile("{{[OSP]([0-9]+)}}")
+    matches: List[Match] = list(regexp.finditer(template))
 
-        posters: List[Paper] = sorted([p for p in papers.values() if p.poster], key=attrgetter('title'))
-        assert len(posters) == 47, len(posters)
-        with_both = with_orals.replace("POSTERS", "\n".join(map(str, posters)))
+    print(len(matches))
+    print(matches)
+    for m in matches:
+        # id = m[1][2:-2]
+        int_id: int = int(m[1])
+        # print(m[0], int_id)
+        # print(papers[int_id])
 
-        with open(dest_path, 'w') as sink:
-            sink.write(with_both)
-    elif mode == "short":
-        with open(template_path, 'r') as f:
-            template = f.read()
+        filled = filled.replace(m[0], str(papers[int_id]))
 
-        shorts: List[Paper] = sorted([p for p in papers.values() if p.short], key=attrgetter('title'))
-        assert len(shorts) == 41, len(shorts)
-        with_shorts = template.replace("SHORTS", "\n".join(map(str, shorts)))
+    with open(dest_path, 'w') as sink:
+        sink.write(filled)
 
-        with open(dest_path, 'w') as sink:
-            sink.write(with_shorts)
+    # if mode == "full":
+    #     with open(template_path, 'r') as f:
+    #         template = f.read()
+
+    #     orals: List[Paper] = sorted([p for p in papers.values() if p.oral], key=attrgetter('title'))
+    #     assert len(orals) == 18, len(orals)
+    #     with_orals = template.replace("ORALS", "\n".join(map(str, orals)))
+
+    #     posters: List[Paper] = sorted([p for p in papers.values() if p.poster], key=attrgetter('title'))
+    #     assert len(posters) == 47, len(posters)
+    #     with_both = with_orals.replace("POSTERS", "\n".join(map(str, posters)))
+
+    #     with open(dest_path, 'w') as sink:
+    #         sink.write(with_both)
+    # elif mode == "short":
+    #     with open(template_path, 'r') as f:
+    #         template = f.read()
+
+    #     shorts: List[Paper] = sorted([p for p in papers.values() if p.short], key=attrgetter('title'))
+    #     assert len(shorts) == 41, len(shorts)
+    #     with_shorts = template.replace("SHORTS", "\n".join(map(str, shorts)))
