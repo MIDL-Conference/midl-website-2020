@@ -13,13 +13,10 @@ page_class: "sponsors"
 </p>
 
 
-The list of accepted papers are available there:
-
-* [Full papers](program/full-papers.html)
-* [Short papers](program/full-papers.html)
+The [full scientific program is available](scientific-program.html):
 
 
-[Demonstration page for a paper](program/papers/demo20.html)
+[Demonstration page for a paper](papers/demo20.html)
 
 
 ---
