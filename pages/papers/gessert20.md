@@ -10,9 +10,9 @@ page_class: "paper-page"
 
 ### Nils Gessert, Marcel Bengs, Julia Krüger, Roland Opfer, Ann-Christin Ostwaldt, Praveena Manogaran, Sven Schippling, Alexander Schlaefer
 
-<center><a class="toggle_visibility" data-selector=".paper_abstract" data-level="3">Abstract</a>
+<center><a class="toggle_visibility" data-selector=".paper_abstract" data-level="3">Show abstract</a>
         - <a href="https://openreview.net/forum?id=238UzYB1d9">Reviews</a>
-        - <a class="toggle_visibility" data-selector=".paper_qa" data-level="3">Schedule</a>
+        - <a class="toggle_visibility" data-selector=".paper_qa" data-level="3">Show schedule</a>
 
 <span class="paper_abstract">
         'Multiple sclerosis lesion activity segmentation is the task of detecting new and enlarging lesions that appeared between a baseline and a follow-up brain MRI scan. While deep learning methods for single-scan lesion segmentation are common, deep learning approaches for lesion activity have only been proposed recently. Here, a two-path architecture processes two 3D MRI volumes from two time points. In this work, we investigate whether extending this problem to full 4D deep learning using a history of MRI volumes and thus an extended baseline can improve performance. For this purpose, we design a recurrent multi-encoder-decoder architecture for processing 4D data. We find that adding more temporal information is beneficial and our proposed architecture outperforms previous approaches with a lesion-wise true positive rate of 0.84 at a lesion-wise false positive rate of 0.19.'
@@ -22,7 +22,7 @@ page_class: "paper-page"
 </span>
 
 <span class="paper_qa">
-        Not available for now
+        TUE 9:30-11:00 ET - Poster Session #3
         <br/>
         <span class="actions"><a class="toggle_visibility" data-level="2">Hide schedule</a></span>
 </span>

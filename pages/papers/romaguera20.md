@@ -10,9 +10,9 @@ page_class: "paper-page"
 
 ### Liset Vazquez Romaguera, Rosalie Plantefeve, Samuel Kadoury
 
-<center><a class="toggle_visibility" data-selector=".paper_abstract" data-level="3">Abstract</a>
+<center><a class="toggle_visibility" data-selector=".paper_abstract" data-level="3">Show abstract</a>
         - <a href="https://openreview.net/forum?id=901HZmWDHH">Reviews</a>
-        - <a class="toggle_visibility" data-selector=".paper_qa" data-level="3">Schedule</a>
+        - <a class="toggle_visibility" data-selector=".paper_qa" data-level="3">Show schedule</a>
 
 <span class="paper_abstract">
         'In this work we propose a multi-scale recurrent encoder-decoder architecture to predict the breathing induced organ deformation in future frames. The model was trained end-to-end from input images to predict a sequence of motion labels. Targets were created by quantizing the motion fields obtained from deformable image registration. We propose a multi-scale feature extraction scheme in the spatial encoder which processes the input at different resolutions. We report results using MRI free-breathing acquisitions from 12 volunteers. Experiments were aimed at investigating the proposed multi-scale design and the effect of increasing the number of predicted frames on the overall accuracy of the model. The proposed model was able to predict vessel positions in the next temporal image with a mean accuracy of 2.03 (2.89) mm showing increased performance in comparison with state-of-the-art approaches.'
@@ -22,7 +22,7 @@ page_class: "paper-page"
 </span>
 
 <span class="paper_qa">
-        Not available for now
+        MON 13:30-15:00 ET - Poster Session #2
         <br/>
         <span class="actions"><a class="toggle_visibility" data-level="2">Hide schedule</a></span>
 </span>

@@ -10,9 +10,9 @@ page_class: "paper-page"
 
 ### Kevin J. Chung, Roberto Souza, Richard Frayne, Ting-Yim Lee
 
-<center><a class="toggle_visibility" data-selector=".paper_abstract" data-level="3">Abstract</a>
+<center><a class="toggle_visibility" data-selector=".paper_abstract" data-level="3">Show abstract</a>
         - <a href="https://openreview.net/forum?id=rw5BswbvMB">Reviews</a>
-        - <a class="toggle_visibility" data-selector=".paper_qa" data-level="3">Schedule</a>
+        - <a class="toggle_visibility" data-selector=".paper_qa" data-level="3">Show schedule</a>
 
 <span class="paper_abstract">
         'We propose a dual-domain cascade of U-nets (i.e. a W-net\\") operating in both the spatial frequency and image domains to enhance low-dose CT (LDCT) images without the need for proprietary x-ray projection data. The central slice theorem motivated the use of the spatial frequency domain in place of the raw sinogram. Data were obtained from the AAPM Low-dose Grand Challenge. A combination of Fourier space (F) and/or image domain (I) U-nets and W-nets were trained with a multi-scale structural similarity and mean absolute error loss function to denoise filtered back projected (FBP) LDCT images while maintaining perceptual features important for diagnostic accuracy. Deep learning enhancements were superior to FBP LDCT images in quantitative and qualitative performance with the dual-domain W-nets outperforming single-domain U-net cascades. Our results suggest that spatial frequency learning in conjunction with image-domain processing can produce superior LDCT enhancement than image-domain-only networks. '
@@ -22,7 +22,7 @@ page_class: "paper-page"
 </span>
 
 <span class="paper_qa">
-        Not available for now
+        MON 13:30-15:00 ET - Poster Session #2
         <br/>
         <span class="actions"><a class="toggle_visibility" data-level="2">Hide schedule</a></span>
 </span>

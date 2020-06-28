@@ -10,9 +10,9 @@ page_class: "paper-page"
 
 ### Leixin Zhou, Wenxiang Deng, Xiaodong Wu
 
-<center><a class="toggle_visibility" data-selector=".paper_abstract" data-level="3">Abstract</a>
+<center><a class="toggle_visibility" data-selector=".paper_abstract" data-level="3">Show abstract</a>
         - <a href="https://openreview.net/forum?id=nyhZXiaotm">Reviews</a>
-        - <a class="toggle_visibility" data-selector=".paper_qa" data-level="3">Schedule</a>
+        - <a class="toggle_visibility" data-selector=".paper_qa" data-level="3">Show schedule</a>
 
 <span class="paper_abstract">
         'Deep learning based image segmentation methods have achieved great success, even having human-level accuracy in some applications. However, due to the black box nature of deep learning, the best method may fail in some situations. Thus predicting segmentation quality without ground truth would be very crucial especially in clinical practice. Recently, people proposed to train neural networks to estimate the quality score by regression. Although it can achieve promising prediction accuracy, the network suffers robustness problem, e.g. it is vulnerable to adversarial attacks. In this paper, we propose to alleviate this problem by utilizing the difference between the input image and the reconstructed image, which is conditioned on the segmentation to be assessed, to lower the chance to overfit to the undesired image features  from the original input image, and thus to increase the robustness. Results on ACDC17 dataset demonstrated our method is promising.'
@@ -22,7 +22,7 @@ page_class: "paper-page"
 </span>
 
 <span class="paper_qa">
-        Not available for now
+        MON 13:30-15:00 ET - Poster Session #2
         <br/>
         <span class="actions"><a class="toggle_visibility" data-level="2">Hide schedule</a></span>
 </span>

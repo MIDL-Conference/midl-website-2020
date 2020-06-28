@@ -10,9 +10,9 @@ page_class: "paper-page"
 
 ### Kaiyang Cheng, Francesco Calivá, Rutwik Shah, Misung Han, Sharmila Majumdar, Valentina Pedoia
 
-<center><a class="toggle_visibility" data-selector=".paper_abstract" data-level="3">Abstract</a>
+<center><a class="toggle_visibility" data-selector=".paper_abstract" data-level="3">Show abstract</a>
         - <a href="https://openreview.net/forum?id=7NF2rZwE-z">Reviews</a>
-        - <a class="toggle_visibility" data-selector=".paper_qa" data-level="3">Schedule</a>
+        - <a class="toggle_visibility" data-selector=".paper_qa" data-level="3">Show schedule</a>
 
 <span class="paper_abstract">
         "Deep learning models have been shown to have success in reconstructing accelerated MRI, over traditional methods. However, it has been observed that these methods tend to miss the small features that are rare, such as meniscal tears, subchondral osteophyte, etc. This is a concerning finding as these small and rare features are the most relevant in clinical diagnostic settings. In this work, we propose a framework to find the worst-case false negatives by adversarially attacking the trained models and improve the models\\' ability to reconstruct the small features by robust training."
@@ -22,7 +22,7 @@ page_class: "paper-page"
 </span>
 
 <span class="paper_qa">
-        Not available for now
+        TUE 13:30-14:30 ET - Oral #4 - Imaging<br/>TUE 14:30-16:00 ET - Poster Session #4
         <br/>
         <span class="actions"><a class="toggle_visibility" data-level="2">Hide schedule</a></span>
 </span>

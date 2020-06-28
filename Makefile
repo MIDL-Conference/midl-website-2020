@@ -13,7 +13,10 @@ PORT = 484
 all: generate $(TARGET)
 
 
-generate: pages/papers/paper.template papers.json
+papers_time.json: papers.json pages/scientific-program.template
+	$(CC) fill_times.py $^ $@
+
+generate: pages/papers/paper.template papers_time.json
 	$(CC) generate_papers.py $^ pages/
 
 # pages/program/full-papers.md: pages/program/full-papers.template papers.json
