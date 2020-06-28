@@ -15,7 +15,7 @@ page_class: "paper-page"
         - <a class="toggle_visibility" data-selector=".paper_qa" data-level="3">Show schedule</a>
 
 <span class="paper_abstract">
-        'We work on the breast imaging malignancy segmentation task while focusing on the train- ing process instead of network complexity. We designed a training process based on a modified U-Net, increasing the overall segmentation performances by using both, benign and malignant data for training. Our approach makes use of only a small amount of anno- tated data and relies on transfer learning from a self-supervised reconstruction task, and favors explainability.'
+        We work on the breast imaging malignancy segmentation task while focusing on the train- ing process instead of network complexity. We designed a training process based on a modified U-Net, increasing the overall segmentation performances by using both, benign and malignant data for training. Our approach makes use of only a small amount of anno- tated data and relies on transfer learning from a self-supervised reconstruction task, and favors explainability.
         <span class="actions">
   <br/>
   <a class="toggle_visibility" data-level="2">Hide abstract</a></span>

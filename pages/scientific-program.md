@@ -26,7 +26,7 @@ title: "MIDL 2020 Tentative Program - Long"
         'Roger D. Soberanis-Mukul, Nassir Navab, Shadi Albarqouni',
         openreview='https://openreview.net/forum?id=UUie86nf5B',
         id='O146',
-        paper='papers/soberanis-mukul20.html',
+        paper='papers/soberanis--mukul20.html',
         abstract="Organ segmentation in CT volumes is an important pre-processing step in many computer assisted intervention and diagnosis methods. In recent years, convolutional neural networks have dominated the state of the art in this task. However, since this problem presents a challenging environment due to high variability in the organ\\'s shape and similarity between tissues, the generation of false negative and false positive regions in the output segmentation is a common issue. Recent works have shown that the uncertainty analysis of the model can provide us with useful information about potential errors in the segmentation. In this context, we proposed a segmentation refinement method based on uncertainty analysis and graph convolutional networks. We employ the uncertainty levels of the convolutional network in a particular input volume to formulate a semi-supervised graph learning problem that is solved by training a graph convolutional network. To test our method we refine the initial output of a 2D U-Net. We validate our framework with the NIH pancreas dataset and the spleen dataset of the medical segmentation decathlon. We show that our method outperforms the state-of-the art CRF refinement method by improving the dice score by 1% for the pancreas and 2% for spleen, with respect to the original U-Net\\'s prediction. Finally, we discuss the results and current limitations of the model for future work in this research direction. For reproducibility purposes, we make our code publicly available")
 }}
 {{ paper('Well-Calibrated Regression Uncertainty in Medical Imaging with Deep Learning',
@@ -54,7 +54,7 @@ title: "MIDL 2020 Tentative Program - Long"
         'Roger D. Soberanis-Mukul, Nassir Navab, Shadi Albarqouni',
         openreview='https://openreview.net/forum?id=UUie86nf5B',
         id='O146',
-        paper='papers/soberanis-mukul20.html',
+        paper='papers/soberanis--mukul20.html',
         abstract="Organ segmentation in CT volumes is an important pre-processing step in many computer assisted intervention and diagnosis methods. In recent years, convolutional neural networks have dominated the state of the art in this task. However, since this problem presents a challenging environment due to high variability in the organ\\'s shape and similarity between tissues, the generation of false negative and false positive regions in the output segmentation is a common issue. Recent works have shown that the uncertainty analysis of the model can provide us with useful information about potential errors in the segmentation. In this context, we proposed a segmentation refinement method based on uncertainty analysis and graph convolutional networks. We employ the uncertainty levels of the convolutional network in a particular input volume to formulate a semi-supervised graph learning problem that is solved by training a graph convolutional network. To test our method we refine the initial output of a 2D U-Net. We validate our framework with the NIH pancreas dataset and the spleen dataset of the medical segmentation decathlon. We show that our method outperforms the state-of-the art CRF refinement method by improving the dice score by 1% for the pancreas and 2% for spleen, with respect to the original U-Net\\'s prediction. Finally, we discuss the results and current limitations of the model for future work in this research direction. For reproducibility purposes, we make our code publicly available")
 }}
 {{ paper('Well-Calibrated Regression Uncertainty in Medical Imaging with Deep Learning',
@@ -134,7 +134,7 @@ title: "MIDL 2020 Tentative Program - Long"
         'Jing Zhang, Caroline Petitjean, Pierre Lopez, Samia Ainouz',
         openreview='https://openreview.net/forum?id=RwYqA6AjS',
         id='P222',
-        paper='papers/zhang20.html',
+        paper='papers/zhang20c.html',
         abstract='The measurement of fetal head circumference (HC) is performed throughout the pregnancy as a key biometric to monitor fetus growth. This measurement is performed on ultrasound images, via the manual fitting of an ellipse. The operation is operator-dependent and as such prone to intra and inter-variability error. There have been attempts to design automated segmentation algorithms to segment fetal head, especially based on deep encoding-decoding architectures. In this paper, we depart from this idea and propose to leverage the ability of convolutional neural networks (CNN) to directly measure the head circumference, without having to resort to handcrafted features or manually labeled segmented images. The intuition behind this idea is that the CNN will  learn itself to localize and identify the head contour. Our approach is experimented on the public HC18 dataset, that contains images of all trimesters of the pregnancy. We investigate various architectures and three losses suitable for regression. While room for improvement is left, encouraging results show that it might be possible in the future to directly estimate the HC - without the need for a large dataset of manually segmented ultrasound images. This approach might be extended to other applications where segmentation is just an intermediate step to the computation of biomarkers.')
 }}
 [% / %]
@@ -280,7 +280,7 @@ title: "MIDL 2020 Tentative Program - Long"
         'Jizong Peng, Marco Pedersoli, Christian Desrosiers',
         openreview='https://openreview.net/forum?id=iunvffXgPm',
         id='P099',
-        paper='papers/peng20.html',
+        paper='papers/peng20a.html',
         abstract='The scarcity of labeled data often limits the application of deep learning to medical image segmentation. Semi-supervised learning helps overcome this limitation by leveraging unlabeled images to guide the learning process. In this paper, we propose using a clustering loss based on mutual information that explicitly enforces prediction consistency between nearby pixels in unlabeled images, and for random perturbation of these images, while imposing the network to predict the correct labels for annotated images. Since mutual information does not require a strict ordering of clusters in two different cluster assignments, we propose to incorporate another consistency regularization loss which forces the alignment of class probabilities at each pixel of perturbed unlabeled images. We evaluate the method on three challenging publicly-available medical datasets for image segmentation. Experimental results show our method to outperform recently-proposed approaches for semi-supervised and yield a performance comparable to fully-supervised training.')
 }}
 {{ paper('An Auto-Encoder Strategy for Adaptive Image Segmentation',
@@ -416,7 +416,7 @@ title: "MIDL 2020 Tentative Program - Long"
         'Jun Ma, Zhan Wei, Yiwen Zhang, Yixin Wang, Rongfei Lv, Cheng Zhu, Gaoxiang Chen, Jianan Liu, Chao Peng, Lei Wang, Yunpeng Wang, Jianan Chen',
         openreview='https://openreview.net/forum?id=hM4pNbXWst',
         id='P002',
-        paper='papers/ma20.html',
+        paper='papers/ma20a.html',
         abstract='Incorporating distance transform maps of ground truth into segmentation CNNs has been an interesting new trend in the last year. Despite many great works leading to improvements on a variety of segmentation tasks, the comparison among these methods has not been well studied.      In this paper, our \\emph{first contribution} is to summarize the latest developments of these methods in the 3D medical segmentation field.      The \\emph{second contribution} is that we systematically evaluated five benchmark methods on two representative public datasets.      These experiments highlight that all the five benchmark methods can bring performance gains to baseline V-Net. However, the implementation details have a noticeable impact on the performance, and not all the methods hold the benefits in different datasets.      Finally, we suggest the best practices and indicate unsolved problems for incorporating distance transform maps into CNNs, which we hope will be useful for the community. The codes and trained models are publicly available at \\url{https://github.com/JunMa11/SegWithDistMap}.')
 }}
 {{ paper('KD-MRI: A knowledge distillation framework for image reconstruction and image restoration in MRI workflow',
@@ -451,7 +451,7 @@ title: "MIDL 2020 Tentative Program - Long"
         'Yichi Zhang, Lin Yuan, Yujia Wang, Jicong Zhang',
         openreview='https://openreview.net/forum?id=wlszIiXbfS',
         id='P054',
-        paper='papers/zhang20.html',
+        paper='papers/zhang20b.html',
         abstract='Accurate segmentation of spine Magnetic Resonance Imaging (MRI) is highly demanded in morphological research, quantitative analysis, and diseases identification, such as spinal canal stenosis, disc herniation and degeneration. However, accurate spine segmentation is challenging because of the irregular shape, artifacts and large variability between slices. To alleviate these problems, spatial information is used for more continuous and accurate segmentation such as by 3D convolutional neural networks (CNN) . However, 3D CNN suffers from higher computational cost, memory cost and risk of over-fitting, especially for medical images where the number of labeled data is limited. To address these problems, we apply the attention mechanism for the utilization of inter-slice information in 3D segmentation tasks based on 2D convolutional networks and propose a spatial attention-based densely connected U-Net (SAU-Net), which consists of Dense U-Net for extraction of intra-slice features and an inter-slice attention module (ISA) to utilize inter-slice information from adjacent slices and refine the segmentation results. Experimental results demonstrate the effectiveness of ISA as well as higher accuracy and efficiency of segmentation results of our method compared with other deep learning methods.')
 }}
 {{ paper('Red-GAN: Attacking class imbalance via conditioned generation. Yet another medical imaging perspective',
@@ -517,7 +517,7 @@ title: "MIDL 2020 Tentative Program - Long"
         'Zihao Wang, Clair Vandersteen, Thomas Demarcy, Dan Gnansia, Charles Raffaelli, Nicolas Guevara, Hervé Delingette',
         openreview='https://openreview.net/forum?id=b2N5ZuEouu',
         id='S033',
-        paper='papers/wang20.html',
+        paper='papers/wang20a.html',
         abstract='Signed distance map (SDM) is a common representation of surfaces in medical image analysis and machine learning. The computational complexity of SDM for 3D parametric shapes is often a bottleneck in many applications, thus limiting their interest. In this paper, we propose a learning-based SDM generation neural network which is demonstrated on a tridimensional cochlea shape model parameterized by 4 shape parameters.      The proposed SDM Neural Network generates a cochlea signed distance map depending on four input parameters and we show that the deep learning approach leads to a 60 fold improvement in the time of computation compared to more classical SDM generation methods. Therefore, the proposed approach achieves a good trade-off between accuracy and efficiency. ')
 }}
 {{ paper('Deblurring for spiral real-time MRI using convolutional neural networks',
@@ -569,7 +569,7 @@ title: "MIDL 2020 Tentative Program - Long"
         'Jinwei Zhang, Hang Zhang, Mert Sabuncu, Pascal Spincemaille, Thanh Nguyen, Yi Wang',
         openreview='https://openreview.net/forum?id=DuWrLOZ27k',
         id='O006',
-        paper='papers/zhang20.html',
+        paper='papers/zhang20a.html',
         abstract="A learning-based posterior distribution estimation method, Probabilistic Dipole Inversion (PDI), is proposed to solve quantitative susceptibility mapping (QSM) inverse problem in MRI with uncertainty estimation. A deep convolutional neural network (CNN) is used to represent the multivariate Gaussian distribution as the approximated posterior distribution of susceptibility given the input measured field. In PDI, such CNN is firstly trained on healthy subjects\\' data with labels by maximizing the posterior Gaussian distribution loss function as used in Bayesian deep learning. When testing on each patient\\' data without any label, PDI updates the pre-trained CNN\\'s weights in an unsupervised fashion by minimizing the Kullback–Leibler divergence between the approximated posterior distribution represented by CNN and the true posterior distribution given the likelihood distribution from known physical model and pre-defined prior distribution. Based on our experiments, PDI provides additional uncertainty estimation compared to the conventional MAP approach, meanwhile addressing the potential discrepancy issue of CNN when test data deviates from training dataset.")
 }}
 {{ paper('Addressing The False Negative Problem of MRI Reconstruction Networks by Adversarial Attacks and Robust Training',
@@ -597,7 +597,7 @@ title: "MIDL 2020 Tentative Program - Long"
         'Jinwei Zhang, Hang Zhang, Mert Sabuncu, Pascal Spincemaille, Thanh Nguyen, Yi Wang',
         openreview='https://openreview.net/forum?id=DuWrLOZ27k',
         id='O006',
-        paper='papers/zhang20.html',
+        paper='papers/zhang20a.html',
         abstract="A learning-based posterior distribution estimation method, Probabilistic Dipole Inversion (PDI), is proposed to solve quantitative susceptibility mapping (QSM) inverse problem in MRI with uncertainty estimation. A deep convolutional neural network (CNN) is used to represent the multivariate Gaussian distribution as the approximated posterior distribution of susceptibility given the input measured field. In PDI, such CNN is firstly trained on healthy subjects\\' data with labels by maximizing the posterior Gaussian distribution loss function as used in Bayesian deep learning. When testing on each patient\\' data without any label, PDI updates the pre-trained CNN\\'s weights in an unsupervised fashion by minimizing the Kullback–Leibler divergence between the approximated posterior distribution represented by CNN and the true posterior distribution given the likelihood distribution from known physical model and pre-defined prior distribution. Based on our experiments, PDI provides additional uncertainty estimation compared to the conventional MAP approach, meanwhile addressing the potential discrepancy issue of CNN when test data deviates from training dataset.")
 }}
 {{ paper('Addressing The False Negative Problem of MRI Reconstruction Networks by Adversarial Attacks and Robust Training',
@@ -628,7 +628,7 @@ title: "MIDL 2020 Tentative Program - Long"
         'Da Ma, Donghuan Lu, Morgan Heisler, Setareh Dabiri, Sieun Lee, Gavin Weiguan Ding, Marinko V. Sarunic, Mirza Faisal Beg',
         openreview='https://openreview.net/forum?id=dxVMXBzKKQ',
         id='P013',
-        paper='papers/ma20.html',
+        paper='papers/ma20b.html',
         abstract='Optical coherence tomography (OCT) is a non-invasive imaging technology that can provide micrometer-resolution cross-sectional images of the inner structures of the eye. It is widely used for the diagnosis of ophthalmic diseases with retinal alteration, such as layer deformation and fluid accumulation. In this paper, a novel framework was proposed to segment retinal layers with fluid presence. The main contribution of this study is two folds: 1) we developed a cascaded network framework to incorporate the prior structural knowledge; 2) we proposed a novel deep neural network based on U-Net and fully convolutional network, termed LF-UNet. Cross validation experiments proved that the proposed LF-UNet has superior performance comparing with the state-of-the-art methods, and incorporating the relative distance map structural prior information could further improve the performance regardless of the network.')
 }}
 {{ paper('DRMIME: Differentiable Mutual Information and Matrix Exponential for Multi-Resolution Image Registration',
@@ -666,7 +666,7 @@ title: "MIDL 2020 Tentative Program - Long"
         'Yiping Wang, David Farnell, Hossein Farahani, Mitchell Nursey, Basile Tessier-Cloutier, Steven J.M. Jones, David G. Huntsman, C. Blake Gilks, Ali Bashashati',
         openreview='https://openreview.net/forum?id=VXdQD8B307',
         id='S104',
-        paper='papers/wang20.html',
+        paper='papers/wang20b.html',
         abstract="Ovarian cancer is the most lethal cancer of the female reproductive organs. There are $5$ major histological subtypes of epithelial ovarian cancer, each with distinct morphological, genetic, and clinical features. Currently, these histotypes are determined by a pathologist\\'s microscopic examination of tumor whole-slide images (WSI). This process has been hampered by poor inter-observer agreement (Cohen’s kappa $0.54$-$0.67$). We utilized a two-stage deep transfer learning algorithm based on convolutional neural networks (CNN) and progressive resizing for automatic classification of epithelial ovarian carcinoma WSIs. The proposed algorithm achieved a mean accuracy of $87.54\\%$ and Cohen\\'s kappa of $0.8106$ in the slide-level classification of $305$ WSIs; performing better than a standard CNN and pathologists without gynecology-specific training. ")
 }}
 {{ paper('A Fully Convolutional Normalization Approach of Head and Neck Cancer Outcome Prediction',
@@ -683,12 +683,12 @@ title: "MIDL 2020 Tentative Program - Long"
         paper='papers/tuladhar20.html',
         abstract='Manual lesion segmentation for non-contrast computed tomography (NCCT), a common modality for volumetric follow-up assessment of ischemic strokes, is time-consuming and subject to high inter-observer variability. Our approach uses a combination of a 3D convolutional neural network (CNN) combined with post-processing methods. A total of 272 multi-center clinical NCCT datasets were used: 204 for CNN training, 48 for validation and developing post-processing methods, and 20 for testing. The testing datasets were from centers that did not contribute to the training and validation sets, and were segmented by two neuroradiologists. We achieved a median Dice score of 0.63, which was significantly improved to 0.66 with post-processing. The automatically segmented lesion volumes were not significantly different from the lesion volumes determined by the two manual observers. As the model was trained on datasets from multiple centers, it is broadly applicable. ')
 }}
-{{ paper('Breaking Speed Limits with Simultaneous Ultra-Fast MRI Reconstruction and Tissue Segmentation',
-        'Francesco Calivá, Rutwik Shah, Upasana Upadhyay Bharadwaj, Sharmila Majumdar, Peder Larson, Valentina Pedoia',
-        openreview='https://openreview.net/forum?id=sXONwA0ex',
-        id='P239',
-        paper='papers/calivá20.html',
-        abstract="Magnetic Resonance Image (MRI) acquisition, reconstruction and tissue segmentation are usually considered separate problems. This can be limiting when it comes to rapidly extracting relevant clinical parameters. In many applications, availability of reconstructed images with high fidelity may not be a priority as long as biomarker extraction is reliable and feasible. Built upon this concept, we demonstrate that it is possible to perform tissue segmentation directly from highly undersampled k-space and obtain quality results comparable to those in fully-sampled scenarios. We propose \\'TB-recon\\', a 3D task-based reconstruction framework. TB-recon simultaneously reconstructs MRIs from raw data and segments tissues of interest. To do so, we devised a network architecture with a shared encoding path and two task-related decoders where features flow among tasks. We deployed TB-recon on a set of (up to $24\\times$) retrospectively undersampled MRIs from the Osteoarthritis Initiative dataset, where we automatically segmented knee cartilage and menisci. An experimental study was conducted showing the superior performance of the proposed method over a combination of a standard MRI reconstruction and segmentation method, as well as alternative deep learning based solutions. In addition, our ablation study highlighted the importance of skip connections among the decoders for the segmentation task. Ultimately, we conducted a reader study, where two musculoskeletal radiologists assessed the proposed model’s reconstruction performance.")
+{{ paper('Anatomical Predictions using Subject-Specific Medical Data',
+        'Marianne Rakic, John Guttag, Adrian V. Dalca',
+        openreview='https://openreview.net/forum?id=apwZYLKTCo',
+        id='S236',
+        paper='papers/rakic20.html',
+        abstract='Changes in brain anatomy can provide important insight for treatment design or scientific analyses. We present a method that predicts how brain anatomy for an individual will change over time. We model these changes through a diffeomorphic deformation field, and design a predictive function using convolutional neural networks. Given a predicted deformation field, a baseline scan can be warped to give a prediction of the brain scan at a future time. We demonstrate the method using the ADNI cohort, and analyze how performance is affected by model variants and the type of subject-specific information provided. We show that the model provides good predictions and that external clinical data can improve predictions.      ')
 }}
 {{ paper('Enhancing Foreground Boundaries for Medical Image Segmentation',
         'Dong Yang, Holger Roth, Xiaosong Wang, Ziyue Xu, Andriy Myronenko, Daguang Xu',
@@ -732,7 +732,7 @@ title: "MIDL 2020 Tentative Program - Long"
         'Cheng Peng, Wei-An Lin, Rama Chellappa, S. Kevin Zhou',
         openreview='https://openreview.net/forum?id=Pk7In-gVEd',
         id='O018',
-        paper='papers/peng20.html',
+        paper='papers/peng20b.html',
         abstract='Undersampled MR image recovery has been widely studied for accelerated MR acquisition. However, it has been mostly studied under a single sequence scenario, despite the fact that multi-sequence MR scan is common in practice. In this paper, we aim to optimize multi-sequence MR image recovery from undersampled k-space data under an overall time constraint while considering the difference in acquisition time for various sequences. We first formulate it as a constrained optimization problem and then show that finding the optimal sampling strategy for all sequences and the best recovery model at the same time is combinatorial and hence computationally prohibitive. To solve this problem, we propose a blind recovery model that simultaneously recovers multiple sequences, and an efficient approach to find proper combination of sampling strategy and recovery model. Our experiments demonstrate that the proposed method outperforms sequence-wise recovery, and sheds light on how to decide the undersampling strategy for sequences within an overall time budget.')
 }}
 {{ paper('MAC-ReconNet: A Multiple Acquisition Context based Convolutional Neural Network for MR Image Reconstruction using Dynamic Weight Prediction',
@@ -762,7 +762,7 @@ title: "MIDL 2020 Tentative Program - Long"
         'Cheng Peng, Wei-An Lin, Rama Chellappa, S. Kevin Zhou',
         openreview='https://openreview.net/forum?id=Pk7In-gVEd',
         id='O018',
-        paper='papers/peng20.html',
+        paper='papers/peng20b.html',
         abstract='Undersampled MR image recovery has been widely studied for accelerated MR acquisition. However, it has been mostly studied under a single sequence scenario, despite the fact that multi-sequence MR scan is common in practice. In this paper, we aim to optimize multi-sequence MR image recovery from undersampled k-space data under an overall time constraint while considering the difference in acquisition time for various sequences. We first formulate it as a constrained optimization problem and then show that finding the optimal sampling strategy for all sequences and the best recovery model at the same time is combinatorial and hence computationally prohibitive. To solve this problem, we propose a blind recovery model that simultaneously recovers multiple sequences, and an efficient approach to find proper combination of sampling strategy and recovery model. Our experiments demonstrate that the proposed method outperforms sequence-wise recovery, and sheds light on how to decide the undersampling strategy for sequences within an overall time budget.')
 }}
 {{ paper('MAC-ReconNet: A Multiple Acquisition Context based Convolutional Neural Network for MR Image Reconstruction using Dynamic Weight Prediction',

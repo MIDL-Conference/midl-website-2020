@@ -27,11 +27,19 @@ class Paper():
         if self.short:
             assert not self.oral
 
+        try:
+            if not self.oral:
+                assert len(self.schedule) == 1
+            else:
+                assert len(self.schedule) == 2
+        except AssertionError:
+            print(self.id, self.schedule)
+
         sanitized_abstract: str = self.abstract.replace("'", "\\'")
         sanitized_abstract = sanitized_abstract.replace('"', '\\"')
         sanitized_abstract = sanitized_abstract.replace('\n', '')
         sanitized_abstract = sanitized_abstract.replace('`', '')
-        self.sanitized_abstract = repr(sanitized_abstract)
+        self.sanitized_abstract = sanitized_abstract
 
         self.conf_sign: str = "O" if self.oral else ("S" if self.short else "P")
 

@@ -15,7 +15,7 @@ page_class: "paper-page"
         - <a class="toggle_visibility" data-selector=".paper_qa" data-level="3">Show schedule</a>
 
 <span class="paper_abstract">
-        'Labelling large datasets for training high-capacity neural networks is a major obstacle to      the development of deep learning-based medical imaging applications. Here we present a      transformer-based network for magnetic resonance imaging (MRI) radiology report classification which automates this task by assigning image labels on the basis of free-text expert      radiology reports. Our model’s performance is comparable to that of an expert radiologist,      and better than that of an expert physician, demonstrating the feasibility of this approach.      We make code available online for researchers to label their own MRI datasets for medical      imaging applications.'
+        Labelling large datasets for training high-capacity neural networks is a major obstacle to      the development of deep learning-based medical imaging applications. Here we present a      transformer-based network for magnetic resonance imaging (MRI) radiology report classification which automates this task by assigning image labels on the basis of free-text expert      radiology reports. Our model’s performance is comparable to that of an expert radiologist,      and better than that of an expert physician, demonstrating the feasibility of this approach.      We make code available online for researchers to label their own MRI datasets for medical      imaging applications.
         <span class="actions">
   <br/>
   <a class="toggle_visibility" data-level="2">Hide abstract</a></span>
