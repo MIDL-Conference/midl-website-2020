@@ -18,6 +18,8 @@ A short program overview in the [program at a glance](/dates.html), and you can 
 
 ### MON 8:30-9:30 UTC-4 - Oral Session #1 - Uncertainty
 
+Session Chairs: Bjoern Menze, Qi Dou
+
 [% .papers %]
 {{ paper('Uncertainty-Aware Training of Neural Networks for Selective Medical Image Segmentation',
         'Yukun Ding, Jinglan Liu, Xiaowei Xu, Meiping Huang, Jian Zhuang, Jinjun Xiong, Yiyu Shi',
@@ -261,6 +263,8 @@ A short program overview in the [program at a glance](/dates.html), and you can 
 
 ### MON 12:30-13:30 UTC-4 - Oral Session #2 - Limited Data
 
+Session Chairs: J. Eugenio Iglesias, Caroline Petitjean
+
 [% .papers %]
 {{ paper('Bounding boxes for weakly supervised segmentation: Global constraints get close to full supervision',
         'Hoel Kervadec, Jose Dolz, Shanshan Wang, Eric Granger, Ismail Ben Ayed',
@@ -437,6 +441,8 @@ A short program overview in the [program at a glance](/dates.html), and you can 
 
 
 ### TUE 8:30-9:30 UTC-4 - Oral Session #3 - Networks for Histology
+
+Session Chairs: Kevin Zhou, Clarisa Sánchez
 
 [% .papers %]
 {{ paper('Tensor Networks for Medical Image Classification',
@@ -693,6 +699,8 @@ A short program overview in the [program at a glance](/dates.html), and you can 
 
 ### TUE 13:30-14:30 UTC-4 - Oral #4 - Imaging
 
+Session Chairs: Dana Cobzas, Samuel Kadoury
+
 [% .papers %]
 {{ paper('Bayesian Learning of Probabilistic Dipole Inversion for Quantitative Susceptibility Mapping',
         'Jinwei Zhang, Hang Zhang, Mert Sabuncu, Pascal Spincemaille, Thanh Nguyen, Yi Wang',
@@ -877,6 +885,8 @@ A short program overview in the [program at a glance](/dates.html), and you can 
 ## Wednesday July 8 - 8:30-15:00
 
 ### WED 8:30-9:30 UTC-4 - Oral Session #5 - Image Generation
+
+Session Chairs: Mattias Heinrich, Carole Sudre
 
 [% .papers %]
 {{ paper('Towards multi-sequence MR image recovery from undersampled k-space data',
@@ -1121,7 +1131,9 @@ A short program overview in the [program at a glance](/dates.html), and you can 
 
 ---
 
-### WED 12:30-13:30 UTC-4 - Oral Session #6 - Attention Maps
+### WED 12:30-13:30 UTC-4 - Oral Session #6 - Attention
+
+Session Chairs: Pierre-Marc Jodoin, April Khademi
 
 [% .papers %]
 {{ paper('Automatic Diagnosis of Pulmonary Embolism Using an Attention-guided Framework: A Large-scale Study',

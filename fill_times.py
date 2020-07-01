@@ -23,7 +23,7 @@ if __name__ == "__main__":
         template_content: str = f.read()
 
     # block_re: Pattern = re.compile("^#+ (.*)\n+((\n)|(\\[.*)|({{[OSP][0-9]+}}))")
-    block_re: Pattern = re.compile("#+ (.*)\n+(?:\n|(?:\\[.*\n)|(?:{{[OSP][0-9]+}}\n))+")
+    block_re: Pattern = re.compile("#+ (.*)\n+(?:Session.*\n+)?(?:\n|(?:\\[.*\n)|(?:{{[OSP][0-9]+}}\n))+")
     blocks: List[Match] = list(block_re.finditer(template_content))
 
     id_re: Pattern = re.compile("{{[OSP]([0-9]+)}}")
