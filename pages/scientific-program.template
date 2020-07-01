@@ -8,6 +8,8 @@ title: "MIDL 2020 Tentative Program - Long"
 
 The conference main schedule will run in Montreal time (ET), [UTC-4](https://www.timeanddate.com/time/map/).
 
+A short program overview in available in the [calendar](/midl.ics) and in the [dates & schedule](/dates.html) page.
+
 
 ## Monday July 6 - 8:00-15:00
 
