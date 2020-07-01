@@ -15,7 +15,7 @@ page_class: "paper-page"
 <center><a class="toggle_visibility" data-selector=".paper_abstract" data-level="3">Show abstract</a>
         - <a class="toggle_visibility" data-selector=".paper_qa" data-level="3">Show schedule</a>
         - <a href="https://openreview.net/forum?id=eLL-c_Xc0B">Reviews</a>
-        {{ teaser('') }}
+        {{ teaser('OI3GMnka7Mw') }}
 
 <span class="paper_abstract">
         Deep neural networks have revolutionized medical image analysis and disease diagnosis. Despite their impressive performance, it is diﬃcult to generate well-calibrated probabilistic outputs for such networks, which makes them uninterpretable black boxes. Bayesian neural networks provide a principled approach for modelling uncertainty and increasing patient safety, but they have a large computational overhead and provide limited improvement in calibration. In this work, by taking skin lesion classiﬁcation as an example task, we show that by shifting Bayesian inference to the functional space we can craft meaningful priors that give better-calibrated uncertainty estimates at a much lower computational cost

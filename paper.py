@@ -7,7 +7,7 @@ from typing import List
 class Paper():
     def __init__(self, id: str, title: str, authors: str, url: str, or_id: str, oral: str, short: str,
                  abstract: str, schedule: str = "", slides: str = "", yt_teaser: str = "",
-                 yt_full: str = ""):
+                 yt_full: str = "", ignore_schedule: bool = False):
         self.id: int = int(id)
         self.title: str = title
         self.authors: List[str] = authors.split(', ')
@@ -31,13 +31,14 @@ class Paper():
         if self.short:
             assert not self.oral
 
-        try:
-            if not self.oral:
-                assert len(self.schedule) == 1
-            else:
-                assert len(self.schedule) == 2
-        except AssertionError:
-            print(self.id, self.schedule)
+        if not ignore_schedule:
+            try:
+                if not self.oral:
+                    assert len(self.schedule) == 1
+                else:
+                    assert len(self.schedule) == 2
+            except AssertionError:
+                print(self.id, self.schedule)
 
         sanitized_abstract: str = self.abstract.replace("'", "\\'")
         sanitized_abstract = sanitized_abstract.replace('"', '\\"')
@@ -65,6 +66,7 @@ class Paper():
         pdf=\'{f'https://openreview.net/pdf?id={self.or_id}'}\',
         id='{self.conf_id}',
         url='{self.url}',
+        teaser=\'{f'https://youtu.be/{self.yt_teaser}'}\',
         abstract={sanitized_abstract})
 }}}}'''
 

@@ -17,7 +17,7 @@ if __name__ == "__main__":
     with open(papers_source, 'r') as pf:
         raw_papers = json.load(pf)
 
-    papers: Dict[int, Paper] = {int(k): Paper(**v) for (k, v) in raw_papers.items()}
+    papers: Dict[int, Paper] = {int(k): Paper(ignore_schedule=True, **v) for (k, v) in raw_papers.items()}
 
     with open(timing_source, 'r') as f:
         template_content: str = f.read()

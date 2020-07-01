@@ -15,7 +15,7 @@ page_class: "paper-page"
 <center><a class="toggle_visibility" data-selector=".paper_abstract" data-level="3">Show abstract</a>
         - <a class="toggle_visibility" data-selector=".paper_qa" data-level="3">Show schedule</a>
         - <a href="https://openreview.net/forum?id=D1jTt_FOPY">Reviews</a>
-        {{ teaser('') }}
+        {{ teaser('ifUQ8CBSUkQ') }}
 
 <span class="paper_abstract">
         Nodule malignancy assessment is a complex, time-consuming and error-prone task.  Current clinical practice requires measuring changes in size and density of the nodule at different time-points.  State of the art solutions rely on 3D convolutional neural networks built on pulmonary nodules obtained from a single CT scan per patient.  In this work, we propose a two-stream 3D convolutional neural network that predicts malignancy by jointly analyzing two pulmonary nodule volumes from the same patient taken at different time-points.  Best results achieve 77% of F1-score in test with an increment of 9% and 12% of F1-score with respect to the same network trained with images from a single time-point.

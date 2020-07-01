@@ -15,7 +15,7 @@ page_class: "paper-page"
 <center><a class="toggle_visibility" data-selector=".paper_abstract" data-level="3">Show abstract</a>
         - <a class="toggle_visibility" data-selector=".paper_qa" data-level="3">Show schedule</a>
         - <a href="https://openreview.net/forum?id=TujK1uTkTP">Reviews</a>
-        {{ teaser('') }}
+        {{ teaser('Jg8Aq4BuXI8') }}
 
 <span class="paper_abstract">
         The process of fertilizing a human egg outside the body in order to help those suffering from infertility to conceive is known as in vitro fertilization (IVF). Despite being the most effective method of assisted reproductive technology (ART), the average success rate of IVF is a mere 20-40%. One step that is critical to the success of the procedure is selecting which embryo to transfer to the patient, a process typically conducted manually and without any universally accepted and standardized criteria. In this paper we describe a novel data-driven system trained to directly predict embryo implantation probability from embryogenesis time-lapse imaging videos. Using  retrospectively collected videos from 272 embryos, we demonstrate that, when compared to an external panel of embryologists, our algorithm results in a 12% increase of positive predictive value and a 29% increase of negative predictive value. 

@@ -15,7 +15,7 @@ page_class: "paper-page"
 <center><a class="toggle_visibility" data-selector=".paper_abstract" data-level="3">Show abstract</a>
         - <a class="toggle_visibility" data-selector=".paper_qa" data-level="3">Show schedule</a>
         - <a href="https://openreview.net/forum?id=heX-Rk0TE0">Reviews</a>
-        {{ teaser('') }}
+        {{ teaser('j9m9pqqQZHk') }}
 
 <span class="paper_abstract">
         There is an urgent need for a paradigm shift from group-wise comparisons to individual diagnosis in diffusion MRI (dMRI) to enable the analysis of rare cases and clinically-heterogeneous groups. Deep autoencoders have shown great potential to detect anomalies in neuroimaging data. We present a framework that operates on the manifold of white matter (WM) pathways to learn normative microstructural features, and discriminate those at genetic risk from controls in a paediatric population. 
