@@ -23,7 +23,7 @@ MIDL 2020 submissions follow two tracks: *full* and *short* papers. All accepted
 <h2 id="video_instructions">Video instructions</h2>
 
 [% .deadlines %]
-* **Deadline to submit the recording** 26 June 2020
+* **<s>Deadline to submit the recording</s>** <s>26 June 2020</s>
 [% / %]
 
 MIDL 2020 being a fully virtual conference, we have opted for a format where each paper (full and short) will take the form of a pre-recorded video, which we will make available to conference attendees. We will further offer the possibility to discuss the papers and presentations in Q&A (“oral”) and interactive (“poster”) sessions during the originally scheduled conference dates. All videos will be uploaded on the [MIDL Youtube channel](https://www.youtube.com/channel/UCd87UPUTt-oqTeGi8fQw-_w).

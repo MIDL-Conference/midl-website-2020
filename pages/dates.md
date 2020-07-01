@@ -30,7 +30,7 @@ Deadlines are at 23:59, [UTC -12](https://www.timeanddate.com/time/map/) ([AoE](
 * **<s>Discussion period</s>** <s>20 March to 3 April 2020</s>
 * **<s>Notification of acceptance</s>** <s>10 April 2020</s>
 * **<s>Camera ready deadline</s>** <s>28 May 2020</s>
-* **Deadline to submit the recording** 26 June 2020
+* **<s>Deadline to submit the recording</s>** <s>26 June 2020</s>
 
 ### Conference dates
 * **MIDL 2020 (virtual)** 6-9 July 2020
