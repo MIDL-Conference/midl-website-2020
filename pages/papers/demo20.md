@@ -4,6 +4,7 @@ page_class: "paper-page"
 ---
 
 {% from "_macros.html" import presentation %}
+{% from "_macros.html" import youtube %}
 {% from "_macros.html" import button %}
 
 # T001 - Lorem Ipsum for Medical Imaging with Deep Learning
@@ -40,4 +41,5 @@ page_class: "paper-page"
 
 ---
 
-{{ presentation('41W66ywZh3E', '/slides/demo20.pdf', 720, 450) }}
+{{ youtube('41W66ywZh3E') }}
+{{ presentation('ov6gMKAuWnI', '/slides/demo20.pdf', 720, 450) }}

@@ -9,12 +9,12 @@ page_class: "sponsors"
 {% from "_macros.html" import youtube %}
 
 
-<p class="primary-photo centered">
+<!-- <p class="primary-photo centered">
     <img alt="Montréal at Night" src="/images/montreal-at-night.jpg">
-</p>
+</p> -->
 
 
- <!-- {{ youtube('fmCLoIOjgN0') }} -->
+ {{ youtube('41W66ywZh3E') }}
 
 The [full scientific program is available](scientific-program.html):
 
