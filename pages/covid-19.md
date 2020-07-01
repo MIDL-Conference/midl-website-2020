@@ -30,7 +30,3 @@ We are also developing remote participation options. Many other events have been
 
 ## Are challenges canceled ?
 No. They will be 100% online.
-
-
-## I cannot find the registration link
-Registrations are closed for now, until details of the virtual event are announced.
