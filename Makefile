@@ -1,7 +1,7 @@
 CC = python3
 CFLAGS = -m mwb
 
-DEBUG = --prettify
+DEBUG =
 
 TARGET = /usr/share/nginx/midl
 
