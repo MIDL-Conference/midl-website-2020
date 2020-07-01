@@ -3,7 +3,6 @@ title: "Lorem Ipsum for Medical Imaging with Deep Learning"
 page_class: "paper-page"
 ---
 
-{% from "_macros.html" import youtube %}
 {% from "_macros.html" import presentation %}
 {% from "_macros.html" import button %}
 
@@ -41,4 +40,4 @@ page_class: "paper-page"
 
 ---
 
-{{ presentation('lP9PaDs2xgQ', '/slides/demo20.pdf', 720, 450) }}
+{{ presentation('41W66ywZh3E', '/slides/demo20.pdf', 720, 450) }}

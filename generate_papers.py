@@ -34,11 +34,18 @@ if __name__ == "__main__":
         result: str = empty_template[:]
 
         result = result.replace("CONF_ID", paper.conf_id)
+        result = result.replace("SMALLID", paper.conf_id.casefold())
         result = result.replace("TITLE", paper.title)
         result = result.replace("AUTHORS", ", ".join(paper.authors))
         result = result.replace("ORID", paper.or_id)
         result = result.replace("ABSTRACT", paper.sanitized_abstract)
         result = result.replace("SCHEDULE", "<br/>".join(paper.schedule))
+        result = result.replace("TEASER", paper.yt_teaser)
+
+        if paper.yt_full and paper.slides:
+            result = result.replace("PRESENTATION", f"{{{{ presentation('{paper.yt_full}', '{paper.slides}', 720, 450) }}}}")
+        else:
+            result = result.replace("PRESENTATION", "")
 
         oral_text: str
         if paper.oral:

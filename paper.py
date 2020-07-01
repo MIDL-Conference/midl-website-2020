@@ -6,7 +6,8 @@ from typing import List
 
 class Paper():
     def __init__(self, id: str, title: str, authors: str, url: str, or_id: str, oral: str, short: str,
-                 abstract: str, schedule: str = ""):
+                 abstract: str, schedule: str = "", slides: str = "", yt_teaser: str = "",
+                 yt_full: str = ""):
         self.id: int = int(id)
         self.title: str = title
         self.authors: List[str] = authors.split(', ')
@@ -16,6 +17,9 @@ class Paper():
         self.short: bool = short == "True"
         self.poster: bool = (not self.short) and (not self.oral)
         self.abstract: str = abstract
+        self.slides: str = slides
+        self.yt_teaser: str = yt_teaser
+        self.yt_full: str = yt_full
 
         self.schedule: List[str]
         if not schedule:
@@ -58,8 +62,9 @@ class Paper():
         return f'''{{{{ paper(\'{self.title}\',
         \'{f'{", ".join(self.authors)}'}\',
         openreview=\'{f'https://openreview.net/forum?id={self.or_id}'}\',
+        pdf=\'{f'https://openreview.net/pdf?id={self.or_id}'}\',
         id='{self.conf_id}',
-        paper='{self.url}',
+        url='{self.url}',
         abstract={sanitized_abstract})
 }}}}'''
 
@@ -75,6 +80,9 @@ class PaperEncoder(json.JSONEncoder):
                     "oral": str(paper.oral),
                     "short": str(paper.short),
                     "abstract": paper.abstract,
-                    "schedule": "\n".join(paper.schedule)}
+                    "schedule": "\n".join(paper.schedule),
+                    "slides": paper.slides,
+                    "yt_teaser": paper.yt_teaser,
+                    "yt_full": paper.yt_full}
 
         return json.JSONEncoder.default(self, paper)

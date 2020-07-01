@@ -3,7 +3,9 @@ title: "Deblurring for spiral real-time MRI using convolutional neural networks"
 page_class: "paper-page"
 ---
 
+{% from "_macros.html" import presentation %}
 {% from "_macros.html" import button %}
+{% from "_macros.html" import teaser %}
 
 # S047 - Deblurring for spiral real-time MRI using convolutional neural networks
 
@@ -11,8 +13,9 @@ page_class: "paper-page"
 ### Yongwan Lim, Shrikanth Narayanan, Krishna Nayak
 
 <center><a class="toggle_visibility" data-selector=".paper_abstract" data-level="3">Show abstract</a>
-        - <a href="https://openreview.net/forum?id=zYareJYs8Z">Reviews</a>
         - <a class="toggle_visibility" data-selector=".paper_qa" data-level="3">Show schedule</a>
+        - <a href="https://openreview.net/forum?id=zYareJYs8Z">Reviews</a>
+        {{ teaser('') }}
 
 <span class="paper_abstract">
         Spiral acquisitions are preferred in real-time MRI because of their time efficiency. A fundamental limitation of spirals is image blurring due to off-resonance, which degrades image quality significantly at air-tissue boundaries. Here, we demonstrate a simple CNN-based deblurring method for spiral real-time MRI of human speech production. We show the CNN-based deblurring is capable of restoring blurred vocal tract tissue boundaries, without a need for exam-specific field maps. Deblurring performance is superior to a current auto-calibrated method, and slightly inferior to ideal reconstruction with perfect knowledge of the field maps. 
@@ -27,8 +30,11 @@ page_class: "paper-page"
         <span class="actions"><a class="toggle_visibility" data-level="2">Hide schedule</a></span>
 </span>
 
-{{ button("Access paper channel", "https://chat.midl.io/channel/S047") }}
+{{ button("Access paper channel", "https://chat.midl.io/channel/s047") }}
 
 ---
 
 ### Short paper
+
+---
+
