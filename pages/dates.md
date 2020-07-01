@@ -7,7 +7,7 @@ title: "Program at a glance"
 An [online iCalendar](/midl.ics) with all dates and schedule is available.
 
 <!-- ll31gu9c2gu1uruoas7tp42rok3u22oi%40import.calendar.google.com -->
-<iframe src="https://calendar.google.com/calendar/embed?height=800&amp;wkst=2&amp;bgcolor=%23039BE5&amp;ctz=America%2FToronto&amp;src=ll31gu9c2gu1uruoas7tp42rok3u22oi%40import.calendar.google.com&amp;color=%235170B1&amp;mode=WEEK&amp;hl=en&amp;title=MIDL%202020%20Full%20schedule&amp;showDate=1&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0" style="border-width:0" width="720" height="800" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?height=800&amp;wkst=2&amp;bgcolor=%23039BE5&amp;ctz=America%2FToronto&amp;src=b2VhNXQ2b2lxbG9vYmY0NWYyY282bnBnMjMzZmRnMzVAaW1wb3J0LmNhbGVuZGFyLmdvb2dsZS5jb20&amp;color=%235170B1&amp;mode=WEEK&amp;hl=en&amp;title=MIDL%202020%20Full%20schedule&amp;showDate=1&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0" style="border-width:0" width="720" height="800" frameborder="0" scrolling="no"></iframe>
 
 [![Short program](images/program.png)](images/program.png)
 
