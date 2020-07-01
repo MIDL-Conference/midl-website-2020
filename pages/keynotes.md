@@ -28,8 +28,12 @@ Professor Paragios is member of the scientific council of Safran conglomerate, m
 
 ---
 
-## Dr. Elsa Angelini ![Portrait of Elsa Angelini](/images/keynotes/elsa.jpg){: width="180" }
+## Dr. Elsa Angelini ![Portrait of Elsa Angelini](/images/keynotes/elsa2.jpg){: width="180" }
 ### Institute for Translational Medicine and Therapeutics (ITMAT), Imperial College London
+#### Unsupervised Learning and Domain Adaptation for Subtyping of Emphysema on Very Large Cohorts of Lung CT Scans
+**Biography:** Elsa D. Angelini received the B.Sc. degree in engineering from Ecole Centrale de Nantes (France), and the MSc and PhD degrees in Biomedical Engineering from Columbia University (NY, USA). She joined the Department of Image-Data-Signal at Telecom ParisTech (France) in 2004 where she was an associate Professor until 2011. In 2010, she spent a sabbatical in the CSIRO-Australian e-Health Research Center (Australia). In 2011, she was appointed as a Senior Research Scientist and co-director of the [Heffner Biomedical Imaging Laboratory](https://hbil.bme.columbia.edu/) in the Department of Biomedical Engineering at Columbia University (USA). In 2016, she joined Imperial College London (UK) where she is the co-lead of the newly created [Data Science Group](https://www.imperial.ac.uk/itmat-data-science-group) within the Institute of Translational Medicine and Therapeutics (ITMAT), which is part of the NIHR Imperial Biomedical Research Centre. She has co-authored over 140 publications in the field of bio and medical image analysis. As a Senior IEEE member, she has served multiple roles for the EMB society, as chair of the TMI and ISBI steering committees, Vice-President for the Technical Activities (2017-19), and chair of the Biomedical Imaging and Image Processing (BIIP) Technical Committee (2013-15). She has served as an Associate Editor (AE) for IEEE TBME and JBHI, is a regular AE for ISBI, and PC member for MICCAI. She was the general chair of the ISBI'15 conference, and co-chair (2016-19) of the SPIE Medical-Imaging sub-Conference on Image Processing.
+Her research interests focus on bio and medical image computing for multi-dimensional imaging modalities, along with machine-learning on imaging, electronic health records, and omics data for patient stratification, outcome prediction, and disease scoring and subtyping.
+
 
 ---
 
