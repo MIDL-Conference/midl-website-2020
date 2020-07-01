@@ -4,7 +4,9 @@ title: "MIDL 2020 Tentative Program - Long"
 
 {% from "_macros.html" import paper %}
 
-# MIDL 2020 Tentative Program - Long
+# MIDL 2020 Program - Long
+
+The conference main schedule will run in Montreal time (ET), [UTC-4](https://www.timeanddate.com/time/map/).
 
 
 ## Monday July 6 - 8:00-15:00
@@ -259,7 +261,7 @@ title: "MIDL 2020 Tentative Program - Long"
 
 [% .papers %]
 {{ paper('Bounding boxes for weakly supervised segmentation: Global constraints get close to full supervision',
-        'Hoel Kervadec, Jose Dolz, Shanshan Wang, Eric Granger, Ismail ben Ayed',
+        'Hoel Kervadec, Jose Dolz, Shanshan Wang, Eric Granger, Ismail Ben Ayed',
         openreview='https://openreview.net/forum?id=m7HZ-yil_-',
         pdf='https://openreview.net/pdf?id=m7HZ-yil_-',
         id='O001',
@@ -293,7 +295,7 @@ title: "MIDL 2020 Tentative Program - Long"
 
 [% .papers %]
 {{ paper('Bounding boxes for weakly supervised segmentation: Global constraints get close to full supervision',
-        'Hoel Kervadec, Jose Dolz, Shanshan Wang, Eric Granger, Ismail ben Ayed',
+        'Hoel Kervadec, Jose Dolz, Shanshan Wang, Eric Granger, Ismail Ben Ayed',
         openreview='https://openreview.net/forum?id=m7HZ-yil_-',
         pdf='https://openreview.net/pdf?id=m7HZ-yil_-',
         id='O001',
@@ -1282,3 +1284,15 @@ title: "MIDL 2020 Tentative Program - Long"
 ---
 
 ### WED 15:00-15:30 ET - Closings
+
+
+---
+
+## Thursday July 9 - 9:00-17:00 UTC-4 - [Challenges](/challenges.html)
+
+* 14:00-17:00 UTC-4 - [MC-MRRec](https://sites.google.com/view/calgary-campinas-dataset/home/mr-reconstruction-challenge):
+ Multi-channel MR Image Reconstruction Challenge
+* 9:00-13:00 UTC-4 - [SARAS](https://saras-esad.grand-challenge.org):
+ SARAS endoscopic vision challenge for surgeon action detection
+* THU 9:00-13:00 UTC-4 - [object-CXR](https://jfhealthcare.github.io/object-CXR/):
+ Automatic detection of foreign objects on chest X-rays

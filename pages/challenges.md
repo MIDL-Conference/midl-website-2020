@@ -16,6 +16,7 @@ For the first time, MIDL invites the community to propose challenges involving *
 
 ## object-CXR
 #### Automatic detection of foreign objects on chest X-rays
+#### Thursday July 9 - 9:00-13:00 UTC-4
 
 Analyzing chest X-rays is a common clinical approach for diagnosing pulmonary and heart diseases. However, foreign objects are occasionally presented on chest X-ray images, especially in rural and remote locations where standard filming guidelines are not strictly followed. Foreign objects on chest X-rays may obscure pathological finds, thus increasing false negative diagnosis. They may also confuse junior radiologists from real pathological findings, e.g. buttons are visually similar to nodules on chest X-ray, thus increasing false positive diagnosis. An algorithm based foreign object detection system could automatically promote re-filming, thus significantly reduce the cost and save radiologists time for more diagnosis.
 
@@ -27,6 +28,7 @@ More info: [Challenge website](https://jfhealthcare.github.io/object-CXR/)
 
 ## MC-MRRec
 #### Multi-channel MR Image Reconstruction Challenge
+#### Thursday July 9 - 14:00-17:00 UTC-4
 
 Deep-learning-based Magnetic Resonance (MR) Imaging reconstruction has the potential to greatly speed-up MR exams. Our Multi-channel MR Image Reconstruction Challenge tackles this issue by:
 
@@ -47,6 +49,7 @@ If having troubles accessing the website, please contact: [roberto.medeirosdeso@
 
 ## SARAS-ESAD
 ### SARAS endoscopic vision challenge for surgeon action detection
+#### Thursday July 9 - 9:00-13:00 UTC-4
 
 Minimally Invasive Surgery (MIS) is a very sensitive medical procedure, whose success depends on the competence of the human surgeons and the degree of effectiveness of their coordination. The SARAS (Smart Autonomous Robotic Assistant Surgeon) EU consortium, is working towards replacing the assistant surgeon in MIS with two assistive robotic arms. To accomplish that, an artificial intelligence based system is required which not only can understand the complete surgical scene but also detect the actions being performed by the main surgeon.
 
