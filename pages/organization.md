@@ -15,6 +15,9 @@ title: "Organization"
 * Ismail Ben Ayed (ÉTS Montréal)
 * Hervé Lombaert (ÉTS Montréal)
 
+## Virtual arrangements chair
+* Hoel Kervadec (ÉTS Montréal)
+
 ## Advisors
 * Yoshua Bengio (Mila, Université de Montréal)
 * Ronald Summers (NIH, USA)
