@@ -6,6 +6,7 @@ page_class: "paper-page"
 {% from "_macros.html" import presentation %}
 {% from "_macros.html" import button %}
 {% from "_macros.html" import teaser %}
+{% from "_macros.html" import youtube %}
 
 # P222 - Direct estimation of fetal head circumference from ultrasound images based on regression CNN
 
@@ -38,3 +39,4 @@ page_class: "paper-page"
 
 ---
 
+{{ youtube('y-iXek-lMjE') }}

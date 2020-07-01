@@ -6,6 +6,7 @@ page_class: "paper-page"
 {% from "_macros.html" import presentation %}
 {% from "_macros.html" import button %}
 {% from "_macros.html" import teaser %}
+{% from "_macros.html" import youtube %}
 
 # P128 - Deep Reinforcement Learning for Organ Localization in CT
 
@@ -38,3 +39,4 @@ page_class: "paper-page"
 
 ---
 
+{{ youtube('Rk6gCh7eYkU') }}

@@ -6,6 +6,7 @@ page_class: "paper-page"
 {% from "_macros.html" import presentation %}
 {% from "_macros.html" import button %}
 {% from "_macros.html" import teaser %}
+{% from "_macros.html" import youtube %}
 
 # P157 - Accurate Detection of Out of Body Segments in Surgical Video using Semi-Supervised Learning
 
@@ -38,3 +39,4 @@ page_class: "paper-page"
 
 ---
 
+{{ youtube('2-c8hAMEAEo') }}

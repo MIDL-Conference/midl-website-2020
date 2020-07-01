@@ -6,6 +6,7 @@ page_class: "paper-page"
 {% from "_macros.html" import presentation %}
 {% from "_macros.html" import button %}
 {% from "_macros.html" import teaser %}
+{% from "_macros.html" import youtube %}
 
 # P002 - How Distance Transform Maps Boost Segmentation CNNs: An Empirical Study
 
@@ -38,3 +39,4 @@ page_class: "paper-page"
 
 ---
 
+{{ youtube('G23FofuAOFM') }}

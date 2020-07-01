@@ -6,6 +6,7 @@ page_class: "paper-page"
 {% from "_macros.html" import presentation %}
 {% from "_macros.html" import button %}
 {% from "_macros.html" import teaser %}
+{% from "_macros.html" import youtube %}
 
 # P045 - On Direct Distribution Matching for Adapting Segmentation Networks
 
@@ -38,3 +39,4 @@ page_class: "paper-page"
 
 ---
 
+{{ youtube('6RQxDpWY6OE') }}

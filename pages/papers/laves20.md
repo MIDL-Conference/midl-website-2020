@@ -6,6 +6,7 @@ page_class: "paper-page"
 {% from "_macros.html" import presentation %}
 {% from "_macros.html" import button %}
 {% from "_macros.html" import teaser %}
+{% from "_macros.html" import youtube %}
 
 # O212 - Well-Calibrated Regression Uncertainty in Medical Imaging with Deep Learning
 
@@ -38,4 +39,4 @@ page_class: "paper-page"
 
 ---
 
-{{ presentation('U16CFFnE2fQ', '/slides/laves20.pdf', 720, 450) }}
+{{ youtube('Wo6mZE3dBWI') }}
