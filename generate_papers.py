@@ -42,6 +42,11 @@ if __name__ == "__main__":
         result = result.replace("SCHEDULE", "<br/>".join(paper.schedule))
         result = result.replace("TEASER", paper.yt_teaser)
 
+        if paper.yt_teaser:
+            result = result.replace("EMBEDEDTEASE", f"{{{{ youtube('{paper.yt_teaser}') }}}}")
+        else:
+            result = result.replace("EMBEDEDTEASE", "")
+
         if paper.yt_full and paper.slides:
             result = result.replace("PRESENTATION", f"{{{{ presentation('{paper.yt_full}', '{paper.slides}', 720, 450) }}}}")
         else:

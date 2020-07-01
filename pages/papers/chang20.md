@@ -39,4 +39,3 @@ page_class: "paper-page"
 
 ---
 
-{{ youtube('') }}
