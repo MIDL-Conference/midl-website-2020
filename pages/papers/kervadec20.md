@@ -11,7 +11,7 @@ page_class: "paper-page"
 # O001 - Bounding boxes for weakly supervised segmentation: Global constraints get close to full supervision
 
 
-### Hoel Kervadec, Jose Dolz, Shanshan Wang, Eric Granger, Ismail ben Ayed
+### Hoel Kervadec, Jose Dolz, Shanshan Wang, Eric Granger, Ismail Ben Ayed
 
 <center><a class="toggle_visibility" data-selector=".paper_abstract" data-level="3">Show abstract</a>
         - <a class="toggle_visibility" data-selector=".paper_qa" data-level="3">Show schedule</a>
@@ -27,7 +27,7 @@ page_class: "paper-page"
 </span>
 
 <span class="paper_qa">
-        MON 12:30-13:30 ET - Oral Session #2 - Limited Data<br/>MON 13:30-15:00 ET - Poster Session #2
+        MON 12:30-13:30 UTC-4 - Oral Session #2 - Limited Data<br/>MON 13:30-15:00 UTC-4 - Poster Session #2
         <br/>
         <span class="actions"><a class="toggle_visibility" data-level="2">Hide schedule</a></span>
 </span>

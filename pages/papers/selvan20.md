@@ -27,7 +27,7 @@ page_class: "paper-page"
 </span>
 
 <span class="paper_qa">
-        TUE 8:30-9:30 ET - Oral Session #3 - Networks for Histology<br/>TUE 9:30-11:00 ET - Poster Session #3
+        TUE 8:30-9:30 UTC-4 - Oral Session #3 - Networks for Histology<br/>TUE 9:30-11:00 UTC-4 - Poster Session #3
         <br/>
         <span class="actions"><a class="toggle_visibility" data-level="2">Hide schedule</a></span>
 </span>

@@ -27,7 +27,7 @@ page_class: "paper-page"
 </span>
 
 <span class="paper_qa">
-        TUE 9:30-11:00 ET - Poster Session #3
+        TUE 9:30-11:00 UTC-4 - Poster Session #3
         <br/>
         <span class="actions"><a class="toggle_visibility" data-level="2">Hide schedule</a></span>
 </span>

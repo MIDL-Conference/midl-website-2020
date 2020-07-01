@@ -27,7 +27,7 @@ page_class: "paper-page"
 </span>
 
 <span class="paper_qa">
-        MON 8:30-9:30 ET - Oral Session #1 - Uncertainty<br/>MON 9:30-11:00 ET - Poster Session #1
+        MON 8:30-9:30 UTC-4 - Oral Session #1 - Uncertainty<br/>MON 9:30-11:00 UTC-4 - Poster Session #1
         <br/>
         <span class="actions"><a class="toggle_visibility" data-level="2">Hide schedule</a></span>
 </span>

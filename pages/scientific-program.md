@@ -12,9 +12,9 @@ The conference main schedule will run in Montreal time (ET), [UTC-4](https://www
 ## Monday July 6 - 8:00-15:00
 
 
-### MON 8:00-8:30 ET - Openings + Prizes
+### MON 8:00-8:30 UTC-4 - Openings + Prizes
 
-### MON 8:30-9:30 ET - Oral Session #1 - Uncertainty
+### MON 8:30-9:30 UTC-4 - Oral Session #1 - Uncertainty
 
 [% .papers %]
 {{ paper('Uncertainty-Aware Training of Neural Networks for Selective Medical Image Segmentation',
@@ -48,7 +48,7 @@ The conference main schedule will run in Montreal time (ET), [UTC-4](https://www
 
 ---
 
-### MON 9:30-11:00 ET - Poster Session #1
+### MON 9:30-11:00 UTC-4 - Poster Session #1
 
 [% .papers %]
 {{ paper('Uncertainty-Aware Training of Neural Networks for Selective Medical Image Segmentation',
@@ -250,14 +250,14 @@ The conference main schedule will run in Montreal time (ET), [UTC-4](https://www
 
 ---
 
-### MON 11:00-12:00 ET - Keynote #1 - Alan Evans
+### MON 11:00-12:00 UTC-4 - Keynote #1 - Alan Evans
 
 
-### MON 12:00-12:30 ET - Break
+### MON 12:00-12:30 UTC-4 - Break
 
 ---
 
-### MON 12:30-13:30 ET - Oral Session #2 - Limited Data
+### MON 12:30-13:30 UTC-4 - Oral Session #2 - Limited Data
 
 [% .papers %]
 {{ paper('Bounding boxes for weakly supervised segmentation: Global constraints get close to full supervision',
@@ -291,7 +291,7 @@ The conference main schedule will run in Montreal time (ET), [UTC-4](https://www
 
 ---
 
-### MON 13:30-15:00 ET - Poster Session #2
+### MON 13:30-15:00 UTC-4 - Poster Session #2
 
 [% .papers %]
 {{ paper('Bounding boxes for weakly supervised segmentation: Global constraints get close to full supervision',
@@ -434,7 +434,7 @@ The conference main schedule will run in Montreal time (ET), [UTC-4](https://www
 ## Tuesday July 7 - 8:30-16:00
 
 
-### TUE 8:30-9:30 ET - Oral Session #3 - Networks for Histology
+### TUE 8:30-9:30 UTC-4 - Oral Session #3 - Networks for Histology
 
 [% .papers %]
 {{ paper('Tensor Networks for Medical Image Classification',
@@ -468,7 +468,7 @@ The conference main schedule will run in Montreal time (ET), [UTC-4](https://www
 
 ---
 
-### TUE 9:30-11:00 ET - Poster Session #3
+### TUE 9:30-11:00 UTC-4 - Poster Session #3
 
 [% .papers %]
 {{ paper('Tensor Networks for Medical Image Classification',
@@ -679,17 +679,17 @@ The conference main schedule will run in Montreal time (ET), [UTC-4](https://www
 
 ---
 
-### TUE 11:00-12:00 ET - Keynote #2 - Nikos Paragios
+### TUE 11:00-12:00 UTC-4 - Keynote #2 - Nikos Paragios
 
 
-### TUE 12:00-12:30 ET - Break
+### TUE 12:00-12:30 UTC-4 - Break
 
 
-### TUE 12:30-13:30 ET - Keynote #3 - Daphne Koller
+### TUE 12:30-13:30 UTC-4 - Keynote #3 - Daphne Koller
 
 ---
 
-### TUE 13:30-14:30 ET - Oral #4 - Imaging
+### TUE 13:30-14:30 UTC-4 - Oral #4 - Imaging
 
 [% .papers %]
 {{ paper('Bayesian Learning of Probabilistic Dipole Inversion for Quantitative Susceptibility Mapping',
@@ -723,7 +723,7 @@ The conference main schedule will run in Montreal time (ET), [UTC-4](https://www
 
 ---
 
-### TUE 14:30-16:00 ET - Poster Session #4
+### TUE 14:30-16:00 UTC-4 - Poster Session #4
 
 [% .papers %]
 {{ paper('Bayesian Learning of Probabilistic Dipole Inversion for Quantitative Susceptibility Mapping',
@@ -874,7 +874,7 @@ The conference main schedule will run in Montreal time (ET), [UTC-4](https://www
 
 ## Wednesday July 8 - 8:30-15:00
 
-### WED 8:30-9:30 ET - Oral Session #5 - Image Generation
+### WED 8:30-9:30 UTC-4 - Oral Session #5 - Image Generation
 
 [% .papers %]
 {{ paper('Towards multi-sequence MR image recovery from undersampled k-space data',
@@ -910,7 +910,7 @@ The conference main schedule will run in Montreal time (ET), [UTC-4](https://www
 ---
 
 
-### WED 9:30-11:00 ET - Poster Session #5
+### WED 9:30-11:00 UTC-4 - Poster Session #5
 
 [% .papers %]
 {{ paper('Towards multi-sequence MR image recovery from undersampled k-space data',
@@ -1112,14 +1112,14 @@ The conference main schedule will run in Montreal time (ET), [UTC-4](https://www
 
 ---
 
-### WED 11:00-12:00 ET - Keynote #4 - Elsa Angelini
+### WED 11:00-12:00 UTC-4 - Keynote #4 - Elsa Angelini
 
 
-### WED 12:00-12:30 ET - Break
+### WED 12:00-12:30 UTC-4 - Break
 
 ---
 
-### WED 12:30-13:30 ET - Oral Session #6 - Attention Maps
+### WED 12:30-13:30 UTC-4 - Oral Session #6 - Attention Maps
 
 [% .papers %]
 {{ paper('Automatic Diagnosis of Pulmonary Embolism Using an Attention-guided Framework: A Large-scale Study',
@@ -1153,7 +1153,7 @@ The conference main schedule will run in Montreal time (ET), [UTC-4](https://www
 
 ---
 
-### WED 13:30-15:00 ET - Poster Session #6
+### WED 13:30-15:00 UTC-4 - Poster Session #6
 
 [% .papers %]
 {{ paper('Automatic Diagnosis of Pulmonary Embolism Using an Attention-guided Framework: A Large-scale Study',
@@ -1283,7 +1283,7 @@ The conference main schedule will run in Montreal time (ET), [UTC-4](https://www
 
 ---
 
-### WED 15:00-15:30 ET - Closings
+### WED 15:00-15:30 UTC-4 - Closings
 
 
 ---
@@ -1294,5 +1294,5 @@ The conference main schedule will run in Montreal time (ET), [UTC-4](https://www
  Multi-channel MR Image Reconstruction Challenge
 * 9:00-13:00 UTC-4 - [SARAS](https://saras-esad.grand-challenge.org):
  SARAS endoscopic vision challenge for surgeon action detection
-* THU 9:00-13:00 UTC-4 - [object-CXR](https://jfhealthcare.github.io/object-CXR/):
+* 9:00-13:00 UTC-4 - [object-CXR](https://jfhealthcare.github.io/object-CXR/):
  Automatic detection of foreign objects on chest X-rays
