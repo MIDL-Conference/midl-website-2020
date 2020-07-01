@@ -6,12 +6,15 @@ page_class: "sponsors"
 <h2 class="midl">Montréal, 6 ‑ 9 July 2020</h2>
 
 {% from "_macros.html" import button %}
+{% from "_macros.html" import youtube %}
 
 
 <p class="primary-photo centered">
     <img alt="Montréal at Night" src="/images/montreal-at-night.jpg">
 </p>
 
+
+ <!-- {{ youtube('fmCLoIOjgN0') }} -->
 
 The [full scientific program is available](scientific-program.html):
 
