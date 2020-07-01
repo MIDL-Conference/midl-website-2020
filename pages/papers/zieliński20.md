@@ -15,6 +15,7 @@ page_class: "paper-page"
 
 <center><a class="toggle_visibility" data-selector=".paper_abstract" data-level="3">Show abstract</a>
         - <a class="toggle_visibility" data-selector=".paper_qa" data-level="3">Show schedule</a>
+        - <a href="https://openreview.net/pdf?id=AEhp_Cqq-h">Paper</a>
         - <a href="https://openreview.net/forum?id=AEhp_Cqq-h">Reviews</a>
         {{ teaser('xCFpZI50cTg') }}
 

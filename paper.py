@@ -65,7 +65,7 @@ class Paper():
         openreview=\'{f'https://openreview.net/forum?id={self.or_id}'}\',
         pdf=\'{f'https://openreview.net/pdf?id={self.or_id}'}\',
         id='{self.conf_id}',
-        url='{self.url}',
+        paper='{self.url}',
         teaser=\'{f'https://youtu.be/{self.yt_teaser}' if self.yt_teaser else ""}\',
         abstract={sanitized_abstract})
 }}}}'''
