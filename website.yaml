@@ -28,7 +28,7 @@ nav:
   - title: "Scientific program"
     path: "/scientific-program.html"
     icon: "microscope"
-  - title: "Dates & schedule"
+  - title: "Program at a glance"
     path: "/dates.html"
     icon: "calendar"
   - title: "Keynotes"
