@@ -179,7 +179,7 @@
         "title": "A Deep Learning based Fast Signed Distance Map Generation",
         "url": "papers/wang20a.html",
         "yt_full": "",
-        "yt_teaser": ""
+        "yt_teaser": "BeWMzeZIjEI"
     },
     "35": {
         "abstract": "Most deep learning models in chest X-ray prediction utilize the posteroanterior (PA) view due to the lack of other views available. PadChest is a large-scale chest X-ray dataset that has almost 200 labels and multiple views available. In this work, we use PadChest to explore multiple approaches to merging the PA and lateral views for predicting the radiological labels associated with the X-ray image. We find that different methods of merging the model utilize the lateral view differently. We also find that including the lateral view increases performance for 32 labels in the dataset, while being neutral for the others.\n      The increase in overall performance is comparable to the one obtained by using only the PA view with twice the amount of patients in the training set.",
@@ -865,7 +865,7 @@
         "title": "A Deep Learning Approach for Motion Forecasting Using 4D OCT Data",
         "url": "papers/bengs20.html",
         "yt_full": "",
-        "yt_teaser": ""
+        "yt_teaser": "32BZ5eOHzTk"
     },
     "157": {
         "abstract": "Large labeled datasets are an important precondition for deep learning models to achieve state-of-the-art results in computer vision tasks. In the medical imaging domain, privacy concerns have limited the rate of adoption of artificial intelligence methodologies into clinical practice. To alleviate such concerns, and increase comfort levels while sharing and storing surgical video data, we propose a high accuracy method for rapid removal and anonymization of out-of-body and non-relevant surgery segments. Training a deep model to detect out-of-body and non-relevant segments in surgical videos requires suitable labeling. Since annotating surgical videos with per-second relevancy labeling is a tedious task, our proposed framework initiates the learning process from a weakly labeled noisy dataset and iteratively applies Semi-Supervised Learning (SSL) to re-annotate the training data samples. Evaluating our model, on an independent test set, shows a mean detection accuracy of above 97% after several training-annotating iterations. Since our final goal is achieving out-of-body segments detection for anonymization, we evaluate our ability to detect these segments at a high demanding recall of 97%, which leads to a precision of 83.5%. We believe this approach can be applied to similar related medical problems, in which only a coarse set of relevancy labels exists, currently limiting the possibility for supervision training.",
@@ -1215,7 +1215,7 @@
         "title": "Bayesian Generative Models for Knowledge Transfer in MRI Semantic Segmentation Problems",
         "url": "papers/kuzina20.html",
         "yt_full": "",
-        "yt_teaser": ""
+        "yt_teaser": "aA8dE8mvoic"
     },
     "266": {
         "abstract": "Calcified plaque in the aorta and pelvic arteries is associated with coronary artery calcification and is a strong predictor of heart attack. Current calcified plaque detection models show poor generalizeability to different domains (ie. pre-contrast vs. post-contrast CT scans). Many recent works have shown how cross domain object detection can be improved using an image translation model which translates between domains using a single shared latent space. However, while current image translation models do a good job preserving global/intermediate level structures they often have trouble preserving tiny structures. In medical imaging applications, preserving small structures is important since these structures can carry information which is highly relevant for disease diagnosis. Recent works on image reconstruction show that complex real-world images are better reconstructed using a union of subspaces approach. Since small image patches are used to train the image translation model, it makes sense to enforce that each patch be represented by a linear combination of subspaces which may correspond to the different parts of the body present in that patch. Motivated by this, we propose an image translation network using a shared union of subspaces constraint and show our approach preserves subtle structures (plaques) better than the conventional method. We further applied our method to a cross domain plaque detection task and show significant improvement compared to the state-of-the art method.",
@@ -1229,7 +1229,7 @@
         "title": "Image Translation by Latent Union of Subspaces for Cross-Domain Plaque Segmentation",
         "url": "papers/zhu20.html",
         "yt_full": "",
-        "yt_teaser": ""
+        "yt_teaser": "ZD1pL8D2oIE"
     },
     "271": {
         "abstract": "Automatic segmentation of white matter hyperintensities (WMHs) in magnetic resonance imaging (MRI) remains highly sought after due to the potential to streamline and alleviate clinical workflows. WMHs are small relative to whole acquired volume, which leads to class imbalance issues, and instability during the training process of many deep learning based solutions. To address this, we propose a method which is robust to effects of class imbalance, through incorporating multi-scale information in the training process. Our method consists of training an encoder-decoder neural network utilizing a Siamese network as an auxiliary loss function. These Siamese networks take in pairs of image pairs, input images masked with ground truth labels, and input images masked with predictions, and computes multi-resolution feature vector representations and provides gradient feedback in the form of a L2 norm. We leverage transfer learning in our Siamese network, and present positive results without need to further train. It was found these methods are more robust for training segmentation neural networks and provide greater generalizability. Our method was cross-validated on multi-center data, yielding significant overall agreement with manual annotations. ",
@@ -1299,7 +1299,7 @@
         "title": "Uncertainty Evaluation Metrics for Brain Tumour Segmentation",
         "url": "papers/mehta20.html",
         "yt_full": "",
-        "yt_teaser": ""
+        "yt_teaser": "1jVyfnhw1xM"
     },
     "288": {
         "abstract": "Pooled imaging data from multiple sources is subject to bias from each source. Studies that do not correct for these scanner/site biases at best lose statistical power, and at worst leave spurious correlations in their data. Estimation of the bias effects is non-trivial due to the paucity of data with correspondence across sites, so called \"traveling phantom\" data, which is expensive to collect. Nevertheless, numerous solutions leveraging direct correspondence have been proposed. In contrast to this, Moyer et al. (2019) proposes an unsupervised solution using invariant representations, one which does not require correspondence and thus does not require paired images. By leveraging the data processing inequality, an invariant representation can then be used to create an image reconstruction that is uninformative of its original source, yet still faithful to the underlying structure. In the present abstract we provide an overview of this method.",

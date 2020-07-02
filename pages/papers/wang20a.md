@@ -17,7 +17,7 @@ page_class: "paper-page"
         - <a class="toggle_visibility" data-selector=".paper_qa" data-level="3">Show schedule</a>
         - <a href="https://openreview.net/pdf?id=b2N5ZuEouu">Paper</a>
         - <a href="https://openreview.net/forum?id=b2N5ZuEouu">Reviews</a>
-        {{ teaser('') }}
+        {{ teaser('BeWMzeZIjEI') }}
 
 <span class="paper_abstract">
         Signed distance map (SDM) is a common representation of surfaces in medical image analysis and machine learning. The computational complexity of SDM for 3D parametric shapes is often a bottleneck in many applications, thus limiting their interest. In this paper, we propose a learning-based SDM generation neural network which is demonstrated on a tridimensional cochlea shape model parameterized by 4 shape parameters.      The proposed SDM Neural Network generates a cochlea signed distance map depending on four input parameters and we show that the deep learning approach leads to a 60 fold improvement in the time of computation compared to more classical SDM generation methods. Therefore, the proposed approach achieves a good trade-off between accuracy and efficiency. 
@@ -40,3 +40,4 @@ page_class: "paper-page"
 
 ---
 
+{{ youtube('BeWMzeZIjEI') }}

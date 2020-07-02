@@ -644,7 +644,7 @@ Session Chairs: Kevin Zhou, Clarisa Sánchez
         pdf='https://openreview.net/pdf?id=b2N5ZuEouu',
         id='S033',
         paper='papers/wang20a.html',
-        teaser='',
+        teaser='https://youtu.be/BeWMzeZIjEI',
         abstract='Signed distance map (SDM) is a common representation of surfaces in medical image analysis and machine learning. The computational complexity of SDM for 3D parametric shapes is often a bottleneck in many applications, thus limiting their interest. In this paper, we propose a learning-based SDM generation neural network which is demonstrated on a tridimensional cochlea shape model parameterized by 4 shape parameters.      The proposed SDM Neural Network generates a cochlea signed distance map depending on four input parameters and we show that the deep learning approach leads to a 60 fold improvement in the time of computation compared to more classical SDM generation methods. Therefore, the proposed approach achieves a good trade-off between accuracy and efficiency. ')
 }}
 {{ paper('Deblurring for spiral real-time MRI using convolutional neural networks',
@@ -680,7 +680,7 @@ Session Chairs: Kevin Zhou, Clarisa Sánchez
         pdf='https://openreview.net/pdf?id=3i6X1618wi',
         id='S256',
         paper='papers/kuzina20.html',
-        teaser='',
+        teaser='https://youtu.be/aA8dE8mvoic',
         abstract='Automatic segmentation methods based on deep learning have recently demonstrated state-of-the-art performance, outperforming the ordinary methods. Nevertheless, these methods are inapplicable for small datasets, which are very common in medical problems. To this end, we propose a knowledge transfer method between diseases via the Generative Bayesian Prior network. Our approach is compared to a pre-train approach and random initialization and obtains the best results in terms of Dice Similarity Coefficient metric for the small subsets of the Brain Tumor Segmentation 2018 database (BRATS2018).')
 }}
 [% / %]
@@ -1081,7 +1081,7 @@ Session Chairs: Mattias Heinrich, Carole Sudre
         pdf='https://openreview.net/pdf?id=WVd56kgRV',
         id='S156',
         paper='papers/bengs20.html',
-        teaser='',
+        teaser='https://youtu.be/32BZ5eOHzTk',
         abstract='Forecasting motion of a specific target object is a common problem for surgical interventions, e.g. for localization of a target region, guidance for surgical interventions, or motion compensation. Optical coherence tomography (OCT) is an imaging modality with a high spatial and temporal resolution. Recently, deep learning methods have shown promising performance for OCT-based motion estimation based on two volumetric images. We extend this approach and investigate whether using a time series of volumes enables motion forecasting. We propose 4D spatio-temporal deep learning for end-to-end motion forecasting and estimation using a stream of OCT volumes. We design and evaluate five different 3D and 4D deep learning methods using a tissue data set. Our best performing 4D method  achieves motion forecasting with an overall average correlation coefficient of 97.41%, while also improving motion estimation performance by a factor of 2.5 compared to a previous 3D approach. ')
 }}
 {{ paper('An interpretable automated detection system for FISH-based HER2 oncogene amplification testing in histo-pathological routine images of breast and gastric cancer diagnostics',
@@ -1254,7 +1254,7 @@ Session Chairs: Pierre-Marc Jodoin, April Khademi
         pdf='https://openreview.net/pdf?id=qJxBTPyVYA',
         id='S266',
         paper='papers/zhu20.html',
-        teaser='',
+        teaser='https://youtu.be/ZD1pL8D2oIE',
         abstract='Calcified plaque in the aorta and pelvic arteries is associated with coronary artery calcification and is a strong predictor of heart attack. Current calcified plaque detection models show poor generalizeability to different domains (ie. pre-contrast vs. post-contrast CT scans). Many recent works have shown how cross domain object detection can be improved using an image translation model which translates between domains using a single shared latent space. However, while current image translation models do a good job preserving global/intermediate level structures they often have trouble preserving tiny structures. In medical imaging applications, preserving small structures is important since these structures can carry information which is highly relevant for disease diagnosis. Recent works on image reconstruction show that complex real-world images are better reconstructed using a union of subspaces approach. Since small image patches are used to train the image translation model, it makes sense to enforce that each patch be represented by a linear combination of subspaces which may correspond to the different parts of the body present in that patch. Motivated by this, we propose an image translation network using a shared union of subspaces constraint and show our approach preserves subtle structures (plaques) better than the conventional method. We further applied our method to a cross domain plaque detection task and show significant improvement compared to the state-of-the art method.')
 }}
 {{ paper('Vispi: Automatic Visual Perception and Interpretation of Chest X-rays',
@@ -1272,7 +1272,7 @@ Session Chairs: Pierre-Marc Jodoin, April Khademi
         pdf='https://openreview.net/pdf?id=H-PvDNIex',
         id='S282',
         paper='papers/mehta20.html',
-        teaser='',
+        teaser='https://youtu.be/1jVyfnhw1xM',
         abstract='In this paper, we describe and explore the metric that was designed to assess and rank uncertainty measures for the task of brain tumour sub-tissue segmentation in the BraTS 2019 sub-challenge on uncertainty quantification. The metric is designed to (1) reward uncertainty measures where high confidence is assigned to correct assertions, and where incorrect assertions are assigned low confidence and (2) penalize measures that have higher percentages of under-confident correct assertions.  Here, the workings of the metrics explored based on a number of popular uncertainty measures evaluated on the BraTS2019 dataset')
 }}
 {{ paper('Multiple resolution residual network for automatic thoracic organs-at-risk segmentation from CT',
