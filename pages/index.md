@@ -15,8 +15,9 @@ page_class: "sponsors"
 
 
  {{ youtube('41W66ywZh3E') }}
+ >The link for the Zoom webinar in avaiable in the chat [**plenary session channel**](https://chat.midl.io/channel/plenary-session) announcement.
 
-The [full scientific program is available](scientific-program.html):
+The [full scientific program](scientific-program.html) is available, a shorter version is available: [program at a glance](/dates.html).
 
 
 [Demonstration page for a paper](papers/demo20.html)
