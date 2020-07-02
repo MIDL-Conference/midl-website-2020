@@ -12,8 +12,8 @@ youtube: "channel/UCd87UPUTt-oqTeGi8fQw-_w"
 github: "MIDL-Conference"
 
 
-show_twitter_button: no
-show_twitter_feed: no
+show_twitter_button: yes
+show_twitter_feed: yes
 num_tweets_in_feed: 1
 show_platform_icons: yes
 
@@ -43,24 +43,18 @@ nav:
   - title: "Aims and Scope"
     path: "/aims.html"
     icon: "lightbulb"
-  - title: "Author instructions"
-    path: "/author-instructions.html"
-    icon: "pen-nib"
-  - title: "Recording help"
-    path: "/video-help.html"
-    icon: "video"
-  - title: "Call for papers"
-    path: "/call-for-papers.html"
-    icon: "bullhorn"
-  - title: "Reviewer instructions"
-    path: "/reviewer-instructions.html"
-    icon: "search"
-  # - title: "Venue"
-  #   path: "/venue.html"
-  #   icon: "map-marker-alt"
-  # - title: "Visa & travel"
-  #   path: "/visa.html"
-  #   icon: "plane"
+  # - title: "Author instructions"
+  #   path: "/author-instructions.html"
+  #   icon: "pen-nib"
+  # - title: "Recording help"
+  #   path: "/video-help.html"
+  #   icon: "video"
+  # - title: "Call for papers"
+  #   path: "/call-for-papers.html"
+  #   icon: "bullhorn"
+  # - title: "Reviewer instructions"
+  #   path: "/reviewer-instructions.html"
+  #   icon: "search"
   - title: "Code of conduct"
     path: "/code-of-conduct.html"
     icon: "thumbs-up"
@@ -73,11 +67,8 @@ nav:
   - title: "Sponsorship"
     path: "/sponsorship-packages.html"
     icon: "donate"
-  - title: "Covid-19 FAQ"
-    path: "/covid-19.html"
-    icon: "comment-medical"
-  # - title: "Other events"
-  #   path: "/other-events.html"
-  #   icon: "city"
+  # - title: "Covid-19 FAQ"
+  #   path: "/covid-19.html"
+  #   icon: "comment-medical"
 
 cdn: "https://static.midl.io"
