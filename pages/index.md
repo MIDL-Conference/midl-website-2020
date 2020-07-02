@@ -41,7 +41,7 @@ The [full scientific program is available](scientific-program.html):
 #### Bronze sponsors
 [% .logos %]
 [![Imeka](/sponsors/imeka.png){: height="85"}](https://www.imeka.ca/)
-[![Kitware](/sponsors/kitware.png){: height="60"}](https://www.kitware.com/)
+[![Kitware](/sponsors/kitware.png){: height="50"}](https://www.kitware.com/)
 [% / %]
 
 
