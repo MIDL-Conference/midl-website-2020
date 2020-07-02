@@ -117,7 +117,7 @@ Session Chairs: Bjoern Menze, Qi Dou
         openreview='https://openreview.net/forum?id=O9QVJh8eMX',
         pdf='https://openreview.net/pdf?id=O9QVJh8eMX',
         id='P163',
-        paper='papers/li20.html',
+        paper='papers/li20b.html',
         teaser='https://youtu.be/-ky4pCXzCUE',
         abstract='Retinal imaging serves as a valuable tool for diagnosis of various diseases. However, reading retinal images is a difficult and time-consuming task even for experienced specialists. The fundamental step towards automated retinal image analysis is vessel segmentation and artery/vein classification, which provide various information on potential disorders. To improve the performance of the existing automated methods for retinal image analysis, we propose a two-step vessel classification. We adopt a UNet-based model, SeqNet, to accurately segment vessels from the background and make prediction on the vessel type. Our model does segmentation and classification sequentially, which alleviates the problem of label distribution bias and facilitates training. To further refine classification results, we post-process them considering the structural information among vessels to propagate highly confident prediction to surrounding vessels. Our experiments show that our method improves AUC to 0.98 for segmentation and the accuracy to 0.92 in classification over DRIVE dataset.')
 }}
@@ -183,7 +183,7 @@ Session Chairs: Bjoern Menze, Qi Dou
         openreview='https://openreview.net/forum?id=1IoPbyuPFT',
         pdf='https://openreview.net/pdf?id=1IoPbyuPFT',
         id='S041',
-        paper='papers/nguyen20.html',
+        paper='papers/nguyen20b.html',
         teaser='https://youtu.be/rZuYAKt26fo',
         abstract='We propose a novel method that combines a convolutional neural network (CNN) with a long short-term memory (LSTM) mechanism for accurate prediction of intracranial hemorrhage on computed tomography (CT) scans. The CNN plays the role of a slice-wise feature extractor while the LSTM is responsible for linking the features across slices. The whole architecture is trained end-to-end with input being an RGB-like image formed by stacking 3 different viewing windows of a single slice. We validate the method on the recent RSNA Intracranial Hemorrhage Detection challenge and on the CQ500 dataset. For the RSNA challenge, our best single model achieves a weighted log loss of 0.0529 on the leaderboard, which is comparable to the top 3\\% performances, almost all of which make use of ensemble learning. Importantly, our method generalizes very well: the model trained on the RSNA dataset significantly outperforms the 2D model, which does not take into account the relationship between slices, on CQ500. Our codes and models will be made public.')
 }}
@@ -606,7 +606,7 @@ Session Chairs: Kevin Zhou, Clarisa Sánchez
         openreview='https://openreview.net/forum?id=VtVIlHSc0',
         pdf='https://openreview.net/pdf?id=VtVIlHSc0',
         id='P136',
-        paper='papers/fetit20.html',
+        paper='papers/fetit20b.html',
         teaser='https://youtu.be/CJIAB_ryWGs',
         abstract="We developed an automated system based on deep neural networks for fast and sensitive 3D image segmentation of cortical gray matter from fetal brain MRI. The lack of extensive/publicly available annotations presented a key challenge, as large amounts of labeled data are typically required for training sensitive models with deep learning. To address this, we: (i) generated preliminary tissue labels using the Draw-EM algorithm, which uses Expectation-Maximization and was originally designed for tissue segmentation in the neonatal domain; and (ii) employed a human-in-the-loop approach, whereby an expert fetal imaging annotator assessed and refined the performance of the model. By using a hybrid approach that combined automatically generated labels with manual refinements by an expert, we amplified the utility of ground truth annotations while immensely reducing their cost (283 slices). The deep learning system was developed, refined, and validated on 249 3D T2-weighted scans obtained from the Developing Human Connectome Project\\'s fetal cohort, acquired at 3T. Analysis of the system showed that it is invariant to gestational age at scan, as it generalized well to a wide age range (21 – 38 weeks) despite variations in cortical morphology and intensity  across the fetal distribution. It was also found to be invariant to intensities in regions surrounding the brain (amniotic fluid), which often present a major obstacle to the processing of neuroimaging data in the fetal domain.  ")
 }}
@@ -776,7 +776,7 @@ Session Chairs: Dana Cobzas, Samuel Kadoury
         openreview='https://openreview.net/forum?id=_4_RPMYWN',
         pdf='https://openreview.net/pdf?id=_4_RPMYWN',
         id='P011',
-        paper='papers/nguyen20.html',
+        paper='papers/nguyen20a.html',
         teaser='https://youtu.be/X0hBhXi-laY',
         abstract='Differentiable programming is able to combine different functions or modules in a data processing pipeline with the goal of applying gradient descent-based end-to-end learning or optimization. A significant impediment to differentiable programming is the non-differentiable nature of some functions.  We propose to overcome this difficulty by using neural networks to approximate such modules.  An approximating neural network provides synthetic gradients (SG) for backpropagation across a non-differentiable module.  Our design is grounded on a well-known theory that gradient of an approximating neural network can approximate a sub-gradient of a weakly differentiable function.  We apply SG to combine convolutional neural  network  (CNN)  with  dynamic  programming  (DP)  in  end-to-end  learning  for  segmenting left ventricle from short axis view of heart MRI. Our experiments show that end-to-end combination of CNN and DP requires fewer labeled images to achieve a significantly better segmentation accuracy than using only CNN.')
 }}
@@ -992,7 +992,7 @@ Session Chairs: Mattias Heinrich, Carole Sudre
         openreview='https://openreview.net/forum?id=vXX5bovYvi',
         pdf='https://openreview.net/pdf?id=vXX5bovYvi',
         id='P230',
-        paper='papers/fetit20.html',
+        paper='papers/fetit20a.html',
         teaser='https://youtu.be/5XPIAJMUHz8',
         abstract='Standard practice for using convolutional neural networks (CNNs) in semantic segmentation tasks assumes that the image intensities are directly used for training and inference. In natural images this is performed using RGB pixel intensities, whereas in medical imaging, e.g. magnetic resonance imaging (MRI), gray level pixel intensities are typically used. In this work, we explore the idea of encoding the image data as local binary textural maps prior to the feeding them to CNNs, and show that accurate segmentation models can be developed using such maps alone, without learning any representations from the images themselves. This questions common consensus that CNNs recognize objects from images by learning increasingly complex representations of shape, and suggests a more important role to image texture, in line with recent findings on natural images. We illustrate this for the first time on neuroimaging data of the developing neonatal brain in a tissue segmentation task, by analyzing large, publicly available T2-weighted MRI scans (n=558, range of postmenstrual ages at scan: 24.3 - 42.2 weeks) obtained retrospectively from the Developing Human Connectome Project cohort. Rapid changes in visual characteristics that take place during early brain development make it important to establish a clear understanding of the role of visual texture when training CNN models on neuroimaging data of the neonatal brain; this yet remains a largely understudied but important area of research. From a deep learning perspective, the results suggest that CNNs could simply be capable of learning representations from structured spatial information, and may not necessarily require conventional images as input. ')
 }}
@@ -1028,7 +1028,7 @@ Session Chairs: Mattias Heinrich, Carole Sudre
         openreview='https://openreview.net/forum?id=qhZM390B4',
         pdf='https://openreview.net/pdf?id=qhZM390B4',
         id='P333',
-        paper='papers/li20.html',
+        paper='papers/li20a.html',
         teaser='https://youtu.be/Lk5lHf9fvDw',
         abstract='Fluorescein angiography can provide a map of retinal vascular structure and function, which is commonly used in ophthalmology diagnosis, however, this imaging modality may pose risks of harm to the patients. To help physicians reduce the potential risks of diagnosis, an image translation method is adopted. In this work, we proposed a conditional generative adversarial network (GAN)-based method to directly learn the mapping relationship between structure fundus images and fundus fluorescence angiography (FFA) images. Moreover, local saliency maps, which define each pixel’s importance, are used to define a novel saliency loss in the GAN cost function. This facilitates more accurate learning of small-vessel and fluorescein leakage features. The proposed method was validated on our dataset and the publicly available Isfahan MISP dataset with the metrics of peak signal-to-noise ratio (PSNR) and structural similarity (SSIM). The experimental results indicate that the proposed method can accurately generate both retinal vascular and fluorescein leakage structures, which has great practical significance for clinical diagnosis and analysis.')
 }}
@@ -1269,7 +1269,7 @@ Session Chairs: Pierre-Marc Jodoin, April Khademi
         openreview='https://openreview.net/forum?id=otswIbmgYA',
         pdf='https://openreview.net/pdf?id=otswIbmgYA',
         id='S276',
-        paper='papers/li20.html',
+        paper='papers/li20c.html',
         teaser='https://youtu.be/-un_xVu-hu0',
         abstract='Computer-aided medical image visual perception and interpretation with deep learning remain a challenging task, due to the lack of high-quality annotated image-report pairs and tailor-made generative models for sufficient extraction and exploitation of localized semantic features associated with abnormalities. To tackle these challenges, we present Vispi, an automatic medical image interpretation system, which first annotates an image via classifying and localizing common thoracic diseases with visual support and then followed by report generation from an attentive LSTM model. Analyzing an open IU X-ray dataset, we demonstrate a superior performance of Vispi in disease classification, localization and report generation using automatic performance evaluation metrics ROUGE and CIDEr.')
 }}

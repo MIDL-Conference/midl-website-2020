@@ -65,7 +65,7 @@
         "short": "False",
         "slides": "",
         "title": "End-to-end learning of convolutional neural net and dynamic programming for left ventricle segmentation",
-        "url": "papers/nguyen20.html",
+        "url": "papers/nguyen20a.html",
         "yt_full": "",
         "yt_teaser": "X0hBhXi-laY"
     },
@@ -247,7 +247,7 @@
         "short": "True",
         "slides": "",
         "title": "A CNN-LSTM Architecture for Detection of Intracranial Hemorrhage on CT scans",
-        "url": "papers/nguyen20.html",
+        "url": "papers/nguyen20b.html",
         "yt_full": "",
         "yt_teaser": "rZuYAKt26fo"
     },
@@ -765,7 +765,7 @@
         "short": "False",
         "slides": "",
         "title": "A deep learning approach to segmentation of the developing cortex in fetal brain MRI with minimal manual labeling",
-        "url": "papers/fetit20.html",
+        "url": "papers/fetit20b.html",
         "yt_full": "",
         "yt_teaser": "CJIAB_ryWGs"
     },
@@ -919,7 +919,7 @@
         "short": "False",
         "slides": "",
         "title": "Joint Learning of Vessel Segmentation and Artery/Vein Classification with Post-processing",
-        "url": "papers/li20.html",
+        "url": "papers/li20b.html",
         "yt_full": "",
         "yt_teaser": "-ky4pCXzCUE"
     },
@@ -1129,7 +1129,7 @@
         "short": "False",
         "slides": "",
         "title": "Training deep segmentation networks on texture-encoded input: application to neuroimaging of the developing neonatal brain",
-        "url": "papers/fetit20.html",
+        "url": "papers/fetit20a.html",
         "yt_full": "",
         "yt_teaser": "5XPIAJMUHz8"
     },
@@ -1269,7 +1269,7 @@
         "short": "True",
         "slides": "",
         "title": "Vispi: Automatic Visual Perception and Interpretation of Chest X-rays",
-        "url": "papers/li20.html",
+        "url": "papers/li20c.html",
         "yt_full": "",
         "yt_teaser": "-un_xVu-hu0"
     },
@@ -1451,7 +1451,7 @@
         "short": "False",
         "slides": "",
         "title": "Generating Fundus Fluorescence Angiography Images from Structure Fundus Images Using Generative Adversarial Networks",
-        "url": "papers/li20.html",
+        "url": "papers/li20a.html",
         "yt_full": "",
         "yt_teaser": "Lk5lHf9fvDw"
     },
