@@ -5,22 +5,18 @@ page_class: "sponsors"
 <h1 class="midl">Medical&nbsp;Imaging with Deep&nbsp;Learning</h1>
 <h2 class="midl">Montréal, 6 ‑ 9 July 2020</h2>
 
-{% from "_macros.html" import button %}
 {% from "_macros.html" import youtube %}
 
 
-<!-- <p class="primary-photo centered">
+<!--
+<p class="primary-photo centered">
     <img alt="Montréal at Night" src="/images/montreal-at-night.jpg">
-</p> -->
+</p>
+-->
 
+{{ youtube('41W66ywZh3E') }}
 
- {{ youtube('41W66ywZh3E') }}
-
-The [full scientific program is available](scientific-program.html):
-
-
-[Demonstration page for a paper](papers/demo20.html)
-
+The [full scientific program](scientific-program.html) and a [demonstration page for a paper](papers/demo20.html) are now available!
 
 ---
 
@@ -28,7 +24,7 @@ The [full scientific program is available](scientific-program.html):
 
 [% .logos %]
 [![CIFAR](/sponsors/cifar.png){: width="200"}](https://www.cifar.ca/)
-[![Microsoft](/sponsors/microsoft.png){: width="450"}](https://www.microsoft.com/)
+[![Microsoft](https://2019.midl.io/sponsors/microsoft.png){: width="350"}](https://www.microsoft.com/)
 [% / %]
 
 #### Silver sponsors
@@ -46,4 +42,5 @@ The [full scientific program is available](scientific-program.html):
 
 
 ---
-[Author instructions](/author-instructions.html), [reviewer instructions](/reviewer-instructions.html), [call for paper](/call-for-papers.html) and [recording help](/video-help.html) pages are still available.
+
+Find here still the [author instructions](/author-instructions.html), [reviewer instructions](/reviewer-instructions.html), [call for paper](/call-for-papers.html) and [recording help](/video-help.html).
