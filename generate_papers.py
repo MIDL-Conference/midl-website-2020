@@ -60,6 +60,7 @@ if __name__ == "__main__":
             result = result.replace("PRESENTATION", f"{{{{ youtube('{paper.yt_full}') }}}}")
         else:
             result = result.replace("PRESENTATION", "")
+            print(f"\tPaper {paper.conf_id} with neither slides or presentation.")
 
         oral_text: str
         if paper.oral:
