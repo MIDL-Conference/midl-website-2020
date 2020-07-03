@@ -41,3 +41,4 @@ page_class: "paper"
 
 ---
 
+{{ presentation('iHU9eQV_hiI', '/slides/ding20.pdf', 720, 450) }}

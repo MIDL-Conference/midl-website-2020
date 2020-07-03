@@ -41,3 +41,4 @@ page_class: "paper"
 
 ---
 
+{{ presentation('P1up3fFOh-g', '/slides/wood20.pdf', 720, 450) }}

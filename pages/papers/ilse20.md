@@ -41,3 +41,4 @@ page_class: "paper"
 
 ---
 
+{{ presentation('1GBSjGtr2rE', '/slides/ilse20.pdf', 720, 450) }}
