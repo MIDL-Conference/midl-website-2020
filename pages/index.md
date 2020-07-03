@@ -15,8 +15,6 @@ page_class: "sponsors"
 -->
 
 {{ youtube('41W66ywZh3E') }}
-
- {{ youtube('41W66ywZh3E') }}
  >The link for the Zoom webinar is available in the chat [**plenary session channel**](https://chat.midl.io/channel/plenary-session).
 
 <center>[Complete scientific program](scientific-program.html) -- [Program at a glance](/dates.html).</center>
