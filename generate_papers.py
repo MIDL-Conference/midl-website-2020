@@ -54,10 +54,12 @@ if __name__ == "__main__":
         if not (root_slides / paper.slides[1:]).exists():
             print(f"\tPaper {paper.conf_id} without slides: {paper.url} {(root_slides / paper.slides)}")
 
-        if paper.yt_full and (root_slides / paper.slides[1:]).exists():
-            result = result.replace("PRESENTATION", f"{{{{ presentation('{paper.yt_full}', '{paper.slides}', 720, 450) }}}}")
-        elif paper.yt_full:
-            result = result.replace("PRESENTATION", f"{{{{ youtube('{paper.yt_full}') }}}}")
+        yt_link = paper.yt_teaser if paper.short else paper.yt_full
+
+        if yt_link and (root_slides / paper.slides[1:]).exists():
+            result = result.replace("PRESENTATION", f"{{{{ presentation('{yt_link}', '{paper.slides}', 720, 450) }}}}")
+        elif yt_link:
+            result = result.replace("PRESENTATION", f"{{{{ youtube('{yt_link}') }}}}")
         else:
             result = result.replace("PRESENTATION", "")
             print(f"\tPaper {paper.conf_id} with neither slides or presentation.")
