@@ -26,7 +26,7 @@ page_class: "paper"
 
 <p>
     <span class="schedule">
-        Poster Session #1 *9:30 - 11:00 UTC-4 (Monday)*
+        Poster Session #1  - 9:30 - 11:00 UTC-4 (Monday)
         <br>
         <span class="actions"><a class="toggle_visibility" data-level="2">Hide schedule</a></span>
     </span>

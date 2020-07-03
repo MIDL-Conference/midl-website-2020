@@ -26,7 +26,7 @@ page_class: "paper"
 
 <p>
     <span class="schedule">
-        Oral Session #2 - Limited Data *12:30 - 13:30 UTC-4 (Monday)*<br>Poster Session #2 *13:30 - 15:00 UTC-4 (Monday)*
+        Oral Session #2 - Limited Data  - 12:30 - 13:30 UTC-4 (Monday)<br>Poster Session #2  - 13:30 - 15:00 UTC-4 (Monday)
         <br>
         <span class="actions"><a class="toggle_visibility" data-level="2">Hide schedule</a></span>
     </span>

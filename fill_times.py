@@ -31,12 +31,14 @@ if __name__ == "__main__":
         print()
         print(b[1])
 
+        formated_time: str = " - ".join(b[1].split('*')[:2])
+
         id_matches: List[Match] = list(id_re.finditer(b[0]))
         ids: List[int] = [int(e[1]) for e in id_matches]
         print(ids)
 
         for id_ in ids:
-            papers[id_].schedule.append(b[1])
+            papers[id_].schedule.append(formated_time)
 
     print(papers[1].schedule)
     with open(dest, 'w') as sink:

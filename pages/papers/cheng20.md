@@ -26,7 +26,7 @@ page_class: "paper"
 
 <p>
     <span class="schedule">
-        Oral #4 - Imaging *13:30 - 14:30 UTC-4 (Tuesday)*<br>Poster Session #4 *14:30 - 16:00 UTC-4 (Tuesday)*
+        Oral #4 - Imaging  - 13:30 - 14:30 UTC-4 (Tuesday)<br>Poster Session #4  - 14:30 - 16:00 UTC-4 (Tuesday)
         <br>
         <span class="actions"><a class="toggle_visibility" data-level="2">Hide schedule</a></span>
     </span>

@@ -26,7 +26,7 @@ page_class: "paper"
 
 <p>
     <span class="schedule">
-        Oral Session #3 - Networks for Histology *8:30 - 9:30 UTC-4 (Tuesday)*<br>Poster Session #3 *9:30 - 11:00 UTC-4 (Tuesday)*
+        Oral Session #3 - Networks for Histology  - 8:30 - 9:30 UTC-4 (Tuesday)<br>Poster Session #3  - 9:30 - 11:00 UTC-4 (Tuesday)
         <br>
         <span class="actions"><a class="toggle_visibility" data-level="2">Hide schedule</a></span>
     </span>

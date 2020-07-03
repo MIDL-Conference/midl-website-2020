@@ -26,7 +26,7 @@ page_class: "paper"
 
 <p>
     <span class="schedule">
-        Oral Session #5 - Image Generation *8:30 - 9:30 UTC-4 (Wednesday)*<br>Poster Session #5 *9:30 - 11:00 UTC-4 (Wednesday)*
+        Oral Session #5 - Image Generation  - 8:30 - 9:30 UTC-4 (Wednesday)<br>Poster Session #5  - 9:30 - 11:00 UTC-4 (Wednesday)
         <br>
         <span class="actions"><a class="toggle_visibility" data-level="2">Hide schedule</a></span>
     </span>
