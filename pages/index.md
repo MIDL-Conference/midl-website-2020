@@ -26,7 +26,7 @@ The [full scientific program](scientific-program.html) and a [demonstration page
 
 [% .logos %]
 [![CIFAR](/sponsors/cifar.png){: width="200"}](https://www.cifar.ca/)
-[![Microsoft](https://2019.midl.io/sponsors/microsoft.png){: width="350"}](https://www.microsoft.com/)
+[![Microsoft](/sponsors/microsoft.png){: width="350"}](https://www.microsoft.com/)
 [% / %]
 
 #### Silver sponsors
