@@ -18,10 +18,16 @@ if __name__ == "__main__":
     with open(papers_path, 'r') as pf:
         raw_papers = json.load(pf)
 
-    papers: Dict[int, Paper] = {int(k): Paper(**v) for (k, v) in raw_papers.items()}
+    papers: Dict[int, Paper] = {int(k): Paper(ignore_schedule=True,**v) for (k, v) in raw_papers.items()}
 
     for paper in papers.values():
+        if paper.short:
+            continue
         first_author: str = paper.authors[0].split(' ')[-1]
+        det: str = "Oral presentation" if paper.oral else "Splotlight presentation"
         print("\n>>>")
-        print(f"MIDL 2020, {paper.conf_id}, {first_author} et al. Teaser")
+        print(f"MIDL 2020, {paper.conf_id}, {first_author} et al. {det}")
         print(f"{paper.conf_id} - {paper.title}\n\n{', '.join(paper.authors)}")
+        print(f"\nConference page: https://2020.midl.io/{paper.url}")
+        print(f"PDF: https://openreview.net/pdf?id={paper.or_id}")
+        print(f"\nAbstract: {paper.sanitized_abstract}")
