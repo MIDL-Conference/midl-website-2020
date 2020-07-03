@@ -51,6 +51,3 @@ It can conveniently be subscribed to and integrated in many calendar application
 * [Google Calendar](https://support.google.com/calendar/answer/37100?hl=en&co=GENIE.Platform=Desktop)
 * [Thunderbird](https://support.mozilla.org/en-US/kb/creating-new-calendars#w_icalendar-ics)
 * [Calendar](https://support.apple.com/guide/calendar/subscribe-to-calendars-icl1022/mac)
-
-## Full and short papers
-Full and short papers have the same deadline, but the short papers won't go through a rebuttal/discussion period. All other dates are common.
