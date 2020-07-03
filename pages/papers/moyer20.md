@@ -1,38 +1,39 @@
 ---
 title: "Overview of Scanner Invariant Representations"
-page_class: "paper-page"
+page_class: "paper"
 ---
 
-{% from "_macros.html" import presentation %}
-{% from "_macros.html" import button %}
-{% from "_macros.html" import teaser %}
-{% from "_macros.html" import youtube %}
+{% from "_macros.html" import presentation, button, teaser, youtube %}
 
 # S288 - Overview of Scanner Invariant Representations
 
-
 ### Daniel Moyer, Greg ver Steeg, Paul M. Thompson
 
-<center><a class="toggle_visibility" data-selector=".paper_abstract" data-level="3">Show abstract</a>
-        - <a class="toggle_visibility" data-selector=".paper_qa" data-level="3">Show schedule</a>
-        - <a href="https://openreview.net/pdf?id=yqm9RD_XHT">Paper</a>
-        - <a href="https://openreview.net/forum?id=yqm9RD_XHT">Reviews</a>
-        {{ teaser('MXFx0TUC1Qk') }}
+[% .details %]
+<a class="toggle_visibility" data-selector=".abstract" data-level="3">Show abstract</a>
+- <a class="toggle_visibility" data-selector=".schedule" data-level="3">Show schedule</a>
+- <a href="https://openreview.net/pdf?id=yqm9RD_XHT">Paper</a>
+- <a href="https://openreview.net/forum?id=yqm9RD_XHT">Reviews</a>
+{{ teaser('MXFx0TUC1Qk') }}
 
-<span class="paper_abstract">
+<p>
+    <span class="abstract">
         Pooled imaging data from multiple sources is subject to bias from each source. Studies that do not correct for these scanner/site biases at best lose statistical power, and at worst leave spurious correlations in their data. Estimation of the bias effects is non-trivial due to the paucity of data with correspondence across sites, so called \"traveling phantom\" data, which is expensive to collect. Nevertheless, numerous solutions leveraging direct correspondence have been proposed. In contrast to this, Moyer et al. (2019) proposes an unsupervised solution using invariant representations, one which does not require correspondence and thus does not require paired images. By leveraging the data processing inequality, an invariant representation can then be used to create an image reconstruction that is uninformative of its original source, yet still faithful to the underlying structure. In the present abstract we provide an overview of this method.
-        <span class="actions">
-  <br/>
-  <a class="toggle_visibility" data-level="2">Hide abstract</a></span>
-</span>
+        <br>
+        <span class="actions"><a class="toggle_visibility" data-level="2">Hide abstract</a></span>
+    </span>
+</p>
 
-<span class="paper_qa">
-        TUE 14:30-16:00 UTC-4 - Poster Session #4
-        <br/>
+<p>
+    <span class="schedule">
+        Poster Session #4 *14:30 - 16:00 UTC-4 (Tuesday)*
+        <br>
         <span class="actions"><a class="toggle_visibility" data-level="2">Hide schedule</a></span>
-</span>
+    </span>
+</p>
 
 <!-- {{ button("Access paper channel", "https://chat.midl.io/channel/s288") }} -->
+[% / %]
 
 ---
 
