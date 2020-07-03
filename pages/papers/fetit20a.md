@@ -1,38 +1,39 @@
 ---
 title: "Training deep segmentation networks on texture-encoded input: application to neuroimaging of the developing neonatal brain"
-page_class: "paper-page"
+page_class: "paper"
 ---
 
-{% from "_macros.html" import presentation %}
-{% from "_macros.html" import button %}
-{% from "_macros.html" import teaser %}
-{% from "_macros.html" import youtube %}
+{% from "_macros.html" import presentation, button, teaser, youtube %}
 
 # P230 - Training deep segmentation networks on texture-encoded input: application to neuroimaging of the developing neonatal brain
 
-
 ### Ahmed E. Fetit, John Cupitt, Turkay Kart, Daniel Rueckert
 
-<center><a class="toggle_visibility" data-selector=".paper_abstract" data-level="3">Show abstract</a>
-        - <a class="toggle_visibility" data-selector=".paper_qa" data-level="3">Show schedule</a>
-        - <a href="https://openreview.net/pdf?id=vXX5bovYvi">Paper</a>
-        - <a href="https://openreview.net/forum?id=vXX5bovYvi">Reviews</a>
-        {{ teaser('5XPIAJMUHz8') }}
+[% .details %]
+<a class="toggle_visibility" data-selector=".abstract" data-level="3">Show abstract</a>
+- <a class="toggle_visibility" data-selector=".schedule" data-level="3">Show schedule</a>
+- <a href="https://openreview.net/pdf?id=vXX5bovYvi">Paper</a>
+- <a href="https://openreview.net/forum?id=vXX5bovYvi">Reviews</a>
+{{ teaser('5XPIAJMUHz8') }}
 
-<span class="paper_abstract">
+<p>
+    <span class="abstract">
         Standard practice for using convolutional neural networks (CNNs) in semantic segmentation tasks assumes that the image intensities are directly used for training and inference. In natural images this is performed using RGB pixel intensities, whereas in medical imaging, e.g. magnetic resonance imaging (MRI), gray level pixel intensities are typically used. In this work, we explore the idea of encoding the image data as local binary textural maps prior to the feeding them to CNNs, and show that accurate segmentation models can be developed using such maps alone, without learning any representations from the images themselves. This questions common consensus that CNNs recognize objects from images by learning increasingly complex representations of shape, and suggests a more important role to image texture, in line with recent findings on natural images. We illustrate this for the first time on neuroimaging data of the developing neonatal brain in a tissue segmentation task, by analyzing large, publicly available T2-weighted MRI scans (n=558, range of postmenstrual ages at scan: 24.3 - 42.2 weeks) obtained retrospectively from the Developing Human Connectome Project cohort. Rapid changes in visual characteristics that take place during early brain development make it important to establish a clear understanding of the role of visual texture when training CNN models on neuroimaging data of the neonatal brain; this yet remains a largely understudied but important area of research. From a deep learning perspective, the results suggest that CNNs could simply be capable of learning representations from structured spatial information, and may not necessarily require conventional images as input. 
-        <span class="actions">
-  <br/>
-  <a class="toggle_visibility" data-level="2">Hide abstract</a></span>
-</span>
+        <br>
+        <span class="actions"><a class="toggle_visibility" data-level="2">Hide abstract</a></span>
+    </span>
+</p>
 
-<span class="paper_qa">
-        WED 9:30-11:00 UTC-4 - Poster Session #5
-        <br/>
+<p>
+    <span class="schedule">
+        Poster Session #5  - 9:30 - 11:00 UTC-4 (Wednesday)
+        <br>
         <span class="actions"><a class="toggle_visibility" data-level="2">Hide schedule</a></span>
-</span>
+    </span>
+</p>
 
-{{ button("Access paper channel", "https://chat.midl.io/channel/p230") }}
+<!-- {{ button("Access paper channel", "https://chat.midl.io/channel/p230") }} -->
+[% / %]
 
 ---
 

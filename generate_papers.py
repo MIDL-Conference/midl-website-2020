@@ -41,7 +41,7 @@ if __name__ == "__main__":
         result = result.replace("AUTHORS", ", ".join(paper.authors))
         result = result.replace("ORID", paper.or_id)
         result = result.replace("ABSTRACT", paper.sanitized_abstract)
-        result = result.replace("SCHEDULE", "<br/>".join(paper.schedule))
+        result = result.replace("SCHEDULE", "<br>".join(paper.schedule))
         result = result.replace("TEASER", paper.yt_teaser)
 
         if paper.yt_teaser:

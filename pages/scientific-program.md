@@ -1,22 +1,23 @@
 ---
-title: "MIDL 2020 Tentative Program - Long"
+title: "Scientific program"
+page_class: "program"
 ---
 
 {% from "_macros.html" import paper %}
 
-# MIDL 2020 Program - Long
+# Scientific program
 
-The conference main schedule will run in Montreal time (ET), [UTC-4](https://www.timeanddate.com/time/map/).
+The conference main schedule will run in Montréal time ([ET = UTC-4](https://www.timeanddate.com/time/map/)).
 
-A short program overview in the [program at a glance](/dates.html), and you can subscribe to our [online calendar](/midl.ics).
+Find a short program overview in the [program at a glance](/dates.html), and subscribe to our [online calendar](/midl.ics).
 
+---
 
-## Monday July 6 - 8:00-15:00
+## Monday July 6, 8:00 - 15:00
 
+### Openings + Prizes *8:00 - 8:30 UTC-4 (Monday)*
 
-### MON 8:00-8:30 UTC-4 - Openings + Prizes
-
-### MON 8:30-9:30 UTC-4 - Oral Session #1 - Uncertainty
+### Oral Session #1 - Uncertainty *8:30 - 9:30 UTC-4 (Monday)*
 
 Session Chairs: Bjoern Menze, Qi Dou
 
@@ -53,9 +54,7 @@ Session Chairs: Bjoern Menze, Qi Dou
 }}
 [% / %]
 
----
-
-### MON 9:30-11:00 UTC-4 - Poster Session #1
+### Poster Session #1 *9:30 - 11:00 UTC-4 (Monday)*
 
 [% .papers %]
 {{ paper('Uncertainty-Aware Training of Neural Networks for Selective Medical Image Segmentation',
@@ -276,18 +275,13 @@ Session Chairs: Bjoern Menze, Qi Dou
 }}
 [% / %]
 
----
-
-### MON 11:00-12:00 UTC-4 - Keynote #1 - Alan Evans
+### Keynote #1 - Alan Evans *11:00 - 12:00 UTC-4 (Monday)*
 
 Session Chairs: Maxime Descoteaux, Joseph Paul Cohen
 
+### Break *12:00 - 12:30 UTC-4 (Monday)*
 
-### MON 12:00-12:30 UTC-4 - Break
-
----
-
-### MON 12:30-13:30 UTC-4 - Oral Session #2 - Limited Data
+### Oral Session #2 - Limited Data *12:30 - 13:30 UTC-4 (Monday)*
 
 Session Chairs: J. Eugenio Iglesias, Caroline Petitjean
 
@@ -324,9 +318,7 @@ Session Chairs: J. Eugenio Iglesias, Caroline Petitjean
 }}
 [% / %]
 
----
-
-### MON 13:30-15:00 UTC-4 - Poster Session #2
+### Poster Session #2 *13:30 - 15:00 UTC-4 (Monday)*
 
 [% .papers %]
 {{ paper('Bounding boxes for weakly supervised segmentation: Global constraints get close to full supervision',
@@ -477,13 +469,11 @@ Session Chairs: J. Eugenio Iglesias, Caroline Petitjean
 }}
 [% / %]
 
-
 ---
 
-## Tuesday July 7 - 8:30-16:00
+## Tuesday July 7 &ndash; 8:30-16:00
 
-
-### TUE 8:30-9:30 UTC-4 - Oral Session #3 - Networks for Histology
+### Oral Session #3 - Networks for Histology *8:30 - 9:30 UTC-4 (Tuesday)*
 
 Session Chairs: Kevin Zhou, Clarisa Sánchez
 
@@ -520,9 +510,7 @@ Session Chairs: Kevin Zhou, Clarisa Sánchez
 }}
 [% / %]
 
----
-
-### TUE 9:30-11:00 UTC-4 - Poster Session #3
+### Poster Session #3 *9:30 - 11:00 UTC-4 (Tuesday)*
 
 [% .papers %]
 {{ paper('Tensor Networks for Medical Image Classification',
@@ -753,22 +741,17 @@ Session Chairs: Kevin Zhou, Clarisa Sánchez
 }}
 [% / %]
 
----
-
-### TUE 11:00-12:00 UTC-4 - Keynote #2 - Nikos Paragios
+### Keynote #2 - Nikos Paragios *11:00 - 12:00 UTC-4 (Tuesday)*
 
 Session Chairs: Tal Arbel, Ismail Ben Ayed
 
-### TUE 12:00-12:30 UTC-4 - Break
+### Break *12:00 - 12:30 UTC-4 (Tuesday)*
 
-
-### TUE 12:30-13:30 UTC-4 - Keynote #3 - Daphne Koller
+### Keynote #3 - Daphne Koller *12:30 - 13:30 UTC-4 (Tuesday)*
 
 Session Chairs: Christopher Pal, Joseph Paul Cohen
 
----
-
-### TUE 13:30-14:30 UTC-4 - Oral #4 - Imaging
+### Oral #4 - Imaging *13:30 - 14:30 UTC-4 (Tuesday)*
 
 Session Chairs: Dana Cobzas, Samuel Kadoury
 
@@ -805,9 +788,7 @@ Session Chairs: Dana Cobzas, Samuel Kadoury
 }}
 [% / %]
 
----
-
-### TUE 14:30-16:00 UTC-4 - Poster Session #4
+### Poster Session #4 *14:30 - 16:00 UTC-4 (Tuesday)*
 
 [% .papers %]
 {{ paper('Bayesian Learning of Probabilistic Dipole Inversion for Quantitative Susceptibility Mapping',
@@ -968,12 +949,11 @@ Session Chairs: Dana Cobzas, Samuel Kadoury
 }}
 [% / %]
 
-
 ---
 
-## Wednesday July 8 - 8:30-15:00
+## Wednesday July 8 &ndash; 8:30-15:00
 
-### WED 8:30-9:30 UTC-4 - Oral Session #5 - Image Generation
+### Oral Session #5 - Image Generation *8:30 - 9:30 UTC-4 (Wednesday)*
 
 Session Chairs: Mattias Heinrich, Carole Sudre
 
@@ -1010,11 +990,7 @@ Session Chairs: Mattias Heinrich, Carole Sudre
 }}
 [% / %]
 
-
----
-
-
-### WED 9:30-11:00 UTC-4 - Poster Session #5
+### Poster Session #5 *9:30 - 11:00 UTC-4 (Wednesday)*
 
 [% .papers %]
 {{ paper('Towards multi-sequence MR image recovery from undersampled k-space data',
@@ -1235,18 +1211,13 @@ Session Chairs: Mattias Heinrich, Carole Sudre
 }}
 [% / %]
 
----
-
-### WED 11:00-12:00 UTC-4 - Keynote #4 - Elsa Angelini
+### Keynote #4 - Elsa Angelini *11:00 - 12:00 UTC-4 (Wednesday)*
 
 Session Chairs: Marleen de Bruijne, Hervé Lombaert
 
+### Break *12:00 - 12:30 UTC-4 (Wednesday)*
 
-### WED 12:00-12:30 UTC-4 - Break
-
----
-
-### WED 12:30-13:30 UTC-4 - Oral Session #6 - Attention
+### Oral Session #6 - Attention *12:30 - 13:30 UTC-4 (Wednesday)*
 
 Session Chairs: Pierre-Marc Jodoin, April Khademi
 
@@ -1283,9 +1254,7 @@ Session Chairs: Pierre-Marc Jodoin, April Khademi
 }}
 [% / %]
 
----
-
-### WED 13:30-15:00 UTC-4 - Poster Session #6
+### Poster Session #6 *13:30 - 15:00 UTC-4 (Wednesday)*
 
 [% .papers %]
 {{ paper('Automatic Diagnosis of Pulmonary Embolism Using an Attention-guided Framework: A Large-scale Study',
@@ -1426,18 +1395,20 @@ Session Chairs: Pierre-Marc Jodoin, April Khademi
 }}
 [% / %]
 
----
-
-### WED 15:00-15:30 UTC-4 - Closings
-
+### Closings *15:00 - 15:30 UTC-4 (Wednesday)*
 
 ---
 
-## Thursday July 9 - 9:00-17:00 UTC-4 - [Challenges](/challenges.html)
+## Thursday July 9 &ndash; 9:00-17:00 &ndash; [Challenges](/challenges.html)
 
-* 14:00-17:00 UTC-4 - [MC-MRRec](https://sites.google.com/view/calgary-campinas-dataset/home/mr-reconstruction-challenge):
- Multi-channel MR Image Reconstruction Challenge
-* 9:00-13:00 UTC-4 - [SARAS](https://saras-esad.grand-challenge.org):
- SARAS endoscopic vision challenge for surgeon action detection
-* 9:00-13:00 UTC-4 - [object-CXR](https://jfhealthcare.github.io/object-CXR/):
- Automatic detection of foreign objects on chest X-rays
+### [SARAS](https://saras-esad.grand-challenge.org) *9:00 - 13:00 UTC-4 (Thursday)*
+
+SARAS endoscopic vision challenge for surgeon action detection
+
+### [object-CXR](https://jfhealthcare.github.io/object-CXR/) *9:00 - 13:00 UTC-4 (Thursday)*
+
+Automatic detection of foreign objects on chest X-rays
+
+### [MC-MRRec](https://sites.google.com/view/calgary-campinas-dataset/home/mr-reconstruction-challenge) *14:00 - 17:00 UTC-4 (Thursday)*
+
+Multi-channel MR Image Reconstruction Challenge

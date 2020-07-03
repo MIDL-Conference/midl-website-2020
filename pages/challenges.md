@@ -8,7 +8,7 @@ page_class: "events"
 
 # Official MIDL 2020 challenges
 
-For the first time, MIDL invites the community to propose challenges involving **both medical imaging and machine learning** topics.
+For the first time, MIDL invites the community to propose challenges involving both medical imaging and machine learning topics.
 
 **Challenges will be held on July 9 2020.**
 
