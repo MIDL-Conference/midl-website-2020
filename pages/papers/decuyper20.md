@@ -40,4 +40,4 @@ page_class: "paper-page"
 
 ---
 
-{{ youtube('HmU_h8GaUQM') }}
+{{ presentation('HmU_h8GaUQM', '/slides/decuyper20.pdf', 720, 450) }}

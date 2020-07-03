@@ -40,4 +40,4 @@ page_class: "paper-page"
 
 ---
 
-{{ youtube('xCFpZI50cTg') }}
+{{ presentation('xCFpZI50cTg', '/slides/zielinski20.pdf', 720, 450) }}

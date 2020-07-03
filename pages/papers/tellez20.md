@@ -40,4 +40,4 @@ page_class: "paper-page"
 
 ---
 
-{{ youtube('GhW1qVGVit8') }}
+{{ presentation('w48yYvYixCk', '/slides/tellez20.pdf', 720, 450) }}

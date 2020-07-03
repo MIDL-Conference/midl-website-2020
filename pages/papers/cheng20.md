@@ -17,7 +17,7 @@ page_class: "paper-page"
         - <a class="toggle_visibility" data-selector=".paper_qa" data-level="3">Show schedule</a>
         - <a href="https://openreview.net/pdf?id=7NF2rZwE-z">Paper</a>
         - <a href="https://openreview.net/forum?id=7NF2rZwE-z">Reviews</a>
-        {{ teaser('') }}
+        {{ teaser('7ccE6SXy9t8') }}
 
 <span class="paper_abstract">
         Deep learning models have been shown to have success in reconstructing accelerated MRI, over traditional methods. However, it has been observed that these methods tend to miss the small features that are rare, such as meniscal tears, subchondral osteophyte, etc. This is a concerning finding as these small and rare features are the most relevant in clinical diagnostic settings. In this work, we propose a framework to find the worst-case false negatives by adversarially attacking the trained models and improve the models\' ability to reconstruct the small features by robust training.
@@ -40,3 +40,4 @@ page_class: "paper-page"
 
 ---
 
+{{ presentation('7ccE6SXy9t8', '/slides/cheng20.pdf', 720, 450) }}

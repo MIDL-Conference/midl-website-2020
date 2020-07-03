@@ -40,4 +40,4 @@ page_class: "paper-page"
 
 ---
 
-{{ youtube('ewKD9UqwUDk') }}
+{{ presentation('Bfp3cILSKZg', '/slides/billot20.pdf', 720, 450) }}

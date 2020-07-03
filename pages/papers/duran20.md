@@ -40,4 +40,4 @@ page_class: "paper-page"
 
 ---
 
-{{ youtube('Jrj2SAtkPLY') }}
+{{ presentation('Au8FCQBka9o', '/slides/duran20.pdf', 720, 450) }}

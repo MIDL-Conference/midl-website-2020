@@ -40,4 +40,4 @@ page_class: "paper-page"
 
 ---
 
-{{ youtube('1jVyfnhw1xM') }}
+{{ presentation('1jVyfnhw1xM', '/slides/mehta20.pdf', 720, 450) }}

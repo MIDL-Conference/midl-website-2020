@@ -40,4 +40,4 @@ page_class: "paper-page"
 
 ---
 
-{{ youtube('gKkd8WLYqYQ') }}
+{{ presentation('x8RcvZAnxi4', '/slides/jonnalagedda20.pdf', 720, 450) }}

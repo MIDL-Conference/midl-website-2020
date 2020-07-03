@@ -40,4 +40,4 @@ page_class: "paper-page"
 
 ---
 
-{{ youtube('pZe6N4pro4E') }}
+{{ presentation('V_b3zZn_W9k', '/slides/haq20.pdf', 720, 450) }}

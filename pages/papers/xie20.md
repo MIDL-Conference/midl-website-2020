@@ -17,7 +17,7 @@ page_class: "paper-page"
         - <a class="toggle_visibility" data-selector=".paper_qa" data-level="3">Show schedule</a>
         - <a href="https://openreview.net/pdf?id=aqOfnZx4-N">Paper</a>
         - <a href="https://openreview.net/forum?id=aqOfnZx4-N">Reviews</a>
-        {{ teaser('') }}
+        {{ teaser('Iees9O3TiCo') }}
 
 <span class="paper_abstract">
         An emerging technology in cancer care and research is the use of histopathology whole slide images (WSI). Leveraging computation methods to aid in WSI assessment poses unique challenges. WSIs, being extremely high resolution giga-pixel images, cannot be directly processed by convolutional neural networks (CNN) due to huge computational cost. For this reason, state-of-the-art methods for WSI analysis adopt a two-stage approach where the training of a tile encoder is decoupled from the tile aggregation. This results in a trade-off between learning diverse and discriminative features. In contrast, we propose end-to-end part learning (EPL) which is able to learn diverse features while ensuring that learned features are discriminative. Each WSI is modeled as consisting of $k$ groups of tiles with similar features, defined as parts. A loss with respect to the slide label is backpropagated through an integrated CNN model to $k$ input tiles that are used to represent each part. Our experiments show that EPL is capable of clinical grade prediction of prostate and basal cell carcinoma. Further, we show that diverse discriminative features produced by EPL succeeds in multi-label classification of lung cancer architectural subtypes. Beyond classification, our method provides rich information of slides for high quality clinical decision support.
@@ -40,3 +40,4 @@ page_class: "paper-page"
 
 ---
 
+{{ presentation('Iees9O3TiCo', '/slides/xie20.pdf', 720, 450) }}

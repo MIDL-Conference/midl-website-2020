@@ -40,4 +40,4 @@ page_class: "paper-page"
 
 ---
 
-{{ youtube('LZBFwkAB7f8') }}
+{{ presentation('TOPu7AWZSG8', '/slides/cohen20.pdf', 720, 450) }}

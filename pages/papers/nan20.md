@@ -40,4 +40,4 @@ page_class: "paper-page"
 
 ---
 
-{{ youtube('RkWDByLlF5M') }}
+{{ presentation('ryxGwCywVLY', '/slides/nan20.pdf', 720, 450) }}

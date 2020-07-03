@@ -40,4 +40,4 @@ page_class: "paper-page"
 
 ---
 
-{{ youtube('_rzsMOcyV3o') }}
+{{ presentation('HQ1ioGUwhcE', '/slides/ramanarayanan20.pdf', 720, 450) }}

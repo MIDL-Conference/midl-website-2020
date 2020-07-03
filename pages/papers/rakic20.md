@@ -40,4 +40,4 @@ page_class: "paper-page"
 
 ---
 
-{{ youtube('TPe9p-_sXIE') }}
+{{ presentation('TPe9p-_sXIE', '/slides/rakic20.pdf', 720, 450) }}

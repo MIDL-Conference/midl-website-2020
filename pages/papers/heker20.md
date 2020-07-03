@@ -40,4 +40,4 @@ page_class: "paper-page"
 
 ---
 
-{{ youtube('AFLwTiY2xKU') }}
+{{ presentation('AFLwTiY2xKU', '/slides/heker20.pdf', 720, 450) }}

@@ -40,4 +40,4 @@ page_class: "paper-page"
 
 ---
 
-{{ youtube('-ky4pCXzCUE') }}
+{{ presentation('u7j-buiDzZE', '/slides/li20b.pdf', 720, 450) }}

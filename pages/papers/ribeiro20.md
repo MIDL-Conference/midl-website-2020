@@ -40,4 +40,4 @@ page_class: "paper-page"
 
 ---
 
-{{ youtube('kwHoPnCDvTk') }}
+{{ presentation('kwHoPnCDvTk', '/slides/ribeiro20.pdf', 720, 450) }}

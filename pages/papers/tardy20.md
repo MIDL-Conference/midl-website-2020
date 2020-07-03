@@ -40,4 +40,4 @@ page_class: "paper-page"
 
 ---
 
-{{ youtube('w8W_NtJ2Rjg') }}
+{{ presentation('w8W_NtJ2Rjg', '/slides/tardy20.pdf', 720, 450) }}

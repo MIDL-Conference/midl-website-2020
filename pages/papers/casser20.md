@@ -40,4 +40,4 @@ page_class: "paper-page"
 
 ---
 
-{{ youtube('QKUjkkbjMxg') }}
+{{ presentation('SeD-KExqsgE', '/slides/casser20.pdf', 720, 450) }}

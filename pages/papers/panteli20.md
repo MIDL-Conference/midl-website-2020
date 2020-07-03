@@ -40,4 +40,4 @@ page_class: "paper-page"
 
 ---
 
-{{ youtube('48HXH_WYi6k') }}
+{{ presentation('AnEDZ76eOmY', '/slides/panteli20.pdf', 720, 450) }}

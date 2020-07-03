@@ -40,4 +40,4 @@ page_class: "paper-page"
 
 ---
 
-{{ youtube('IfeHzhAK1yM') }}
+{{ presentation('IfeHzhAK1yM', '/slides/lassen-schmidt20.pdf', 720, 450) }}

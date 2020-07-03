@@ -40,4 +40,4 @@ page_class: "paper-page"
 
 ---
 
-{{ youtube('N8r5sl3ujWU') }}
+{{ presentation('dDBs9lk9VVU', '/slides/beljaards20.pdf', 720, 450) }}

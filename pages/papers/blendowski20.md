@@ -40,4 +40,4 @@ page_class: "paper-page"
 
 ---
 
-{{ youtube('a0266OkLfhw') }}
+{{ presentation('a0266OkLfhw', '/slides/blendowski20.pdf', 720, 450) }}

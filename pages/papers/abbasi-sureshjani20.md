@@ -40,4 +40,4 @@ page_class: "paper-page"
 
 ---
 
-{{ youtube('w5fCCvv-94w') }}
+{{ presentation('wDV-TyYdAu8', '/slides/abbasi-sureshjani20.pdf', 720, 450) }}

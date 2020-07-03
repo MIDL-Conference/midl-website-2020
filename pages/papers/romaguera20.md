@@ -40,4 +40,4 @@ page_class: "paper-page"
 
 ---
 
-{{ youtube('zjI5M5zf8do') }}
+{{ presentation('zjI5M5zf8do', '/slides/romaguera20.pdf', 720, 450) }}

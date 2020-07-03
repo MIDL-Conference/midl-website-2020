@@ -25,16 +25,29 @@ if __name__ == "__main__":
 
     videos: List[Path] = list(videos_path.glob("*MIDL 2020*Teaser*"))
     video_names: List[str] = [v.name for v in videos]
-    # print(video_names)
+    print(video_names)
 
     for video in video_names:
         conf_id: str = video.split(", ")[1]
         yt_id: str = video.split(' - ')[1]
         int_id: int = int(conf_id[1:])
 
-        print(conf_id, int_id, yt_id)
+        # print(conf_id, int_id, yt_id)
 
         papers[int_id].yt_teaser = yt_id
+
+    videos_full: List[Path] = list(videos_path.glob("*MIDL 2020*presentation*"))
+    video_full_names: List[str] = [v.name for v in videos_full]
+    print(video_full_names)
+
+    for video in video_full_names:
+        conf_id = video.split(", ")[1]
+        yt_id = video.split(' - ')[1]
+        int_id = int(conf_id[1:])
+
+        print(conf_id, int_id, yt_id)
+
+        papers[int_id].yt_full = yt_id
 
     with open(papers_path, 'w') as sink:
         json.dump({p.id: p for p in papers.values()}, sink, cls=PaperEncoder, indent=4, sort_keys=True)

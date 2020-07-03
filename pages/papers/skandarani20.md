@@ -40,4 +40,4 @@ page_class: "paper-page"
 
 ---
 
-{{ youtube('lIVWmPNFG1E') }}
+{{ presentation('lIVWmPNFG1E', '/slides/skandarani20.pdf', 720, 450) }}

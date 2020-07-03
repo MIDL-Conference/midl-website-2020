@@ -40,4 +40,4 @@ page_class: "paper-page"
 
 ---
 
-{{ youtube('j9m9pqqQZHk') }}
+{{ presentation('j9m9pqqQZHk', '/slides/chamberland20.pdf', 720, 450) }}

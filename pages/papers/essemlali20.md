@@ -40,4 +40,4 @@ page_class: "paper-page"
 
 ---
 
-{{ youtube('SyBlSUyR10E') }}
+{{ presentation('2Q8XCmVG0-M', '/slides/essemlali20.pdf', 720, 450) }}

@@ -40,4 +40,4 @@ page_class: "paper-page"
 
 ---
 
-{{ youtube('aK8XWnWOKaE') }}
+{{ presentation('P_fTmR2Fwp8', '/slides/linmans20.pdf', 720, 450) }}

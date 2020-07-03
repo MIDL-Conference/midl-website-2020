@@ -17,7 +17,7 @@ page_class: "paper-page"
         - <a class="toggle_visibility" data-selector=".paper_qa" data-level="3">Show schedule</a>
         - <a href="https://openreview.net/pdf?id=6oG9zkHVLa">Paper</a>
         - <a href="https://openreview.net/forum?id=6oG9zkHVLa">Reviews</a>
-        {{ teaser('') }}
+        {{ teaser('5Bra7IvGDe4') }}
 
 <span class="paper_abstract">
         CNNs, initially inspired by human vision, differ in a key way: they sample uniformly, rather than with highest density in a focal point. For very large images, this makes training untenable, as the memory and computation required for activation maps scales quadratically with the side length of an image. We propose an image pyramid based approach that extracts narrow glimpses of the of the input image and iteratively refines them to accomplish regression tasks. To assist with high-accuracy regression, we introduce a novel intermediate representation we call ‘spatialized features’. Our approach scales logarithmically with the side length, so it works with very large images. We apply our method to Cephalometric X-ray Landmark Detection and get state-of-the-art results.
@@ -40,3 +40,4 @@ page_class: "paper-page"
 
 ---
 
+{{ presentation('5Bra7IvGDe4', '/slides/gilmour20.pdf', 720, 450) }}

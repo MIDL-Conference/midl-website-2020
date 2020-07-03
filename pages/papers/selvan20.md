@@ -40,4 +40,4 @@ page_class: "paper-page"
 
 ---
 
-{{ youtube('w0YgIa2SxWk') }}
+{{ presentation('CpBJVULSGiY', '/slides/selvan20.pdf', 720, 450) }}

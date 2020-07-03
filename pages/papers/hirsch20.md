@@ -40,4 +40,4 @@ page_class: "paper-page"
 
 ---
 
-{{ youtube('fLaZoYgUpOo') }}
+{{ presentation('9HfD3vEXtHE', '/slides/hirsch20.pdf', 720, 450) }}

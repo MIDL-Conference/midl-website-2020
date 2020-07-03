@@ -40,4 +40,4 @@ page_class: "paper-page"
 
 ---
 
-{{ youtube('5XPIAJMUHz8') }}
+{{ presentation('mr_CYOPkHqM', '/slides/fetit20a.pdf', 720, 450) }}

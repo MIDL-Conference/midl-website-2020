@@ -40,4 +40,4 @@ page_class: "paper-page"
 
 ---
 
-{{ youtube('2-c8hAMEAEo') }}
+{{ presentation('2-c8hAMEAEo', '/slides/zohar20.pdf', 720, 450) }}

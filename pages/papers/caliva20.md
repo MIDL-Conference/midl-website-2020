@@ -40,4 +40,4 @@ page_class: "paper-page"
 
 ---
 
-{{ youtube('vnACGxIEQwE') }}
+{{ presentation('T6Ru9B5Eubc', '/slides/caliva20.pdf', 720, 450) }}

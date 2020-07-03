@@ -40,4 +40,4 @@ page_class: "paper-page"
 
 ---
 
-{{ youtube('SMIQgihtEWE') }}
+{{ presentation('9oDQ_rC8G20', '/slides/pirkl20.pdf', 720, 450) }}

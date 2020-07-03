@@ -40,4 +40,4 @@ page_class: "paper-page"
 
 ---
 
-{{ youtube('MXFx0TUC1Qk') }}
+{{ presentation('MXFx0TUC1Qk', '/slides/moyer20.pdf', 720, 450) }}

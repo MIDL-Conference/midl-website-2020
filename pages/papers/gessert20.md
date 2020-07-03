@@ -40,4 +40,4 @@ page_class: "paper-page"
 
 ---
 
-{{ youtube('mISTl-A5EK8') }}
+{{ presentation('mISTl-A5EK8', '/slides/gessert20.pdf', 720, 450) }}

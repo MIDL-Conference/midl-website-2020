@@ -40,4 +40,4 @@ page_class: "paper-page"
 
 ---
 
-{{ youtube('8nO-E_2aNcE') }}
+{{ presentation('8nO-E_2aNcE', '/slides/tsai20.pdf', 720, 450) }}

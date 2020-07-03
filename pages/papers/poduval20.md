@@ -40,4 +40,4 @@ page_class: "paper-page"
 
 ---
 
-{{ youtube('OI3GMnka7Mw') }}
+{{ presentation('OI3GMnka7Mw', '/slides/poduval20.pdf', 720, 450) }}

@@ -40,4 +40,4 @@ page_class: "paper-page"
 
 ---
 
-{{ youtube('HCP2X8z44VI') }}
+{{ presentation('Dz81tWusvHk', '/slides/qasim20.pdf', 720, 450) }}

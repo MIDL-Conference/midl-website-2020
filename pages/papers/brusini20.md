@@ -40,4 +40,4 @@ page_class: "paper-page"
 
 ---
 
-{{ youtube('X5DwVtX_noM') }}
+{{ presentation('X5DwVtX_noM', '/slides/brusini20.pdf', 720, 450) }}

@@ -40,4 +40,4 @@ page_class: "paper-page"
 
 ---
 
-{{ youtube('aA8dE8mvoic') }}
+{{ presentation('aA8dE8mvoic', '/slides/kuzina20.pdf', 720, 450) }}

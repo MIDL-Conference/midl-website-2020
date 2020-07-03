@@ -17,7 +17,7 @@ page_class: "paper-page"
         - <a class="toggle_visibility" data-selector=".paper_qa" data-level="3">Show schedule</a>
         - <a href="https://openreview.net/pdf?id=Pk7In-gVEd">Paper</a>
         - <a href="https://openreview.net/forum?id=Pk7In-gVEd">Reviews</a>
-        {{ teaser('') }}
+        {{ teaser('nK-JLpor-vM') }}
 
 <span class="paper_abstract">
         Undersampled MR image recovery has been widely studied for accelerated MR acquisition. However, it has been mostly studied under a single sequence scenario, despite the fact that multi-sequence MR scan is common in practice. In this paper, we aim to optimize multi-sequence MR image recovery from undersampled k-space data under an overall time constraint while considering the difference in acquisition time for various sequences. We first formulate it as a constrained optimization problem and then show that finding the optimal sampling strategy for all sequences and the best recovery model at the same time is combinatorial and hence computationally prohibitive. To solve this problem, we propose a blind recovery model that simultaneously recovers multiple sequences, and an efficient approach to find proper combination of sampling strategy and recovery model. Our experiments demonstrate that the proposed method outperforms sequence-wise recovery, and sheds light on how to decide the undersampling strategy for sequences within an overall time budget.
@@ -40,3 +40,4 @@ page_class: "paper-page"
 
 ---
 
+{{ presentation('nK-JLpor-vM', '/slides/peng20b.pdf', 720, 450) }}

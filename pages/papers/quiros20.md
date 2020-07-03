@@ -40,4 +40,4 @@ page_class: "paper-page"
 
 ---
 
-{{ youtube('wGx78e1mHQQ') }}
+{{ presentation('RlBo4lAWtvM', '/slides/quiros20.pdf', 720, 450) }}

@@ -40,4 +40,4 @@ page_class: "paper-page"
 
 ---
 
-{{ youtube('ifUQ8CBSUkQ') }}
+{{ presentation('ifUQ8CBSUkQ', '/slides/rafael-palou20.pdf', 720, 450) }}

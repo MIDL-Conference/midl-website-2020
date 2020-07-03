@@ -40,4 +40,4 @@ page_class: "paper-page"
 
 ---
 
-{{ youtube('Gl1ioiS7IEE') }}
+{{ presentation('Gl1ioiS7IEE', '/slides/qayyum20.pdf', 720, 450) }}

@@ -40,4 +40,4 @@ page_class: "paper-page"
 
 ---
 
-{{ youtube('z1OGEOr32og') }}
+{{ presentation('z1OGEOr32og', '/slides/schmell20.pdf', 720, 450) }}

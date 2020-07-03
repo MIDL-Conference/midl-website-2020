@@ -40,4 +40,4 @@ page_class: "paper-page"
 
 ---
 
-{{ youtube('6RQxDpWY6OE') }}
+{{ presentation('OX1qKZ8NR8I', '/slides/pichler20.pdf', 720, 450) }}
