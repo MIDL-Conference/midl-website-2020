@@ -36,8 +36,7 @@ page_class: "paper"
         </span>
     </p>
 
-    {{ button("Access paper channel", "https://chat.midl.io/channel/t001") }}
-</div>
+<!-- {{ button("Access paper channel", "https://chat.midl.io/channel/t001") }} --></div>
 
 ---
 
