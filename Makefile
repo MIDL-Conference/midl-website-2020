@@ -32,7 +32,7 @@ $(TARGET): FORCE pages/scientific-program.md
 # 	chmod -R +x $@
 
 deploy:
-	scp -r -P $(PORT) $(TARGET) $(HOST)
+	rsync -rv $(TARGET) $(HOST)
 
 clean:
 	rm -rf $(TARGET)
