@@ -14,7 +14,7 @@ page_class: "paper"
 - <a class="toggle_visibility" data-selector=".schedule" data-level="3">Show schedule</a>
 - <a href="https://openreview.net/pdf?id=BXC_fpbLe">Paper</a>
 - <a href="https://openreview.net/forum?id=BXC_fpbLe">Reviews</a>
-{{ teaser('') }}
+{{ teaser('Q-zKcLqv0Y0') }}
 
 <p>
     <span class="abstract">
@@ -41,3 +41,4 @@ page_class: "paper"
 
 ---
 
+{{ presentation('Q-zKcLqv0Y0', '/slides/chang20.pdf', 720, 450) }}

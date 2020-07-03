@@ -14,7 +14,7 @@ page_class: "paper"
 - <a class="toggle_visibility" data-selector=".schedule" data-level="3">Show schedule</a>
 - <a href="https://openreview.net/pdf?id=zYareJYs8Z">Paper</a>
 - <a href="https://openreview.net/forum?id=zYareJYs8Z">Reviews</a>
-{{ teaser('') }}
+{{ teaser('yNAMOvv9CyI') }}
 
 <p>
     <span class="abstract">
@@ -41,3 +41,4 @@ page_class: "paper"
 
 ---
 
+{{ presentation('yNAMOvv9CyI', '/slides/lim20.pdf', 720, 450) }}

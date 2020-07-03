@@ -423,7 +423,7 @@ Session Chairs: J. Eugenio Iglesias, Caroline Petitjean
         pdf='https://openreview.net/pdf?id=XrbnSCv4LU',
         id='S038',
         paper='papers/chen20.html',
-        teaser='',
+        teaser='https://youtu.be/JOa6zS7TNCI',
         video='',
         abstract='For the majority of the learning-based segmentation methods, a large quantity of high-quality training data is required. In this paper, we present a novel learning-based segmentation model that could be trained semi- or un- supervised. Specifically, in the unsupervised setting, we parameterize the Active contour without edges (ACWE) framework via a convolutional neural network (ConvNet), and optimize the parameters of the ConvNet using a self-supervised method. In another setting (semi-supervised), the auxiliary segmentation ground truth is used during training. We show that the method provides fast and high-quality bone segmentation in the context of single-photon emission computed tomography (SPECT) image.')
 }}
@@ -443,7 +443,7 @@ Session Chairs: J. Eugenio Iglesias, Caroline Petitjean
         pdf='https://openreview.net/pdf?id=rw5BswbvMB',
         id='S059',
         paper='papers/chung20.html',
-        teaser='',
+        teaser='https://youtu.be/_IR9dzn3tJ0',
         video='',
         abstract='We propose a dual-domain cascade of U-nets (i.e. a W-net\\") operating in both the spatial frequency and image domains to enhance low-dose CT (LDCT) images without the need for proprietary x-ray projection data. The central slice theorem motivated the use of the spatial frequency domain in place of the raw sinogram. Data were obtained from the AAPM Low-dose Grand Challenge. A combination of Fourier space (F) and/or image domain (I) U-nets and W-nets were trained with a multi-scale structural similarity and mean absolute error loss function to denoise filtered back projected (FBP) LDCT images while maintaining perceptual features important for diagnostic accuracy. Deep learning enhancements were superior to FBP LDCT images in quantitative and qualitative performance with the dual-domain W-nets outperforming single-domain U-net cascades. Our results suggest that spatial frequency learning in conjunction with image-domain processing can produce superior LDCT enhancement than image-domain-only networks. ')
 }}
@@ -463,7 +463,7 @@ Session Chairs: J. Eugenio Iglesias, Caroline Petitjean
         pdf='https://openreview.net/pdf?id=02X3kfP6W4',
         id='S107',
         paper='papers/arun20.html',
-        teaser='',
+        teaser='https://youtu.be/8V99wNHzJbQ',
         video='',
         abstract='Saliency maps have become a widely used method to assess which areas of the input image are most pertinent to the prediction of a trained neural network.  However, in the context of medical imaging, there is no study to our knowledge that has examined the efficacy of these techniques and quantified them using overlap with ground truth bounding boxes. In this work, we explored the credibility of the various existing saliency map methods on the RSNA  Pneumonia  dataset. We  found  that  GradCAM  was  the  most  sensitive  to  model parameter and label randomization, and was highly agnostic to model architecture.')
 }}
@@ -705,7 +705,7 @@ Session Chairs: Kevin Zhou, Clarisa Sánchez
         pdf='https://openreview.net/pdf?id=zYareJYs8Z',
         id='S047',
         paper='papers/lim20.html',
-        teaser='',
+        teaser='https://youtu.be/yNAMOvv9CyI',
         video='',
         abstract='Spiral acquisitions are preferred in real-time MRI because of their time efficiency. A fundamental limitation of spirals is image blurring due to off-resonance, which degrades image quality significantly at air-tissue boundaries. Here, we demonstrate a simple CNN-based deblurring method for spiral real-time MRI of human speech production. We show the CNN-based deblurring is capable of restoring blurred vocal tract tissue boundaries, without a need for exam-specific field maps. Deblurring performance is superior to a current auto-calibrated method, and slightly inferior to ideal reconstruction with perfect knowledge of the field maps. ')
 }}
@@ -913,7 +913,7 @@ Session Chairs: Dana Cobzas, Samuel Kadoury
         pdf='https://openreview.net/pdf?id=ehpiBRHu07',
         id='S161',
         paper='papers/tuladhar20.html',
-        teaser='',
+        teaser='https://youtu.be/eRF7h5lT04k',
         video='',
         abstract='Manual lesion segmentation for non-contrast computed tomography (NCCT), a common modality for volumetric follow-up assessment of ischemic strokes, is time-consuming and subject to high inter-observer variability. Our approach uses a combination of a 3D convolutional neural network (CNN) combined with post-processing methods. A total of 272 multi-center clinical NCCT datasets were used: 204 for CNN training, 48 for validation and developing post-processing methods, and 20 for testing. The testing datasets were from centers that did not contribute to the training and validation sets, and were segmented by two neuroradiologists. We achieved a median Dice score of 0.63, which was significantly improved to 0.66 with post-processing. The automatically segmented lesion volumes were not significantly different from the lesion volumes determined by the two manual observers. As the model was trained on datasets from multiple centers, it is broadly applicable. ')
 }}
@@ -1052,7 +1052,7 @@ Session Chairs: Mattias Heinrich, Carole Sudre
         pdf='https://openreview.net/pdf?id=BpXY-yIs6f',
         id='P228',
         paper='papers/erbacher20.html',
-        teaser='',
+        teaser='https://youtu.be/I8aXtlQa3qI',
         video='https://youtu.be/ExJCwW6Lo-E',
         abstract='Brain damage, particularly of cerebral white matter (WM), observed in premature infants in the neonatal period is responsible for frequent neurodevelopmental sequelae in early childhood and [V Pierrat et al. EPIPAGE-2 cohort study. BMJ. 2017]. Punctuate white matter lesions (PWML) are most frequent WM abnormalities, occurring in 18–35% of all preterm infants [AL Nguyen et al. Int Journal of Developmental Neuroscience, 2019] [N. Tusor et al, Scientific Reports, 2017].      Accurately assessing the volume and localisation of these lesions at the early postnatal phase can help paediatricians adapting the therapeutic strategy and potentially reduce severe sequelae. MRI is the gold standard neuroimaging tool to assess minimal to severe WM lesions, but it is only rarely performed for cost and accessibility reasons. Cranial ultrasonography (cUS) is a routinely used tool, however, the visual detection of PWM lesions  is challenging and time consuming because these lesions are small with variable contrast and no specific pattern. There are also weak anatomical landmarks in neonate brains as the brain structures are moving and not fully developed.      Research on automatic detection of PWML on MRI based on standard image analysis was initiated by Mukherjee [Mukherjee, S. et al. MBEC 57(1), 71-87, 2019]. One other team has recently tackled this issue based on deep architectures [Y Liu et al. MICCAI 2019]. Despite the high contrast and low noise of MR images, this algorithm struggles with low accuracy over the PWML detection task. As far as we know, there is currently no known research team working on automatic segmentation of PWML on US data. This task is highly challenging because of the speckle noise, low contrast and the high acquisition variability.      In this paper, we introduce a novel architecture based on the U-Net backbone to perform the detection and segmentation of PWML in cUS images. This model combines a soft attention model focusing on the PWML localisation and the self balancing focal loss (SBFL) introduced by Lin [Liu et al, arxiv, 2019]. The soft attention mask is a 3D probabilistic map derived from spatial prior knowledge of PWML localisation computed from our dataset.      Performance of this model is evaluated on a dataset of cUS exams including 21 patients acquired with a Acuson Siemens 4-9 MHZ probe. For each exam, a 3D volume of dimension 360x400x380 was reconstructed with an isotropic spatial resolution of 0.15 mm.  A total of 547 lesions were delineated on the images by an expert pediatrician. For this study, we considered 131 lesions with a volume bigger than 1.7 $mm^3$. Volumes of PWM lesions range from 1.75 $mm^3$ to 61.09 $mm^3$ with a median size of 4 $mm^3$.      The deep model was trained and validated with a 10-fold cross-validation based on approximately 3000 coronal slices extracted from the 3D volumes .  We also performed an ablation study to evaluate the impact of the attention gate and the focal loss. Detection performance was assessed at the lesion level, thus meaning that we performed a cluster analysis on the label maps outputted by the network using a 3D connectivity rule to identify the connected components.      Compared to the U-Net, the priority U-Net with SBFL increases the recall and the precision in the detection task from 0.4404      to 0.5370 and from 0.3217 to 0.5043, respectively. The Dice metric is also increased from 0.3040 to 0.3839 in the segmentation task.      In this study, we proposed the first use case of automated detection of PWML in cUS exams of preterms neonates as well as a novel deep architecture inspired from the attention gated U-Net combined with the self-balancing focal loss. Our results are shown to outperform the standard U-Net for this challenging detection task.')
 }}
@@ -1081,7 +1081,7 @@ Session Chairs: Mattias Heinrich, Carole Sudre
         openreview='https://openreview.net/forum?id=-3UtpvQHNX',
         pdf='https://openreview.net/pdf?id=-3UtpvQHNX',
         id='P249',
-        paper='papers/brea20.html',
+        paper='papers/sanchezbrea20.html',
         teaser='https://youtu.be/3Va3V4-2wl8',
         video='https://youtu.be/wgd6A69Kklg',
         abstract='This work proposes a general pipeline for retinal vessel segmentation on en-face images. The main goal is to analyse if a model trained in one of two modalities, Fundus Photography (FP) or Scanning Laser Ophthalmoscopy (SLO), is transferable to the other modality accurately. This is motivated by the lack of development and data available in en-face imaging modalities other than FP. FP and SLO images of four and two publicly available datasets, respectively, were used. First, the current approaches were reviewed in order to define a basic pipeline for vessel segmentation. A state-of-art deep learning architecture (U-net) was used, and the effect of varying the patch size and number of patches was studied by training, validating, and testing on each dataset individually. Next, the model was trained in either FP or SLO images, using the available datasets for a given modality combined. Finally, the performance of each network was tested on the other modality. The models trained on each dataset showed a performance comparable to the state-of-the art and to the inter-rater reliability. Overall, the best performance was observed for the largest patch size (256) and the maximum number of overlapped images in each dataset, with a mean sensitivity, specificity, accuracy, and Dice score of 0.89$\\pm$0.05, 0.95$\\pm$0.02, 0.95$\\pm$0.02, and 0.73$\\pm$0.07, respectively. Models trained and tested on the same modality presented a sensitivity, specificity, and accuracy equal or higher than 0.9. The validation on a different modality has shown significantly better sensitivity and Dice on those trained on FP.')
@@ -1093,7 +1093,7 @@ Session Chairs: Mattias Heinrich, Carole Sudre
         id='P315',
         paper='papers/liang20.html',
         teaser='',
-        video='',
+        video='https://youtu.be/7hZpAQD3oQY',
         abstract='A Laplacian pyramid-based complex neural network, CLP-Net, is proposed to reconstruct high-quality magnetic resonance images from undersampled k-space data. Specifically, three major contributions have been made: 1) A new framework has been proposed to explore the encouraging multi-scale properties of Laplacian pyramid decomposition; 2) A cascaded multi-scale network architecture with complex convolutions has been designed under the proposed framework; 3) Experimental validations on an open source dataset fastMRI demonstrate the encouraging properties of the proposed method in preserving image edges and fine textures.')
 }}
 {{ paper('Generating Fundus Fluorescence Angiography Images from Structure Fundus Images Using Generative Adversarial Networks',
@@ -1111,7 +1111,7 @@ Session Chairs: Mattias Heinrich, Carole Sudre
         openreview='https://openreview.net/forum?id=h5z-R09QRm',
         pdf='https://openreview.net/pdf?id=h5z-R09QRm',
         id='P334',
-        paper='papers/wang20.html',
+        paper='papers/wang20c.html',
         teaser='https://youtu.be/Noi1JIBsITk',
         video='https://youtu.be/-OHWIOEfXgQ',
         abstract='A deep neural network (DNN) can assist in retinopathy screening by automatically classifying patients into normal and abnormal categories according to optical coherence tomography (OCT) images. Typically, OCT images captured from different devices show heterogeneous appearances because of different scan settings; thus, the DNN model trained from one domain may fail if applied directly to a new domain. As data labels are difficult to acquire, we proposed a generative adversarial network-based domain adaptation model to address the cross-domain OCT images classification task, which can extract invariant and discriminative characteristics shared by different domains without incurring additional labeling cost. A feature generator, a Wasserstein distance estimator, a domain discriminator, and a classifier were included in the model to enforce the extraction of domain invariant representations. We applied the model to OCT images as well as public digit images. Results show that the model can significantly improve the classification accuracy of cross-domain images.')
@@ -1296,8 +1296,8 @@ Session Chairs: Pierre-Marc Jodoin, April Khademi
         pdf='https://openreview.net/pdf?id=55VoQFvQM',
         id='P048',
         paper='papers/yi20.html',
-        teaser='',
-        video='',
+        teaser='https://youtu.be/i88RD3VDwTs',
+        video='https://youtu.be/79xqFZ0aRN8',
         abstract='Deep learning has proven to be an essential tool for medical image analysis.  However, the need for accurately labeled input data, often requiring time- and labor-intensive annotation by experts, is a major limitation to the use of deep learning.  One solution to this challenge is to allow for use of coarse or noisy labels, which could permit more efficient and scalable labeling of images.  In this work, we develop a lopsided loss function based on entropy regularization that assumes the existence of a nontrivial false negative rate in the target annotations.  Starting with a carefully annotated brain metastasis lesion dataset, we simulate data with false negatives by (1) randomly censoring the annotated lesions and (2) systematically censoring the smallest lesions.  The latter better models true physician error because smaller lesions are harder to notice than the larger ones.  Even with a simulated false negative rate as high as 50%, applying our loss function to randomly censored data preserves maximum sensitivity at 97% of the baseline with uncensored training data, compared to just 10% for a standard loss function.  For the size-based censorship, performance is restored from 17% with the current standard to 88% with our lopsided bootstrap loss.  Our work will enable more efficient scaling of the image labeling process, in parallel with other approaches on creating more efficient user interfaces and tools for annotation.')
 }}
 {{ paper('Feature Disentanglement to Aid Imaging Biomarker Characterization for Genetic Mutations',
@@ -1389,7 +1389,7 @@ Session Chairs: Pierre-Marc Jodoin, April Khademi
         pdf='https://openreview.net/pdf?id=BXC_fpbLe',
         id='S312',
         paper='papers/chang20.html',
-        teaser='',
+        teaser='https://youtu.be/Q-zKcLqv0Y0',
         video='',
         abstract='Early detection of cancer is key to a good prognosis and requires frequent testing, especially in pediatrics. Whole-body magnetic resonance imaging (wbMRI) is an essential part of several well-established screening protocols with screening starting in early childhood. To date, machine learning (ML) has been used on wbMRI images to stage adult cancer patients. It is not possible to use such tools in pediatrics due to the changing bone signal throughout growth, the difficulty of obtaining these images in young children due to movement and limited compliance, and the rarity of positive cases. We evaluate the quality of wbMRI images generated using generative adversarial networks (GANs) trained on wbMRI data from a pediatric hospital. We use the Fréchet Inception Distance (FID) metric, Domain Fréchet Distance (DFD), and blind tests with a radiology fellow for evaluation. We demonstrate that StyleGAN2 provides the best performance in generating wbMRI images with respect to all three metrics.')
 }}

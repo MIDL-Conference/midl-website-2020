@@ -14,7 +14,7 @@ page_class: "paper"
 - <a class="toggle_visibility" data-selector=".schedule" data-level="3">Show schedule</a>
 - <a href="https://openreview.net/pdf?id=BpXY-yIs6f">Paper</a>
 - <a href="https://openreview.net/forum?id=BpXY-yIs6f">Reviews</a>
-{{ teaser('') }}
+{{ teaser('I8aXtlQa3qI') }}
 
 <p>
     <span class="abstract">
@@ -41,4 +41,4 @@ page_class: "paper"
 
 ---
 
-{{ youtube('ExJCwW6Lo-E') }}
+{{ presentation('ExJCwW6Lo-E', '/slides/erbacher20.pdf', 720, 450) }}

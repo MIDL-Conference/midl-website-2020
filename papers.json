@@ -235,7 +235,7 @@
         "title": "Medical Image Segmentation via Unsupervised Convolutional Neural Network",
         "url": "papers/chen20.html",
         "yt_full": "",
-        "yt_teaser": ""
+        "yt_teaser": "JOa6zS7TNCI"
     },
     "41": {
         "abstract": "We propose a novel method that combines a convolutional neural network (CNN) with a long short-term memory (LSTM) mechanism for accurate prediction of intracranial hemorrhage on computed tomography (CT) scans. The CNN plays the role of a slice-wise feature extractor while the LSTM is responsible for linking the features across slices. The whole architecture is trained end-to-end with input being an RGB-like image formed by stacking 3 different viewing windows of a single slice. We validate the method on the recent RSNA Intracranial Hemorrhage Detection challenge and on the CQ500 dataset. For the RSNA challenge, our best single model achieves a weighted log loss of 0.0529 on the leaderboard, which is comparable to the top 3\\% performances, almost all of which make use of ensemble learning. Importantly, our method generalizes very well: the model trained on the RSNA dataset significantly outperforms the 2D model, which does not take into account the relationship between slices, on CQ500. Our codes and models will be made public.",
@@ -305,7 +305,7 @@
         "title": "Deblurring for spiral real-time MRI using convolutional neural networks",
         "url": "papers/lim20.html",
         "yt_full": "",
-        "yt_teaser": ""
+        "yt_teaser": "yNAMOvv9CyI"
     },
     "48": {
         "abstract": "Deep learning has proven to be an essential tool for medical image analysis.  However, the need for accurately labeled input data, often requiring time- and labor-intensive annotation by experts, is a major limitation to the use of deep learning.  One solution to this challenge is to allow for use of coarse or noisy labels, which could permit more efficient and scalable labeling of images.  In this work, we develop a lopsided loss function based on entropy regularization that assumes the existence of a nontrivial false negative rate in the target annotations.  Starting with a carefully annotated brain metastasis lesion dataset, we simulate data with false negatives by (1) randomly censoring the annotated lesions and (2) systematically censoring the smallest lesions.  The latter better models true physician error because smaller lesions are harder to notice than the larger ones.  Even with a simulated false negative rate as high as 50%, applying our loss function to randomly censored data preserves maximum sensitivity at 97% of the baseline with uncensored training data, compared to just 10% for a standard loss function.  For the size-based censorship, performance is restored from 17% with the current standard to 88% with our lopsided bootstrap loss.  Our work will enable more efficient scaling of the image labeling process, in parallel with other approaches on creating more efficient user interfaces and tools for annotation.",
@@ -318,8 +318,8 @@
         "slides": "/slides/yi20.pdf",
         "title": "Brain Metastasis Segmentation Network Trained with Robustness to Annotations with Multiple False Negatives",
         "url": "papers/yi20.html",
-        "yt_full": "",
-        "yt_teaser": ""
+        "yt_full": "79xqFZ0aRN8",
+        "yt_teaser": "i88RD3VDwTs"
     },
     "53": {
         "abstract": "Preliminary diagnosis of fungal infections can rely on microscopic examination. However, in many cases, it does not allow unambiguous identification of the species due to their visual similarity. Therefore, it is usually necessary to use additional biochemical tests. That involves additional costs and extends the identification process up to 10 days. Such a delay in the implementation of targeted therapy may be grave in consequence as the mortality rate for immunosuppressed patients is high. In this paper, we apply a machine learning approach based on deep neural networks and bag-of-words to classify microscopic images of various fungi species. Our approach makes the last stage of biochemical identification redundant, shortening the identification process by 2-3 days, and reducing the cost of the diagnosis.",
@@ -403,7 +403,7 @@
         "title": "Low-dose CT Enhancement Network with a Perceptual Loss Function in the Spatial Frequency and Image Domains",
         "url": "papers/chung20.html",
         "yt_full": "",
-        "yt_teaser": ""
+        "yt_teaser": "_IR9dzn3tJ0"
     },
     "64": {
         "abstract": "In this work, we present a novel unsupervised image registration algorithm. It is differentiable end-to-end and can be used for both multi-modal and mono-modal registration. This is done using mutual information (MI) as a metric. The novelty here is that rather than using traditional ways of approximating MI which are often histogram based, we use a neural estimator called MINE and supplement it with matrix exponential for transformation matrix computation. The introduction of MINE tackles some of the drawbacks of histogram based MI computation and matrix exponential makes the optimization process smoother. We also introduce the idea of a multi-resolution loss, which makes the optimization process faster and more robust. This leads to improved results as compared to the standard algorithms available out-of-the-box in state-of-the-art image registration toolboxes, both in terms of time as well as registration accuracy, which we empirically demonstrate on publicly available datasets.",
@@ -613,7 +613,7 @@
         "title": "Assessing the validity of saliency maps for abnormality localization in medical imaging",
         "url": "papers/arun20.html",
         "yt_full": "",
-        "yt_teaser": ""
+        "yt_teaser": "8V99wNHzJbQ"
     },
     "109": {
         "abstract": "Tracking and segmentation of biological cells in video sequences is a challenging problem, especially due to the similarity of the cells and high levels of inherent noise. Most machine learning-based approaches lack robustness and suffer from sensitivity to less prominent events such as mitosis, apoptosis and cell collisions. Due to the large variance in medical image characteristics, most approaches are dataset-specific and do not generalise well on other datasets.\n\n      In this paper, we propose a simple end-to-end cascade neural architecture able to model the movement behaviour of biological cells and predict collision and mitosis events. Our approach uses U-Net for an initial segmentation which is then improved through processing by a siamese tracker capable of matching each cell along the temporal axis. By facilitating the re-segmentation of collided and mitotic cells, our method demonstrates its capability to handle volatile trajectories and unpredictable cell locations while being invariant to cell morphology. We demonstrate that our tracking approach achieves state-of-the-art results on  PhC-C2DL-PSC and Fluo-N2DH-SIM+ datasets and ranks second on the DIC-C2DH-HeLa dataset of the cell tracking challenge benchmarks. ",
@@ -907,7 +907,7 @@
         "title": "Automatic segmentation of stroke lesions in non-contrast computed tomography with convolutional neural networks",
         "url": "papers/tuladhar20.html",
         "yt_full": "",
-        "yt_teaser": ""
+        "yt_teaser": "eRF7h5lT04k"
     },
     "163": {
         "abstract": "Retinal imaging serves as a valuable tool for diagnosis of various diseases. However, reading retinal images is a difficult and time-consuming task even for experienced specialists. The fundamental step towards automated retinal image analysis is vessel segmentation and artery/vein classification, which provide various information on potential disorders. To improve the performance of the existing automated methods for retinal image analysis, we propose a two-step vessel classification. We adopt a UNet-based model, SeqNet, to accurately segment vessels from the background and make prediction on the vessel type. Our model does segmentation and classification sequentially, which alleviates the problem of label distribution bias and facilitates training. To further refine classification results, we post-process them considering the structural information among vessels to propagate highly confident prediction to surrounding vessels. Our experiments show that our method improves AUC to 0.98 for segmentation and the accuracy to 0.92 in classification over DRIVE dataset.",
@@ -1117,7 +1117,7 @@
         "title": "Priority Unet: Detection of Punctuate White Matter Lesions in Preterm Neonate in 3D Cranial Ultrasonography",
         "url": "papers/erbacher20.html",
         "yt_full": "ExJCwW6Lo-E",
-        "yt_teaser": ""
+        "yt_teaser": "I8aXtlQa3qI"
     },
     "230": {
         "abstract": "Standard practice for using convolutional neural networks (CNNs) in semantic segmentation tasks assumes that the image intensities are directly used for training and inference. In natural images this is performed using RGB pixel intensities, whereas in medical imaging, e.g. magnetic resonance imaging (MRI), gray level pixel intensities are typically used. In this work, we explore the idea of encoding the image data as local binary textural maps prior to the feeding them to CNNs, and show that accurate segmentation models can be developed using such maps alone, without learning any representations from the images themselves. This questions common consensus that CNNs recognize objects from images by learning increasingly complex representations of shape, and suggests a more important role to image texture, in line with recent findings on natural images. We illustrate this for the first time on neuroimaging data of the developing neonatal brain in a tissue segmentation task, by analyzing large, publicly available T2-weighted MRI scans (n=558, range of postmenstrual ages at scan: 24.3 - 42.2 weeks) obtained retrospectively from the Developing Human Connectome Project cohort. Rapid changes in visual characteristics that take place during early brain development make it important to establish a clear understanding of the role of visual texture when training CNN models on neuroimaging data of the neonatal brain; this yet remains a largely understudied but important area of research. From a deep learning perspective, the results suggest that CNNs could simply be capable of learning representations from structured spatial information, and may not necessarily require conventional images as input. ",
@@ -1183,9 +1183,9 @@
         "oral": "False",
         "schedule": "",
         "short": "False",
-        "slides": "/slides/brea20.pdf",
+        "slides": "/slides/sanchezbrea20.pdf",
         "title": "Deep learning-based retinal vessel segmentation with cross-modal evaluation",
-        "url": "papers/brea20.html",
+        "url": "papers/sanchezbrea20.html",
         "yt_full": "wgd6A69Kklg",
         "yt_teaser": "3Va3V4-2wl8"
     },
@@ -1397,7 +1397,7 @@
         "title": "Using Generative Models for Pediatric wbMRI",
         "url": "papers/chang20.html",
         "yt_full": "",
-        "yt_teaser": ""
+        "yt_teaser": "Q-zKcLqv0Y0"
     },
     "315": {
         "abstract": "A Laplacian pyramid-based complex neural network, CLP-Net, is proposed to reconstruct high-quality magnetic resonance images from undersampled k-space data. Specifically, three major contributions have been made: 1) A new framework has been proposed to explore the encouraging multi-scale properties of Laplacian pyramid decomposition; 2) A cascaded multi-scale network architecture with complex convolutions has been designed under the proposed framework; 3) Experimental validations on an open source dataset fastMRI demonstrate the encouraging properties of the proposed method in preserving image edges and fine textures.",
@@ -1410,7 +1410,7 @@
         "slides": "/slides/liang20.pdf",
         "title": "Laplacian pyramid-based complex neural network learning for fast MR imaging",
         "url": "papers/liang20.html",
-        "yt_full": "",
+        "yt_full": "7hZpAQD3oQY",
         "yt_teaser": ""
     },
     "322": {
@@ -1463,9 +1463,9 @@
         "oral": "False",
         "schedule": "",
         "short": "False",
-        "slides": "/slides/wang20.pdf",
+        "slides": "/slides/wang20c.pdf",
         "title": "Domain adaptation model for retinopathy detection from cross-domain OCT images",
-        "url": "papers/wang20.html",
+        "url": "papers/wang20c.html",
         "yt_full": "-OHWIOEfXgQ",
         "yt_teaser": "Noi1JIBsITk"
     },
