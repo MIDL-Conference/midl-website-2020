@@ -67,6 +67,7 @@ class Paper():
         id='{self.conf_id}',
         paper='{self.url}',
         teaser=\'{f'https://youtu.be/{self.yt_teaser}' if self.yt_teaser else ""}\',
+        video=\'{f'https://youtu.be/{self.yt_full}' if self.yt_full else ""}\',
         abstract={sanitized_abstract})
 }}}}'''
 

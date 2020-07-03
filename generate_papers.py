@@ -10,7 +10,7 @@ from paper import Paper
 
 
 if __name__ == "__main__":
-    assert len(argv) == 4
+    assert len(argv) == 5
 
     template_path: Path = Path(argv[1])
     assert template_path.exists()
@@ -19,6 +19,8 @@ if __name__ == "__main__":
     assert papers_path.exists()
 
     dest_path: Path = Path(argv[3])
+
+    root_slides: Path = Path(argv[4])
 
     raw_papers: Dict[str, Dict]
     with open(papers_path, 'r') as pf:
@@ -47,8 +49,15 @@ if __name__ == "__main__":
         else:
             result = result.replace("EMBEDEDTEASE", "")
 
-        if paper.yt_full and paper.slides:
+        # slides_path: Path = Path(paper.slides)
+
+        if not (root_slides / paper.slides[1:]).exists():
+            print(f"\tPaper {paper.conf_id} without slides: {paper.url} {(root_slides / paper.slides)}")
+
+        if paper.yt_full and (root_slides / paper.slides[1:]).exists():
             result = result.replace("PRESENTATION", f"{{{{ presentation('{paper.yt_full}', '{paper.slides}', 720, 450) }}}}")
+        elif paper.yt_full:
+            result = result.replace("PRESENTATION", f"{{{{ youtube('{paper.yt_full}') }}}}")
         else:
             result = result.replace("PRESENTATION", "")
 
