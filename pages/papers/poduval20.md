@@ -32,7 +32,7 @@ page_class: "paper-page"
         <span class="actions"><a class="toggle_visibility" data-level="2">Hide schedule</a></span>
 </span>
 
-{{ button("Access paper channel", "https://chat.midl.io/channel/s310") }}
+<!-- {{ button("Access paper channel", "https://chat.midl.io/channel/s310") }} -->
 
 ---
 

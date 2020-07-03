@@ -19,7 +19,9 @@ page_class: "sponsors"
 The [full scientific program is available](scientific-program.html):
 
 
-[Demonstration page for a paper](papers/demo20.html)
+[Demonstration page for a paper](papers/demo20.html).
+
+**Instructions and login for our chat system will be sent over the week-end.**
 
 
 ---
