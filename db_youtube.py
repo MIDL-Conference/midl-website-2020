@@ -23,6 +23,11 @@ if __name__ == "__main__":
 
     papers: Dict[int, Paper] = {int(k): Paper(ignore_schedule=True, **v) for (k, v) in raw_papers.items()}
 
+    # First reset values
+    for paper in papers.values():
+        paper.yt_teaser = ""
+        paper.yt_full = ""
+
     videos: List[Path] = list(videos_path.glob("*MIDL 2020*Teaser*"))
     video_names: List[str] = [v.name for v in videos]
     print(video_names)
