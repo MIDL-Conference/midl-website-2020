@@ -32,7 +32,7 @@ page_class: "paper"
     </span>
 </p>
 
-<!-- {{ button("Access paper channel", "https://chat.midl.io/channel/s116") }} -->
+{{ button("Access paper channel", "https://chat.midl.io/channel/s116") }}
 [% / %]
 
 ---
