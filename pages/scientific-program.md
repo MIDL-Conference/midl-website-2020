@@ -753,7 +753,7 @@ Session Chairs: Christopher Pal, Joseph Paul Cohen
 
 ### Oral #4 - Imaging *13:30 - 14:30 UTC-4 (Tuesday)*
 
-Session Chairs: Dana Cobzas, Samuel Kadoury
+Session Chairs: Gozde Unal, Samuel Kadoury
 
 [% .papers %]
 {{ paper('Bayesian Learning of Probabilistic Dipole Inversion for Quantitative Susceptibility Mapping',

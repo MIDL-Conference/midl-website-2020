@@ -5,7 +5,7 @@ page_class: "sponsors"
 <h1 class="midl">Medical&nbsp;Imaging with Deep&nbsp;Learning</h1>
 <h2 class="midl">Montréal, 6 ‑ 9 July 2020</h2>
 
-{% from "_macros.html" import youtube %}
+{% from "_macros.html" import button, youtube %}
 
 
 <!--
@@ -26,11 +26,17 @@ page_class: "sponsors"
 
 ---
 
+Registrations are still open!
+
+{{ button("Registration", "/registration.html") }}
+
+---
+
 #### Platinum sponsors
 
 [% .logos %]
 [![CIFAR](/sponsors/cifar.png){: width="200"}](https://www.cifar.ca/)
-[![Microsoft](https://2019.midl.io/sponsors/microsoft.png){: width="350"}](https://www.microsoft.com/)
+[![Microsoft](/sponsors/microsoft.png){: width="350"}](https://www.microsoft.com/)
 [% / %]
 
 #### Silver sponsors

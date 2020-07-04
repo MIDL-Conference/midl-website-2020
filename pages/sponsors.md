@@ -15,7 +15,7 @@ page_class: "sponsors"
 
 [% .logos %]
 [![CIFAR](/sponsors/cifar.png){: width="200"}](https://www.cifar.ca/)
-[![Microsoft](/sponsors/microsoft.png){: width="450"}](https://www.microsoft.com/)
+[![Microsoft](/sponsors/microsoft.png){: width="350"}](https://www.microsoft.com/)
 [% / %]
 
 ---
