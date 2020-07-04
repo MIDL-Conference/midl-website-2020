@@ -5,7 +5,7 @@ page_class: "sponsors"
 <h1 class="midl">Medical&nbsp;Imaging with Deep&nbsp;Learning</h1>
 <h2 class="midl">Montréal, 6 ‑ 9 July 2020</h2>
 
-{% from "_macros.html" import youtube %}
+{% from "_macros.html" import button, youtube %}
 
 
 <!--
@@ -19,6 +19,12 @@ page_class: "sponsors"
 The [full scientific program](scientific-program.html) and a [demonstration page for a paper](papers/demo20.html) are now available!
 
 **Instructions and login for our chat system will be sent over the week-end.**
+
+---
+
+Registrations are still open!
+
+{{ button("Registration", "/registration.html") }}
 
 ---
 
