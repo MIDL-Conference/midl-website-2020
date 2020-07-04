@@ -94,7 +94,7 @@
         "slides": "/slides/lassen-schmidt20.pdf",
         "title": "Automatic segmentation of the pulmonary lobes with a 3D u-net and optimized loss function",
         "url": "papers/lassen-schmidt20.html",
-        "yt_full": "",
+        "yt_full": "_OMrnUQcUUs",
         "yt_teaser": "IfeHzhAK1yM"
     },
     "17": {
@@ -136,7 +136,7 @@
         "slides": "/slides/pham20.pdf",
         "title": "Interpreting Chest X-rays via CNNs that Exploit Hierarchical Disease Dependencies and Uncertainty Labels",
         "url": "papers/pham20.html",
-        "yt_full": "",
+        "yt_full": "gR8kvihcSk0",
         "yt_teaser": "oOBRZmyJW7o"
     },
     "27": {
@@ -150,7 +150,7 @@
         "slides": "/slides/chamberland20.pdf",
         "title": "Tractometry-based Anomaly Detection for Single-subject White Matter Analysis",
         "url": "papers/chamberland20.html",
-        "yt_full": "",
+        "yt_full": "ydTnrTbaQYA",
         "yt_teaser": "j9m9pqqQZHk"
     },
     "28": {
@@ -178,7 +178,7 @@
         "slides": "/slides/wang20a.pdf",
         "title": "A Deep Learning based Fast Signed Distance Map Generation",
         "url": "papers/wang20a.html",
-        "yt_full": "",
+        "yt_full": "_o8KzH0ll3o",
         "yt_teaser": "BeWMzeZIjEI"
     },
     "35": {
@@ -234,7 +234,7 @@
         "slides": "/slides/chen20.pdf",
         "title": "Medical Image Segmentation via Unsupervised Convolutional Neural Network",
         "url": "papers/chen20.html",
-        "yt_full": "",
+        "yt_full": "IVMy-EUeTc8",
         "yt_teaser": "JOa6zS7TNCI"
     },
     "41": {
@@ -248,7 +248,7 @@
         "slides": "/slides/nguyen20b.pdf",
         "title": "A CNN-LSTM Architecture for Detection of Intracranial Hemorrhage on CT scans",
         "url": "papers/nguyen20b.html",
-        "yt_full": "",
+        "yt_full": "BI2PBdDFK10",
         "yt_teaser": "rZuYAKt26fo"
     },
     "42": {
@@ -304,7 +304,7 @@
         "slides": "/slides/lim20.pdf",
         "title": "Deblurring for spiral real-time MRI using convolutional neural networks",
         "url": "papers/lim20.html",
-        "yt_full": "",
+        "yt_full": "OtuZmOuJQlU",
         "yt_teaser": "yNAMOvv9CyI"
     },
     "48": {
@@ -332,7 +332,7 @@
         "slides": "/slides/zielinski20.pdf",
         "title": "Deep learning approach to describing and classifying fungi microscopic images",
         "url": "papers/zielinski20.html",
-        "yt_full": "",
+        "yt_full": "5UuhAat2qig",
         "yt_teaser": "xCFpZI50cTg"
     },
     "54": {
@@ -374,7 +374,7 @@
         "slides": "/slides/romaguera20.pdf",
         "title": "Spatiotemporal motion prediction in free-breathing liver scans via a recurrent multi-scale encoder decoder",
         "url": "papers/romaguera20.html",
-        "yt_full": "",
+        "yt_full": "Yf8q0Nq9QQc",
         "yt_teaser": "zjI5M5zf8do"
     },
     "58": {
@@ -402,7 +402,7 @@
         "slides": "/slides/chung20.pdf",
         "title": "Low-dose CT Enhancement Network with a Perceptual Loss Function in the Spatial Frequency and Image Domains",
         "url": "papers/chung20.html",
-        "yt_full": "",
+        "yt_full": "85XkQeBjoKo",
         "yt_teaser": "_IR9dzn3tJ0"
     },
     "64": {
@@ -458,7 +458,7 @@
         "slides": "/slides/ribeiro20.pdf",
         "title": "DeepRetinotopy: Predicting the Functional Organization of Human Visual Cortex from Structural MRI Data using Geometric Deep Learning",
         "url": "papers/ribeiro20.html",
-        "yt_full": "",
+        "yt_full": "DALdCiexUxo",
         "yt_teaser": "kwHoPnCDvTk"
     },
     "89": {
@@ -486,7 +486,7 @@
         "slides": "/slides/gessert20.pdf",
         "title": "4D Deep Learning for Multiple-Sclerosis Lesion Activity Segmentation",
         "url": "papers/gessert20.html",
-        "yt_full": "",
+        "yt_full": "Pu-8yWb1194",
         "yt_teaser": "mISTl-A5EK8"
     },
     "93": {
@@ -500,7 +500,7 @@
         "slides": "/slides/zhou20.pdf",
         "title": "Robust Image Segmentation Quality Assessment",
         "url": "papers/zhou20.html",
-        "yt_full": "",
+        "yt_full": "btP6vT6teT8",
         "yt_teaser": "PgTTxpfsQvw"
     },
     "94": {
@@ -514,7 +514,7 @@
         "slides": "/slides/rafael-palou20.pdf",
         "title": "Pulmonary Nodule Malignancy Classification Using its Temporal Evolution with Two-Stream 3D Convolutional Neural Networks",
         "url": "papers/rafael-palou20.html",
-        "yt_full": "",
+        "yt_full": "buuH4as0rlk",
         "yt_teaser": "ifUQ8CBSUkQ"
     },
     "95": {
@@ -598,7 +598,7 @@
         "slides": "/slides/wang20b.pdf",
         "title": "Classification of Epithelial Ovarian Carcinoma Whole-Slide Pathology Images Using Deep Transfer Learning",
         "url": "papers/wang20b.html",
-        "yt_full": "",
+        "yt_full": "nS_74yeosKo",
         "yt_teaser": "I2JsLBARtmo"
     },
     "107": {
@@ -612,7 +612,7 @@
         "slides": "/slides/arun20.pdf",
         "title": "Assessing the validity of saliency maps for abnormality localization in medical imaging",
         "url": "papers/arun20.html",
-        "yt_full": "",
+        "yt_full": "wrw_i134jl0",
         "yt_teaser": "8V99wNHzJbQ"
     },
     "109": {
@@ -654,7 +654,7 @@
         "slides": "/slides/decuyper20.pdf",
         "title": "Automated MRI based pipeline for glioma segmentation and prediction of grade, IDH mutation and 1p19q co-deletion",
         "url": "papers/decuyper20.html",
-        "yt_full": "",
+        "yt_full": "vos32kY5pak",
         "yt_teaser": "HmU_h8GaUQM"
     },
     "117": {
@@ -682,7 +682,7 @@
         "slides": "/slides/skandarani20.pdf",
         "title": "On the effectiveness of GAN generated cardiac MRIs for segmentation",
         "url": "papers/skandarani20.html",
-        "yt_full": "",
+        "yt_full": "iteI5M0BcFY",
         "yt_teaser": "lIVWmPNFG1E"
     },
     "126": {
@@ -696,7 +696,7 @@
         "slides": "/slides/silver20.pdf",
         "title": "Data-Driven Prediction of Embryo Implantation Probability Using IVF Time-lapse Imaging",
         "url": "papers/silver20.html",
-        "yt_full": "",
+        "yt_full": "pN5R4EbkbKU",
         "yt_teaser": "Jg8Aq4BuXI8"
     },
     "128": {
@@ -724,7 +724,7 @@
         "slides": "/slides/heinrich20.pdf",
         "title": "Unsupervised learning of multimodal image registration using domain adaptation with projected Earth Mover\u2019s discrepancies",
         "url": "papers/heinrich20.html",
-        "yt_full": "",
+        "yt_full": "yfj_hAg89rg",
         "yt_teaser": "MvcUYnalf4U"
     },
     "133": {
@@ -738,7 +738,7 @@
         "slides": "/slides/blendowski20.pdf",
         "title": "Learning to map between ferns with differentiable binary embedding networks",
         "url": "papers/blendowski20.html",
-        "yt_full": "",
+        "yt_full": "vetTlos9ug0",
         "yt_teaser": "a0266OkLfhw"
     },
     "135": {
@@ -752,7 +752,7 @@
         "slides": "/slides/qayyum20.pdf",
         "title": "Segmentation of the Myocardium on Late-Gadolinium Enhanced MRI based on 2.5 D Residual Squeeze and Excitation Deep Learning Model",
         "url": "papers/qayyum20.html",
-        "yt_full": "",
+        "yt_full": "hdNBYfsuJSE",
         "yt_teaser": "Gl1ioiS7IEE"
     },
     "136": {
@@ -780,7 +780,7 @@
         "slides": "/slides/tardy20.pdf",
         "title": "Improving Mammography Malignancy Segmentation by Designing the Training Process",
         "url": "papers/tardy20.html",
-        "yt_full": "",
+        "yt_full": "mHJ3UmduXNw",
         "yt_teaser": "w8W_NtJ2Rjg"
     },
     "140": {
@@ -808,7 +808,7 @@
         "slides": "/slides/le20.pdf",
         "title": "A Fully Convolutional Normalization Approach of Head and Neck Cancer Outcome Prediction",
         "url": "papers/le20.html",
-        "yt_full": "",
+        "yt_full": "JXM-25mYIh0",
         "yt_teaser": "OD-lmWkCr4A"
     },
     "146": {
@@ -850,7 +850,7 @@
         "slides": "/slides/hansen20.pdf",
         "title": "Tackling the Problem of Large Deformations in Deep Learning Based Medical Image Registration Using Displacement Embeddings",
         "url": "papers/hansen20.html",
-        "yt_full": "",
+        "yt_full": "f3oAOc7hNkI",
         "yt_teaser": "2uJ_H0G1f-0"
     },
     "156": {
@@ -864,7 +864,7 @@
         "slides": "/slides/bengs20.pdf",
         "title": "A Deep Learning Approach for Motion Forecasting Using 4D OCT Data",
         "url": "papers/bengs20.html",
-        "yt_full": "",
+        "yt_full": "IBQUuRt4X9o",
         "yt_teaser": "32BZ5eOHzTk"
     },
     "157": {
@@ -906,7 +906,7 @@
         "slides": "/slides/tuladhar20.pdf",
         "title": "Automatic segmentation of stroke lesions in non-contrast computed tomography with convolutional neural networks",
         "url": "papers/tuladhar20.html",
-        "yt_full": "",
+        "yt_full": "GbF6J_KA5ws",
         "yt_teaser": "eRF7h5lT04k"
     },
     "163": {
@@ -1004,7 +1004,7 @@
         "slides": "/slides/schmell20.pdf",
         "title": "An interpretable automated detection system for FISH-based HER2 oncogene amplification testing in histo-pathological routine images of breast and gastric cancer diagnostics",
         "url": "papers/schmell20.html",
-        "yt_full": "",
+        "yt_full": "d5EFkayzbcI",
         "yt_teaser": "z1OGEOr32og"
     },
     "197": {
@@ -1032,7 +1032,7 @@
         "slides": "/slides/brusini20.pdf",
         "title": "A deep learning-based pipeline for error detection and quality control of brain MRI segmentation results",
         "url": "papers/brusini20.html",
-        "yt_full": "",
+        "yt_full": "ZA_UHclYu44",
         "yt_teaser": "X5DwVtX_noM"
     },
     "200": {
@@ -1074,7 +1074,7 @@
         "slides": "/slides/ahmed20.pdf",
         "title": "An ENAS Based Approach for Constructing Deep Learning Models for Breast Cancer Recognition from Ultrasound Images",
         "url": "papers/ahmed20.html",
-        "yt_full": "",
+        "yt_full": "82_BZL65Cic",
         "yt_teaser": "kxrhngN8vRg"
     },
     "212": {
@@ -1144,7 +1144,7 @@
         "slides": "/slides/rakic20.pdf",
         "title": "Anatomical Predictions using Subject-Specific Medical Data",
         "url": "papers/rakic20.html",
-        "yt_full": "",
+        "yt_full": "FmaV3rWWlz0",
         "yt_teaser": "TPe9p-_sXIE"
     },
     "238": {
@@ -1214,7 +1214,7 @@
         "slides": "/slides/kuzina20.pdf",
         "title": "Bayesian Generative Models for Knowledge Transfer in MRI Semantic Segmentation Problems",
         "url": "papers/kuzina20.html",
-        "yt_full": "",
+        "yt_full": "d1GkoVyGKO4",
         "yt_teaser": "aA8dE8mvoic"
     },
     "266": {
@@ -1228,7 +1228,7 @@
         "slides": "/slides/zhu20.pdf",
         "title": "Image Translation by Latent Union of Subspaces for Cross-Domain Plaque Segmentation",
         "url": "papers/zhu20.html",
-        "yt_full": "",
+        "yt_full": "AfylTUJyQ0o",
         "yt_teaser": "ZD1pL8D2oIE"
     },
     "271": {
@@ -1270,7 +1270,7 @@
         "slides": "/slides/li20c.pdf",
         "title": "Vispi: Automatic Visual Perception and Interpretation of Chest X-rays",
         "url": "papers/li20c.html",
-        "yt_full": "",
+        "yt_full": "Zk3oiobIw1Q",
         "yt_teaser": "-un_xVu-hu0"
     },
     "278": {
@@ -1298,7 +1298,7 @@
         "slides": "/slides/mehta20.pdf",
         "title": "Uncertainty Evaluation Metrics for Brain Tumour Segmentation",
         "url": "papers/mehta20.html",
-        "yt_full": "",
+        "yt_full": "-MGzvWMD21U",
         "yt_teaser": "1jVyfnhw1xM"
     },
     "288": {
@@ -1312,7 +1312,7 @@
         "slides": "/slides/moyer20.pdf",
         "title": "Overview of Scanner Invariant Representations",
         "url": "papers/moyer20.html",
-        "yt_full": "",
+        "yt_full": "FacuE48OKxg",
         "yt_teaser": "MXFx0TUC1Qk"
     },
     "303": {
@@ -1368,7 +1368,7 @@
         "slides": "/slides/um20.pdf",
         "title": "Multiple resolution residual network for automatic thoracic organs-at-risk segmentation from CT",
         "url": "papers/um20.html",
-        "yt_full": "",
+        "yt_full": "3VXeqFs5AWU",
         "yt_teaser": "wmUgVsE_w38"
     },
     "310": {
@@ -1382,7 +1382,7 @@
         "slides": "/slides/poduval20.pdf",
         "title": "Functional Space Variational Inference for Uncertainty Estimation in Computer Aided Diagnosis",
         "url": "papers/poduval20.html",
-        "yt_full": "",
+        "yt_full": "iyyfj3HQQEQ",
         "yt_teaser": "OI3GMnka7Mw"
     },
     "312": {
@@ -1396,7 +1396,7 @@
         "slides": "/slides/chang20.pdf",
         "title": "Using Generative Models for Pediatric wbMRI",
         "url": "papers/chang20.html",
-        "yt_full": "",
+        "yt_full": "5GFcpjAxpCY",
         "yt_teaser": "Q-zKcLqv0Y0"
     },
     "315": {
@@ -1424,7 +1424,7 @@
         "slides": "/slides/heker20.pdf",
         "title": "Joint Liver Lesion Segmentation and Classification via Transfer Learning",
         "url": "papers/heker20.html",
-        "yt_full": "",
+        "yt_full": "8JLLxCS3Ym4",
         "yt_teaser": "AFLwTiY2xKU"
     },
     "327": {

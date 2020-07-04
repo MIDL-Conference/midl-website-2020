@@ -28,6 +28,7 @@ if __name__ == "__main__":
         paper.yt_teaser = ""
         paper.yt_full = ""
 
+    print(">>> Finding teasers...")
     videos: List[Path] = list(videos_path.glob("*MIDL 2020*Teaser*"))
     video_names: List[str] = [v.name for v in videos]
     print(video_names)
@@ -37,10 +38,11 @@ if __name__ == "__main__":
         yt_id: str = video.split(' - ')[1]
         int_id: int = int(conf_id[1:])
 
-        # print(conf_id, int_id, yt_id)
+        print(conf_id, int_id, yt_id)
 
         papers[int_id].yt_teaser = yt_id
 
+    print(">>> Finding full presentations")
     videos_full: List[Path] = list(videos_path.glob("*MIDL 2020*presentation*"))
     video_full_names: List[str] = [v.name for v in videos_full]
     print(video_full_names)
