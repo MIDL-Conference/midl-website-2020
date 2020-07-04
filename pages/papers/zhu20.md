@@ -41,4 +41,4 @@ page_class: "paper"
 
 ---
 
-{{ youtube('ZD1pL8D2oIE') }}
+{{ presentation('ZD1pL8D2oIE', '/slides/zhu20.pdf', 720, 450) }}
