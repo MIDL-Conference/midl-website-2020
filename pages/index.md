@@ -15,20 +15,18 @@ page_class: "sponsors"
 -->
 
 {{ youtube('41W66ywZh3E') }}
- >The link for the Zoom webinar is available in the chat [**plenary session channel**](https://chat.midl.io/channel/plenary-session).
 
-<center>[Scientific program](scientific-program.html) -- [Program at a glance](/dates.html).</center>
+The link for the Zoom webinar is available in the [plenary session channel](https://chat.midl.io/channel/plenary-session) in the chat.
 
-
-[Demonstration page for a paper](papers/demo20.html)
+<p class="centered">
+    <a href="/scientific-program.html" class="button">Scientific program</a>
+    <a href="/dates.html" class="button">Program at a glance</a>
+    <a href="papers/demo20.html" class="button">Example paper</a>
+</p>
 
 **Instructions and credentials for our chat system will be sent over the weekend.**
 
----
-
-Registrations are still open!
-
-{{ button("Register for MIDL 2020", "/registration.html") }}
+It is still possible to <a href="/registration.html">register for MIDL 2020</a> (free, but required to participate).
 
 ---
 
