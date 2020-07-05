@@ -38,7 +38,7 @@ if __name__ == "__main__":
     matches: List[Match] = list(regexp.finditer(template))
 
     print(len(matches))
-    print(matches)
+    # print(matches)
     for m in matches:
         # id = m[1][2:-2]
         int_id: int = int(m[1])

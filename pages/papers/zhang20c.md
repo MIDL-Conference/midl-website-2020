@@ -32,7 +32,7 @@ page_class: "paper"
     </span>
 </p>
 
-<!-- {{ button("Access paper channel", "https://chat.midl.io/channel/p222") }} -->
+{{ button("Access paper channel", "https://chat.midl.io/channel/p222") }}
 [% / %]
 
 ---
@@ -41,4 +41,4 @@ page_class: "paper"
 
 ---
 
-{{ youtube('y-iXek-lMjE') }}
+{{ presentation('9NR127iB94A', '/slides/zhang20c.pdf', 720, 450) }}

@@ -32,7 +32,7 @@ page_class: "paper"
     </span>
 </p>
 
-<!-- {{ button("Access paper channel", "https://chat.midl.io/channel/SMALLID") }} -->
+{{ button("Access paper channel", "https://chat.midl.io/channel/SMALLID") }}
 [% / %]
 
 ---
@@ -41,4 +41,4 @@ page_class: "paper"
 
 ---
 
-EMBEDEDTEASE
+PRESENTATION

@@ -14,7 +14,7 @@ page_class: "paper"
 - <a class="toggle_visibility" data-selector=".schedule" data-level="3">Show schedule</a>
 - <a href="https://openreview.net/pdf?id=ehpiBRHu07">Paper</a>
 - <a href="https://openreview.net/forum?id=ehpiBRHu07">Reviews</a>
-{{ teaser('') }}
+{{ teaser('eRF7h5lT04k') }}
 
 <p>
     <span class="abstract">
@@ -32,7 +32,7 @@ page_class: "paper"
     </span>
 </p>
 
-<!-- {{ button("Access paper channel", "https://chat.midl.io/channel/s161") }} -->
+{{ button("Access paper channel", "https://chat.midl.io/channel/s161") }}
 [% / %]
 
 ---
@@ -41,3 +41,4 @@ page_class: "paper"
 
 ---
 
+{{ presentation('GbF6J_KA5ws', '/slides/tuladhar20.pdf', 720, 450) }}

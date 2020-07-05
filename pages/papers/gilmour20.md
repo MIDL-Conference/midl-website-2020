@@ -32,7 +32,7 @@ page_class: "paper"
     </span>
 </p>
 
-<!-- {{ button("Access paper channel", "https://chat.midl.io/channel/o303") }} -->
+{{ button("Access paper channel", "https://chat.midl.io/channel/o303") }}
 [% / %]
 
 ---
@@ -41,3 +41,4 @@ page_class: "paper"
 
 ---
 
+{{ presentation('5Bra7IvGDe4', '/slides/gilmour20.pdf', 720, 450) }}

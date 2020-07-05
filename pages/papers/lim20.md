@@ -14,7 +14,7 @@ page_class: "paper"
 - <a class="toggle_visibility" data-selector=".schedule" data-level="3">Show schedule</a>
 - <a href="https://openreview.net/pdf?id=zYareJYs8Z">Paper</a>
 - <a href="https://openreview.net/forum?id=zYareJYs8Z">Reviews</a>
-{{ teaser('') }}
+{{ teaser('yNAMOvv9CyI') }}
 
 <p>
     <span class="abstract">
@@ -32,7 +32,7 @@ page_class: "paper"
     </span>
 </p>
 
-<!-- {{ button("Access paper channel", "https://chat.midl.io/channel/s047") }} -->
+{{ button("Access paper channel", "https://chat.midl.io/channel/s047") }}
 [% / %]
 
 ---
@@ -41,3 +41,4 @@ page_class: "paper"
 
 ---
 
+{{ presentation('OtuZmOuJQlU', '/slides/lim20.pdf', 720, 450) }}
