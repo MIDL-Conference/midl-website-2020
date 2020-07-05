@@ -54,7 +54,8 @@ if __name__ == "__main__":
         if not (root_slides / paper.slides[1:]).exists():
             print(f"\tPaper {paper.conf_id} without slides: {paper.url} {(root_slides / paper.slides)}")
 
-        yt_link = paper.yt_teaser if paper.short else paper.yt_full
+        # yt_link = paper.yt_teaser if paper.short else paper.yt_full
+        yt_link = paper.yt_full
 
         if yt_link and (root_slides / paper.slides[1:]).exists():
             result = result.replace("PRESENTATION", f"{{{{ presentation('{yt_link}', '{paper.slides}', 720, 450) }}}}")

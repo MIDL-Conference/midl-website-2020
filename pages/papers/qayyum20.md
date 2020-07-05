@@ -41,4 +41,4 @@ page_class: "paper"
 
 ---
 
-{{ presentation('Gl1ioiS7IEE', '/slides/qayyum20.pdf', 720, 450) }}
+{{ presentation('hdNBYfsuJSE', '/slides/qayyum20.pdf', 720, 450) }}
