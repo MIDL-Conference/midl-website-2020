@@ -12,10 +12,9 @@ page_class: "paper"
 
 [% .details %]
 <a class="toggle_visibility" data-selector=".abstract" data-level="3">Show abstract</a>
+- <a class="toggle_visibility" data-selector=".schedule" data-level="3">Show schedule</a>
 - <a href="http://proceedings.mlr.press/v102/">Paper</a>
 - <a href="https://openreview.net/group?id=MIDL.io/2020/Conference">Reviews</a>
-- <a class="toggle_visibility" data-selector=".schedule" data-level="3">Show schedule</a>
-
 
 <p>
     <span class="abstract">
