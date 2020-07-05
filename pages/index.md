@@ -22,13 +22,13 @@ page_class: "sponsors"
 
 [Demonstration page for a paper](papers/demo20.html)
 
-**Instructions and login for our chat system will be sent over the week-end.**
+**Instructions and credentials for our chat system will be sent over the weekend.**
 
 ---
 
 Registrations are still open!
 
-{{ button("Registration", "/registration.html") }}
+{{ button("Register for MIDL 2020", "/registration.html") }}
 
 ---
 

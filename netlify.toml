@@ -1,3 +1,7 @@
 [build]
   command = "python -m mwb . output/"
   publish = "output/"
+
+[[redirects]]
+  from = "/program/*"
+  to = "/scientific-program.html"
