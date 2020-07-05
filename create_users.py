@@ -42,7 +42,8 @@ if __name__ == "__main__":
     skipped: int = 0
     with open(csv_path, 'r') as f:
         for line in f.read().splitlines():
-            name, email, paper_id = line.split(',')
+            firstname, lastname, email = line.split(',')
+            name = f"{firstname} {lastname}"
             sanitized_name = name.replace("'", '.').replace('"', '.')
             username: str = name.casefold().replace(' ', '.').replace('-', '.').replace("'", '.').replace('"', '.')
             password: str = token_hex(4)
@@ -71,6 +72,20 @@ if __name__ == "__main__":
             if not create_json["success"] and create_json["errorType"] == 'error-field-unavailable':
                 print(f"> email {email} or username {username} already in use, skipping..")
                 skipped += 1
+            elif not create_json["success"] and create_json["errorType"] == 'error-input-is-not-a-valid-field':
+                print(f"> error for {username} username. Please enter another one:")
+                username = input()
+                create_output = check_output(CREATE_TEMPLATE.format(TOKEN=TOKEN,
+                                                                    USERID=USERID,
+                                                                    name=sanitized_name,
+                                                                    email=email,
+                                                                    password=password,
+                                                                    username=username),
+                                             shell=True)
+                create_json = json.loads(create_output)
+                if not create_json["success"]:
+                                print(f"\t{create_json}")
+                                exit(-1)
             elif not create_json["success"]:
                 print(f"\t{create_json}")
                 exit(-1)
