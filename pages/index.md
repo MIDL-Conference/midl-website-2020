@@ -18,13 +18,13 @@ page_class: "sponsors"
 
 The [full scientific program](scientific-program.html) and a [demonstration page for a paper](papers/demo20.html) are now available!
 
-**Instructions and login for our chat system will be sent over the week-end.**
+**Instructions and credentials for our chat system will be sent over the weekend.**
 
 ---
 
 Registrations are still open!
 
-{{ button("Registration", "/registration.html") }}
+{{ button("Register for MIDL 2020", "/registration.html") }}
 
 ---
 
