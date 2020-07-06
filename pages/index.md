@@ -14,7 +14,7 @@ page_class: "sponsors"
 </p>
 -->
 
-{{ youtube('41W66ywZh3E') }}
+{{ youtube('wNJQScMgpsI') }}
 
 The link for the Zoom webinar is available in the [plenary session channel](https://chat.midl.io/channel/plenary-session) in the chat.
 
@@ -24,7 +24,7 @@ The link for the Zoom webinar is available in the [plenary session channel](http
     <a href="papers/demo20.html" class="button">Example paper</a>
 </p>
 
-**Instructions and credentials for our chat system will be sent over the weekend.**
+<!-- **Instructions and credentials for our chat system will be sent over the weekend.** -->
 
 It is still possible to <a href="/registration.html">register for MIDL 2020</a> (free, but required to participate).
 
