@@ -41,3 +41,4 @@ page_class: "paper"
 
 ---
 
+{{ presentation('FnoSczWs32Y', '/slides/kervadec20.pdf', 720, 450) }}
