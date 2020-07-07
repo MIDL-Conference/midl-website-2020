@@ -77,7 +77,7 @@ title: "Organization"
 
 ---
 
-## Horable mention Reviewers
+## Honorable mention Reviewers
 * Xiahai Zhuang
 * Markus Wenzel
 * Hans Meine
