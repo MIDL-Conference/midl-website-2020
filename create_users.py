@@ -83,7 +83,10 @@ if __name__ == "__main__":
                                                                     username=username),
                                              shell=True)
                 create_json = json.loads(create_output)
-                if not create_json["success"]:
+                if not create_json["success"] and create_json["errorType"] == 'error-field-unavailable':
+                    print(f"> email {email} or username {username} already in use, skipping..")
+                    skipped += 1
+                elif not create_json["success"]:
                                 print(f"\t{create_json}")
                                 exit(-1)
             elif not create_json["success"]:
