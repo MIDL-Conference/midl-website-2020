@@ -24,7 +24,7 @@ page_class: "keynotes"
 ### CentraleSupélec
 #### Holistic AI-Driven Quantification, Staging and Prognosis of COVID-19 Pneumonia
 
-<!-- {{ youtube('V73Kf8V3g1Y') }} -->
+{{ youtube('V73Kf8V3g1Y') }}
 
 **Abstract:** Improving screening, discovering therapies, developing a vaccine and performing staging and prognosis are decisive steps in addressing the COVID-19 pandemic. Staging and prognosis are especially crucial for organizational anticipation (intensive-care bed availability, patient management planning) and accelerating drug development; through rapid, reproducible and quantified response-to-treatment assessment. In this letter, we report on an artificial intelligence solution for performing automatic staging and prognosis based on imaging, clinical, comorbidities and biological data. This approach relies on automatic computed tomography (CT)-based disease quantification using deep learning, robust data-driven identification of physiologically-inspired COVID19 holistic patient profiling, and strong, reproducible staging/outcome prediction with good generalization properties using an ensemble of consensus methods. Highly promising results on multiple independent external evaluation cohorts along with comparisons with expert human readers demonstrate the potentials of our approach. The developed solution offers perspectives for optimal patient management, given the shortage of intensive care beds and ventilators, along with means to assess patient response to treatment.
 
