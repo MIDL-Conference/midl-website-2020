@@ -74,7 +74,7 @@ if __name__ == "__main__":
         if paper.oral:
             oral_text = "Oral presentation"
         elif paper.poster:
-            oral_text = "Poster presentation"
+            oral_text = "Spotlight presentation"
         elif paper.short:
             oral_text = "Short paper"
 

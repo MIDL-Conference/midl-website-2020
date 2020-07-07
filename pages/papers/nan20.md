@@ -38,7 +38,7 @@ page_class: "paper"
 ---
 
 
-### Poster presentation
+### Spotlight presentation
 
 ---
 
