@@ -14,7 +14,7 @@ page_class: "paper"
 - <a class="toggle_visibility" data-selector=".schedule" data-level="3">Show schedule</a>
 - <a href="https://openreview.net/pdf?id=RmNckVums7">Paper</a>
 - <a href="https://openreview.net/forum?id=RmNckVums7">Reviews</a>
-{{ teaser('') }}
+{{ teaser('pLSElJxW7vM') }}
 
 <p>
     <span class="abstract">
