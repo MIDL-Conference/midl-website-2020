@@ -7,7 +7,7 @@ from typing import List
 class Paper():
     def __init__(self, id: str, title: str, authors: str, url: str, or_id: str, oral: str, short: str,
                  abstract: str, schedule: str = "", slides: str = "", yt_teaser: str = "",
-                 yt_full: str = "", ignore_schedule: bool = False):
+                 yt_full: str = "", ignore_schedule: bool = False, award: str = ""):
         self.id: int = int(id)
         self.title: str = title
         self.authors: List[str] = authors.split(', ')
@@ -20,6 +20,7 @@ class Paper():
         self.slides: str = slides
         self.yt_teaser: str = yt_teaser
         self.yt_full: str = yt_full
+        self.award: str = award
 
         self.schedule: List[str]
         if not schedule:
@@ -86,6 +87,7 @@ class PaperEncoder(json.JSONEncoder):
                     "schedule": "\n".join(paper.schedule),
                     "slides": paper.slides,
                     "yt_teaser": paper.yt_teaser,
-                    "yt_full": paper.yt_full}
+                    "yt_full": paper.yt_full,
+                    "award": paper.award}
 
         return json.JSONEncoder.default(self, paper)

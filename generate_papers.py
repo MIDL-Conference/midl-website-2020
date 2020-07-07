@@ -44,6 +44,11 @@ if __name__ == "__main__":
         result = result.replace("SCHEDULE", "<br>".join(paper.schedule))
         result = result.replace("TEASER", paper.yt_teaser)
 
+        if paper.award:
+            result = result.replace("AWARD", f"## {paper.award}")
+        else:
+            result = result.replace("AWARD", "")
+
         if paper.yt_teaser:
             result = result.replace("EMBEDEDTEASE", f"{{{{ youtube('{paper.yt_teaser}') }}}}")
         else:

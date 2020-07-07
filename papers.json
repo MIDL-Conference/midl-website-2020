@@ -165,7 +165,8 @@
         "title": "Addressing The False Negative Problem of MRI Reconstruction Networks by Adversarial Attacks and Robust Training",
         "url": "papers/cheng20.html",
         "yt_full": "7ccE6SXy9t8",
-        "yt_teaser": ""
+        "yt_teaser": "",
+        "award": "Best paper Award"
     },
     "33": {
         "abstract": "Signed distance map (SDM) is a common representation of surfaces in medical image analysis and machine learning. The computational complexity of SDM for 3D parametric shapes is often a bottleneck in many applications, thus limiting their interest. In this paper, we propose a learning-based SDM generation neural network which is demonstrated on a tridimensional cochlea shape model parameterized by 4 shape parameters.\n\n      The proposed SDM Neural Network generates a cochlea signed distance map depending on four input parameters and we show that the deep learning approach leads to a 60 fold improvement in the time of computation compared to more classical SDM generation methods. Therefore, the proposed approach achieves a good trade-off between accuracy and efficiency. ",
@@ -361,7 +362,8 @@
         "title": "MAC-ReconNet: A Multiple Acquisition Context based Convolutional Neural Network for MR Image Reconstruction using Dynamic Weight Prediction",
         "url": "papers/ramanarayanan20.html",
         "yt_full": "HQ1ioGUwhcE",
-        "yt_teaser": "_rzsMOcyV3o"
+        "yt_teaser": "_rzsMOcyV3o",
+        "award": "Runner-up for best paper Award"
     },
     "57": {
         "abstract": "In this work we propose a multi-scale recurrent encoder-decoder architecture to predict the breathing induced organ deformation in future frames. The model was trained end-to-end from input images to predict a sequence of motion labels. Targets were created by quantizing the motion fields obtained from deformable image registration. We propose a multi-scale feature extraction scheme in the spatial encoder which processes the input at different resolutions. We report results using MRI free-breathing acquisitions from 12 volunteers. Experiments were aimed at investigating the proposed multi-scale design and the effect of increasing the number of predicted frames on the overall accuracy of the model. The proposed model was able to predict vessel positions in the next temporal image with a mean accuracy of 2.03 (2.89) mm showing increased performance in comparison with state-of-the-art approaches.",
@@ -529,7 +531,8 @@
         "title": "Tensor Networks for Medical Image Classification",
         "url": "papers/selvan20.html",
         "yt_full": "CpBJVULSGiY",
-        "yt_teaser": "w0YgIa2SxWk"
+        "yt_teaser": "w0YgIa2SxWk",
+        "award": "Runner-up for best paper Award"
     },
     "96": {
         "abstract": "We focus on the problem of training convolutional neural networks on gigapixel histopathology images to predict image-level targets. For this purpose, we extend Neural Image Compression (NIC), an image compression framework that reduces the dimensionality of these images using an encoder network trained unsupervisedly. We propose to train this encoder using supervised multitask learning (MTL) instead. We applied the proposed MTL NIC to two histopathology datasets and three tasks. First, we obtained state-of-the-art results in the Tumor Proliferation Assessment Challenge of 2016 (TUPAC16). Second, we successfully classified histopathological growth patterns in images with colorectal liver metastasis (CLM). Third, we predicted patient risk of death by learning directly from overall survival in the same CLM data. Our experimental results suggest that the representations learned by the MTL objective are: (1) highly specific, due to the supervised training signal, and (2) transferable, since the same features perform well across different tasks. Additionally, we trained multiple encoders with different training objectives, e.g. unsupervised and variants of MTL, and observed a positive correlation between the number of tasks in MTL and the system performance on the TUPAC16 dataset.",
@@ -543,7 +546,8 @@
         "title": "Extending Unsupervised Neural Image Compression With Supervised Multitask Learning",
         "url": "papers/tellez20.html",
         "yt_full": "w48yYvYixCk",
-        "yt_teaser": "GhW1qVGVit8"
+        "yt_teaser": "GhW1qVGVit8",
+        "award": "Runner-up for best paper Award"
     },
     "99": {
         "abstract": "The scarcity of labeled data often limits the application of deep learning to medical image segmentation. Semi-supervised learning helps overcome this limitation by leveraging unlabeled images to guide the learning process. In this paper, we propose using a clustering loss based on mutual information that explicitly enforces prediction consistency between nearby pixels in unlabeled images, and for random perturbation of these images, while imposing the network to predict the correct labels for annotated images. Since mutual information does not require a strict ordering of clusters in two different cluster assignments, we propose to incorporate another consistency regularization loss which forces the alignment of class probabilities at each pixel of perturbed unlabeled images. We evaluate the method on three challenging publicly-available medical datasets for image segmentation. Experimental results show our method to outperform recently-proposed approaches for semi-supervised and yield a performance comparable to fully-supervised training.",
