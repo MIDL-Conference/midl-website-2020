@@ -945,16 +945,6 @@ Session Chairs: Gozde Unal, Samuel Kadoury
         video='https://youtu.be/FmaV3rWWlz0',
         abstract='Changes in brain anatomy can provide important insight for treatment design or scientific analyses. We present a method that predicts how brain anatomy for an individual will change over time. We model these changes through a diffeomorphic deformation field, and design a predictive function using convolutional neural networks. Given a predicted deformation field, a baseline scan can be warped to give a prediction of the brain scan at a future time. We demonstrate the method using the ADNI cohort, and analyze how performance is affected by model variants and the type of subject-specific information provided. We show that the model provides good predictions and that external clinical data can improve predictions.      ')
 }}
-{{ paper('Enhancing Foreground Boundaries for Medical Image Segmentation',
-        'Dong Yang, Holger Roth, Xiaosong Wang, Ziyue Xu, Andriy Myronenko, Daguang Xu',
-        openreview='https://openreview.net/forum?id=PAlQnIVKLY',
-        pdf='https://openreview.net/pdf?id=PAlQnIVKLY',
-        id='S278',
-        paper='papers/yang20.html',
-        teaser='',
-        video='',
-        abstract='Object segmentation plays an important role in the modern medical image analysis, which benefits clinical study, disease diagnosis, and surgery planning. Given the various modalities of medical images, the automated or semi-automated segmentation approaches have been used to identify and parse organs, bones, tumors, and other regions-of-interest (ROI). However, these contemporary segmentation approaches tend to fail to predict the boundary areas of ROI, because of the fuzzy appearance contrast caused during the imaging procedure. To further improve the segmentation quality of boundary areas, we propose a boundary enhancement loss to enforce additional constraints on optimizing machine learning models. The proposed loss function is light-weighted and easy to implement without any pre- or post-processing. Our experimental results validate that our loss function are better than, or at least comparable to, other state-of-the-art loss functions in terms of segmentation accuracy.')
-}}
 {{ paper('Overview of Scanner Invariant Representations',
         'Daniel Moyer, Greg ver Steeg, Paul M. Thompson',
         openreview='https://openreview.net/forum?id=yqm9RD_XHT',

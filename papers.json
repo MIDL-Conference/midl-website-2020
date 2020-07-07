@@ -1277,20 +1277,6 @@
         "yt_full": "Zk3oiobIw1Q",
         "yt_teaser": "-un_xVu-hu0"
     },
-    "278": {
-        "abstract": "Object segmentation plays an important role in the modern medical image analysis, which benefits clinical study, disease diagnosis, and surgery planning. Given the various modalities of medical images, the automated or semi-automated segmentation approaches have been used to identify and parse organs, bones, tumors, and other regions-of-interest (ROI). However, these contemporary segmentation approaches tend to fail to predict the boundary areas of ROI, because of the fuzzy appearance contrast caused during the imaging procedure. To further improve the segmentation quality of boundary areas, we propose a boundary enhancement loss to enforce additional constraints on optimizing machine learning models. The proposed loss function is light-weighted and easy to implement without any pre- or post-processing. Our experimental results validate that our loss function are better than, or at least comparable to, other state-of-the-art loss functions in terms of segmentation accuracy.",
-        "authors": "Dong Yang, Holger Roth, Xiaosong Wang, Ziyue Xu, Andriy Myronenko, Daguang Xu",
-        "id": "278",
-        "or_id": "PAlQnIVKLY",
-        "oral": "False",
-        "schedule": "",
-        "short": "True",
-        "slides": "/slides/yang20.pdf",
-        "title": "Enhancing Foreground Boundaries for Medical Image Segmentation",
-        "url": "papers/yang20.html",
-        "yt_full": "",
-        "yt_teaser": ""
-    },
     "282": {
         "abstract": "In this paper, we describe and explore the metric that was designed to assess and rank uncertainty measures for the task of brain tumour sub-tissue segmentation in the BraTS 2019 sub-challenge on uncertainty quantification. The metric is designed to (1) reward uncertainty measures where high confidence is assigned to correct assertions, and where incorrect assertions are assigned low confidence and (2) penalize measures that have higher percentages of under-confident correct assertions.  Here, the workings of the metrics explored based on a number of popular uncertainty measures evaluated on the BraTS2019 dataset",
         "authors": "Raghav Mehta, Angelos Filos, Yarin Gal, Tal Arbel",
