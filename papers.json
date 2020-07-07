@@ -278,7 +278,7 @@
         "title": "DIVA: Domain Invariant Variational Autoencoder",
         "url": "papers/ilse20.html",
         "yt_full": "1GBSjGtr2rE",
-        "yt_teaser": ""
+        "yt_teaser": "pLSElJxW7vM"
     },
     "45": {
         "abstract": "Minimization of distribution matching losses is a principled approach to domain adaptation in the context of image classification. However, it is largely overlooked in adapting segmentation networks, which is currently dominated by adversarial models. We propose a class of loss functions, which encourage direct kernel density matching in the network-output space, up to some geometric transformations computed from unlabeled inputs. Rather than using an intermediate domain discriminator, our direct approach unifies distribution matching and segmentation in a single loss. Therefore, it simplifies segmentation adaptation by avoiding extra adversarial steps, while improving quality, stability and efficiency of training. We juxtapose our approach to state-of-the-art segmentation adaptation via adversarial training in the network-output space. In the challenging task of adapting brain segmentation across different magnetic resonance imaging (MRI) modalities, our approach achieves significantly better results both in terms of accuracy and stability.\n      ",
