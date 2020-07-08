@@ -14,9 +14,9 @@ page_class: "sponsors"
 </p>
 -->
 
-{{ youtube('qWTgWgurlR0') }}
+{{ youtube('fCjtNyUkji0') }}
 
-**The replay from [Day 1 is available](https://youtu.be/wNJQScMgpsI).**
+**The replays for [Day 1](https://youtu.be/wNJQScMgpsI) and [Day 2](https://youtu.be/qWTgWgurlR0) are available.**
 
 The link for the Zoom webinar is available in the [plenary session channel](https://chat.midl.io/channel/plenary-session) in the chat.
 
