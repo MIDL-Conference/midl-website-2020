@@ -77,28 +77,6 @@ title: "Organization"
 
 ---
 
-## Honorable mention Reviewers
-* Xiahai Zhuang
-* Markus Wenzel
-* Hans Meine
-* Jannis Hagenah
-* Melanie Ganz
-* Darko Stern
-* Felix Bragman
-* Theo van Walsum
-* Young-Gon Kim
-* Pedro Gordaliza
-* Ulas Bagci
-* Nick Pawlowski
-* Erwan Kerrien
-* Fabian Balsiger
-* Kersten Petersen
-* Stefan Klein
-* Vincent Andrearczyk
-* Estibaliz Gomez de Mariscal
-* Martin Styner
-* Hugo Kuijf
-
 
 ## Reviewers
 

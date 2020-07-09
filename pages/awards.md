@@ -64,10 +64,34 @@ The MIDL 2020 best paper award recognizes the highest quality full-length paper 
 
 ---
 
-## Outstanding reviewer Award
+## Reviewers Awards
+
+### Outstanding reviewer
 
 * Murat Ayhan
 * Fausto Milletari
 * Tanja Lossau
 * Hoel Kervadec
 * Saypraseuth Mounsaveng
+
+### Honorable mention
+* Xiahai Zhuang
+* Markus Wenzel
+* Hans Meine
+* Jannis Hagenah
+* Melanie Ganz
+* Darko Stern
+* Felix Bragman
+* Theo van Walsum
+* Young-Gon Kim
+* Pedro Gordaliza
+* Ulas Bagci
+* Nick Pawlowski
+* Erwan Kerrien
+* Fabian Balsiger
+* Kersten Petersen
+* Stefan Klein
+* Vincent Andrearczyk
+* Estibaliz Gomez de Mariscal
+* Martin Styner
+* Hugo Kuijf
