@@ -11,7 +11,7 @@ openreview: "MIDL.io/2020/Conference"
 youtube: "channel/UCd87UPUTt-oqTeGi8fQw-_w"
 github: "MIDL-Conference"
 
-summary: "Medical Imaging with Deep Learning will be held from 6 to 9 July 2020"
+summary: "The Medical Imaging with Deep Learning conference was held from 6 to 9 July 2020"
 
 show_twitter_button: yes
 show_twitter_feed: yes
@@ -26,6 +26,9 @@ nav:
   - title: "Home"
     path: "/"
     icon: "home"
+  - title: "MIDL 2021"
+    path: "https://2021.midl.io"
+    icon: "thumbtack"
   - title: "Scientific program"
     path: "/scientific-program.html"
     icon: "microscope"
