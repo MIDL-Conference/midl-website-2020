@@ -8,26 +8,8 @@ page_class: "program"
 # Scientific program
 
 The conference main schedule will run in Montréal time ([ET = UTC-4](https://www.timeanddate.com/time/map/)).
-<strong id="time-in-montreal" style="display: none;"></strong>
 
 Find a short program overview in the [program at a glance](/dates.html), and subscribe to our [online calendar](/midl.ics).
-
-<script>
-jQuery(function($) {
-  var $span = $('#time-in-montreal');
-  var updateTimeInMontreal = function() {
-    let d = new Date();
-    let t = d.getTime() + d.getTimezoneOffset() * 60000 - (4 * 60 * 60000);
-    d.setTime(t);
-    let s = d.toLocaleTimeString('en-GB', { hour: '2-digit', minute:'2-digit' });
-    $span.text('Current time in Montréal: ' + s + ' UTC-4');
-  };
-
-  updateTimeInMontreal();
-  $span.css('display', 'block');
-  setInterval(updateTimeInMontreal, 15000);
-});
-</script>
 
 ---
 
