@@ -16,7 +16,7 @@ page_class: "sponsors"
 
 {{ youtube('fCjtNyUkji0') }}
 
-**The replays for [Day 1](https://youtu.be/wNJQScMgpsI) and [Day 2](https://youtu.be/qWTgWgurlR0) are available.**
+**The replays for [Day 1](https://youtu.be/wNJQScMgpsI) and [Day 2](https://youtu.be/qWTgWgurlR0) are also available.**
 
 The link for the Zoom webinar is available in the [plenary session channel](https://chat.midl.io/channel/plenary-session) in the chat.
 
@@ -25,10 +25,6 @@ The link for the Zoom webinar is available in the [plenary session channel](http
     <a href="/dates.html" class="button">Program at a glance</a>
     <a href="papers/demo20.html" class="button">Example paper</a>
 </p>
-
-<!-- **Instructions and credentials for our chat system will be sent over the weekend.** -->
-
-It is still possible to <a href="/registration.html">register for MIDL 2020</a> (free, but required to participate).
 
 ---
 
