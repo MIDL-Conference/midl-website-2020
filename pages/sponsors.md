@@ -3,7 +3,12 @@ title: "Sponsors"
 page_class: "sponsors"
 ---
 
+{% from "_macros.html" import youtube %}
+
+
 # Sponsors
+
+{{ youtube('P6_omvvmW14') }}
 
 ## <span class="platinum">Platinum</span>
 
