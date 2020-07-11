@@ -49,4 +49,4 @@ page_class: "sponsors"
 
 ---
 
-Find here still the [author instructions](/author-instructions.html), [reviewer instructions](/reviewer-instructions.html), [call for paper](/call-for-papers.html) and [recording help](/video-help.html).
+Still available: [author instructions](/author-instructions.html), [reviewer instructions](/reviewer-instructions.html), [call for paper](/call-for-papers.html) and [recording help](/video-help.html).
