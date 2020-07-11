@@ -3,7 +3,7 @@ title: "Challenges"
 page_class: "events"
 ---
 
-{% from "_macros.html" import button %}
+{% from "_macros.html" import youtube %}
 
 
 # Official MIDL 2020 challenges
@@ -29,6 +29,8 @@ More info: [Challenge website](https://jfhealthcare.github.io/object-CXR/)
 ## MC-MRRec
 #### Multi-channel MR Image Reconstruction Challenge
 #### Thursday July 9 - 14:00-17:00 UTC-4
+
+{{ youtube('BqJ1uSVNUy8') }}
 
 Deep-learning-based Magnetic Resonance (MR) Imaging reconstruction has the potential to greatly speed-up MR exams. Our Multi-channel MR Image Reconstruction Challenge tackles this issue by:
 
