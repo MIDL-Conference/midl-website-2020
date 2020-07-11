@@ -18,8 +18,6 @@ page_class: "sponsors"
 
 **The replays for [Day 1](https://youtu.be/wNJQScMgpsI) and [Day 2](https://youtu.be/qWTgWgurlR0) are also available.**
 
-The link for the Zoom webinar is available in the [plenary session channel](https://chat.midl.io/channel/plenary-session) in the chat.
-
 <p class="centered">
     <a href="/scientific-program.html" class="button">Scientific program</a>
     <a href="/dates.html" class="button">Program at a glance</a>
