@@ -5,10 +5,6 @@ page_class: "sponsors"
 
 # Sponsorship packages
 
-MIDL attracts about 600 world leading researchers and engineers from academia, industry and biomedical sciences working at the intersection of medical image analysis and machine learning. Sponsorship of the MIDL conference gives companies exposure to attendees from early-career scientists to key leaders in the field offering great opportunities for recruitment. Different sponsorship packages are available to help make the conference another major success.
-
-Inquiries about sponsorship can be made to [sponsor@2020.midl.io](mailto:sponsor@2020.midl.io).
-
 ## <span class="diamond">Diamond (1 only)</span>
 ### <span class="amount">25,000 CA$ (excl. VAT)</span>
 * Company name and logo on the conference website, banners and in the conference book
