@@ -49,4 +49,4 @@ page_class: "sponsors"
 
 ---
 
-Still available: [author instructions](/author-instructions.html), [reviewer instructions](/reviewer-instructions.html), [call for paper](/call-for-papers.html) and [recording help](/video-help.html).
+Still available: [author instructions](/author-instructions.html), [reviewer instructions](/reviewer-instructions.html), [call for paper](/call-for-papers.html), [recording help](/video-help.html). Video tutorials for the [website](https://youtu.be/41W66ywZh3E) and [chat](https://youtu.be/ov6gMKAuWnI) are still available.
