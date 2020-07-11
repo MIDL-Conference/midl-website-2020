@@ -42,4 +42,4 @@ page_class: "paper"
 
 ---
 
-{{ presentation('FnoSczWs32Y', '/slides/kervadec20.pdf', 720, 450) }}
+{{ presentation('1HIK_z-XeMU', '/slides/kervadec20.pdf', 720, 450) }}
