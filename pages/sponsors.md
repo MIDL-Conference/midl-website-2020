@@ -36,5 +36,5 @@ page_class: "sponsors"
 ---
 
 <p class="small">
-    All logos are trademarks and property of their respective owners.
+    All logos are trademarks and property of their respective owners. <a href="/sponsorship-packages.html">Details of the sponsorship packages.</a>
 </p>
