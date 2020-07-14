@@ -4,13 +4,11 @@ title: "Recording help"
 
 # Recording help
 
-This page is to help authors to record their presentation. Rquirements of the said presentation are available in the [author instructions](author-instructions.html#video_instructions).
+This page is to help authors to record their presentation. Requirements of the said presentation are available in the [author instructions](author-instructions.html#video_instructions).
 
 While we are unable to provide individualized technical support to help you create these videos, we provide on this page several examples on how to record a video of your presentation, and some instructions to convert the recording if needed.
 
-This page is still under construction, as we add more methods to record your talk. If you find another, good method to do so, you can share it with us at [2020@midl.io](mailto:2020.midl.io).
-
-First, a quick reminder of the requirement:
+Quick reminder of the requirement:
 
 * `16/9` aspect ratio
 * Resolution at least `1920x1080p`
