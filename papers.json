@@ -1321,7 +1321,7 @@
     },
     "304": {
         "abstract": "In the following work, we use a modified version of deep BrainNet convolutional neural network (CNN) trained on the diffusion weighted MRI (DW-MRI) tractography connectomes of patients with Alzheimer\u2019s Disease (AD) and Mild Cognitive Impairment (MCI) to better understand the structural connectomics of that disease. We show that with a relatively simple connectomic BrainNetCNN used to classify brain images and explainable AI techniques, one can underline brain regions and their connectivity involved in AD. Results reveal that the connected regions with high structural differences between groups are those also reported in previous AD literature. Our findings support that deep learning over structural connectomes is a powerful tool to leverage the complex structure within connectomes derived from diffusion MRI tractography. To our knowledge, our contribution is the first explainable AI work applied to structural analysis of a degenerative disease.",
-        "authors": "Achraf Essemlali, Etienne St-Onge, Jean Christophe Houde, Pierre Marc Jodoin, Maxime Descoteaux",
+        "authors": "Achraf Essemlali, Etienne St-Onge, Jean Christophe Houde, Maxime Descoteaux, Pierre-Marc Jodoin",
         "id": "304",
         "or_id": "K75ya1BJMK",
         "oral": "False",
@@ -1330,8 +1330,8 @@
         "slides": "/slides/essemlali20.pdf",
         "title": "Understanding Alzheimer disease\u2019s structural connectivity through explainable AI",
         "url": "papers/essemlali20.html",
-        "yt_full": "2Q8XCmVG0-M",
-        "yt_teaser": "SyBlSUyR10E"
+        "yt_full": "seno4jmMeWk",
+        "yt_teaser": "7zsARrGGV34"
     },
     "305": {
         "abstract": "An emerging technology in cancer care and research is the use of histopathology whole slide images (WSI). Leveraging computation methods to aid in WSI assessment poses unique challenges. WSIs, being extremely high resolution giga-pixel images, cannot be directly processed by convolutional neural networks (CNN) due to huge computational cost. For this reason, state-of-the-art methods for WSI analysis adopt a two-stage approach where the training of a tile encoder is decoupled from the tile aggregation. This results in a trade-off between learning diverse and discriminative features. In contrast, we propose end-to-end part learning (EPL) which is able to learn diverse features while ensuring that learned features are discriminative. Each WSI is modeled as consisting of $k$ groups of tiles with similar features, defined as parts. A loss with respect to the slide label is backpropagated through an integrated CNN model to $k$ input tiles that are used to represent each part. Our experiments show that EPL is capable of clinical grade prediction of prostate and basal cell carcinoma. Further, we show that diverse discriminative features produced by EPL succeeds in multi-label classification of lung cancer architectural subtypes. Beyond classification, our method provides rich information of slides for high quality clinical decision support.",

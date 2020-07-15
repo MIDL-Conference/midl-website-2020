@@ -1301,13 +1301,13 @@ Session Chairs: Pierre-Marc Jodoin, April Khademi
         abstract='Various mutations have been shown to correlate with prognosis of High-Grade Glioma (Glioblastoma). Overall prognostic assessment requires analysis of multiple modalities: imaging, molecular and clinical. To optimize this assessment pipeline, this paper develops the first deep learning-based system that uses MRI data to predict 19/20 co-gain, a mutation that indicates median survival. The paper addresses two key challenges when dealing with deep learning algorithms and medical data: lack of data and high data imbalance. We propose an unified approach that consists of a Feature Disentanglement (FeaD-GAN) technique for generating synthetic images to address these challenges, that projects features and re-samples from a pseudo-larger data distribution to generate synthetic images from very limited data. A thorough analysis is performed to (a) characterize aspects of visual manifestation of 19/20 co-gain that demonstrates the effectiveness of FeaD-GAN and (b) demonstrate that not only do the imaging biomarkers of 19/20 co-gain exist, but they are reproducible as well.')
 }}
 {{ paper('Understanding Alzheimer disease’s structural connectivity through explainable AI',
-        'Achraf Essemlali, Etienne St-Onge, Jean Christophe Houde, Pierre Marc Jodoin, Maxime Descoteaux',
+        'Achraf Essemlali, Etienne St-Onge, Jean Christophe Houde, Maxime Descoteaux, Pierre-Marc Jodoin',
         openreview='https://openreview.net/forum?id=K75ya1BJMK',
         pdf='https://openreview.net/pdf?id=K75ya1BJMK',
         id='P304',
         paper='papers/essemlali20.html',
-        teaser='https://youtu.be/SyBlSUyR10E',
-        video='https://youtu.be/2Q8XCmVG0-M',
+        teaser='https://youtu.be/7zsARrGGV34',
+        video='https://youtu.be/seno4jmMeWk',
         abstract='In the following work, we use a modified version of deep BrainNet convolutional neural network (CNN) trained on the diffusion weighted MRI (DW-MRI) tractography connectomes of patients with Alzheimer’s Disease (AD) and Mild Cognitive Impairment (MCI) to better understand the structural connectomics of that disease. We show that with a relatively simple connectomic BrainNetCNN used to classify brain images and explainable AI techniques, one can underline brain regions and their connectivity involved in AD. Results reveal that the connected regions with high structural differences between groups are those also reported in previous AD literature. Our findings support that deep learning over structural connectomes is a powerful tool to leverage the complex structure within connectomes derived from diffusion MRI tractography. To our knowledge, our contribution is the first explainable AI work applied to structural analysis of a degenerative disease.')
 }}
 {{ paper('Fast Mitochondria Detection for Connectomics',
