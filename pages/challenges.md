@@ -53,6 +53,8 @@ If having troubles accessing the website, please contact: [roberto.medeirosdeso@
 ### SARAS endoscopic vision challenge for surgeon action detection
 #### Thursday July 9 - 9:00-13:00 UTC-4
 
+{{ youtube('NfenAvqwTP0') }}
+
 Minimally Invasive Surgery (MIS) is a very sensitive medical procedure, whose success depends on the competence of the human surgeons and the degree of effectiveness of their coordination. The SARAS (Smart Autonomous Robotic Assistant Surgeon) EU consortium, is working towards replacing the assistant surgeon in MIS with two assistive robotic arms. To accomplish that, an artificial intelligence based system is required which not only can understand the complete surgical scene but also detect the actions being performed by the main surgeon.
 
 This challenge has recorded four sessions of complete prostatectomy procedure performed by expert surgeons on real patients with prostate cancer. Later, expert AI and medical professions annotated these complete surgical procedures for the actions. Multiple action instances might be present at any point during the procedure . Hence, each frame is labeled for multiple actions and these actions can have overlapping bounding boxes.
