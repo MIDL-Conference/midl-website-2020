@@ -7,7 +7,7 @@ page_class: "paper"
 
 # P045 - On Direct Distribution Matching for Adapting Segmentation Networks
 
-### Georg Pichler, Jose Dolz, Ismail Ben Ayed, Pablo Piantanida
+#### Georg Pichler, Jose Dolz, Ismail Ben Ayed, Pablo Piantanida
 
 [% .details %]
 <a class="toggle_visibility" data-selector=".abstract" data-level="3">Show abstract</a>

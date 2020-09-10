@@ -7,7 +7,7 @@ page_class: "paper"
 
 # S137 - Improving Mammography Malignancy Segmentation by Designing the Training Process
 
-### Mickael Tardy, Diana Mateus
+#### Mickael Tardy, Diana Mateus
 
 [% .details %]
 <a class="toggle_visibility" data-selector=".abstract" data-level="3">Show abstract</a>

@@ -7,7 +7,7 @@ page_class: "paper"
 
 # P200 - 4D Semantic Cardiac Magnetic Resonance Image Synthesis on XCAT Anatomical Model
 
-### Samaneh Abbasi-Sureshjani, Sina Amirrajab, Cristian Lorenz, Juergen Weese, Josien Pluim, Marcel Breeuwer
+#### Samaneh Abbasi-Sureshjani, Sina Amirrajab, Cristian Lorenz, Juergen Weese, Josien Pluim, Marcel Breeuwer
 
 [% .details %]
 <a class="toggle_visibility" data-selector=".abstract" data-level="3">Show abstract</a>

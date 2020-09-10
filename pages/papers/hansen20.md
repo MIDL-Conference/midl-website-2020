@@ -7,7 +7,7 @@ page_class: "paper"
 
 # S155 - Tackling the Problem of Large Deformations in Deep Learning Based Medical Image Registration Using Displacement Embeddings
 
-### Lasse Hansen, Mattias P. Heinrich
+#### Lasse Hansen, Mattias P. Heinrich
 
 [% .details %]
 <a class="toggle_visibility" data-selector=".abstract" data-level="3">Show abstract</a>

@@ -7,7 +7,7 @@ page_class: "paper"
 
 # S161 - Automatic segmentation of stroke lesions in non-contrast computed tomography with convolutional neural networks
 
-### Anup Tuladhar, Serena Schimert, Deepthi Rajashekar, Helge C. Kniep, Jens Fiehler, Nils D. Forkert
+#### Anup Tuladhar, Serena Schimert, Deepthi Rajashekar, Helge C. Kniep, Jens Fiehler, Nils D. Forkert
 
 [% .details %]
 <a class="toggle_visibility" data-selector=".abstract" data-level="3">Show abstract</a>

@@ -7,7 +7,7 @@ page_class: "paper"
 
 # O043 - DIVA: Domain Invariant Variational Autoencoder
 
-### Maximilian Ilse, Jakub M. Tomczak, Christos Louizos, Max Welling
+#### Maximilian Ilse, Jakub M. Tomczak, Christos Louizos, Max Welling
 
 [% .details %]
 <a class="toggle_visibility" data-selector=".abstract" data-level="3">Show abstract</a>

@@ -7,7 +7,7 @@ page_class: "paper"
 
 # S312 - Using Generative Models for Pediatric wbMRI
 
-### Alex Chang, Vinith M. Suriyakumar, Abhishek Moturu, Nipaporn Tewattanarat, Andrea Doria, Anna Goldenberg
+#### Alex Chang, Vinith M. Suriyakumar, Abhishek Moturu, Nipaporn Tewattanarat, Andrea Doria, Anna Goldenberg
 
 [% .details %]
 <a class="toggle_visibility" data-selector=".abstract" data-level="3">Show abstract</a>

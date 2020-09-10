@@ -7,7 +7,7 @@ page_class: "paper"
 
 # P064 - DRMIME: Differentiable Mutual Information and Matrix Exponential for Multi-Resolution Image Registration
 
-### Abhishek Nan, Matthew Tennant, Uriel Rubin, Nilanjan Ray
+#### Abhishek Nan, Matthew Tennant, Uriel Rubin, Nilanjan Ray
 
 [% .details %]
 <a class="toggle_visibility" data-selector=".abstract" data-level="3">Show abstract</a>

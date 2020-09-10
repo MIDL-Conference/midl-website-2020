@@ -7,7 +7,7 @@ page_class: "paper"
 
 # S256 - Bayesian Generative Models for Knowledge Transfer in MRI Semantic Segmentation Problems
 
-### Anna Kuzina, Evgenii Egorov, Evgeny Burnaev
+#### Anna Kuzina, Evgenii Egorov, Evgeny Burnaev
 
 [% .details %]
 <a class="toggle_visibility" data-selector=".abstract" data-level="3">Show abstract</a>

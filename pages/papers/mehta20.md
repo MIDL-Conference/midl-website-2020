@@ -7,7 +7,7 @@ page_class: "paper"
 
 # S282 - Uncertainty Evaluation Metrics for Brain Tumour Segmentation
 
-### Raghav Mehta, Angelos Filos, Yarin Gal, Tal Arbel
+#### Raghav Mehta, Angelos Filos, Yarin Gal, Tal Arbel
 
 [% .details %]
 <a class="toggle_visibility" data-selector=".abstract" data-level="3">Show abstract</a>

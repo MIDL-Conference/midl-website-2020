@@ -7,7 +7,7 @@ page_class: "paper"
 
 # O018 - Towards multi-sequence MR image recovery from undersampled k-space data
 
-### Cheng Peng, Wei-An Lin, Rama Chellappa, S. Kevin Zhou
+#### Cheng Peng, Wei-An Lin, Rama Chellappa, S. Kevin Zhou
 
 [% .details %]
 <a class="toggle_visibility" data-selector=".abstract" data-level="3">Show abstract</a>

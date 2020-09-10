@@ -7,7 +7,7 @@ page_class: "paper"
 
 # P009 - KD-MRI: A knowledge distillation framework for image reconstruction and image restoration in MRI workflow
 
-### Balamurali Murugesan, Sricharan Vijayarangan, Kaushik Sarveswaran, Keerthi Ram, Mohanasankar Sivaprakasam
+#### Balamurali Murugesan, Sricharan Vijayarangan, Kaushik Sarveswaran, Keerthi Ram, Mohanasankar Sivaprakasam
 
 [% .details %]
 <a class="toggle_visibility" data-selector=".abstract" data-level="3">Show abstract</a>

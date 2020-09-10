@@ -7,7 +7,7 @@ page_class: "paper"
 
 # O303 - Locating Cephalometric X-Ray Landmarks with Foveated Pyramid Attention
 
-### Logan Gilmour, Nilanjan Ray
+#### Logan Gilmour, Nilanjan Ray
 
 [% .details %]
 <a class="toggle_visibility" data-selector=".abstract" data-level="3">Show abstract</a>

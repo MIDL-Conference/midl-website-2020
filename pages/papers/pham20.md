@@ -7,7 +7,7 @@ page_class: "paper"
 
 # S023 - Interpreting Chest X-rays via CNNs that Exploit Hierarchical Disease Dependencies and Uncertainty Labels
 
-### Hieu H. Pham, Tung T. Le, Dat T. Ngo, Dat Q. Tran, Ha Q. Nguyen
+#### Hieu H. Pham, Tung T. Le, Dat T. Ngo, Dat Q. Tran, Ha Q. Nguyen
 
 [% .details %]
 <a class="toggle_visibility" data-selector=".abstract" data-level="3">Show abstract</a>

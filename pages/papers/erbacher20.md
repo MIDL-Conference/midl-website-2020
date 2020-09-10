@@ -7,7 +7,7 @@ page_class: "paper"
 
 # P228 - Priority Unet: Detection of Punctuate White Matter Lesions in Preterm Neonate in 3D Cranial Ultrasonography
 
-### ERBACHER Pierre, LARTIZIEN Carole, MARTIN Matthieu, FOLLETO PIMENTA Pedro, QUETIN Philippe, DELACHARTRE Philippe
+#### ERBACHER Pierre, LARTIZIEN Carole, MARTIN Matthieu, FOLLETO PIMENTA Pedro, QUETIN Philippe, DELACHARTRE Philippe
 
 [% .details %]
 <a class="toggle_visibility" data-selector=".abstract" data-level="3">Show abstract</a>

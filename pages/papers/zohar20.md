@@ -7,7 +7,7 @@ page_class: "paper"
 
 # P157 - Accurate Detection of Out of Body Segments in Surgical Video using Semi-Supervised Learning
 
-### Maya Zohar, Omri Bar, Daniel Neimark, Gregory D. Hager, Dotan Asselmann
+#### Maya Zohar, Omri Bar, Daniel Neimark, Gregory D. Hager, Dotan Asselmann
 
 [% .details %]
 <a class="toggle_visibility" data-selector=".abstract" data-level="3">Show abstract</a>

@@ -7,7 +7,7 @@ page_class: "paper"
 
 # P174 - Comparing Objective Functions for Segmentation and Detection of Tiny Lesions in Retinal Images
 
-### Jakob Kristian Holm Andersen, Thiusius Rajeeth Savarimuthu, Jakob Grauslund
+#### Jakob Kristian Holm Andersen, Thiusius Rajeeth Savarimuthu, Jakob Grauslund
 
 [% .details %]
 <a class="toggle_visibility" data-selector=".abstract" data-level="3">Show abstract</a>

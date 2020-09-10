@@ -7,7 +7,7 @@ page_class: "paper"
 
 # S059 - Low-dose CT Enhancement Network with a Perceptual Loss Function in the Spatial Frequency and Image Domains
 
-### Kevin J. Chung, Roberto Souza, Richard Frayne, Ting-Yim Lee
+#### Kevin J. Chung, Roberto Souza, Richard Frayne, Ting-Yim Lee
 
 [% .details %]
 <a class="toggle_visibility" data-selector=".abstract" data-level="3">Show abstract</a>

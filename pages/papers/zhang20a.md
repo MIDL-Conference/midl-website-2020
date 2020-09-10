@@ -7,7 +7,7 @@ page_class: "paper"
 
 # O006 - Bayesian Learning of Probabilistic Dipole Inversion for Quantitative Susceptibility Mapping
 
-### Jinwei Zhang, Hang Zhang, Mert Sabuncu, Pascal Spincemaille, Thanh Nguyen, Yi Wang
+#### Jinwei Zhang, Hang Zhang, Mert Sabuncu, Pascal Spincemaille, Thanh Nguyen, Yi Wang
 
 [% .details %]
 <a class="toggle_visibility" data-selector=".abstract" data-level="3">Show abstract</a>

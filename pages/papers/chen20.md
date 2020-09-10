@@ -7,7 +7,7 @@ page_class: "paper"
 
 # S038 - Medical Image Segmentation via Unsupervised Convolutional Neural Network
 
-### Junyu Chen, Eric C. Frey
+#### Junyu Chen, Eric C. Frey
 
 [% .details %]
 <a class="toggle_visibility" data-selector=".abstract" data-level="3">Show abstract</a>

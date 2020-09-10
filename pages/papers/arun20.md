@@ -7,7 +7,7 @@ page_class: "paper"
 
 # S107 - Assessing the validity of saliency maps for abnormality localization in medical imaging
 
-### Nishanth Thumbavanam Arun, Nathan Gaw, Praveer Singh, Ken Chang, Katharina Viktoria Hoebel, Jay Patel, Mishka Gidwani, Jayashree Kalpathy-Cramer
+#### Nishanth Thumbavanam Arun, Nathan Gaw, Praveer Singh, Ken Chang, Katharina Viktoria Hoebel, Jay Patel, Mishka Gidwani, Jayashree Kalpathy-Cramer
 
 [% .details %]
 <a class="toggle_visibility" data-selector=".abstract" data-level="3">Show abstract</a>

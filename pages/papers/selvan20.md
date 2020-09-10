@@ -7,7 +7,7 @@ page_class: "paper"
 
 # O095 - Tensor Networks for Medical Image Classification
 
-### Raghavendra Selvan, Erik B Dam
+#### Raghavendra Selvan, Erik B Dam
 
 [% .details %]
 <a class="toggle_visibility" data-selector=".abstract" data-level="3">Show abstract</a>

@@ -7,7 +7,7 @@ page_class: "paper"
 
 # S310 - Functional Space Variational Inference for Uncertainty Estimation in Computer Aided Diagnosis
 
-### Pranav Poduval, Hrushikesh Loya, Amit Sethi
+#### Pranav Poduval, Hrushikesh Loya, Amit Sethi
 
 [% .details %]
 <a class="toggle_visibility" data-selector=".abstract" data-level="3">Show abstract</a>

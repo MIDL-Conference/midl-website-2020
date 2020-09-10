@@ -7,7 +7,7 @@ page_class: "paper"
 
 # CONF_ID - TITLE
 
-### AUTHORS
+#### AUTHORS
 
 [% .details %]
 <a class="toggle_visibility" data-selector=".abstract" data-level="3">Show abstract</a>

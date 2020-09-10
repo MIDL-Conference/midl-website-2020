@@ -7,7 +7,7 @@ page_class: "paper"
 
 # P002 - How Distance Transform Maps Boost Segmentation CNNs: An Empirical Study
 
-### Jun Ma, Zhan Wei, Yiwen Zhang, Yixin Wang, Rongfei Lv, Cheng Zhu, Gaoxiang Chen, Jianan Liu, Chao Peng, Lei Wang, Yunpeng Wang, Jianan Chen
+#### Jun Ma, Zhan Wei, Yiwen Zhang, Yixin Wang, Rongfei Lv, Cheng Zhu, Gaoxiang Chen, Jianan Liu, Chao Peng, Lei Wang, Yunpeng Wang, Jianan Chen
 
 [% .details %]
 <a class="toggle_visibility" data-selector=".abstract" data-level="3">Show abstract</a>

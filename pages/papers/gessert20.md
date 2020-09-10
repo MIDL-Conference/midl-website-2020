@@ -7,7 +7,7 @@ page_class: "paper"
 
 # S092 - 4D Deep Learning for Multiple-Sclerosis Lesion Activity Segmentation
 
-### Nils Gessert, Marcel Bengs, Julia Krüger, Roland Opfer, Ann-Christin Ostwaldt, Praveena Manogaran, Sven Schippling, Alexander Schlaefer
+#### Nils Gessert, Marcel Bengs, Julia Krüger, Roland Opfer, Ann-Christin Ostwaldt, Praveena Manogaran, Sven Schippling, Alexander Schlaefer
 
 [% .details %]
 <a class="toggle_visibility" data-selector=".abstract" data-level="3">Show abstract</a>

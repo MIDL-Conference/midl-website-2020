@@ -7,7 +7,7 @@ page_class: "paper"
 
 # S133 - Learning to map between ferns with differentiable binary embedding networks
 
-### Max Blendowski, Mattias P. Heinrich
+#### Max Blendowski, Mattias P. Heinrich
 
 [% .details %]
 <a class="toggle_visibility" data-selector=".abstract" data-level="3">Show abstract</a>

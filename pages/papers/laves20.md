@@ -7,7 +7,7 @@ page_class: "paper"
 
 # O212 - Well-Calibrated Regression Uncertainty in Medical Imaging with Deep Learning
 
-### Max-Heinrich Laves, Sontje Ihler, Jacob F. Fast, Lüder A. Kahrs, Tobias Ortmaier
+#### Max-Heinrich Laves, Sontje Ihler, Jacob F. Fast, Lüder A. Kahrs, Tobias Ortmaier
 
 [% .details %]
 <a class="toggle_visibility" data-selector=".abstract" data-level="3">Show abstract</a>

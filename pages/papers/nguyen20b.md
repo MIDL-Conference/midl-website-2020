@@ -7,7 +7,7 @@ page_class: "paper"
 
 # S041 - A CNN-LSTM Architecture for Detection of Intracranial Hemorrhage on CT scans
 
-### Nhan T. Nguyen, Dat Q. Tran, Nghia T. Nguyen, Ha Q. Nguyen
+#### Nhan T. Nguyen, Dat Q. Tran, Nghia T. Nguyen, Ha Q. Nguyen
 
 [% .details %]
 <a class="toggle_visibility" data-selector=".abstract" data-level="3">Show abstract</a>

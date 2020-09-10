@@ -7,7 +7,7 @@ page_class: "paper"
 
 # S131 - Unsupervised learning of multimodal image registration using domain adaptation with projected Earth Mover’s discrepancies
 
-### Mattias P Heinrich, Lasse Hansen
+#### Mattias P Heinrich, Lasse Hansen
 
 [% .details %]
 <a class="toggle_visibility" data-selector=".abstract" data-level="3">Show abstract</a>

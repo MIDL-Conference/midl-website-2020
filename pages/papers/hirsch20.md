@@ -7,7 +7,7 @@ page_class: "paper"
 
 # P017 - An Auxiliary Task for Learning Nuclei Segmentation in 3D Microscopy Images
 
-### Peter Hirsch, Dagmar Kainmueller
+#### Peter Hirsch, Dagmar Kainmueller
 
 [% .details %]
 <a class="toggle_visibility" data-selector=".abstract" data-level="3">Show abstract</a>

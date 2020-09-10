@@ -7,7 +7,7 @@ page_class: "paper"
 
 # S126 - Data-Driven Prediction of Embryo Implantation Probability Using IVF Time-lapse Imaging
 
-### David H. Silver, Martin Feder, Yael Gold-Zamir, Avital L. Polsky, Shahar Rosentraub, Efrat Shachor, Adi Weinberger, Pavlo Mazur, Valery D. Zukin, Alex M. Bronstein
+#### David H. Silver, Martin Feder, Yael Gold-Zamir, Avital L. Polsky, Shahar Rosentraub, Efrat Shachor, Adi Weinberger, Pavlo Mazur, Valery D. Zukin, Alex M. Bronstein
 
 [% .details %]
 <a class="toggle_visibility" data-selector=".abstract" data-level="3">Show abstract</a>

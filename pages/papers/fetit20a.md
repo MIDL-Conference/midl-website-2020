@@ -7,7 +7,7 @@ page_class: "paper"
 
 # P230 - Training deep segmentation networks on texture-encoded input: application to neuroimaging of the developing neonatal brain
 
-### Ahmed E. Fetit, John Cupitt, Turkay Kart, Daniel Rueckert
+#### Ahmed E. Fetit, John Cupitt, Turkay Kart, Daniel Rueckert
 
 [% .details %]
 <a class="toggle_visibility" data-selector=".abstract" data-level="3">Show abstract</a>

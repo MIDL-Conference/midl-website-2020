@@ -7,7 +7,7 @@ page_class: "paper"
 
 # P327 - Fast Mitochondria Detection for Connectomics
 
-### Vincent Casser, Kai Kang, Hanspeter Pfister, Daniel Haehn
+#### Vincent Casser, Kai Kang, Hanspeter Pfister, Daniel Haehn
 
 [% .details %]
 <a class="toggle_visibility" data-selector=".abstract" data-level="3">Show abstract</a>

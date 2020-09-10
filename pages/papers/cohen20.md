@@ -7,7 +7,7 @@ page_class: "paper"
 
 # P036 - On the limits of cross-domain generalization in automated X-ray prediction
 
-### Joseph Paul Cohen, Mohammad Hashir, Rupert Brooks, Hadrien Bertrand
+#### Joseph Paul Cohen, Mohammad Hashir, Rupert Brooks, Hadrien Bertrand
 
 [% .details %]
 <a class="toggle_visibility" data-selector=".abstract" data-level="3">Show abstract</a>

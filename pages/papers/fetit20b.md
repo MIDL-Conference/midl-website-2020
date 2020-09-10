@@ -7,7 +7,7 @@ page_class: "paper"
 
 # P136 - A deep learning approach to segmentation of the developing cortex in fetal brain MRI with minimal manual labeling
 
-### Ahmed E. Fetit, Amir Alansary, Lucilio Cordero-Grande, John Cupitt, Alice B. Davidson, A. David Edwards, Joseph V. Hajnal, Emer Hughes, Konstantinos Kamnitsas, Vanessa Kyriakopoulou, Antonios Makropoulos, Prachi A. Patkee, Anthony N. Price, Mary A. Rutherford, Daniel Rueckert
+#### Ahmed E. Fetit, Amir Alansary, Lucilio Cordero-Grande, John Cupitt, Alice B. Davidson, A. David Edwards, Joseph V. Hajnal, Emer Hughes, Konstantinos Kamnitsas, Vanessa Kyriakopoulou, Antonios Makropoulos, Prachi A. Patkee, Anthony N. Price, Mary A. Rutherford, Daniel Rueckert
 
 [% .details %]
 <a class="toggle_visibility" data-selector=".abstract" data-level="3">Show abstract</a>

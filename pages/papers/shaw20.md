@@ -7,7 +7,7 @@ page_class: "paper"
 
 # O171 - A Heteroscedastic Uncertainty Model for Decoupling Sources of MRI Image Quality
 
-### Richard Shaw, Carole H. Sudre, Sebastien Ourselin, M. Jorge Cardoso
+#### Richard Shaw, Carole H. Sudre, Sebastien Ourselin, M. Jorge Cardoso
 
 [% .details %]
 <a class="toggle_visibility" data-selector=".abstract" data-level="3">Show abstract</a>

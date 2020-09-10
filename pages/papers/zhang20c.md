@@ -7,7 +7,7 @@ page_class: "paper"
 
 # P222 - Direct estimation of fetal head circumference from ultrasound images based on regression CNN
 
-### Jing Zhang, Caroline Petitjean, Pierre Lopez, Samia Ainouz
+#### Jing Zhang, Caroline Petitjean, Pierre Lopez, Samia Ainouz
 
 [% .details %]
 <a class="toggle_visibility" data-selector=".abstract" data-level="3">Show abstract</a>

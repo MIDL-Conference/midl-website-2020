@@ -7,7 +7,7 @@ page_class: "paper"
 
 # S027 - Tractometry-based Anomaly Detection for Single-subject White Matter Analysis
 
-### Maxime Chamberland, Sila Genc, Erika P. Raven, Greg D. Parker, Adam Cunningham, Joanne Doherty, Marianne van den Bree, Chantal M. W. Tax, Derek K. Jones
+#### Maxime Chamberland, Sila Genc, Erika P. Raven, Greg D. Parker, Adam Cunningham, Joanne Doherty, Marianne van den Bree, Chantal M. W. Tax, Derek K. Jones
 
 [% .details %]
 <a class="toggle_visibility" data-selector=".abstract" data-level="3">Show abstract</a>

@@ -7,7 +7,7 @@ page_class: "paper"
 
 # P140 - Efficient Out-of-Distribution Detection in Digital Pathology Using Multi-Head Convolutional Neural Networks
 
-### Jasper Linmans, Jeroen van der Laak, Geert Litjens
+#### Jasper Linmans, Jeroen van der Laak, Geert Litjens
 
 [% .details %]
 <a class="toggle_visibility" data-selector=".abstract" data-level="3">Show abstract</a>

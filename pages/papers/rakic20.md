@@ -7,7 +7,7 @@ page_class: "paper"
 
 # S236 - Anatomical Predictions using Subject-Specific Medical Data
 
-### Marianne Rakic, John Guttag, Adrian V. Dalca
+#### Marianne Rakic, John Guttag, Adrian V. Dalca
 
 [% .details %]
 <a class="toggle_visibility" data-selector=".abstract" data-level="3">Show abstract</a>

@@ -7,7 +7,7 @@ page_class: "paper"
 
 # S073 - DeepRetinotopy: Predicting the Functional Organization of Human Visual Cortex from Structural MRI Data using Geometric Deep Learning
 
-### Fernanda L. Ribeiro, Steffen Bollmann, Alexander M. Puckett
+#### Fernanda L. Ribeiro, Steffen Bollmann, Alexander M. Puckett
 
 [% .details %]
 <a class="toggle_visibility" data-selector=".abstract" data-level="3">Show abstract</a>

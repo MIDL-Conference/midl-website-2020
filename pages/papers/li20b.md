@@ -7,7 +7,7 @@ page_class: "paper"
 
 # P163 - Joint Learning of Vessel Segmentation and Artery/Vein Classification with Post-processing
 
-### Liangzhi Li, Manisha Verma, Yuta Nakashima, Ryo Kawasaki, Hajime Nagahara
+#### Liangzhi Li, Manisha Verma, Yuta Nakashima, Ryo Kawasaki, Hajime Nagahara
 
 [% .details %]
 <a class="toggle_visibility" data-selector=".abstract" data-level="3">Show abstract</a>

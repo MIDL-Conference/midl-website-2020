@@ -7,7 +7,7 @@ page_class: "paper"
 
 # O028 - Addressing The False Negative Problem of MRI Reconstruction Networks by Adversarial Attacks and Robust Training
 
-### Kaiyang Cheng, Francesco Calivá, Rutwik Shah, Misung Han, Sharmila Majumdar, Valentina Pedoia
+#### Kaiyang Cheng, Francesco Calivá, Rutwik Shah, Misung Han, Sharmila Majumdar, Valentina Pedoia
 
 [% .details %]
 <a class="toggle_visibility" data-selector=".abstract" data-level="3">Show abstract</a>

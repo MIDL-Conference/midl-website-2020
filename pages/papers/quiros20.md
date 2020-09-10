@@ -7,7 +7,7 @@ page_class: "paper"
 
 # P150 - Pathology GAN: Learning deep representations of cancer tissue
 
-### Adalberto Claudio Quiros, Roderick Murray-Smith, Ke Yuan
+#### Adalberto Claudio Quiros, Roderick Murray-Smith, Ke Yuan
 
 [% .details %]
 <a class="toggle_visibility" data-selector=".abstract" data-level="3">Show abstract</a>

@@ -7,7 +7,7 @@ page_class: "paper"
 
 # P334 - Domain adaptation model for retinopathy detection from cross-domain OCT images
 
-### Jing Wang, Yiwei Chen, Wanyue Li, Wen Kong, Yi He, Chunhui Jiang, Guohua Shi
+#### Jing Wang, Yiwei Chen, Wanyue Li, Wen Kong, Yi He, Chunhui Jiang, Guohua Shi
 
 [% .details %]
 <a class="toggle_visibility" data-selector=".abstract" data-level="3">Show abstract</a>

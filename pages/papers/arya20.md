@@ -7,7 +7,7 @@ page_class: "paper"
 
 # P183 - Fusing Structural and Functional MRIs using Graph Convolutional Networks for Autism Classification
 
-### Devanshu Arya, Richard Olij, Deepak K. Gupta, Ahmed El Gazzar, Guido van Wingen, Marcel Worring, Rajat Mani Thomas
+#### Devanshu Arya, Richard Olij, Deepak K. Gupta, Ahmed El Gazzar, Guido van Wingen, Marcel Worring, Rajat Mani Thomas
 
 [% .details %]
 <a class="toggle_visibility" data-selector=".abstract" data-level="3">Show abstract</a>

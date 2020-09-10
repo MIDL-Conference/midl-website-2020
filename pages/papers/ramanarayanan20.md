@@ -7,7 +7,7 @@ page_class: "paper"
 
 # O056 - MAC-ReconNet: A Multiple Acquisition Context based Convolutional Neural Network for MR Image Reconstruction using Dynamic Weight Prediction
 
-### Sriprabha Ramanarayanan, Balamurali Murugesan, Keerthi Ram, Mohanasankar Sivaprakasam
+#### Sriprabha Ramanarayanan, Balamurali Murugesan, Keerthi Ram, Mohanasankar Sivaprakasam
 
 [% .details %]
 <a class="toggle_visibility" data-selector=".abstract" data-level="3">Show abstract</a>

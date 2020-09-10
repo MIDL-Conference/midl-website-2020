@@ -7,7 +7,7 @@ page_class: "paper"
 
 # S014 - Automatic segmentation of the pulmonary lobes with a 3D u-net and optimized loss function
 
-### Bianca Lassen-Schmidt, Alessa Hering, Stefan Krass, Hans Meine
+#### Bianca Lassen-Schmidt, Alessa Hering, Stefan Krass, Hans Meine
 
 [% .details %]
 <a class="toggle_visibility" data-selector=".abstract" data-level="3">Show abstract</a>

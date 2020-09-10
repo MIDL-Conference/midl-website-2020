@@ -7,7 +7,7 @@ page_class: "paper"
 
 # S118 - On the effectiveness of GAN generated cardiac MRIs for segmentation
 
-### Youssef Skandarani, Nathan Painchaud, Pierre-Marc Jodoin, Alain Lalande
+#### Youssef Skandarani, Nathan Painchaud, Pierre-Marc Jodoin, Alain Lalande
 
 [% .details %]
 <a class="toggle_visibility" data-selector=".abstract" data-level="3">Show abstract</a>

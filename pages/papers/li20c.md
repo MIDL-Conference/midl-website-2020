@@ -7,7 +7,7 @@ page_class: "paper"
 
 # S276 - Vispi: Automatic Visual Perception and Interpretation of Chest X-rays
 
-### Xin Li, Rui Cao, Dongxiao Zhu
+#### Xin Li, Rui Cao, Dongxiao Zhu
 
 [% .details %]
 <a class="toggle_visibility" data-selector=".abstract" data-level="3">Show abstract</a>

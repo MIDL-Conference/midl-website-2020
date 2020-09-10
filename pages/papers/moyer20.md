@@ -7,7 +7,7 @@ page_class: "paper"
 
 # S288 - Overview of Scanner Invariant Representations
 
-### Daniel Moyer, Greg ver Steeg, Paul M. Thompson
+#### Daniel Moyer, Greg ver Steeg, Paul M. Thompson
 
 [% .details %]
 <a class="toggle_visibility" data-selector=".abstract" data-level="3">Show abstract</a>

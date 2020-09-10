@@ -7,7 +7,7 @@ page_class: "paper"
 
 # P304 - Understanding Alzheimer disease’s structural connectivity through explainable AI
 
-### Achraf Essemlali, Etienne St-Onge, Jean Christophe Houde, Maxime Descoteaux, Pierre-Marc Jodoin
+#### Achraf Essemlali, Etienne St-Onge, Jean Christophe Houde, Maxime Descoteaux, Pierre-Marc Jodoin
 
 [% .details %]
 <a class="toggle_visibility" data-selector=".abstract" data-level="3">Show abstract</a>

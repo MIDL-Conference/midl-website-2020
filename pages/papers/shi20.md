@@ -7,7 +7,7 @@ page_class: "paper"
 
 # O042 - Automatic Diagnosis of Pulmonary Embolism Using an Attention-guided Framework: A Large-scale Study
 
-### Luyao Shi, Deepta Rajan, Shafiq Abedin, David Beymer, Ehsan Dehghan
+#### Luyao Shi, Deepta Rajan, Shafiq Abedin, David Beymer, Ehsan Dehghan
 
 [% .details %]
 <a class="toggle_visibility" data-selector=".abstract" data-level="3">Show abstract</a>

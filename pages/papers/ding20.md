@@ -7,7 +7,7 @@ page_class: "paper"
 
 # O102 - Uncertainty-Aware Training of Neural Networks for Selective Medical Image Segmentation
 
-### Yukun Ding, Jinglan Liu, Xiaowei Xu, Meiping Huang, Jian Zhuang, Jinjun Xiong, Yiyu Shi
+#### Yukun Ding, Jinglan Liu, Xiaowei Xu, Meiping Huang, Jian Zhuang, Jinjun Xiong, Yiyu Shi
 
 [% .details %]
 <a class="toggle_visibility" data-selector=".abstract" data-level="3">Show abstract</a>

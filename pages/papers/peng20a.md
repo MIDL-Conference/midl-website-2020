@@ -7,7 +7,7 @@ page_class: "paper"
 
 # P099 - Mutual information based deep clustering for semi-supervised segmentation
 
-### Jizong Peng, Marco Pedersoli, Christian Desrosiers
+#### Jizong Peng, Marco Pedersoli, Christian Desrosiers
 
 [% .details %]
 <a class="toggle_visibility" data-selector=".abstract" data-level="3">Show abstract</a>

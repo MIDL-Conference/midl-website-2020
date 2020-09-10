@@ -7,7 +7,7 @@ page_class: "paper"
 
 # S266 - Image Translation by Latent Union of Subspaces for Cross-Domain Plaque Segmentation
 
-### Yingying Zhu, Daniel C. Elton, Sungwon Lee, Perry J. Pickhardt, Ronald M. Summers
+#### Yingying Zhu, Daniel C. Elton, Sungwon Lee, Perry J. Pickhardt, Ronald M. Summers
 
 [% .details %]
 <a class="toggle_visibility" data-selector=".abstract" data-level="3">Show abstract</a>

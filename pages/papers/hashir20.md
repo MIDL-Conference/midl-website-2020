@@ -7,7 +7,7 @@ page_class: "paper"
 
 # P035 - Quantifying the Value of Lateral Views in Deep Learning for Chest X-rays
 
-### Mohammad Hashir, Hadrien Bertrand, Joseph Paul Cohen
+#### Mohammad Hashir, Hadrien Bertrand, Joseph Paul Cohen
 
 [% .details %]
 <a class="toggle_visibility" data-selector=".abstract" data-level="3">Show abstract</a>

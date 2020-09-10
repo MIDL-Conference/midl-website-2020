@@ -7,7 +7,7 @@ page_class: "paper"
 
 # P238 - Prostate Cancer Semantic Segmentation by Gleason Score Group in mp-MRI with Self Attention Model on the Peripheral Zone
 
-### Audrey Duran, Pierre-Marc Jodoin, Carole Lartizien
+#### Audrey Duran, Pierre-Marc Jodoin, Carole Lartizien
 
 [% .details %]
 <a class="toggle_visibility" data-selector=".abstract" data-level="3">Show abstract</a>

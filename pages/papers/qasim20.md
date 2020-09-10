@@ -7,7 +7,7 @@ page_class: "paper"
 
 # P071 - Red-GAN: Attacking class imbalance via conditioned generation. Yet another medical imaging perspective
 
-### Ahmad B Qasim, Ivan Ezhov, Suprosanna Shit, Oliver Schoppe, Johannes Paetzold, Anjany Sekuboyina, Florian Kofler, Jana Lipkova, Hongwei Li, Bjoern Menze
+#### Ahmad B Qasim, Ivan Ezhov, Suprosanna Shit, Oliver Schoppe, Johannes Paetzold, Anjany Sekuboyina, Florian Kofler, Jana Lipkova, Hongwei Li, Bjoern Menze
 
 [% .details %]
 <a class="toggle_visibility" data-selector=".abstract" data-level="3">Show abstract</a>

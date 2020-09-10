@@ -7,7 +7,7 @@ page_class: "paper"
 
 # S093 - Robust Image Segmentation Quality Assessment
 
-### Leixin Zhou, Wenxiang Deng, Xiaodong Wu
+#### Leixin Zhou, Wenxiang Deng, Xiaodong Wu
 
 [% .details %]
 <a class="toggle_visibility" data-selector=".abstract" data-level="3">Show abstract</a>

@@ -7,7 +7,7 @@ page_class: "paper"
 
 # P336 - Adversarial Domain Adaptation for Cell Segmentation
 
-### Mohammad Minhazul Haq, Junzhou Huang
+#### Mohammad Minhazul Haq, Junzhou Huang
 
 [% .details %]
 <a class="toggle_visibility" data-selector=".abstract" data-level="3">Show abstract</a>

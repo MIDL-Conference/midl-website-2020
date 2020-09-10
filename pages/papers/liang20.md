@@ -7,7 +7,7 @@ page_class: "paper"
 
 # P315 - Laplacian pyramid-based complex neural network learning for fast MR imaging
 
-### Haoyun Liang, Yu Gong, Hoel Kervadec, Jing Yuan, Hairong Zheng, Shanshan Wang
+#### Haoyun Liang, Yu Gong, Hoel Kervadec, Jing Yuan, Hairong Zheng, Shanshan Wang
 
 [% .details %]
 <a class="toggle_visibility" data-selector=".abstract" data-level="3">Show abstract</a>

@@ -7,7 +7,7 @@ page_class: "paper"
 
 # P271 - Siamese Content Loss Networks for Highly Imbalanced Medical Image Segmentation
 
-### Brandon Mac, Alan R. Moody, April Khademi
+#### Brandon Mac, Alan R. Moody, April Khademi
 
 [% .details %]
 <a class="toggle_visibility" data-selector=".abstract" data-level="3">Show abstract</a>

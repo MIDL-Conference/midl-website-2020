@@ -7,7 +7,7 @@ page_class: "paper"
 
 # P054 - SAU-Net: Efficient 3D Spine MRI Segmentation Using Inter-Slice Attention
 
-### Yichi Zhang, Lin Yuan, Yujia Wang, Jicong Zhang
+#### Yichi Zhang, Lin Yuan, Yujia Wang, Jicong Zhang
 
 [% .details %]
 <a class="toggle_visibility" data-selector=".abstract" data-level="3">Show abstract</a>

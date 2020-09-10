@@ -7,7 +7,7 @@ page_class: "paper"
 
 # P205 - Automatic Segmentation of Head and Neck Tumors and Nodal Metastases in PET-CT scans
 
-### Vincent Andrearczyk, Valentin Oreiller, Martin Vallières, Joel Castelli, Hesham Elhalawani, Sarah Boughdad, Mario Jreige, John O. Prior and Adrien Depeursinge
+#### Vincent Andrearczyk, Valentin Oreiller, Martin Vallières, Joel Castelli, Hesham Elhalawani, Sarah Boughdad, Mario Jreige, John O. Prior and Adrien Depeursinge
 
 [% .details %]
 <a class="toggle_visibility" data-selector=".abstract" data-level="3">Show abstract</a>

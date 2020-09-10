@@ -7,7 +7,7 @@ page_class: "paper"
 
 # P037 - Continual Learning for Domain Adaptation in Chest X-ray Classification
 
-### Matthias Lenga, Heinrich Schulz, Axel Saalbach
+#### Matthias Lenga, Heinrich Schulz, Axel Saalbach
 
 [% .details %]
 <a class="toggle_visibility" data-selector=".abstract" data-level="3">Show abstract</a>

@@ -7,7 +7,7 @@ page_class: "paper"
 
 # P197 - A Cross-Stitch Architecture for Joint Registration and Segmentation in Adaptive Radiotherapy
 
-### Laurens Beljaards, Mohamed S. Elmahdy, Fons Verbeek, Marius Staring
+#### Laurens Beljaards, Mohamed S. Elmahdy, Fons Verbeek, Marius Staring
 
 [% .details %]
 <a class="toggle_visibility" data-selector=".abstract" data-level="3">Show abstract</a>

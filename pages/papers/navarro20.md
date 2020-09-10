@@ -7,7 +7,7 @@ page_class: "paper"
 
 # P128 - Deep Reinforcement Learning for Organ Localization in CT
 
-### Fernando Navarro, Anjany Sekuboyina, Diana Waldmannstetter, Jan C. Peeken, Stephanie E. Combs, Bjoern H. Menze
+#### Fernando Navarro, Anjany Sekuboyina, Diana Waldmannstetter, Jan C. Peeken, Stephanie E. Combs, Bjoern H. Menze
 
 [% .details %]
 <a class="toggle_visibility" data-selector=".abstract" data-level="3">Show abstract</a>

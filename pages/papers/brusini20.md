@@ -7,7 +7,7 @@ page_class: "paper"
 
 # S198 - A deep learning-based pipeline for error detection and quality control of brain MRI segmentation results
 
-### Irene Brusini, Daniel Ferreira Padilla, José Barroso, Ingmar Skoog, Örjan Smedby, Eric Westman, Chunliang Wang
+#### Irene Brusini, Daniel Ferreira Padilla, José Barroso, Ingmar Skoog, Örjan Smedby, Eric Westman, Chunliang Wang
 
 [% .details %]
 <a class="toggle_visibility" data-selector=".abstract" data-level="3">Show abstract</a>

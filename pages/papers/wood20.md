@@ -7,7 +7,7 @@ page_class: "paper"
 
 # O089 - Automated Labelling using an Attention model for Radiology reports of MRI scans (ALARM)
 
-### David Wood, Emily Guilhem, Antanas Montvila, Thomas Varsavsky, Martin Kiik, Juveria Siddiqui, Sina Kafiabadi, Naveen Gadapa, Aisha Al Busaidi, Matt Townend, Keena Patel, Gareth Barker, Sebastian Ourselin, Jeremy Lynch, James Cole, Tom Booth
+#### David Wood, Emily Guilhem, Antanas Montvila, Thomas Varsavsky, Martin Kiik, Juveria Siddiqui, Sina Kafiabadi, Naveen Gadapa, Aisha Al Busaidi, Matt Townend, Keena Patel, Gareth Barker, Sebastian Ourselin, Jeremy Lynch, James Cole, Tom Booth
 
 [% .details %]
 <a class="toggle_visibility" data-selector=".abstract" data-level="3">Show abstract</a>

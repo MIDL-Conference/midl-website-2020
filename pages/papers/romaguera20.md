@@ -7,7 +7,7 @@ page_class: "paper"
 
 # S057 - Spatiotemporal motion prediction in free-breathing liver scans via a recurrent multi-scale encoder decoder
 
-### Liset Vazquez Romaguera, Rosalie Plantefeve, Samuel Kadoury
+#### Liset Vazquez Romaguera, Rosalie Plantefeve, Samuel Kadoury
 
 [% .details %]
 <a class="toggle_visibility" data-selector=".abstract" data-level="3">Show abstract</a>

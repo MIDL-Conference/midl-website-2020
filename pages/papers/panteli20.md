@@ -7,7 +7,7 @@ page_class: "paper"
 
 # P109 - Siamese Tracking of Cell Behaviour Patterns
 
-### Andreas Panteli, Deepak K. Gupta, Nathan de Bruin, Efstratios Gavves
+#### Andreas Panteli, Deepak K. Gupta, Nathan de Bruin, Efstratios Gavves
 
 [% .details %]
 <a class="toggle_visibility" data-selector=".abstract" data-level="3">Show abstract</a>

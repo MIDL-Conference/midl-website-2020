@@ -7,7 +7,7 @@ page_class: "paper"
 
 # S135 - Segmentation of the Myocardium on Late-Gadolinium Enhanced MRI based on 2.5 D Residual Squeeze and Excitation Deep Learning Model
 
-### Abdul Qayyum, Alain Lalande, Thomas Decourselle, Thibaut Pommier, Alexandre Cochet, Fabrice Meriaudeau
+#### Abdul Qayyum, Alain Lalande, Thomas Decourselle, Thibaut Pommier, Alexandre Cochet, Fabrice Meriaudeau
 
 [% .details %]
 <a class="toggle_visibility" data-selector=".abstract" data-level="3">Show abstract</a>

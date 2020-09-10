@@ -7,7 +7,7 @@ page_class: "paper"
 
 # S116 - Automated MRI based pipeline for glioma segmentation and prediction of grade, IDH mutation and 1p19q co-deletion
 
-### Milan Decuyper, Stijn Bonte, Karel Deblaere, Roel Van Holen
+#### Milan Decuyper, Stijn Bonte, Karel Deblaere, Roel Van Holen
 
 [% .details %]
 <a class="toggle_visibility" data-selector=".abstract" data-level="3">Show abstract</a>

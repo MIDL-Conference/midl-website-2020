@@ -7,7 +7,7 @@ page_class: "paper"
 
 # P117 - Knee Injury Detection using MRI with Efficiently-Layered Network (ELNet)
 
-### Chen-Han Tsai, Nahum Kiryati, Eli Konen, Iris Eshed, Arnaldo Mayer
+#### Chen-Han Tsai, Nahum Kiryati, Eli Konen, Iris Eshed, Arnaldo Mayer
 
 [% .details %]
 <a class="toggle_visibility" data-selector=".abstract" data-level="3">Show abstract</a>

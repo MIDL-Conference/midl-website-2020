@@ -7,7 +7,7 @@ page_class: "paper"
 
 # S322 - Joint Liver Lesion Segmentation and Classification via Transfer Learning
 
-### Michal Heker, Hayit Greenspan
+#### Michal Heker, Hayit Greenspan
 
 [% .details %]
 <a class="toggle_visibility" data-selector=".abstract" data-level="3">Show abstract</a>

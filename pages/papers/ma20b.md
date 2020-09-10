@@ -7,7 +7,7 @@ page_class: "paper"
 
 # P013 - Cascaded Deep Neural Networks for Retinal Layer Segmentation of Optical Coherence Tomography with Fluid Presence
 
-### Da Ma, Donghuan Lu, Morgan Heisler, Setareh Dabiri, Sieun Lee, Gavin Weiguan Ding, Marinko V. Sarunic, Mirza Faisal Beg
+#### Da Ma, Donghuan Lu, Morgan Heisler, Setareh Dabiri, Sieun Lee, Gavin Weiguan Ding, Marinko V. Sarunic, Mirza Faisal Beg
 
 [% .details %]
 <a class="toggle_visibility" data-selector=".abstract" data-level="3">Show abstract</a>

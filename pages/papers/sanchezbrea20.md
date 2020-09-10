@@ -7,7 +7,7 @@ page_class: "paper"
 
 # P249 - Deep learning-based retinal vessel segmentation with cross-modal evaluation
 
-### Luisa Sanchez Brea, Danilo Andrade De Jesus, Stefan Klein, Theo van Walsum
+#### Luisa Sanchez Brea, Danilo Andrade De Jesus, Stefan Klein, Theo van Walsum
 
 [% .details %]
 <a class="toggle_visibility" data-selector=".abstract" data-level="3">Show abstract</a>

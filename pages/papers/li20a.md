@@ -7,7 +7,7 @@ page_class: "paper"
 
 # P333 - Generating Fundus Fluorescence Angiography Images from Structure Fundus Images Using Generative Adversarial Networks
 
-### Wanyue Li, Wen Kong, Yiwei Chen, Jing Wang, Yi He, Guohua Shi, Guohua Deng
+#### Wanyue Li, Wen Kong, Yiwei Chen, Jing Wang, Yi He, Guohua Shi, Guohua Deng
 
 [% .details %]
 <a class="toggle_visibility" data-selector=".abstract" data-level="3">Show abstract</a>

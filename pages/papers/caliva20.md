@@ -7,7 +7,7 @@ page_class: "paper"
 
 # P239 - Breaking Speed Limits with Simultaneous Ultra-Fast MRI Reconstruction and Tissue Segmentation
 
-### Francesco Calivá, Rutwik Shah, Upasana Upadhyay Bharadwaj, Sharmila Majumdar, Peder Larson, Valentina Pedoia
+#### Francesco Calivá, Rutwik Shah, Upasana Upadhyay Bharadwaj, Sharmila Majumdar, Peder Larson, Valentina Pedoia
 
 [% .details %]
 <a class="toggle_visibility" data-selector=".abstract" data-level="3">Show abstract</a>

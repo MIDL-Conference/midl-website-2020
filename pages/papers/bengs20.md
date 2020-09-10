@@ -7,7 +7,7 @@ page_class: "paper"
 
 # S156 - A Deep Learning Approach for Motion Forecasting Using 4D OCT Data
 
-### Marcel Bengs, Nils Gessert, Alexander Schlaefer
+#### Marcel Bengs, Nils Gessert, Alexander Schlaefer
 
 [% .details %]
 <a class="toggle_visibility" data-selector=".abstract" data-level="3">Show abstract</a>

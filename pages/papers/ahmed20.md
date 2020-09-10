@@ -7,7 +7,7 @@ page_class: "paper"
 
 # S211 - An ENAS Based Approach for Constructing Deep Learning Models for Breast Cancer Recognition from Ultrasound Images
 
-### Mohammed Ahmed, Hongbo Du, Alaa AlZoubi
+#### Mohammed Ahmed, Hongbo Du, Alaa AlZoubi
 
 [% .details %]
 <a class="toggle_visibility" data-selector=".abstract" data-level="3">Show abstract</a>

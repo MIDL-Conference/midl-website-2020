@@ -7,7 +7,7 @@ page_class: "paper"
 
 # P011 - End-to-end learning of convolutional neural net and dynamic programming for left ventricle segmentation
 
-### Nhat M. Nguyen, Nilanjan Ray
+#### Nhat M. Nguyen, Nilanjan Ray
 
 [% .details %]
 <a class="toggle_visibility" data-selector=".abstract" data-level="3">Show abstract</a>

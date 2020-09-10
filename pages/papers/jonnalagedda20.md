@@ -7,7 +7,7 @@ page_class: "paper"
 
 # P250 - Feature Disentanglement to Aid Imaging Biomarker Characterization for Genetic Mutations
 
-### Padmaja Jonnalagedda, Brent Weinberg, Jason Allen, Bir Bhanu
+#### Padmaja Jonnalagedda, Brent Weinberg, Jason Allen, Bir Bhanu
 
 [% .details %]
 <a class="toggle_visibility" data-selector=".abstract" data-level="3">Show abstract</a>

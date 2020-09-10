@@ -7,7 +7,7 @@ page_class: "paper"
 
 # P177 - Skull-RCNN: A CNN-based network for the skull fracture detection
 
-### Zhuo Kuang, Xianbo Deng, Li Yu, Hang Zhang, Xian lin, Hui Ma
+#### Zhuo Kuang, Xianbo Deng, Li Yu, Hang Zhang, Xian lin, Hui Ma
 
 [% .details %]
 <a class="toggle_visibility" data-selector=".abstract" data-level="3">Show abstract</a>

@@ -7,7 +7,7 @@ page_class: "paper"
 
 # S047 - Deblurring for spiral real-time MRI using convolutional neural networks
 
-### Yongwan Lim, Shrikanth Narayanan, Krishna Nayak
+#### Yongwan Lim, Shrikanth Narayanan, Krishna Nayak
 
 [% .details %]
 <a class="toggle_visibility" data-selector=".abstract" data-level="3">Show abstract</a>
