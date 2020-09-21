@@ -7,7 +7,7 @@ from typing import List
 class Paper():
     def __init__(self, id: str, title: str, authors: str, url: str, or_id: str, oral: str, short: str,
                  abstract: str, schedule: str = "", slides: str = "", yt_teaser: str = "",
-                 yt_full: str = "", ignore_schedule: bool = False, award: str = ""):
+                 yt_full: str = "", ignore_schedule: bool = False, award: str = "", pmlr_id=""):
         self.id: int = int(id)
         self.title: str = title
         self.authors: List[str] = authors.split(', ')
@@ -21,6 +21,10 @@ class Paper():
         self.yt_teaser: str = yt_teaser
         self.yt_full: str = yt_full
         self.award: str = award
+
+        if not self.short:
+            self.pmlr_id: str = pmlr_id
+            self.pmlr_url: str = f"http://proceedings.mlr.press/v121/{self.pmlr_id}"
 
         self.schedule: List[str]
         if not schedule:
@@ -66,7 +70,8 @@ class Paper():
         openreview=\'{f'https://openreview.net/forum?id={self.or_id}'}\',
         pdf=\'{f'https://openreview.net/pdf?id={self.or_id}'}\',
         id='{self.conf_id}',
-        paper='{self.url}',
+        url='{self.url}',
+        paper='{self.pmlr_url}',
         teaser=\'{f'https://youtu.be/{self.yt_teaser}' if self.yt_teaser else ""}\',
         video=\'{f'https://youtu.be/{self.yt_full}' if self.yt_full else ""}\',
         abstract={sanitized_abstract})
