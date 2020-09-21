@@ -12,7 +12,8 @@ page_class: "paper"
 [% .details %]
 <a class="toggle_visibility" data-selector=".abstract" data-level="3">Show abstract</a>
 - <a class="toggle_visibility" data-selector=".schedule" data-level="3">Show schedule</a>
-- <a href="https://openreview.net/pdf?id=-3UtpvQHNX">Paper</a>
+- <a href="http://proceedings.mlr.press/v121/sanchez-brea20a.html">Proceedings</a>
+- <a href="https://openreview.net/pdf?id=-3UtpvQHNX">PDF</a>
 - <a href="https://openreview.net/forum?id=-3UtpvQHNX">Reviews</a>
 {{ teaser('3Va3V4-2wl8') }}
 

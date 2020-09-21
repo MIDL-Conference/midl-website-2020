@@ -54,6 +54,11 @@ if __name__ == "__main__":
         else:
             result = result.replace("EMBEDEDTEASE", "")
 
+        if paper.short:
+            result = result.replace("PROCEEDINGS", "")
+        else:
+            result = result.replace("PROCEEDINGS", f'\n- <a href="{paper.pmlr_url}">Proceedings</a>')
+
         # slides_path: Path = Path(paper.slides)
 
         if not (root_slides / paper.slides[1:]).exists():

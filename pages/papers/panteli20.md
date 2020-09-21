@@ -12,7 +12,8 @@ page_class: "paper"
 [% .details %]
 <a class="toggle_visibility" data-selector=".abstract" data-level="3">Show abstract</a>
 - <a class="toggle_visibility" data-selector=".schedule" data-level="3">Show schedule</a>
-- <a href="https://openreview.net/pdf?id=V3ZrDLgNgu">Paper</a>
+- <a href="http://proceedings.mlr.press/v121/panteli20a.html">Proceedings</a>
+- <a href="https://openreview.net/pdf?id=V3ZrDLgNgu">PDF</a>
 - <a href="https://openreview.net/forum?id=V3ZrDLgNgu">Reviews</a>
 {{ teaser('48HXH_WYi6k') }}
 

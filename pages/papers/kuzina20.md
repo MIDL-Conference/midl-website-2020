@@ -12,7 +12,7 @@ page_class: "paper"
 [% .details %]
 <a class="toggle_visibility" data-selector=".abstract" data-level="3">Show abstract</a>
 - <a class="toggle_visibility" data-selector=".schedule" data-level="3">Show schedule</a>
-- <a href="https://openreview.net/pdf?id=3i6X1618wi">Paper</a>
+- <a href="https://openreview.net/pdf?id=3i6X1618wi">PDF</a>
 - <a href="https://openreview.net/forum?id=3i6X1618wi">Reviews</a>
 {{ teaser('aA8dE8mvoic') }}
 

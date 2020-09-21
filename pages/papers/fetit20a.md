@@ -12,7 +12,8 @@ page_class: "paper"
 [% .details %]
 <a class="toggle_visibility" data-selector=".abstract" data-level="3">Show abstract</a>
 - <a class="toggle_visibility" data-selector=".schedule" data-level="3">Show schedule</a>
-- <a href="https://openreview.net/pdf?id=vXX5bovYvi">Paper</a>
+- <a href="http://proceedings.mlr.press/v121/fetit20b.html">Proceedings</a>
+- <a href="https://openreview.net/pdf?id=vXX5bovYvi">PDF</a>
 - <a href="https://openreview.net/forum?id=vXX5bovYvi">Reviews</a>
 {{ teaser('5XPIAJMUHz8') }}
 
