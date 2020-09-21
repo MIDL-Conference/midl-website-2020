@@ -1,11 +1,11 @@
 ---
-title: "Comparing Objective Functions for Segmentation and Detection of Tiny Lesions in Retinal Images"
+title: "Comparing Objective Functions for Segmentation and Detection of Microaneurysms in Retinal Images"
 page_class: "paper"
 ---
 
 {% from "_macros.html" import presentation, button, teaser, youtube %}
 
-# P174 - Comparing Objective Functions for Segmentation and Detection of Tiny Lesions in Retinal Images
+# P174 - Comparing Objective Functions for Segmentation and Detection of Microaneurysms in Retinal Images
 
 #### Jakob Kristian Holm Andersen, Thiusius Rajeeth Savarimuthu, Jakob Grauslund
 

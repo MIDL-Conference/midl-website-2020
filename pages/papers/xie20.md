@@ -1,11 +1,11 @@
 ---
-title: "Beyond Classfication: Whole Slide Tissue Histopathology Analysis By End-To-End Part Learning"
+title: "Beyond Classification: Whole Slide Tissue Histopathology Analysis By End-To-End Part Learning"
 page_class: "paper"
 ---
 
 {% from "_macros.html" import presentation, button, teaser, youtube %}
 
-# O305 - Beyond Classfication: Whole Slide Tissue Histopathology Analysis By End-To-End Part Learning
+# O305 - Beyond Classification: Whole Slide Tissue Histopathology Analysis By End-To-End Part Learning
 
 #### Chensu Xie, Hassan Muhammad, Chad M. Vanderbilt, Raul Caso, Dig Vijay Kumar Yarlagadda, Gabriele Campanella, Thomas J. Fuchs
 

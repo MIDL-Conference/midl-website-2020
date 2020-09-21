@@ -1,11 +1,11 @@
 ---
-title: "Addressing The False Negative Problem of MRI Reconstruction Networks by Adversarial Attacks and Robust Training"
+title: "Addressing The False Negative Problem of Deep Learning MRI Reconstruction Models by Adversarial Attacks and Robust Training"
 page_class: "paper"
 ---
 
 {% from "_macros.html" import presentation, button, teaser, youtube %}
 
-# O028 - Addressing The False Negative Problem of MRI Reconstruction Networks by Adversarial Attacks and Robust Training
+# O028 - Addressing The False Negative Problem of Deep Learning MRI Reconstruction Models by Adversarial Attacks and Robust Training
 
 #### Kaiyang Cheng, Francesco Calivá, Rutwik Shah, Misung Han, Sharmila Majumdar, Valentina Pedoia
 

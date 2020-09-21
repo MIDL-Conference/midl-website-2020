@@ -1,11 +1,11 @@
 ---
-title: "Cascaded Deep Neural Networks for Retinal Layer Segmentation of Optical Coherence Tomography with Fluid Presence"
+title: "Cascade Dual-branch Deep Neural Networks for Retinal Layer and fluid Segmentation of Optical Coherence Tomography Incorporating Relative Positional Map"
 page_class: "paper"
 ---
 
 {% from "_macros.html" import presentation, button, teaser, youtube %}
 
-# P013 - Cascaded Deep Neural Networks for Retinal Layer Segmentation of Optical Coherence Tomography with Fluid Presence
+# P013 - Cascade Dual-branch Deep Neural Networks for Retinal Layer and fluid Segmentation of Optical Coherence Tomography Incorporating Relative Positional Map
 
 #### Da Ma, Donghuan Lu, Morgan Heisler, Setareh Dabiri, Sieun Lee, Gavin Weiguan Ding, Marinko V. Sarunic, Mirza Faisal Beg
 

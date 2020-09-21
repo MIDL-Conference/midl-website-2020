@@ -1,11 +1,11 @@
 ---
-title: "Mutual information based deep clustering for semi-supervised segmentation"
+title: "Mutual information deep regularization for semi-supervised segmentation"
 page_class: "paper"
 ---
 
 {% from "_macros.html" import presentation, button, teaser, youtube %}
 
-# P099 - Mutual information based deep clustering for semi-supervised segmentation
+# P099 - Mutual information deep regularization for semi-supervised segmentation
 
 #### Jizong Peng, Marco Pedersoli, Christian Desrosiers
 

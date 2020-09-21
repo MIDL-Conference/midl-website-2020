@@ -1,11 +1,11 @@
 ---
-title: "DIVA: Domain Invariant Variational Autoencoder"
+title: "DIVA: Domain Invariant Variational Autoencoders"
 page_class: "paper"
 ---
 
 {% from "_macros.html" import presentation, button, teaser, youtube %}
 
-# O043 - DIVA: Domain Invariant Variational Autoencoder
+# O043 - DIVA: Domain Invariant Variational Autoencoders
 
 #### Maximilian Ilse, Jakub M. Tomczak, Christos Louizos, Max Welling
 

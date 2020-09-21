@@ -1,11 +1,11 @@
 ---
-title: "Skull-RCNN: A CNN-based network for the skull fracture detection"
+title: "Skull R-CNN: A CNN-based network for the skull fracture detection"
 page_class: "paper"
 ---
 
 {% from "_macros.html" import presentation, button, teaser, youtube %}
 
-# P177 - Skull-RCNN: A CNN-based network for the skull fracture detection
+# P177 - Skull R-CNN: A CNN-based network for the skull fracture detection
 
 #### Zhuo Kuang, Xianbo Deng, Li Yu, Hang Zhang, Xian lin, Hui Ma
 

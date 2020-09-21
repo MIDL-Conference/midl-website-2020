@@ -1,11 +1,11 @@
 ---
-title: "Red-GAN: Attacking class imbalance via conditioned generation. Yet another medical imaging perspective"
+title: "Red-GAN: Attacking class imbalance via conditioned generation. Yet another medical imaging perspective."
 page_class: "paper"
 ---
 
 {% from "_macros.html" import presentation, button, teaser, youtube %}
 
-# P071 - Red-GAN: Attacking class imbalance via conditioned generation. Yet another medical imaging perspective
+# P071 - Red-GAN: Attacking class imbalance via conditioned generation. Yet another medical imaging perspective.
 
 #### Ahmad B Qasim, Ivan Ezhov, Suprosanna Shit, Oliver Schoppe, Johannes Paetzold, Anjany Sekuboyina, Florian Kofler, Jana Lipkova, Hongwei Li, Bjoern Menze
 

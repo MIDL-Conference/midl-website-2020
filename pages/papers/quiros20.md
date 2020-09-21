@@ -1,11 +1,11 @@
 ---
-title: "Pathology GAN: Learning deep representations of cancer tissue"
+title: "PathologyGAN: Learning deep representations of cancer tissue"
 page_class: "paper"
 ---
 
 {% from "_macros.html" import presentation, button, teaser, youtube %}
 
-# P150 - Pathology GAN: Learning deep representations of cancer tissue
+# P150 - PathologyGAN: Learning deep representations of cancer tissue
 
 #### Adalberto Claudio Quiros, Roderick Murray-Smith, Ke Yuan
 
