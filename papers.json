@@ -78,7 +78,7 @@
         "schedule": "",
         "short": "False",
         "slides": "/slides/ma20b.pdf",
-        "title": "Cascaded Deep Neural Networks for Retinal Layer Segmentation of Optical Coherence Tomography with Fluid Presence",
+        "title": "Cascade Dual-branch Deep Neural Networks for Retinal Layer and fluid Segmentation of Optical Coherence Tomography Incorporating Relative Positional Map",
         "url": "papers/ma20b.html",
         "yt_full": "jFMWE_-nZv0",
         "yt_teaser": "fRb6s84YSew"
@@ -162,7 +162,7 @@
         "schedule": "",
         "short": "False",
         "slides": "/slides/cheng20.pdf",
-        "title": "Addressing The False Negative Problem of MRI Reconstruction Networks by Adversarial Attacks and Robust Training",
+        "title": "Addressing The False Negative Problem of Deep Learning MRI Reconstruction Models by Adversarial Attacks and Robust Training",
         "url": "papers/cheng20.html",
         "yt_full": "7ccE6SXy9t8",
         "yt_teaser": "",
@@ -275,7 +275,7 @@
         "schedule": "",
         "short": "False",
         "slides": "/slides/ilse20.pdf",
-        "title": "DIVA: Domain Invariant Variational Autoencoder",
+        "title": "DIVA: Domain Invariant Variational Autoencoders",
         "url": "papers/ilse20.html",
         "yt_full": "1GBSjGtr2rE",
         "yt_teaser": "pLSElJxW7vM"
@@ -430,7 +430,7 @@
         "schedule": "",
         "short": "False",
         "slides": "/slides/qasim20.pdf",
-        "title": "Red-GAN: Attacking class imbalance via conditioned generation. Yet another medical imaging perspective",
+        "title": "Red-GAN: Attacking class imbalance via conditioned generation. Yet another medical imaging perspective.",
         "url": "papers/qasim20.html",
         "yt_full": "Dz81tWusvHk",
         "yt_teaser": "HCP2X8z44VI"
@@ -558,7 +558,7 @@
         "schedule": "",
         "short": "False",
         "slides": "/slides/peng20a.pdf",
-        "title": "Mutual information based deep clustering for semi-supervised segmentation",
+        "title": "Mutual information deep regularization for semi-supervised segmentation",
         "url": "papers/peng20a.html",
         "yt_full": "tLUqomGRmCU",
         "yt_teaser": ""
@@ -838,7 +838,7 @@
         "schedule": "",
         "short": "False",
         "slides": "/slides/quiros20.pdf",
-        "title": "Pathology GAN: Learning deep representations of cancer tissue",
+        "title": "PathologyGAN: Learning deep representations of cancer tissue",
         "url": "papers/quiros20.html",
         "yt_full": "RlBo4lAWtvM",
         "yt_teaser": "wGx78e1mHQQ"
@@ -894,7 +894,7 @@
         "schedule": "",
         "short": "False",
         "slides": "/slides/wu20.pdf",
-        "title": "Improving the Ability of Deep Networks to Use Information From Multiple Views in Breast Cancer Screening",
+        "title": "Improving the Ability of Deep Neural Networks to Use Information from Multiple Views in Breast Cancer Screening",
         "url": "papers/wu20.html",
         "yt_full": "cSvtL9ez7a8",
         "yt_teaser": "Ewh3n233xok"
@@ -950,7 +950,7 @@
         "schedule": "",
         "short": "False",
         "slides": "/slides/andersen20.pdf",
-        "title": "Comparing Objective Functions for Segmentation and Detection of Tiny Lesions in Retinal Images",
+        "title": "Comparing Objective Functions for Segmentation and Detection of Microaneurysms in Retinal Images",
         "url": "papers/andersen20.html",
         "yt_full": "X6JSy3XdSmw",
         "yt_teaser": "w8zGGamA3Ao"
@@ -964,7 +964,7 @@
         "schedule": "",
         "short": "False",
         "slides": "/slides/kuang20.pdf",
-        "title": "Skull-RCNN: A CNN-based network for the skull fracture detection",
+        "title": "Skull R-CNN: A CNN-based network for the skull fracture detection",
         "url": "papers/kuang20.html",
         "yt_full": "mX_zYuWnodQ",
         "yt_teaser": "LkHM9w7VDFg"
@@ -1118,7 +1118,7 @@
         "schedule": "",
         "short": "False",
         "slides": "/slides/erbacher20.pdf",
-        "title": "Priority Unet: Detection of Punctuate White Matter Lesions in Preterm Neonate in 3D Cranial Ultrasonography",
+        "title": "Priority U-Net: Detection of Punctuate White Matter Lesions in Preterm Neonate in 3D Cranial Ultrasonography",
         "url": "papers/erbacher20.html",
         "yt_full": "ExJCwW6Lo-E",
         "yt_teaser": "I8aXtlQa3qI"
@@ -1160,7 +1160,7 @@
         "schedule": "",
         "short": "False",
         "slides": "/slides/duran20.pdf",
-        "title": "Prostate Cancer Semantic Segmentation by Gleason Score Group in mp-MRI with Self Attention Model on the Peripheral Zone",
+        "title": "Prostate Cancer Semantic Segmentation by Gleason Score Group in bi-parametric MRI with Self Attention Model on the Peripheral Zone",
         "url": "papers/duran20.html",
         "yt_full": "Au8FCQBka9o",
         "yt_teaser": "Jrj2SAtkPLY"
@@ -1342,7 +1342,7 @@
         "schedule": "",
         "short": "False",
         "slides": "/slides/xie20.pdf",
-        "title": "Beyond Classfication: Whole Slide Tissue Histopathology Analysis By End-To-End Part Learning",
+        "title": "Beyond Classification: Whole Slide Tissue Histopathology Analysis By End-To-End Part Learning",
         "url": "papers/xie20.html",
         "yt_full": "Iees9O3TiCo",
         "yt_teaser": ""
