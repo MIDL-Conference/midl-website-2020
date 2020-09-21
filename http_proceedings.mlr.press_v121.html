@@ -1,0 +1,777 @@
+<!DOCTYPE html>
+<html lang="en">
+
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- Search Engine Info --><!-- Begin Jekyll SEO tag v2.6.1 -->
+<title>Proceedings of Machine Learning Research | Proceedings of the Third Conference on Medical Imaging with Deep Learning Held in Montreal, QC, Canada on 06-08 July 2020 Published as Volume 121 by the Proceedings of Machine Learning Research on 21 September 2020. Volume Edited by: Tal Arbel Ismail Ben Ayed Marleen de Bruijne Maxime Descoteaux Herve Lombaert Christopher Pal Series Editors: Neil D. Lawrence Mark Reid</title>
+<meta name="generator" content="Jekyll v3.9.0" />
+<meta property="og:title" content="Proceedings of Machine Learning Research" />
+<meta name="author" content="PMLR" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Proceedings of the Third Conference on Medical Imaging with Deep Learning Held in Montreal, QC, Canada on 06-08 July 2020 Published as Volume 121 by the Proceedings of Machine Learning Research on 21 September 2020. Volume Edited by: Tal Arbel Ismail Ben Ayed Marleen de Bruijne Maxime Descoteaux Herve Lombaert Christopher Pal Series Editors: Neil D. Lawrence Mark Reid" />
+<meta property="og:description" content="Proceedings of the Third Conference on Medical Imaging with Deep Learning Held in Montreal, QC, Canada on 06-08 July 2020 Published as Volume 121 by the Proceedings of Machine Learning Research on 21 September 2020. Volume Edited by: Tal Arbel Ismail Ben Ayed Marleen de Bruijne Maxime Descoteaux Herve Lombaert Christopher Pal Series Editors: Neil D. Lawrence Mark Reid" />
+<link rel="canonical" href="http://proceedings.mlr.press/v121/" />
+<meta property="og:url" content="http://proceedings.mlr.press/v121/" />
+<meta property="og:site_name" content="Proceedings of Machine Learning Research" />
+<script type="application/ld+json">
+{"@type":"WebSite","url":"http://proceedings.mlr.press/v121/","author":{"@type":"Person","name":"PMLR"},"description":"Proceedings of the Third Conference on Medical Imaging with Deep Learning Held in Montreal, QC, Canada on 06-08 July 2020 Published as Volume 121 by the Proceedings of Machine Learning Research on 21 September 2020. Volume Edited by: Tal Arbel Ismail Ben Ayed Marleen de Bruijne Maxime Descoteaux Herve Lombaert Christopher Pal Series Editors: Neil D. Lawrence Mark Reid","name":"Proceedings of Machine Learning Research","headline":"Proceedings of Machine Learning Research","@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+<!-- Style Info -->
+  <link rel="stylesheet" type="text/css" href="http://proceedings.mlr.press/v121/assets/css/pmlr.css" />
+  <style>.hero-text {
+    color: #303030;
+  }</style>
+
+  <!-- Icon Info -->
+  <link rel="shortcut icon" href="http://proceedings.mlr.press/v121/assets/images/favicon-pmlr.ico" type="image/x-icon">
+  <link rel="icon" href="http://proceedings.mlr.press/v121/assets/images/favicon-pmlr.ico" type="image/x-icon">
+
+  <!-- Feed Info --><link type="application/atom+xml" rel="alternate" href="http://proceedings.mlr.press/v121/feed.xml" title="Proceedings of Machine Learning Research" /><!-- Scripting info --><!-- Solution from http://stackoverflow.com/questions/31593297/using-execcommand-javascript-to-copy-hidden-text-to-clipboard -->
+<script src="http://proceedings.mlr.press/v121/assets/js/copy_input.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="http://proceedings.mlr.press/v121/assets/js/download.js"></script>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-92432422-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    TeX: {
+      equationNumbers: {
+          autoNumber: "AMS"
+        }
+      },
+      tex2jax: {
+      inlineMath: [ ['$','$'] ],
+      displayMath: [ ['$$','$$'] ],
+      processEscapes: true,
+    }
+  });
+</script>
+<script  async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/latest.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
+
+
+  <!-- User custom header -->
+</head>
+
+
+
+
+
+
+<body>
+
+
+<header class="site-header">
+  <div class="wrapper">
+
+
+
+<div class="hero-image">
+  <div class="hero-text">
+    <a href="/" target="_top"><img src="/v121/assets/images/logo-pmlr.svg" alt="[Medical Imaging with Deep Learning Logo]"></a>
+    Proceedings of Machine Learning Research
+  </div>
+</div>
+
+
+    <nav class="site-nav">
+  <input type="checkbox" id="nav-trigger" class="nav-trigger" />
+  <label for="nav-trigger">
+  <span class="menu-icon"><svg viewBox="0 0 18 15" width="18px" height="15px">
+  <path d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.032C17.335,0,18,0.665,18,1.484L18,1.484z M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.032C17.335,6.031,18,6.696,18,7.516L18,7.516z M18,13.516C18,14.335,17.335,15,16.516,15H1.484 C0.665,15,0,14.335,0,13.516l0,0c0-0.82,0.665-1.483,1.484-1.483h15.032C17.335,12.031,18,12.695,18,13.516L18,13.516z"/>
+</svg>
+</span>
+  </label>
+  <div class="trigger"><a class="page-link" href="/">PMLR</a><a class="page-link" href="http://www.jmlr.org/">JMLR</a>
+    <a class="page-link" href="http://www.jmlr.org/mloss">MLOSS</a>
+    <a class="page-link" href="/faq.html">FAQ</a>
+    <a class="page-link" href="/spec.html">Submission Format</a>
+    <a class="page-link" href="http://proceedings.mlr.press//v121/assets/rss/feed.xml">
+      <img src="http://proceedings.mlr.press/v121/assets/images/RSS.gif" class="rss" alt="RSS Feed">
+    </a>
+  </div>
+</nav>
+
+  </div>
+</header>
+
+
+
+
+
+<main class="page-content" aria-label="Content"><div class="wrapper">
+
+
+<p style="text-align:right">[<a href="https://github.com/mlresearch/v121/edit/gh-pages/index.html" target="_blank" onclick="ga('send', 'event', 'Edit Page', 'Edit', 'https://github.com/mlresearch/v121/edit/gh-pages/index.html', 13);">edit</a>]</p>
+
+
+
+
+
+
+
+<h2>Volume 121: Medical Imaging with Deep Learning, 6-8 July 2020, Montreal, QC, Canada</h2>
+
+
+<p style="text-align:right">[<a href="https://github.com/mlresearch/v121/edit/gh-pages/_config.yml" target="_blank" onclick="ga('send', 'event', 'Edit Page', 'Edit', 'https://github.com/mlresearch/v121/edit/gh-pages/_config.yml', 13);">edit</a>]</p>
+
+
+
+<p><strong>Editors: Tal Arbel,&nbsp;Ismail Ben Ayed,&nbsp;Marleen de Bruijne,&nbsp;Maxime Descoteaux,&nbsp;Herve Lombaert,&nbsp;Christopher Pal</strong></p>
+<p>[<a href="./assets/bib/bibliography.bib" target="_blank" onclick="ga('send', 'event', 'Download File', 'Download', 'http://proceedings.mlr.press/v121/assets/bib/bibliography.bib', 14);">bib</a>][<a href="./assets/bib/citeproc.yaml"  target="_blank" onclick="ga('send', 'event', 'Download File', 'Download', 'http://proceedings.mlr.press/v121/assets/bib/citeproc.yaml', 14);">citeproc</a>]</p>
+<div id="sectionnav">
+  <p>
+  <label for="search-authors">Filter Authors:</label>
+  <input type="search" name="filter-authors" id="search-authors" value />
+  <label for="search-titles">Filter Titles:</label>
+  <input type="search" name="filter-titles" id="search-titles" value />
+  </p>
+</div>
+
+
+
+
+
+
+<div class="paper">
+  <p class="title">Preface</p>
+  <p class="details">
+    <span class="authors">Tal Arbel,&nbsp;Ismail Ben Ayed,&nbsp;Marleen de Bruijne,&nbsp;Maxime Descoteaux,&nbsp;Herve Lombaert,&nbsp;Christopher Pal</span>;
+    <span class="info">PMLR 121:1-5</span>
+  </p>
+  <p class="links">
+    [<a href="http://proceedings.mlr.press/v121/arbel20a.html">abs</a>][<a href="http://proceedings.mlr.press/v121/arbel20a/arbel20a.pdf" target="_blank" onclick="ga('send', 'event', 'PDF Downloads', 'Download', http://proceedings.mlr.press/v121/arbel20a/arbel20a.pdf, 10);">Download PDF</a>]</p>
+</div>
+<div class="paper">
+  <p class="title">4D Semantic Cardiac Magnetic Resonance Image Synthesis on XCAT Anatomical Model</p>
+  <p class="details">
+    <span class="authors">Samaneh Abbasi-Sureshjani,&nbsp;Sina Amirrajab,&nbsp;Cristian Lorenz,&nbsp;Juergen Weese,&nbsp;Josien Pluim,&nbsp;Marcel Breeuwer</span>;
+    <span class="info">PMLR 121:6-18</span>
+  </p>
+  <p class="links">
+    [<a href="http://proceedings.mlr.press/v121/abbasi-sureshjani20a.html">abs</a>][<a href="http://proceedings.mlr.press/v121/abbasi-sureshjani20a/abbasi-sureshjani20a.pdf" target="_blank" onclick="ga('send', 'event', 'PDF Downloads', 'Download', http://proceedings.mlr.press/v121/abbasi-sureshjani20a/abbasi-sureshjani20a.pdf, 10);">Download PDF</a>]</p>
+</div>
+<div class="paper">
+  <p class="title">Comparing Objective Functions for Segmentation and Detection of Microaneurysms in Retinal Images</p>
+  <p class="details">
+    <span class="authors">Jakob K. H. Andersen,&nbsp;Jakob Grauslund,&nbsp;Thiusius R. Savarimuthu</span>;
+    <span class="info">PMLR 121:19-32</span>
+  </p>
+  <p class="links">
+    [<a href="http://proceedings.mlr.press/v121/andersen20a.html">abs</a>][<a href="http://proceedings.mlr.press/v121/andersen20a/andersen20a.pdf" target="_blank" onclick="ga('send', 'event', 'PDF Downloads', 'Download', http://proceedings.mlr.press/v121/andersen20a/andersen20a.pdf, 10);">Download PDF</a>]</p>
+</div>
+<div class="paper">
+  <p class="title">Automatic Segmentation of Head and Neck Tumors and Nodal Metastases in PET-CT scans</p>
+  <p class="details">
+    <span class="authors">Vincent Andrearczyk,&nbsp;Valentin Oreiller,&nbsp;Martin Vallières,&nbsp;Joel Castelli,&nbsp;Hesham Elhalawani,&nbsp;Mario Jreige,&nbsp;Sarah Boughdad,&nbsp;John O. Prior,&nbsp;Adrien Depeursinge</span>;
+    <span class="info">PMLR 121:33-43</span>
+  </p>
+  <p class="links">
+    [<a href="http://proceedings.mlr.press/v121/andrearczyk20a.html">abs</a>][<a href="http://proceedings.mlr.press/v121/andrearczyk20a/andrearczyk20a.pdf" target="_blank" onclick="ga('send', 'event', 'PDF Downloads', 'Download', http://proceedings.mlr.press/v121/andrearczyk20a/andrearczyk20a.pdf, 10);">Download PDF</a>]</p>
+</div>
+<div class="paper">
+  <p class="title">Fusing Structural and Functional MRIs using Graph Convolutional Networks for Autism Classification</p>
+  <p class="details">
+    <span class="authors">Devanshu Arya,&nbsp;Richard Olij,&nbsp;Deepak K. Gupta,&nbsp;Ahmed El Gazzar,&nbsp;Guido Wingen,&nbsp;Marcel Worring,&nbsp;Rajat Mani Thomas</span>;
+    <span class="info">PMLR 121:44-61</span>
+  </p>
+  <p class="links">
+    [<a href="http://proceedings.mlr.press/v121/arya20a.html">abs</a>][<a href="http://proceedings.mlr.press/v121/arya20a/arya20a.pdf" target="_blank" onclick="ga('send', 'event', 'PDF Downloads', 'Download', http://proceedings.mlr.press/v121/arya20a/arya20a.pdf, 10);">Download PDF</a>]</p>
+</div>
+<div class="paper">
+  <p class="title">A Cross-Stitch Architecture for Joint Registration and Segmentation in Adaptive Radiotherapy</p>
+  <p class="details">
+    <span class="authors">Laurens Beljaards,&nbsp;Mohamed S. Elmahdy,&nbsp;Fons Verbeek,&nbsp;Marius Staring</span>;
+    <span class="info">PMLR 121:62-74</span>
+  </p>
+  <p class="links">
+    [<a href="http://proceedings.mlr.press/v121/beljaards20a.html">abs</a>][<a href="http://proceedings.mlr.press/v121/beljaards20a/beljaards20a.pdf" target="_blank" onclick="ga('send', 'event', 'PDF Downloads', 'Download', http://proceedings.mlr.press/v121/beljaards20a/beljaards20a.pdf, 10);">Download PDF</a>]</p>
+</div>
+<div class="paper">
+  <p class="title">A Learning Strategy for Contrast-agnostic MRI Segmentation</p>
+  <p class="details">
+    <span class="authors">Benjamin Billot,&nbsp;Douglas N. Greve,&nbsp;Koen Van Leemput,&nbsp;Bruce Fischl,&nbsp;Juan Eugenio Iglesias,&nbsp;Adrian Dalca</span>;
+    <span class="info">PMLR 121:75-93</span>
+  </p>
+  <p class="links">
+    [<a href="http://proceedings.mlr.press/v121/billot20a.html">abs</a>][<a href="http://proceedings.mlr.press/v121/billot20a/billot20a.pdf" target="_blank" onclick="ga('send', 'event', 'PDF Downloads', 'Download', http://proceedings.mlr.press/v121/billot20a/billot20a.pdf, 10);">Download PDF</a>]</p>
+</div>
+<div class="paper">
+  <p class="title">Breaking Speed Limits with Simultaneous Ultra-Fast MRI Reconstruction and Tissue Segmentation</p>
+  <p class="details">
+    <span class="authors">Francesco Calivá,&nbsp;Andrew P. Leynes,&nbsp;Rutwik Shah,&nbsp;Upasana Upadhyay Bharadwaj,&nbsp;Sharmila Majumdar,&nbsp;Peder E. Z. Larson,&nbsp;Valentina Pedoia</span>;
+    <span class="info">PMLR 121:94-110</span>
+  </p>
+  <p class="links">
+    [<a href="http://proceedings.mlr.press/v121/caliva20a.html">abs</a>][<a href="http://proceedings.mlr.press/v121/caliva20a/caliva20a.pdf" target="_blank" onclick="ga('send', 'event', 'PDF Downloads', 'Download', http://proceedings.mlr.press/v121/caliva20a/caliva20a.pdf, 10);">Download PDF</a>]</p>
+</div>
+<div class="paper">
+  <p class="title">Fast Mitochondria Detection for Connectomics</p>
+  <p class="details">
+    <span class="authors">Vincent Casser,&nbsp;Kai Kang,&nbsp;Hanspeter Pfister,&nbsp;Daniel Haehn</span>;
+    <span class="info">PMLR 121:111-120</span>
+  </p>
+  <p class="links">
+    [<a href="http://proceedings.mlr.press/v121/casser20a.html">abs</a>][<a href="http://proceedings.mlr.press/v121/casser20a/casser20a.pdf" target="_blank" onclick="ga('send', 'event', 'PDF Downloads', 'Download', http://proceedings.mlr.press/v121/casser20a/casser20a.pdf, 10);">Download PDF</a>]</p>
+</div>
+<div class="paper">
+  <p class="title">Addressing The False Negative Problem of Deep Learning MRI Reconstruction Models by Adversarial Attacks and Robust Training</p>
+  <p class="details">
+    <span class="authors">Kaiyang Cheng,&nbsp;Francesco Calivá,&nbsp;Rutwik Shah,&nbsp;Misung Han,&nbsp;Sharmila Majumdar,&nbsp;Valentina Pedoia</span>;
+    <span class="info">PMLR 121:121-135</span>
+  </p>
+  <p class="links">
+    [<a href="http://proceedings.mlr.press/v121/cheng20a.html">abs</a>][<a href="http://proceedings.mlr.press/v121/cheng20a/cheng20a.pdf" target="_blank" onclick="ga('send', 'event', 'PDF Downloads', 'Download', http://proceedings.mlr.press/v121/cheng20a/cheng20a.pdf, 10);">Download PDF</a>]</p>
+</div>
+<div class="paper">
+  <p class="title">On the limits of cross-domain generalization in automated X-ray prediction</p>
+  <p class="details">
+    <span class="authors">Joseph Paul Cohen,&nbsp;Mohammad Hashir,&nbsp;Rupert Brooks,&nbsp;Hadrien Bertrand</span>;
+    <span class="info">PMLR 121:136-155</span>
+  </p>
+  <p class="links">
+    [<a href="http://proceedings.mlr.press/v121/cohen20a.html">abs</a>][<a href="http://proceedings.mlr.press/v121/cohen20a/cohen20a.pdf" target="_blank" onclick="ga('send', 'event', 'PDF Downloads', 'Download', http://proceedings.mlr.press/v121/cohen20a/cohen20a.pdf, 10);">Download PDF</a>]</p>
+</div>
+<div class="paper">
+  <p class="title">Uncertainty-Aware Training of Neural Networks for Selective Medical Image Segmentation</p>
+  <p class="details">
+    <span class="authors">Yukun Ding,&nbsp;Jinglan Liu,&nbsp;Xiaowei Xu,&nbsp;Meiping Huang,&nbsp;Jian Zhuang,&nbsp;Jinjun Xiong,&nbsp;Yiyu Shi</span>;
+    <span class="info">PMLR 121:156-173</span>
+  </p>
+  <p class="links">
+    [<a href="http://proceedings.mlr.press/v121/ding20a.html">abs</a>][<a href="http://proceedings.mlr.press/v121/ding20a/ding20a.pdf" target="_blank" onclick="ga('send', 'event', 'PDF Downloads', 'Download', http://proceedings.mlr.press/v121/ding20a/ding20a.pdf, 10);">Download PDF</a>]</p>
+</div>
+<div class="paper">
+  <p class="title">3D-RADNet: Extracting labels from DICOM metadata for training general medical domain deep 3D convolution neural networks</p>
+  <p class="details">
+    <span class="authors">Richard Du,&nbsp;Varut Vardhanabhuti</span>;
+    <span class="info">PMLR 121:174-192</span>
+  </p>
+  <p class="links">
+    [<a href="http://proceedings.mlr.press/v121/du20a.html">abs</a>][<a href="http://proceedings.mlr.press/v121/du20a/du20a.pdf" target="_blank" onclick="ga('send', 'event', 'PDF Downloads', 'Download', http://proceedings.mlr.press/v121/du20a/du20a.pdf, 10);">Download PDF</a>]</p>
+</div>
+<div class="paper">
+  <p class="title">Prostate Cancer Semantic Segmentation by Gleason Score Group in bi-parametric MRI with Self Attention Model on the Peripheral Zone</p>
+  <p class="details">
+    <span class="authors">Audrey Duran,&nbsp;Pierre-Marc Jodoin,&nbsp;Carole Lartizien</span>;
+    <span class="info">PMLR 121:193-204</span>
+  </p>
+  <p class="links">
+    [<a href="http://proceedings.mlr.press/v121/duran20a.html">abs</a>][<a href="http://proceedings.mlr.press/v121/duran20a/duran20a.pdf" target="_blank" onclick="ga('send', 'event', 'PDF Downloads', 'Download', http://proceedings.mlr.press/v121/duran20a/duran20a.pdf, 10);">Download PDF</a>]</p>
+</div>
+<div class="paper">
+  <p class="title">Priority U-Net: Detection of Punctuate White Matter Lesions in Preterm Neonate in 3D Cranial Ultrasonography</p>
+  <p class="details">
+    <span class="authors">Pierre Erbacher,&nbsp;Carole Lartizien,&nbsp;Matthieu Martin,&nbsp;Pedro Foletto-Pimenta,&nbsp;Philippe Quetin,&nbsp;Philippe Delachartre</span>;
+    <span class="info">PMLR 121:205-216</span>
+  </p>
+  <p class="links">
+    [<a href="http://proceedings.mlr.press/v121/erbacher20a.html">abs</a>][<a href="http://proceedings.mlr.press/v121/erbacher20a/erbacher20a.pdf" target="_blank" onclick="ga('send', 'event', 'PDF Downloads', 'Download', http://proceedings.mlr.press/v121/erbacher20a/erbacher20a.pdf, 10);">Download PDF</a>]</p>
+</div>
+<div class="paper">
+  <p class="title">Understanding Alzheimer disease’s structural connectivity through explainable AI</p>
+  <p class="details">
+    <span class="authors">Achraf Essemlali,&nbsp;Etienne St-Onge,&nbsp;Maxime Descoteaux,&nbsp;Pierre-Marc Jodoin</span>;
+    <span class="info">PMLR 121:217-229</span>
+  </p>
+  <p class="links">
+    [<a href="http://proceedings.mlr.press/v121/essemlali20a.html">abs</a>][<a href="http://proceedings.mlr.press/v121/essemlali20a/essemlali20a.pdf" target="_blank" onclick="ga('send', 'event', 'PDF Downloads', 'Download', http://proceedings.mlr.press/v121/essemlali20a/essemlali20a.pdf, 10);">Download PDF</a>]</p>
+</div>
+<div class="paper">
+  <p class="title">Training deep segmentation networks on texture-encoded input: application to neuroimaging of the developing neonatal brain</p>
+  <p class="details">
+    <span class="authors">Ahmed E. Fetit,&nbsp;John Cupitt,&nbsp;Turkay Kart,&nbsp;Daniel Rueckert</span>;
+    <span class="info">PMLR 121:230-240</span>
+  </p>
+  <p class="links">
+    [<a href="http://proceedings.mlr.press/v121/fetit20b.html">abs</a>][<a href="http://proceedings.mlr.press/v121/fetit20b/fetit20b.pdf" target="_blank" onclick="ga('send', 'event', 'PDF Downloads', 'Download', http://proceedings.mlr.press/v121/fetit20b/fetit20b.pdf, 10);">Download PDF</a>]</p>
+</div>
+<div class="paper">
+  <p class="title">A deep learning approach to segmentation of the developing cortex in fetal brain MRI with minimal manual labeling</p>
+  <p class="details">
+    <span class="authors">Ahmed E. Fetit,&nbsp;Amir Alansary,&nbsp;Lucilio Cordero-Grande,&nbsp;John Cupitt,&nbsp;Alice B. Davidson,&nbsp;A. David Edwards,&nbsp;Joseph V. Hajnal,&nbsp;Emer Hughes,&nbsp;Konstantinos Kamnitsas,&nbsp;Vanessa Kyriakopoulou,&nbsp;Antonios Makropoulos,&nbsp;Prachi A. Patkee,&nbsp;Anthony N. Price,&nbsp;Mary A. Rutherford,&nbsp;Daniel Rueckert</span>;
+    <span class="info">PMLR 121:241-261</span>
+  </p>
+  <p class="links">
+    [<a href="http://proceedings.mlr.press/v121/fetit20a.html">abs</a>][<a href="http://proceedings.mlr.press/v121/fetit20a/fetit20a.pdf" target="_blank" onclick="ga('send', 'event', 'PDF Downloads', 'Download', http://proceedings.mlr.press/v121/fetit20a/fetit20a.pdf, 10);">Download PDF</a>]</p>
+</div>
+<div class="paper">
+  <p class="title">Locating Cephalometric X-Ray Landmarks with Foveated Pyramid Attention</p>
+  <p class="details">
+    <span class="authors">Logan Gilmour,&nbsp;Nilanjan Ray</span>;
+    <span class="info">PMLR 121:262-276</span>
+  </p>
+  <p class="links">
+    [<a href="http://proceedings.mlr.press/v121/gilmour20a.html">abs</a>][<a href="http://proceedings.mlr.press/v121/gilmour20a/gilmour20a.pdf" target="_blank" onclick="ga('send', 'event', 'PDF Downloads', 'Download', http://proceedings.mlr.press/v121/gilmour20a/gilmour20a.pdf, 10);">Download PDF</a>]</p>
+</div>
+<div class="paper">
+  <p class="title">Adversarial Domain Adaptation for Cell Segmentation</p>
+  <p class="details">
+    <span class="authors">Mohammad Minhazul Haq,&nbsp;Junzhou Huang</span>;
+    <span class="info">PMLR 121:277-287</span>
+  </p>
+  <p class="links">
+    [<a href="http://proceedings.mlr.press/v121/haq20a.html">abs</a>][<a href="http://proceedings.mlr.press/v121/haq20a/haq20a.pdf" target="_blank" onclick="ga('send', 'event', 'PDF Downloads', 'Download', http://proceedings.mlr.press/v121/haq20a/haq20a.pdf, 10);">Download PDF</a>]</p>
+</div>
+<div class="paper">
+  <p class="title">Quantifying the Value of Lateral Views in Deep Learning for Chest X-rays</p>
+  <p class="details">
+    <span class="authors">Mohammad Hashir,&nbsp;Hadrien Bertrand,&nbsp;Joseph Paul Cohen</span>;
+    <span class="info">PMLR 121:288-303</span>
+  </p>
+  <p class="links">
+    [<a href="http://proceedings.mlr.press/v121/hashir20a.html">abs</a>][<a href="http://proceedings.mlr.press/v121/hashir20a/hashir20a.pdf" target="_blank" onclick="ga('send', 'event', 'PDF Downloads', 'Download', http://proceedings.mlr.press/v121/hashir20a/hashir20a.pdf, 10);">Download PDF</a>]</p>
+</div>
+<div class="paper">
+  <p class="title">An Auxiliary Task for Learning Nuclei Segmentation in 3D Microscopy Images</p>
+  <p class="details">
+    <span class="authors">Peter Hirsch,&nbsp;Dagmar Kainmueller</span>;
+    <span class="info">PMLR 121:304-321</span>
+  </p>
+  <p class="links">
+    [<a href="http://proceedings.mlr.press/v121/hirsch20a.html">abs</a>][<a href="http://proceedings.mlr.press/v121/hirsch20a/hirsch20a.pdf" target="_blank" onclick="ga('send', 'event', 'PDF Downloads', 'Download', http://proceedings.mlr.press/v121/hirsch20a/hirsch20a.pdf, 10);">Download PDF</a>]</p>
+</div>
+<div class="paper">
+  <p class="title">DIVA: Domain Invariant Variational Autoencoders</p>
+  <p class="details">
+    <span class="authors">Maximilian Ilse,&nbsp;Jakub M. Tomczak,&nbsp;Christos Louizos,&nbsp;Max Welling</span>;
+    <span class="info">PMLR 121:322-348</span>
+  </p>
+  <p class="links">
+    [<a href="http://proceedings.mlr.press/v121/ilse20a.html">abs</a>][<a href="http://proceedings.mlr.press/v121/ilse20a/ilse20a.pdf" target="_blank" onclick="ga('send', 'event', 'PDF Downloads', 'Download', http://proceedings.mlr.press/v121/ilse20a/ilse20a.pdf, 10);">Download PDF</a>]</p>
+</div>
+<div class="paper">
+  <p class="title">Feature Disentanglement to Aid Imaging Biomarker Characterization for Genetic Mutations</p>
+  <p class="details">
+    <span class="authors">Padmaja Jonnalagedda,&nbsp;Brent Weinberg,&nbsp;Jason Allen,&nbsp;Bir Bhanu</span>;
+    <span class="info">PMLR 121:349-364</span>
+  </p>
+  <p class="links">
+    [<a href="http://proceedings.mlr.press/v121/jonnalagedda20a.html">abs</a>][<a href="http://proceedings.mlr.press/v121/jonnalagedda20a/jonnalagedda20a.pdf" target="_blank" onclick="ga('send', 'event', 'PDF Downloads', 'Download', http://proceedings.mlr.press/v121/jonnalagedda20a/jonnalagedda20a.pdf, 10);">Download PDF</a>]</p>
+</div>
+<div class="paper">
+  <p class="title">Bounding boxes for weakly supervised segmentation: Global constraints get close to full supervision</p>
+  <p class="details">
+    <span class="authors">Hoel Kervadec,&nbsp;Jose Dolz,&nbsp;Shanshan Wang,&nbsp;Eric Granger,&nbsp;Ismail Ben Ayed</span>;
+    <span class="info">PMLR 121:365-381</span>
+  </p>
+  <p class="links">
+    [<a href="http://proceedings.mlr.press/v121/kervadec20a.html">abs</a>][<a href="http://proceedings.mlr.press/v121/kervadec20a/kervadec20a.pdf" target="_blank" onclick="ga('send', 'event', 'PDF Downloads', 'Download', http://proceedings.mlr.press/v121/kervadec20a/kervadec20a.pdf, 10);">Download PDF</a>]</p>
+</div>
+<div class="paper">
+  <p class="title">Skull R-CNN: A CNN-based network for the skull fracture detection</p>
+  <p class="details">
+    <span class="authors">Zhuo Kuang,&nbsp;Xianbo Deng,&nbsp;Li Yu,&nbsp;Hang Zhang,&nbsp;Xian Lin,&nbsp;Hui Ma</span>;
+    <span class="info">PMLR 121:382-392</span>
+  </p>
+  <p class="links">
+    [<a href="http://proceedings.mlr.press/v121/kuang20a.html">abs</a>][<a href="http://proceedings.mlr.press/v121/kuang20a/kuang20a.pdf" target="_blank" onclick="ga('send', 'event', 'PDF Downloads', 'Download', http://proceedings.mlr.press/v121/kuang20a/kuang20a.pdf, 10);">Download PDF</a>]</p>
+</div>
+<div class="paper">
+  <p class="title">Well-Calibrated Regression Uncertainty in Medical Imaging with Deep Learning</p>
+  <p class="details">
+    <span class="authors">Max-Heinrich Laves,&nbsp;Sontje Ihler,&nbsp;Jacob F. Fast,&nbsp;Lüder A. Kahrs,&nbsp;Tobias Ortmaier</span>;
+    <span class="info">PMLR 121:393-412</span>
+  </p>
+  <p class="links">
+    [<a href="http://proceedings.mlr.press/v121/laves20a.html">abs</a>][<a href="http://proceedings.mlr.press/v121/laves20a/laves20a.pdf" target="_blank" onclick="ga('send', 'event', 'PDF Downloads', 'Download', http://proceedings.mlr.press/v121/laves20a/laves20a.pdf, 10);">Download PDF</a>]</p>
+</div>
+<div class="paper">
+  <p class="title">Continual Learning for Domain Adaptation in Chest X-ray Classification</p>
+  <p class="details">
+    <span class="authors">Matthias Lenga,&nbsp;Heinrich Schulz,&nbsp;Axel Saalbach</span>;
+    <span class="info">PMLR 121:413-423</span>
+  </p>
+  <p class="links">
+    [<a href="http://proceedings.mlr.press/v121/lenga20a.html">abs</a>][<a href="http://proceedings.mlr.press/v121/lenga20a/lenga20a.pdf" target="_blank" onclick="ga('send', 'event', 'PDF Downloads', 'Download', http://proceedings.mlr.press/v121/lenga20a/lenga20a.pdf, 10);">Download PDF</a>]</p>
+</div>
+<div class="paper">
+  <p class="title">Generating Fundus Fluorescence Angiography Images from Structure Fundus Images Using Generative Adversarial Networks</p>
+  <p class="details">
+    <span class="authors">Wanyue Li,&nbsp;Wen Kong,&nbsp;Yiwei Chen,&nbsp;Jing Wang,&nbsp;Yi He,&nbsp;Guohua Shi,&nbsp;Guohua Deng</span>;
+    <span class="info">PMLR 121:424-439</span>
+  </p>
+  <p class="links">
+    [<a href="http://proceedings.mlr.press/v121/li20b.html">abs</a>][<a href="http://proceedings.mlr.press/v121/li20b/li20b.pdf" target="_blank" onclick="ga('send', 'event', 'PDF Downloads', 'Download', http://proceedings.mlr.press/v121/li20b/li20b.pdf, 10);">Download PDF</a>]</p>
+</div>
+<div class="paper">
+  <p class="title">Joint Learning of Vessel Segmentation and Artery/Vein Classification with Post-processing</p>
+  <p class="details">
+    <span class="authors">Liangzhi Li,&nbsp;Manisha Verma,&nbsp;Yuta Nakashima,&nbsp;Ryo Kawasaki,&nbsp;Hajime Nagahara</span>;
+    <span class="info">PMLR 121:440-453</span>
+  </p>
+  <p class="links">
+    [<a href="http://proceedings.mlr.press/v121/li20a.html">abs</a>][<a href="http://proceedings.mlr.press/v121/li20a/li20a.pdf" target="_blank" onclick="ga('send', 'event', 'PDF Downloads', 'Download', http://proceedings.mlr.press/v121/li20a/li20a.pdf, 10);">Download PDF</a>]</p>
+</div>
+<div class="paper">
+  <p class="title">Laplacian pyramid-based complex neural network learning for fast MR imaging</p>
+  <p class="details">
+    <span class="authors">Haoyun Liang,&nbsp;Yu Gong,&nbsp;Hoel Kervadec,&nbsp;Cheng Li,&nbsp;Jing Yuan,&nbsp;Xin Liu,&nbsp;Hairong Zheng,&nbsp;Shanshan Wang</span>;
+    <span class="info">PMLR 121:454-464</span>
+  </p>
+  <p class="links">
+    [<a href="http://proceedings.mlr.press/v121/liang20a.html">abs</a>][<a href="http://proceedings.mlr.press/v121/liang20a/liang20a.pdf" target="_blank" onclick="ga('send', 'event', 'PDF Downloads', 'Download', http://proceedings.mlr.press/v121/liang20a/liang20a.pdf, 10);">Download PDF</a>]</p>
+</div>
+<div class="paper">
+  <p class="title">Efficient Out-of-Distribution Detection in Digital Pathology Using Multi-Head Convolutional Neural Networks</p>
+  <p class="details">
+    <span class="authors">Jasper Linmans,&nbsp;Jeroen van der Laak,&nbsp;Geert Litjens</span>;
+    <span class="info">PMLR 121:465-478</span>
+  </p>
+  <p class="links">
+    [<a href="http://proceedings.mlr.press/v121/linmans20a.html">abs</a>][<a href="http://proceedings.mlr.press/v121/linmans20a/linmans20a.pdf" target="_blank" onclick="ga('send', 'event', 'PDF Downloads', 'Download', http://proceedings.mlr.press/v121/linmans20a/linmans20a.pdf, 10);">Download PDF</a>]</p>
+</div>
+<div class="paper">
+  <p class="title">How Distance Transform Maps Boost Segmentation CNNs: An Empirical Study</p>
+  <p class="details">
+    <span class="authors">Jun Ma,&nbsp;Zhan Wei,&nbsp;Yiwen Zhang,&nbsp;Yixin Wang,&nbsp;Rongfei Lv,&nbsp;Cheng Zhu,&nbsp;Chen Gaoxiang,&nbsp;Jianan Liu,&nbsp;Chao Peng,&nbsp;Lei Wang,&nbsp;Yunpeng Wang,&nbsp;Jianan Chen</span>;
+    <span class="info">PMLR 121:479-492</span>
+  </p>
+  <p class="links">
+    [<a href="http://proceedings.mlr.press/v121/ma20b.html">abs</a>][<a href="http://proceedings.mlr.press/v121/ma20b/ma20b.pdf" target="_blank" onclick="ga('send', 'event', 'PDF Downloads', 'Download', http://proceedings.mlr.press/v121/ma20b/ma20b.pdf, 10);">Download PDF</a>]</p>
+</div>
+<div class="paper">
+  <p class="title">Cascade Dual-branch Deep Neural Networks for Retinal Layer and fluid Segmentation of Optical Coherence Tomography Incorporating Relative Positional Map</p>
+  <p class="details">
+    <span class="authors">Da Ma,&nbsp;Donghuan Lu,&nbsp;Morgan Heisler,&nbsp;Setareh Dabiri,&nbsp;Sieun Lee,&nbsp;Gavin Weiguang Ding,&nbsp;Marinko V. Sarunic,&nbsp;Mirza Faisal Beg</span>;
+    <span class="info">PMLR 121:493-502</span>
+  </p>
+  <p class="links">
+    [<a href="http://proceedings.mlr.press/v121/ma20a.html">abs</a>][<a href="http://proceedings.mlr.press/v121/ma20a/ma20a.pdf" target="_blank" onclick="ga('send', 'event', 'PDF Downloads', 'Download', http://proceedings.mlr.press/v121/ma20a/ma20a.pdf, 10);">Download PDF</a>]</p>
+</div>
+<div class="paper">
+  <p class="title">Siamese Content Loss Networks for Highly Imbalanced Medical Image Segmentation</p>
+  <p class="details">
+    <span class="authors">Brandon Mac,&nbsp;Alan R. Moody,&nbsp;April Khademi</span>;
+    <span class="info">PMLR 121:503-514</span>
+  </p>
+  <p class="links">
+    [<a href="http://proceedings.mlr.press/v121/mac20a.html">abs</a>][<a href="http://proceedings.mlr.press/v121/mac20a/mac20a.pdf" target="_blank" onclick="ga('send', 'event', 'PDF Downloads', 'Download', http://proceedings.mlr.press/v121/mac20a/mac20a.pdf, 10);">Download PDF</a>]</p>
+</div>
+<div class="paper">
+  <p class="title">KD-MRI: A knowledge distillation framework for image reconstruction and image restoration in MRI workflow</p>
+  <p class="details">
+    <span class="authors">Balamurali Murugesan,&nbsp;Sricharan Vijayarangan,&nbsp;Kaushik Sarveswaran,&nbsp;Keerthi Ram,&nbsp;Mohanasankar Sivaprakasam</span>;
+    <span class="info">PMLR 121:515-526</span>
+  </p>
+  <p class="links">
+    [<a href="http://proceedings.mlr.press/v121/murugesan20a.html">abs</a>][<a href="http://proceedings.mlr.press/v121/murugesan20a/murugesan20a.pdf" target="_blank" onclick="ga('send', 'event', 'PDF Downloads', 'Download', http://proceedings.mlr.press/v121/murugesan20a/murugesan20a.pdf, 10);">Download PDF</a>]</p>
+</div>
+<div class="paper">
+  <p class="title">DRMIME: Differentiable Mutual Information and Matrix Exponential for Multi-Resolution Image Registration</p>
+  <p class="details">
+    <span class="authors">Abhishek Nan,&nbsp;Matthew Tennant,&nbsp;Uriel Rubin,&nbsp;Nilanjan Ray</span>;
+    <span class="info">PMLR 121:527-543</span>
+  </p>
+  <p class="links">
+    [<a href="http://proceedings.mlr.press/v121/nan20a.html">abs</a>][<a href="http://proceedings.mlr.press/v121/nan20a/nan20a.pdf" target="_blank" onclick="ga('send', 'event', 'PDF Downloads', 'Download', http://proceedings.mlr.press/v121/nan20a/nan20a.pdf, 10);">Download PDF</a>]</p>
+</div>
+<div class="paper">
+  <p class="title">Deep Reinforcement Learning for Organ Localization in CT</p>
+  <p class="details">
+    <span class="authors">Fernando Navarro,&nbsp;Anjany Sekuboyina,&nbsp;Diana Waldmannstetter,&nbsp;Jan C. Peeken,&nbsp;Stephanie E. Combs,&nbsp;Bjoern H. Menze</span>;
+    <span class="info">PMLR 121:544-554</span>
+  </p>
+  <p class="links">
+    [<a href="http://proceedings.mlr.press/v121/navarro20a.html">abs</a>][<a href="http://proceedings.mlr.press/v121/navarro20a/navarro20a.pdf" target="_blank" onclick="ga('send', 'event', 'PDF Downloads', 'Download', http://proceedings.mlr.press/v121/navarro20a/navarro20a.pdf, 10);">Download PDF</a>]</p>
+</div>
+<div class="paper">
+  <p class="title">End-to-end learning of convolutional neural net and dynamic programming for left ventricle segmentation</p>
+  <p class="details">
+    <span class="authors">Nhat M. Nguyen,&nbsp;Nilanjan Ray</span>;
+    <span class="info">PMLR 121:555-569</span>
+  </p>
+  <p class="links">
+    [<a href="http://proceedings.mlr.press/v121/nguyen20a.html">abs</a>][<a href="http://proceedings.mlr.press/v121/nguyen20a/nguyen20a.pdf" target="_blank" onclick="ga('send', 'event', 'PDF Downloads', 'Download', http://proceedings.mlr.press/v121/nguyen20a/nguyen20a.pdf, 10);">Download PDF</a>]</p>
+</div>
+<div class="paper">
+  <p class="title">Siamese Tracking of Cell Behaviour Patterns</p>
+  <p class="details">
+    <span class="authors">Andreas Panteli,&nbsp;Deepak K. Gupta,&nbsp;Nathan Bruijn,&nbsp;Efstratios Gavves</span>;
+    <span class="info">PMLR 121:570-587</span>
+  </p>
+  <p class="links">
+    [<a href="http://proceedings.mlr.press/v121/panteli20a.html">abs</a>][<a href="http://proceedings.mlr.press/v121/panteli20a/panteli20a.pdf" target="_blank" onclick="ga('send', 'event', 'PDF Downloads', 'Download', http://proceedings.mlr.press/v121/panteli20a/panteli20a.pdf, 10);">Download PDF</a>]</p>
+</div>
+<div class="paper">
+  <p class="title">Multitask radiological modality invariant landmark localization using deep reinforcement learning</p>
+  <p class="details">
+    <span class="authors">Vishwa S. Parekh,&nbsp;Bocchieri Alex E.,&nbsp;Vladimir Braverman,&nbsp;Michael A. Jacobs</span>;
+    <span class="info">PMLR 121:588-600</span>
+  </p>
+  <p class="links">
+    [<a href="http://proceedings.mlr.press/v121/parekh20a.html">abs</a>][<a href="http://proceedings.mlr.press/v121/parekh20a/parekh20a.pdf" target="_blank" onclick="ga('send', 'event', 'PDF Downloads', 'Download', http://proceedings.mlr.press/v121/parekh20a/parekh20a.pdf, 10);">Download PDF</a>]</p>
+</div>
+<div class="paper">
+  <p class="title">Mutual information deep regularization for semi-supervised segmentation</p>
+  <p class="details">
+    <span class="authors">Jizong Peng,&nbsp;Marco Pedersoli,&nbsp;Christian Desrosiers</span>;
+    <span class="info">PMLR 121:601-613</span>
+  </p>
+  <p class="links">
+    [<a href="http://proceedings.mlr.press/v121/peng20b.html">abs</a>][<a href="http://proceedings.mlr.press/v121/peng20b/peng20b.pdf" target="_blank" onclick="ga('send', 'event', 'PDF Downloads', 'Download', http://proceedings.mlr.press/v121/peng20b/peng20b.pdf, 10);">Download PDF</a>]</p>
+</div>
+<div class="paper">
+  <p class="title">Towards multi-sequence MR image recovery from undersampled k-space data</p>
+  <p class="details">
+    <span class="authors">Cheng Peng,&nbsp;Wei-An Lin,&nbsp;Rama Chellappa,&nbsp;S. Kevin Zhou</span>;
+    <span class="info">PMLR 121:614-623</span>
+  </p>
+  <p class="links">
+    [<a href="http://proceedings.mlr.press/v121/peng20a.html">abs</a>][<a href="http://proceedings.mlr.press/v121/peng20a/peng20a.pdf" target="_blank" onclick="ga('send', 'event', 'PDF Downloads', 'Download', http://proceedings.mlr.press/v121/peng20a/peng20a.pdf, 10);">Download PDF</a>]</p>
+</div>
+<div class="paper">
+  <p class="title">On Direct Distribution Matching for Adapting Segmentation Networks</p>
+  <p class="details">
+    <span class="authors">Georg Pichler,&nbsp;Jose Dolz,&nbsp;Ismail Ben Ayed,&nbsp;Pablo Piantanida</span>;
+    <span class="info">PMLR 121:624-637</span>
+  </p>
+  <p class="links">
+    [<a href="http://proceedings.mlr.press/v121/pichler20a.html">abs</a>][<a href="http://proceedings.mlr.press/v121/pichler20a/pichler20a.pdf" target="_blank" onclick="ga('send', 'event', 'PDF Downloads', 'Download', http://proceedings.mlr.press/v121/pichler20a/pichler20a.pdf, 10);">Download PDF</a>]</p>
+</div>
+<div class="paper">
+  <p class="title">Deep learning-based parameter mapping for joint relaxation and diffusion tensor MR Fingerprinting</p>
+  <p class="details">
+    <span class="authors">Carolin M. Pirk,&nbsp;Pedro A. Gomez,&nbsp;Ilona Lipp,&nbsp;Guido Buonincontri,&nbsp;Miguel Molina-Romero,&nbsp;Anjany Sekuboyina,&nbsp;Diana Waldmannstetter,&nbsp;Jonathan Dannenberg,&nbsp;Sebastian Endt,&nbsp;Alberto Merola,&nbsp;Joseph R. Whittaker,&nbsp;Valentina Tomassini,&nbsp;Michela Tosetti,&nbsp;Derek K. Jones,&nbsp;Bjoern H. Menze,&nbsp;Marion Menzel</span>;
+    <span class="info">PMLR 121:638-654</span>
+  </p>
+  <p class="links">
+    [<a href="http://proceedings.mlr.press/v121/pirk20a.html">abs</a>][<a href="http://proceedings.mlr.press/v121/pirk20a/pirk20a.pdf" target="_blank" onclick="ga('send', 'event', 'PDF Downloads', 'Download', http://proceedings.mlr.press/v121/pirk20a/pirk20a.pdf, 10);">Download PDF</a>]</p>
+</div>
+<div class="paper">
+  <p class="title">Red-GAN: Attacking class imbalance via conditioned generation. Yet another medical imaging perspective.</p>
+  <p class="details">
+    <span class="authors">Ahmad B. Qasim,&nbsp;Ivan Ezhov,&nbsp;Suprosanna Shit,&nbsp;Oliver Schoppe,&nbsp;Johannes C. Paetzold,&nbsp;Anjany Sekuboyina,&nbsp;Florian Kofler,&nbsp;Jana Lipkova,&nbsp;Hongwei Li,&nbsp;Bjoern Menze</span>;
+    <span class="info">PMLR 121:655-668</span>
+  </p>
+  <p class="links">
+    [<a href="http://proceedings.mlr.press/v121/qasim20a.html">abs</a>][<a href="http://proceedings.mlr.press/v121/qasim20a/qasim20a.pdf" target="_blank" onclick="ga('send', 'event', 'PDF Downloads', 'Download', http://proceedings.mlr.press/v121/qasim20a/qasim20a.pdf, 10);">Download PDF</a>]</p>
+</div>
+<div class="paper">
+  <p class="title">PathologyGAN: Learning deep representations of cancer tissue</p>
+  <p class="details">
+    <span class="authors">Adalberto Claudio Quiros,&nbsp;Roderick Murray-Smith,&nbsp;Ke Yuan</span>;
+    <span class="info">PMLR 121:669-695</span>
+  </p>
+  <p class="links">
+    [<a href="http://proceedings.mlr.press/v121/quiros20a.html">abs</a>][<a href="http://proceedings.mlr.press/v121/quiros20a/quiros20a.pdf" target="_blank" onclick="ga('send', 'event', 'PDF Downloads', 'Download', http://proceedings.mlr.press/v121/quiros20a/quiros20a.pdf, 10);">Download PDF</a>]</p>
+</div>
+<div class="paper">
+  <p class="title">MAC-ReconNet: A Multiple Acquisition Context based Convolutional Neural Network for MR Image Reconstruction using Dynamic Weight Prediction</p>
+  <p class="details">
+    <span class="authors">Sriprabha Ramanarayanan,&nbsp;Balamurali Murugesan,&nbsp;Keerthi Ram,&nbsp;Mohanasankar Sivaprakasam</span>;
+    <span class="info">PMLR 121:696-708</span>
+  </p>
+  <p class="links">
+    [<a href="http://proceedings.mlr.press/v121/ramanarayanan20a.html">abs</a>][<a href="http://proceedings.mlr.press/v121/ramanarayanan20a/ramanarayanan20a.pdf" target="_blank" onclick="ga('send', 'event', 'PDF Downloads', 'Download', http://proceedings.mlr.press/v121/ramanarayanan20a/ramanarayanan20a.pdf, 10);">Download PDF</a>]</p>
+</div>
+<div class="paper">
+  <p class="title">Deep learning-based retinal vessel segmentation with cross-modal evaluation</p>
+  <p class="details">
+    <span class="authors">Luisa Sanchez Brea,&nbsp;Danilo Andrade De Jesus,&nbsp;Stefan Klein,&nbsp;Theo van Walsum</span>;
+    <span class="info">PMLR 121:709-720</span>
+  </p>
+  <p class="links">
+    [<a href="http://proceedings.mlr.press/v121/sanchez-brea20a.html">abs</a>][<a href="http://proceedings.mlr.press/v121/sanchez-brea20a/sanchez-brea20a.pdf" target="_blank" onclick="ga('send', 'event', 'PDF Downloads', 'Download', http://proceedings.mlr.press/v121/sanchez-brea20a/sanchez-brea20a.pdf, 10);">Download PDF</a>]</p>
+</div>
+<div class="paper">
+  <p class="title">Tensor Networks for Medical Image Classification</p>
+  <p class="details">
+    <span class="authors">Raghavendra Selvan,&nbsp;Erik B Dam</span>;
+    <span class="info">PMLR 121:721-732</span>
+  </p>
+  <p class="links">
+    [<a href="http://proceedings.mlr.press/v121/selvan20a.html">abs</a>][<a href="http://proceedings.mlr.press/v121/selvan20a/selvan20a.pdf" target="_blank" onclick="ga('send', 'event', 'PDF Downloads', 'Download', http://proceedings.mlr.press/v121/selvan20a/selvan20a.pdf, 10);">Download PDF</a>]</p>
+</div>
+<div class="paper">
+  <p class="title">A Heteroscedastic Uncertainty Model for Decoupling Sources of MRI Image Quality</p>
+  <p class="details">
+    <span class="authors">Richard Shaw,&nbsp;Carole H. Sudre,&nbsp;Sébastien Ourselin,&nbsp;M. Jorge Cardoso</span>;
+    <span class="info">PMLR 121:733-742</span>
+  </p>
+  <p class="links">
+    [<a href="http://proceedings.mlr.press/v121/shaw20a.html">abs</a>][<a href="http://proceedings.mlr.press/v121/shaw20a/shaw20a.pdf" target="_blank" onclick="ga('send', 'event', 'PDF Downloads', 'Download', http://proceedings.mlr.press/v121/shaw20a/shaw20a.pdf, 10);">Download PDF</a>]</p>
+</div>
+<div class="paper">
+  <p class="title">Automatic Diagnosis of Pulmonary Embolism Using an Attention-guided Framework: A Large-scale Study</p>
+  <p class="details">
+    <span class="authors">Luyao Shi,&nbsp;Deepta Rajan,&nbsp;Shafiq Abedin,&nbsp;Manikanta Srikar Yellapragada,&nbsp;David Beymer,&nbsp;Ehsan Dehghan</span>;
+    <span class="info">PMLR 121:743-754</span>
+  </p>
+  <p class="links">
+    [<a href="http://proceedings.mlr.press/v121/shi20a.html">abs</a>][<a href="http://proceedings.mlr.press/v121/shi20a/shi20a.pdf" target="_blank" onclick="ga('send', 'event', 'PDF Downloads', 'Download', http://proceedings.mlr.press/v121/shi20a/shi20a.pdf, 10);">Download PDF</a>]</p>
+</div>
+<div class="paper">
+  <p class="title">Uncertainty-based Graph Convolutional Networks for Organ Segmentation Refinement</p>
+  <p class="details">
+    <span class="authors">Roger D. Soberanis-Mukul,&nbsp;Nassir Navab,&nbsp;Shadi Albarqouni</span>;
+    <span class="info">PMLR 121:755-769</span>
+  </p>
+  <p class="links">
+    [<a href="http://proceedings.mlr.press/v121/soberanis-mukul20a.html">abs</a>][<a href="http://proceedings.mlr.press/v121/soberanis-mukul20a/soberanis-mukul20a.pdf" target="_blank" onclick="ga('send', 'event', 'PDF Downloads', 'Download', http://proceedings.mlr.press/v121/soberanis-mukul20a/soberanis-mukul20a.pdf, 10);">Download PDF</a>]</p>
+</div>
+<div class="paper">
+  <p class="title">Extending Unsupervised Neural Image Compression With Supervised Multitask Learning</p>
+  <p class="details">
+    <span class="authors">David Tellez,&nbsp;Diederik Höppener,&nbsp;Cornelis Verhoef,&nbsp;Dirk Grünhagen,&nbsp;Pieter Nierop,&nbsp;Michal Drozdzal,&nbsp;Jeroen Laak,&nbsp;Francesco Ciompi</span>;
+    <span class="info">PMLR 121:770-783</span>
+  </p>
+  <p class="links">
+    [<a href="http://proceedings.mlr.press/v121/tellez20a.html">abs</a>][<a href="http://proceedings.mlr.press/v121/tellez20a/tellez20a.pdf" target="_blank" onclick="ga('send', 'event', 'PDF Downloads', 'Download', http://proceedings.mlr.press/v121/tellez20a/tellez20a.pdf, 10);">Download PDF</a>]</p>
+</div>
+<div class="paper">
+  <p class="title">Knee Injury Detection using MRI with Efficiently-Layered Network (ELNet)</p>
+  <p class="details">
+    <span class="authors">Chen-Han Tsai,&nbsp;Nahum Kiryati,&nbsp;Eli Konen,&nbsp;Iris Eshed,&nbsp;Arnaldo Mayer</span>;
+    <span class="info">PMLR 121:784-794</span>
+  </p>
+  <p class="links">
+    [<a href="http://proceedings.mlr.press/v121/tsai20a.html">abs</a>][<a href="http://proceedings.mlr.press/v121/tsai20a/tsai20a.pdf" target="_blank" onclick="ga('send', 'event', 'PDF Downloads', 'Download', http://proceedings.mlr.press/v121/tsai20a/tsai20a.pdf, 10);">Download PDF</a>]</p>
+</div>
+<div class="paper">
+  <p class="title">Domain adaptation model for retinopathy detection from cross-domain OCT images</p>
+  <p class="details">
+    <span class="authors">Jing Wang,&nbsp;Yiwei Chen,&nbsp;Wanyue Li,&nbsp;Wen Kong,&nbsp;Yi He,&nbsp;Chuihui Jiang,&nbsp;Guohua Shi</span>;
+    <span class="info">PMLR 121:795-810</span>
+  </p>
+  <p class="links">
+    [<a href="http://proceedings.mlr.press/v121/wang20a.html">abs</a>][<a href="http://proceedings.mlr.press/v121/wang20a/wang20a.pdf" target="_blank" onclick="ga('send', 'event', 'PDF Downloads', 'Download', http://proceedings.mlr.press/v121/wang20a/wang20a.pdf, 10);">Download PDF</a>]</p>
+</div>
+<div class="paper">
+  <p class="title">Automated Labelling using an Attention model for Radiology reports of MRI scans (ALARM)</p>
+  <p class="details">
+    <span class="authors">David A. Wood,&nbsp;Jeremy Lynch,&nbsp;Sina Kafiabadi,&nbsp;Emily Guilhem,&nbsp;Aisha Al Busaidi,&nbsp;Antanas Montvila,&nbsp;Thomas Varsavsky,&nbsp;Juveria Siddiqui,&nbsp;Naveen Gadapa,&nbsp;Matthew Townend,&nbsp;Martin Kiik,&nbsp;Keena Patel,&nbsp;Gareth Barker,&nbsp;Sebastian Ourselin,&nbsp;James H. Cole,&nbsp;Thomas C. Booth</span>;
+    <span class="info">PMLR 121:811-826</span>
+  </p>
+  <p class="links">
+    [<a href="http://proceedings.mlr.press/v121/wood20a.html">abs</a>][<a href="http://proceedings.mlr.press/v121/wood20a/wood20a.pdf" target="_blank" onclick="ga('send', 'event', 'PDF Downloads', 'Download', http://proceedings.mlr.press/v121/wood20a/wood20a.pdf, 10);">Download PDF</a>]</p>
+</div>
+<div class="paper">
+  <p class="title">Improving the Ability of Deep Neural Networks to Use Information from Multiple Views in Breast Cancer Screening</p>
+  <p class="details">
+    <span class="authors">Nan Wu,&nbsp;Stanisław Jastrzębski,&nbsp;Jungkyu Park,&nbsp;Linda Moy,&nbsp;Kyunghyun Cho,&nbsp;Krzysztof J. Geras</span>;
+    <span class="info">PMLR 121:827-842</span>
+  </p>
+  <p class="links">
+    [<a href="http://proceedings.mlr.press/v121/wu20a.html">abs</a>][<a href="http://proceedings.mlr.press/v121/wu20a/wu20a.pdf" target="_blank" onclick="ga('send', 'event', 'PDF Downloads', 'Download', http://proceedings.mlr.press/v121/wu20a/wu20a.pdf, 10);">Download PDF</a>]</p>
+</div>
+<div class="paper">
+  <p class="title">Beyond Classification: Whole Slide Tissue Histopathology Analysis By End-To-End Part Learning</p>
+  <p class="details">
+    <span class="authors">Chensu Xie,&nbsp;Hassan Muhammad,&nbsp;Chad M. Vanderbilt,&nbsp;Raul Caso,&nbsp;Dig Vijay Kumar Yarlagadda,&nbsp;Gabriele Campanella,&nbsp;Thomas J. Fuchs</span>;
+    <span class="info">PMLR 121:843-856</span>
+  </p>
+  <p class="links">
+    [<a href="http://proceedings.mlr.press/v121/xie20a.html">abs</a>][<a href="http://proceedings.mlr.press/v121/xie20a/xie20a.pdf" target="_blank" onclick="ga('send', 'event', 'PDF Downloads', 'Download', http://proceedings.mlr.press/v121/xie20a/xie20a.pdf, 10);">Download PDF</a>]</p>
+</div>
+<div class="paper">
+  <p class="title">Correlation via Synthesis: End-to-end Image Generation and Radiogenomic Learning Based on Generative Adversarial Network</p>
+  <p class="details">
+    <span class="authors">Ziyue Xu,&nbsp;Xiaosong Wang,&nbsp;Hoo-Chang Shin,&nbsp;Dong Yang,&nbsp;Holger Roth,&nbsp;Fausto Milletari,&nbsp;Ling Zhang,&nbsp;Daguang Xu</span>;
+    <span class="info">PMLR 121:857-866</span>
+  </p>
+  <p class="links">
+    [<a href="http://proceedings.mlr.press/v121/xu20a.html">abs</a>][<a href="http://proceedings.mlr.press/v121/xu20a/xu20a.pdf" target="_blank" onclick="ga('send', 'event', 'PDF Downloads', 'Download', http://proceedings.mlr.press/v121/xu20a/xu20a.pdf, 10);">Download PDF</a>]</p>
+</div>
+<div class="paper">
+  <p class="title">Brain Metastasis Segmentation Network Trained with Robustness to Annotations with Multiple False Negatives</p>
+  <p class="details">
+    <span class="authors">Darvin Yi,&nbsp;Endre Grøvik,&nbsp;Michael Iv,&nbsp;Elizabeth Tong,&nbsp;Greg Zaharchuk,&nbsp;Daniel Rubin</span>;
+    <span class="info">PMLR 121:867-880</span>
+  </p>
+  <p class="links">
+    [<a href="http://proceedings.mlr.press/v121/yi20a.html">abs</a>][<a href="http://proceedings.mlr.press/v121/yi20a/yi20a.pdf" target="_blank" onclick="ga('send', 'event', 'PDF Downloads', 'Download', http://proceedings.mlr.press/v121/yi20a/yi20a.pdf, 10);">Download PDF</a>]</p>
+</div>
+<div class="paper">
+  <p class="title">An Auto-Encoder Strategy for Adaptive Image Segmentation</p>
+  <p class="details">
+    <span class="authors">Evan M. Yu,&nbsp;Juan Eugenio Iglesias,&nbsp;Adrian V. Dalca,&nbsp;Mert R. Sabuncu</span>;
+    <span class="info">PMLR 121:881-891</span>
+  </p>
+  <p class="links">
+    [<a href="http://proceedings.mlr.press/v121/yu20a.html">abs</a>][<a href="http://proceedings.mlr.press/v121/yu20a/yu20a.pdf" target="_blank" onclick="ga('send', 'event', 'PDF Downloads', 'Download', http://proceedings.mlr.press/v121/yu20a/yu20a.pdf, 10);">Download PDF</a>]</p>
+</div>
+<div class="paper">
+  <p class="title">Bayesian Learning of Probabilistic Dipole Inversion for Quantitative Susceptibility Mapping</p>
+  <p class="details">
+    <span class="authors">Jinwei Zhang,&nbsp;Hang Zhang,&nbsp;Mert Sabuncu,&nbsp;Pascal Spincemaille,&nbsp;Thanh Nguyen,&nbsp;Yi Wang</span>;
+    <span class="info">PMLR 121:892-902</span>
+  </p>
+  <p class="links">
+    [<a href="http://proceedings.mlr.press/v121/zhang20b.html">abs</a>][<a href="http://proceedings.mlr.press/v121/zhang20b/zhang20b.pdf" target="_blank" onclick="ga('send', 'event', 'PDF Downloads', 'Download', http://proceedings.mlr.press/v121/zhang20b/zhang20b.pdf, 10);">Download PDF</a>]</p>
+</div>
+<div class="paper">
+  <p class="title">SAU-Net: Efficient 3D Spine MRI Segmentation Using Inter-Slice Attention</p>
+  <p class="details">
+    <span class="authors">Yichi Zhang,&nbsp;Lin Yuan,&nbsp;Yujia Wang,&nbsp;Jicong Zhang</span>;
+    <span class="info">PMLR 121:903-913</span>
+  </p>
+  <p class="links">
+    [<a href="http://proceedings.mlr.press/v121/zhang20c.html">abs</a>][<a href="http://proceedings.mlr.press/v121/zhang20c/zhang20c.pdf" target="_blank" onclick="ga('send', 'event', 'PDF Downloads', 'Download', http://proceedings.mlr.press/v121/zhang20c/zhang20c.pdf, 10);">Download PDF</a>]</p>
+</div>
+<div class="paper">
+  <p class="title">Direct estimation of fetal head circumference from ultrasound images based on regression CNN</p>
+  <p class="details">
+    <span class="authors">Jing Zhang,&nbsp;Caroline Petitjean,&nbsp;Pierre Lopez,&nbsp;Samia Ainouz</span>;
+    <span class="info">PMLR 121:914-922</span>
+  </p>
+  <p class="links">
+    [<a href="http://proceedings.mlr.press/v121/zhang20a.html">abs</a>][<a href="http://proceedings.mlr.press/v121/zhang20a/zhang20a.pdf" target="_blank" onclick="ga('send', 'event', 'PDF Downloads', 'Download', http://proceedings.mlr.press/v121/zhang20a/zhang20a.pdf, 10);">Download PDF</a>]</p>
+</div>
+<div class="paper">
+  <p class="title">Accurate Detection of Out of Body Segments in Surgical Video using Semi-Supervised Learning</p>
+  <p class="details">
+    <span class="authors">Maya Zohar,&nbsp;Omri Bar,&nbsp;Daniel Neimark,&nbsp;Gregory D. Hager,&nbsp;Dotan Asselmann</span>;
+    <span class="info">PMLR 121:923-936</span>
+  </p>
+  <p class="links">
+    [<a href="http://proceedings.mlr.press/v121/zohar20a.html">abs</a>][<a href="http://proceedings.mlr.press/v121/zohar20a/zohar20a.pdf" target="_blank" onclick="ga('send', 'event', 'PDF Downloads', 'Download', http://proceedings.mlr.press/v121/zohar20a/zohar20a.pdf, 10);">Download PDF</a>]</p>
+</div>
+
+
+<p class="rss-subscribe">subscribe <a href="/v121/assets/rss/feed.xml">via RSS</a></p>
+
+<!-- Search Widget -->
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="http://proceedings.mlr.press/v121/assets/js/search.js"></script>
+
+
+
+
+
+
+      </div>
+    </main>
+
+
+<footer class="site-footer">
+  <div class="wrapper">
+    <p>This site last compiled Mon, 21 Sep 2020 15:53:21 +0000</p>
+      <div class="footer-left"><i><a href="https://github.com/mlresearch/v121">Github Account</a></i>
+      </div>
+      <div class="footer-right">Copyright &copy; <a href="http://proceedings.mlr.press">The authors and PMLR</a> 2020.<a href="https://twitter.com/MLResearchPress"><i class="icon-twitter"></i>&nbsp;MLResearchPress</a></div>
+  </div>
+</footer>
+
+
+
+
+
+</body>
+
+</html>
