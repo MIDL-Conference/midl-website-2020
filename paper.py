@@ -76,8 +76,8 @@ class Paper():
         openreview=\'{f'https://openreview.net/forum?id={self.or_id}'}\',
         pdf=\'{self.pdf_url}\',
         id='{self.conf_id}',
-        url='{self.url}',
-        paper='{self.pmlr_url}',
+        paper='{self.url}',
+        proceedings='{self.pmlr_url}',
         teaser=\'{f'https://youtu.be/{self.yt_teaser}' if self.yt_teaser else ""}\',
         video=\'{f'https://youtu.be/{self.yt_full}' if self.yt_full else ""}\',
         abstract={sanitized_abstract})
