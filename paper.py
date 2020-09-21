@@ -25,6 +25,13 @@ class Paper():
         self.pmlr_url: str = pmlr_url
         assert not (self.short and self.pmlr_url)
 
+        self.pdf_url: str
+        if self.short:
+            self.pdf_url = f'https://openreview.net/pdf?id={self.or_id}'
+        else:
+            pmlr_id: str = self.pmlr_url.split('/')[-1].replace(".html", "")
+            self.pdf_url = f"http://proceedings.mlr.press/v121/{pmlr_id}/{pmlr_id}.pdf"
+
         self.schedule: List[str]
         if not schedule:
             self.schedule = []
@@ -67,7 +74,7 @@ class Paper():
         return f'''{{{{ paper(\'{self.title}\',
         \'{f'{", ".join(self.authors)}'}\',
         openreview=\'{f'https://openreview.net/forum?id={self.or_id}'}\',
-        pdf=\'{f'https://openreview.net/pdf?id={self.or_id}'}\',
+        pdf=\'{self.pdf_url}\',
         id='{self.conf_id}',
         url='{self.url}',
         paper='{self.pmlr_url}',
