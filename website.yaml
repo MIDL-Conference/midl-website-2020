@@ -13,8 +13,8 @@ github: "MIDL-Conference"
 
 summary: "The Medical Imaging with Deep Learning conference was held from 6 to 9 July 2020"
 
-show_twitter_button: yes
-show_twitter_feed: yes
+show_twitter_button: no
+show_twitter_feed: no
 num_tweets_in_feed: 1
 show_platform_icons: yes
 
