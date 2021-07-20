@@ -14,9 +14,9 @@ page_class: "sponsors"
 </p>
 -->
 
-{{ youtube('fCjtNyUkji0') }}
+{{ youtube('wNJQScMgpsI') }}
 
-The replays for [Day 1](https://youtu.be/wNJQScMgpsI) and [Day 2](https://youtu.be/qWTgWgurlR0) are also available.
+The recordings of [Day 2](https://youtu.be/qWTgWgurlR0) and [Day 3](https://youtu.be/fCjtNyUkji0) are also available.
 
 <p class="centered">
     <a href="https://arxiv.org/html/2007.02319" class="button">Short papers compendium</a>
