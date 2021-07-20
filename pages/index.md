@@ -16,19 +16,11 @@ page_class: "sponsors"
 
 {{ youtube('fCjtNyUkji0') }}
 
-**The replays for [Day 1](https://youtu.be/wNJQScMgpsI) and [Day 2](https://youtu.be/qWTgWgurlR0) are also available.**
+The replays for [Day 1](https://youtu.be/wNJQScMgpsI) and [Day 2](https://youtu.be/qWTgWgurlR0) are also available.
 
 <p class="centered">
     <a href="https://arxiv.org/html/2007.02319" class="button">Short papers compendium</a>
     <a href="http://proceedings.mlr.press/v121/" class="button">Full papers proceedings</a>
-</p>
-
----
-
-<p class="centered">
-    <a href="/scientific-program.html" class="button">Scientific program</a>
-    <a href="/dates.html" class="button">Program at a glance</a>
-    <a href="papers/demo20.html" class="button">Example paper</a>
 </p>
 
 ---
