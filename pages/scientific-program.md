@@ -7,13 +7,13 @@ page_class: "program"
 
 # Scientific program
 
+The conference main schedule will run in Montréal time ([ET = UTC-4](https://www.timeanddate.com/time/map/)).
+Find a short program overview in the [program at a glance](/dates.html), and subscribe to our [online calendar](/midl.ics).
+
 <p class="centered">
     <a href="https://arxiv.org/html/2007.02319" class="button">Short papers compendium</a>
     <a href="http://proceedings.mlr.press/v121/" class="button">Full papers proceedings</a>
 </p>
-
-The conference main schedule will run in Montréal time ([ET = UTC-4](https://www.timeanddate.com/time/map/)).
-Find a short program overview in the [program at a glance](/dates.html), and subscribe to our [online calendar](/midl.ics).
 
 ---
 
