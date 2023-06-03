@@ -21,6 +21,7 @@ The recordings of [Day 2](https://youtu.be/qWTgWgurlR0) and [Day 3](https://yout
 <p class="centered">
     <a href="https://arxiv.org/html/2007.02319" class="button">Short papers compendium</a>
     <a href="http://proceedings.mlr.press/v121/" class="button">Full papers proceedings</a>
+    <a href="https://www.melba-journal.org/issues/midl20.html" class="button">Melba special issue</a>
 </p>
 
 ---
